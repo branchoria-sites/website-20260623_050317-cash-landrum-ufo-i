@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-23T03:58:32.957277Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1430,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 6.78,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622",
+        "title": "The Object",
+        "permalink": "/the-object/",
+        "inline_inbound_count": 129
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "title": "Vickie Landrum",
+        "permalink": "/vickie-landrum/",
+        "inline_inbound_count": 118
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e",
+        "title": "Betty Cash",
+        "permalink": "/betty-cash/",
+        "inline_inbound_count": 115
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9",
+        "title": "Aircraft",
+        "permalink": "/aircraft/",
+        "inline_inbound_count": 87
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "title": "Bergstrom",
+        "permalink": "/bergstrom/",
+        "inline_inbound_count": 56
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289",
+        "title": "Radiation",
+        "permalink": "/radiation/",
+        "inline_inbound_count": 47
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "title": "Debate",
+        "permalink": "/debate/",
+        "inline_inbound_count": 44
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86",
+        "title": "Hair Loss",
+        "permalink": "/hair-loss/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d",
+        "title": "Liability",
+        "permalink": "/liability/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45",
+        "title": "What Really Happened Near Dayton?",
+        "permalink": "/cash-landrum-ufo-incident/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460",
+        "title": "Location",
+        "permalink": "/location/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_sarran_credible_witn_c2ab9e",
+        "title": "Sarran",
+        "permalink": "/sarran/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_bergstrom_interview_f61bf9",
+        "title": "Bergstrom",
+        "permalink": "/bergstrom-3cf9b0/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04",
+        "title": "Flames",
+        "permalink": "/flames/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "title": "Media",
+        "permalink": "/media/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3",
+        "title": "Radiation Claim",
+        "permalink": "/radiation-claim/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02",
+        "title": "Colby",
+        "permalink": "/colby/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9",
+        "title": "Paper Trail",
+        "permalink": "/paper-trail/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_chinook_type_identif_8cf7cc",
+        "title": "Chinook Type",
+        "permalink": "/chinook-type/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9",
+        "title": "Case File",
+        "permalink": "/case-file/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_flight_records_proof_fa71d0",
+        "title": "Flight Records",
+        "permalink": "/flight-records/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_landrum_lawsuit_019de2",
+        "title": "Lawsuit",
+        "permalink": "/lawsuit-22aaf1/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_helicopter_aircraft_f33acc",
+        "title": "The Helicopter Reports",
+        "permalink": "/the-helicopter-reports/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_missing_helicopter_f_87ebcd",
+        "title": "Flight Logs",
+        "permalink": "/flight-logs/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0",
+        "title": "Timeline",
+        "permalink": "/timeline/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e",
+        "title": "Denial",
+        "permalink": "/denial/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_scope_helicop_82fad2",
+        "title": "Scope",
+        "permalink": "/scope/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd",
+        "title": "Helicopters",
+        "permalink": "/helicopters/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625",
+        "title": "Dashboard",
+        "permalink": "/dashboard/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_diamond_shape_bright_048eed",
+        "title": "Diamond Shape",
+        "permalink": "/diamond-shape/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_fm1485_location_disp_5cdb3b",
+        "title": "FM 1485",
+        "permalink": "/fm-1485/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_medical_summaries_mi_46b4a9",
+        "title": "Medical Gaps",
+        "permalink": "/medical-gaps/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_walker_helicopter_si_ac910f",
+        "title": "Walkers",
+        "permalink": "/walkers/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_honest_misperception_096dc3",
+        "title": "Misperception",
+        "permalink": "/misperception/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97",
+        "title": "Claims Process",
+        "permalink": "/claims-process/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_blue_lights_memory_15c5e6",
+        "title": "Blue Lights",
+        "permalink": "/blue-lights/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_beer_joint_warning_s_e504e0",
+        "title": "Landmarks",
+        "permalink": "/landmarks/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9",
+        "title": "Hypnosis",
+        "permalink": "/hypnosis/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_government_control_h_d38197",
+        "title": "Control Test",
+        "permalink": "/control-test/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_unsolved_mysteries_i_ad594e",
+        "title": "TV Injury Frame",
+        "permalink": "/tv-injury-frame/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_story_change_778309",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_story_change_778309",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_gersten_secret_proje_caac22",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_government_control_h_d38197",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_helicopter_records_g_205756",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_lawsuit_archive_trai_8f2952",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sarran_army_inquiry_cd024b",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sterling_dismissal_s_cc8546",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_story_change_778309",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_bergstrom_claimants_cb235a",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_blue_book_authority_0ccecf",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_helicopter_markings_bb1450",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_medical_bills_record_b6b200",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_senator_letter_trail_1ae17a",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_texas_map_problem_d5467c",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_story_change_778309",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_conroe_courier_first_f52e45",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_helicopters_military_9b403e",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_mcdonald_corroborati_50a2e6",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_tabloid_ufo_attack_s_3db3f2",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_unsolved_mysteries_i_ad594e",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_story_change_778309",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_alternative_helicopt_e186ff",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_blue_book_closure_ga_628505",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_scope_helicop_82fad2",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_witness_credi_248dc4",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_walker_helicopter_si_ac910f",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd",
+        "type": "sibling"
+      }
+    ]
+  }
+}

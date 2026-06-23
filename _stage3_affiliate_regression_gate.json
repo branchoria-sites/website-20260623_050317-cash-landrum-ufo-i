@@ -1,0 +1,2676 @@
+{
+  "generated_at": "2026-06-23T04:58:35",
+  "passed": true,
+  "baseline": {
+    "article_pages": 200,
+    "amazon_specific_pages": 169,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 167,
+    "ebay_fallback_pages": 2,
+    "pages": {
+      "cash_landrum_ufo_inc_db9d45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_alternative_helicopt_e186ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_blue_book_closure_ga_628505": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_scope_helicop_82fad2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_witness_credi_248dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_walker_helicopter_si_ac910f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_bergstrom_interview_f61bf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_brad_sparks_insider_ec9d87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_diamond_shape_bright_048eed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_honest_misperception_096dc3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_missing_physical_tra_349c79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_stalled_car_claim_18539c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_bergstrom_claimants_cb235a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_blue_book_authority_0ccecf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_helicopter_markings_bb1450": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_medical_bills_record_b6b200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_senator_letter_trail_1ae17a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_texas_map_problem_d5467c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_cash_symptom_timelin_1ea25a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_heat_chemical_exposu_f4cbd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_medical_causation_le_667161": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_peter_rank_review_d5a4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_civilian_helicopter_100398": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_sarran_records_gap_9e9852": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_23_helicopters_53da57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_influenc_288d8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_retellin_9a62af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_bergstrom_word_8e7fac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_helicopter_fea_c8041a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_illness_memory_3befa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_injuries_radiat_d2106b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_landrum_lawsuit_019de2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_credible_witnesses_n_dbf4c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_helicopter_count_pro_e9b5fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_nasa_uap_data_standa_5021d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_sarran_inquiry_limit_45ef35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_beer_joint_warning_s_e504e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_bergstrom_map_failur_cc8c8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_browned_pine_trees_31c870": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_fm1485_dayton_label_cd755b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_inland_road_candidat_b0536d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_road_marks_missing_p_96cc6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_bingo_truck_stop_tim_4a6ae4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_dayton_after_drive_3b88ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_fm1485_location_disp_5cdb3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_mcdonald_timing_mism_aec97d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_nine_pm_time_window_29a8fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_timeline_record_gap_ea5da2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_downward_flame_clue_c54a8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_glare_shape_percepti_23ca5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_helicopter_escort_pr_2ef9e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_project_pluto_mismat_0cfd34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_secret_craft_vtol_ff5888": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_size_distance_uncert_f1e2d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_ftca_hurdles_cash_la_c46153": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_lawsuit_dismissal_re_898fa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_proof_needed_federal_e7e666": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_sarran_credible_witn_c2ab9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_scalp_pattern_6c703a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_hair_loss_photo_pitf_a2fc09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_landrum_hair_regrowt_c6d19a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_engine_radio_claims_9de7e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_lens_cover_test_trai_be880e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_oldsmobile_preservat_ee1cbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_schuessler_car_inspe_bb7cbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_scorched_road_claim_2c4a06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_bergstrom_helicopter_cb0e24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_chinook_identificati_abb24f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_helicopter_count_sca_2a312e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_missing_flight_recor_6747e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_walker_helicopter_re_54be64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_dia_physiological_ef_9ed47a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_helicopter_burden_pr_422021": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_missing_exposure_sit_d4eea7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_radiation_symptom_tr_2bf212": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_ufo_injury_compariso_81c51b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_chinook_type_identif_8cf7cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_helicopter_count_dis_c9284f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_sarran_credibility_l_f9ddde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_route_timing_3ce6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_gersten_secret_proje_caac22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_government_control_h_d38197": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_helicopter_records_g_205756": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_lawsuit_archive_trai_8f2952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sarran_army_inquiry_cd024b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sterling_dismissal_s_cc8546": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_army_inquiry_no_heli_bc3561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_court_not_identify_u_3827b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_discretionary_functi_7c1ecd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_ftca_threshold_9d6230": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_helicopter_governmen_ec81c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_conroe_courier_first_f52e45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_helicopters_military_9b403e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_mcdonald_corroborati_50a2e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_tabloid_ufo_attack_s_3db3f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_unsolved_mysteries_i_ad594e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_bergstrom_claims_int_299c0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_blue_book_closure_ga_628505": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_houston_radar_gap_f8779a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_location_uncertainty_5fc1a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_missing_helicopter_f_87ebcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_sarran_army_inquiry_96922f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_medical_summaries_mi_46b4a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_project_visit_engine_f8a369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_schuessler_mufon_cas_538a46": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_ufo_group_record_dis_b2b770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_missing_blood_counts_70458d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_mixed_field_framing_cd0ab7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_nonionising_exposure_c05bf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_roadside_radiation_s_3dedca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_vomiting_timing_37f5f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_helicopters_governme_e34ad9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_injury_claims_bfb688": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_jesus_comment_c51e99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_stop_car_colb_a40938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_early_reports_vs_lat_0c69d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_later_added_lights_m_59f104": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_memory_conformity_wi_96df48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_repeated_interviews_e4460b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_source_monitoring_di_38d1f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_visit_report_shape_c_50df5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 211,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "cash_landrum_ufo_inc_db9d45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_alternative_helicopt_e186ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_blue_book_closure_ga_628505": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_scope_helicop_82fad2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_witness_credi_248dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_walker_helicopter_si_ac910f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_bergstrom_interview_f61bf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_brad_sparks_insider_ec9d87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_diamond_shape_bright_048eed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_honest_misperception_096dc3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_missing_physical_tra_349c79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_stalled_car_claim_18539c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_bergstrom_claimants_cb235a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_blue_book_authority_0ccecf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_helicopter_markings_bb1450": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_medical_bills_record_b6b200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_senator_letter_trail_1ae17a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_texas_map_problem_d5467c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_cash_symptom_timelin_1ea25a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_heat_chemical_exposu_f4cbd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_medical_causation_le_667161": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_peter_rank_review_d5a4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_civilian_ufo_files_c96c95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_early_reporting_dela_aa9d4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_fingernail_damage_le_dd59a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_landrum_medical_trai_21b430": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_parkway_hospital_rec_b48316": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_civilian_helicopter_100398": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_sarran_records_gap_9e9852": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_23_helicopters_53da57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_influenc_288d8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_retellin_9a62af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_bergstrom_word_8e7fac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_helicopter_fea_c8041a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_illness_memory_3befa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_injuries_radiat_d2106b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_landrum_lawsuit_019de2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_credible_witnesses_n_dbf4c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_helicopter_count_pro_e9b5fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_nasa_uap_data_standa_5021d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_sarran_inquiry_limit_45ef35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_beer_joint_warning_s_e504e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_bergstrom_map_failur_cc8c8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_browned_pine_trees_31c870": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_fm1485_dayton_label_cd755b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_inland_road_candidat_b0536d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_road_marks_missing_p_96cc6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_bingo_truck_stop_tim_4a6ae4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_dayton_after_drive_3b88ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_fm1485_location_disp_5cdb3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_mcdonald_timing_mism_aec97d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_nine_pm_time_window_29a8fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_timeline_record_gap_ea5da2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_downward_flame_clue_c54a8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_glare_shape_percepti_23ca5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_helicopter_escort_pr_2ef9e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_project_pluto_mismat_0cfd34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_secret_craft_vtol_ff5888": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_size_distance_uncert_f1e2d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_ftca_hurdles_cash_la_c46153": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_lawsuit_dismissal_re_898fa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_proof_needed_federal_e7e666": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_sarran_credible_witn_c2ab9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_car_heat_exhaust_que_964346": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_flame_bursts_lift_cl_a20c3e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_sound_reports_exhaus_aeb365": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_witness_words_rocket_00c9c8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_agency_ownership_tes_a10743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_flight_records_proof_fa71d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_official_attention_g_d268a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_senator_referral_cla_20aab8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_scalp_pattern_6c703a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_hair_loss_photo_pitf_a2fc09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_landrum_hair_regrowt_c6d19a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_engine_radio_claims_9de7e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_lens_cover_test_trai_be880e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_oldsmobile_preservat_ee1cbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_schuessler_car_inspe_bb7cbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_scorched_road_claim_2c4a06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_bergstrom_helicopter_cb0e24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_chinook_identificati_abb24f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_helicopter_count_sca_2a312e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_missing_flight_recor_6747e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_walker_helicopter_re_54be64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_aircraft_theory_brea_1b34c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_airport_first_aircra_1dac1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_air_traffic_control_f52ead": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_helicopter_aircraft_f33acc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_landing_lights_close_9e076e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_night_driving_light_75bf94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_blue_lights_memory_15c5e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_fuel_smell_theory_ed7597": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_hypnosis_memory_scie_c2da5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_july_1981_hypnosis_3a924a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_televised_hypnosis_79a6c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_dia_physiological_ef_9ed47a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_helicopter_burden_pr_422021": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_missing_exposure_sit_d4eea7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_radiation_symptom_tr_2bf212": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_ufo_injury_compariso_81c51b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_chinook_type_identif_8cf7cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_helicopter_count_dis_c9284f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_sarran_credibility_l_f9ddde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_route_timing_3ce6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_gersten_secret_proje_caac22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_government_control_h_d38197": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_helicopter_records_g_205756": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_lawsuit_archive_trai_8f2952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sarran_army_inquiry_cd024b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sterling_dismissal_s_cc8546": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_army_inquiry_no_heli_bc3561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_court_not_identify_u_3827b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_discretionary_functi_7c1ecd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_ftca_threshold_9d6230": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_helicopter_governmen_ec81c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_conroe_courier_first_f52e45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_helicopters_military_9b403e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_mcdonald_corroborati_50a2e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_tabloid_ufo_attack_s_3db3f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_unsolved_mysteries_i_ad594e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_bergstrom_claims_int_299c0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_blue_book_closure_ga_628505": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_houston_radar_gap_f8779a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_location_uncertainty_5fc1a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_missing_helicopter_f_87ebcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_sarran_army_inquiry_96922f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_medical_summaries_mi_46b4a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_project_visit_engine_f8a369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_schuessler_mufon_cas_538a46": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_ufo_group_record_dis_b2b770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_army_denial_scope_6d03d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_credibility_vs_denia_645d17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_coverup_myth_9b3136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_legal_shield_5aa27b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_unanswered_my_4baf97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_missing_flight_recor_6747e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_missing_blood_counts_70458d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_mixed_field_framing_cd0ab7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_nonionising_exposure_c05bf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_roadside_radiation_s_3dedca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_vomiting_timing_37f5f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_helicopters_governme_e34ad9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_injury_claims_bfb688": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_jesus_comment_c51e99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_stop_car_colb_a40938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_early_reports_vs_lat_0c69d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_later_added_lights_m_59f104": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_memory_conformity_wi_96df48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_repeated_interviews_e4460b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_source_monitoring_di_38d1f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cash_landrum_ufo_inc_db9d45_witness_story_change_778309_visit_report_shape_c_50df5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 200,
+  "regressions": []
+}
