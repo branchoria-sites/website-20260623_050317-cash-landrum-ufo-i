@@ -274,7 +274,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_pr
 
 ## Introduction
 
-The March 1981 [Project VISIT]({{ 'project-visit/' | relative_url }}) report was the document that transformed the Cash–Landrum incident from a local witness story into a structured [case file]({{ 'case-file/' | relative_url }}). Within roughly two months of the alleged encounter, NASA engineer and civilian UFO investigator John F. Schuessler, working through Project VISIT and associated MUFON investigators, assembled a 35-page report that gathered interviews, timelines, location observations, medical complaints, sketches and early interpretations into a single narrative. That report became the foundation for nearly every later retelling of the case. Many details that readers now associate automatically with Cash–Landrum entered the public record through this document rather than through independent contemporary reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
+The March 1981 [Project VISIT]({{ 'project-visit/' | relative_url }}) report was the document that transformed the Cash–Landrum incident from a local witness story into a structured [case file]({{ 'case-file/' | relative_url }}). Within roughly two months of the alleged encounter, NASA engineer and civilian UFO investigator John F. Schuessler, working through Project VISIT and associated MUFON investigators, assembled a 35-page report that gathered interviews, timelines, location observations, medical complaints, sketches and early interpretations into a single narrative. That report became the foundation for nearly every later retelling of the case. Many details that readers now associate automatically with Cash–Landrum entered the public record through this document rather than through independent contemporary reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-1-dark.svg" | relative_url }}" alt="VISIT Report illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,11 +282,11 @@ For understanding the Cash–Landrum case file as an evidence map, the Project V
 
 ## What the March 1981 report collected
 
-The Project VISIT report, dated 4 March 1981, was prepared after Schuessler and fellow investigators interviewed the witnesses and examined the reported sighting area. It was one of the earliest substantial compilations of information about the incident and was distributed through UFO research networks as a formal case study. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
+The Project VISIT report, dated 4 March 1981, was prepared after Schuessler and fellow investigators interviewed the witnesses and examined the reported sighting area. It was one of the earliest substantial compilations of information about the incident and was distributed through UFO research networks as a formal case study.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
 
 Its significance lies less in any single finding than in the way it assembled disparate elements into a coherent package. The report brought together:
 
-* Detailed witness statements from Betty Cash and Vickie Landrum.(#endnote-1 "Endnote 1") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+* Detailed witness statements from Betty Cash and Vickie Landrum.(#endnote-1 "Endnote 1")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 * Descriptions of [Colby]({{ 'colby/' | relative_url }}) Landrum's reactions and recollections.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -295,7 +295,7 @@ Its significance lies less in any single finding than in the way it assembled di
 * Descriptions of the alleged object's appearance and behaviour.
 * Early accounts of helicopter involvement.
 * Medical complaints reported in the weeks after the encounter.
-* Site observations and sketches intended to visualise the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
+* Site observations and sketches intended to visualise the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
 
 </div>
 
@@ -308,15 +308,15 @@ In practical terms, the report functioned as a dataset. Later investigators ofte
 
 ## Where Schuessler's viewpoint enters the file
 
-The Project VISIT report was not a neutral archive assembled by an outside agency. It was created by an investigator who believed the case deserved serious attention and who would remain closely associated with it for decades. Schuessler later expanded the material into articles, conference presentations and eventually a full-length book devoted to the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">SchuesslerTitle, The Cash-Landrum UFO Incident; Author, John F. Schuessler; Contributor, Bob Pratt; Publisher, Geo Graphics Print. Com...</span></span></span>
+The Project VISIT report was not a neutral archive assembled by an outside agency. It was created by an investigator who believed the case deserved serious attention and who would remain closely associated with it for decades. Schuessler later expanded the material into articles, conference presentations and eventually a full-length book devoted to the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">SchuesslerTitle, The Cash-Landrum UFO Incident; Author, John F. Schuessler; Contributor, Bob Pratt; Publisher, Geo Graphics Print. Com...</span></span></span>
 
 His influence appears in several ways.
 
-First, the report treats the witnesses as fundamentally credible. Rather than beginning from a sceptical assumption, it starts from the premise that something unusual occurred and that the witnesses were attempting to describe it accurately. This orientation shaped which details received emphasis and which questions were pursued. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
+First, the report treats the witnesses as fundamentally credible. Rather than beginning from a sceptical assumption, it starts from the premise that something unusual occurred and that the witnesses were attempting to describe it accurately. This orientation shaped which details received emphasis and which questions were pursued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
 
-Second, the report links the sighting narrative and the medical narrative into a single story. Instead of treating the reported illnesses as a separate issue requiring independent proof, the document presents them as part of the unfolding incident. That connection became one of the defining features of the case's later reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Second, the report links the sighting narrative and the medical narrative into a single story. Instead of treating the reported illnesses as a separate issue requiring independent proof, the document presents them as part of the unfolding incident. That connection became one of the defining features of the case's later reputation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Third, the report helped establish visual imagery that endured. Illustrations and reconstructions associated with the early investigation contributed to the familiar picture of a large diamond-shaped craft emitting [flames]({{ 'flames/' | relative_url }}) while helicopters surrounded it. Later publications repeatedly reused or adapted these representations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Cash-Landrum UFO illustration by Kathy Schuessler.jpg3 Jul 2023 — English: Detail from the illustration used for th...</span></span></span>
+Third, the report helped establish visual imagery that endured. Illustrations and reconstructions associated with the early investigation contributed to the familiar picture of a large diamond-shaped craft emitting [flames]({{ 'flames/' | relative_url }}) while helicopters surrounded it. Later publications repeatedly reused or adapted these representations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Cash-Landrum UFO illustration by Kathy Schuessler.jpg3 Jul 2023 — English: Detail from the illustration used for th...</span></span></span>
 
 None of this necessarily means the report was inaccurate. It does mean that the first comprehensive narrative was assembled through the judgement of a committed civilian investigator rather than through a government inquiry or independent scientific review.
 
@@ -328,224 +328,224 @@ Several elements now regarded as core features of the Cash–Landrum story becam
 
 ### The diamond-shaped craft
 
-The image of a large diamond-shaped object is now inseparable from the case. Yet later critics noted that some of the earliest witness descriptions expressed uncertainty about [the object]({{ 'the-object/' | relative_url }})'s exact shape because of the brightness of the lights. As the narrative matured, the diamond form became increasingly fixed and visually prominent. The Project VISIT file was one of the earliest vehicles through which that image spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The image of a large diamond-shaped object is now inseparable from the case. Yet later critics noted that some of the earliest witness descriptions expressed uncertainty about [the object]({{ 'the-object/' | relative_url }})'s exact shape because of the brightness of the lights. As the narrative matured, the diamond form became increasingly fixed and visually prominent. The Project VISIT file was one of the earliest vehicles through which that image spread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 ### The helicopter escort
 
-The claim that numerous military-style helicopters accompanied the object became another defining feature. The report recorded witness estimates and descriptions that later investigators, journalists and television programmes repeated extensively. Subsequent military searches failed to identify a matching operation, but the helicopter component remained central because it was embedded in the earliest formal narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The claim that numerous military-style helicopters accompanied the object became another defining feature. The report recorded witness estimates and descriptions that later investigators, journalists and television programmes repeated extensively. Subsequent military searches failed to identify a matching operation, but the helicopter component remained central because it was embedded in the earliest formal narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ### The injury narrative
 
-The report also helped establish the case as an apparent physical-effects incident rather than a conventional UFO sighting. Reported burns, eye irritation, weakness, nausea, [hair loss]({{ 'hair-loss/' | relative_url }}) and hospitalisation became part of the case's public identity very early. Later debates focused heavily on whether these symptoms were caused by radiation, chemicals, unrelated illness or other factors, but the association between the sighting and the medical claims was already firmly anchored in the March 1981 file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The report also helped establish the case as an apparent physical-effects incident rather than a conventional UFO sighting. Reported burns, eye irritation, weakness, nausea, [hair loss]({{ 'hair-loss/' | relative_url }}) and hospitalisation became part of the case's public identity very early. Later debates focused heavily on whether these symptoms were caused by radiation, chemicals, unrelated illness or other factors, but the association between the sighting and the medical claims was already firmly anchored in the March 1981 file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6cuPqf1j0U" title="The Connection Between UAP And Nuclear Sites Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer">The Connection Between UAP And Nuclear Sites Explained</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 7.7K &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6cuPqf1j0U">Open on YouTube</a></p></div></div></div>
 
 ### Government involvement
 
-Although the report did not prove military responsibility, its presentation of helicopter sightings encouraged later assumptions that some government agency must have been connected to the event. This framing helped shape the legal strategy pursued later by the witnesses, who sought compensation from the federal government. The lawsuit ultimately failed because investigators and courts could not establish government ownership or operation of the alleged aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Although the report did not prove military responsibility, its presentation of helicopter sightings encouraged later assumptions that some government agency must have been connected to the event. This framing helped shape the legal strategy pursued later by the witnesses, who sought compensation from the federal government. The lawsuit ultimately failed because investigators and courts could not establish government ownership or operation of the alleged aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 ## Why the report became the backbone of the case file
 
-Many UFO reports disappear because they never acquire a durable documentary record. The Cash–Landrum incident followed a different path. The Project VISIT report appeared quickly, was relatively detailed, and circulated through established UFO research networks. As a result, later investigators did not begin with scattered memories or newspaper snippets; they began with a structured case file already organised around specific claims and interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
+Many UFO reports disappear because they never acquire a durable documentary record. The Cash–Landrum incident followed a different path. The Project VISIT report appeared quickly, was relatively detailed, and circulated through established UFO research networks. As a result, later investigators did not begin with scattered memories or newspaper snippets; they began with a structured case file already organised around specific claims and interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
 
-This early consolidation gave the case unusual staying power. Medical records, military correspondence, legal filings and later witness interviews were all added to a framework that already existed. The March 1981 report therefore occupies a unique position within the evidence map: it is both a source document and the blueprint that shaped how nearly all later evidence would be interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
+This early consolidation gave the case unusual staying power. Medical records, military correspondence, legal filings and later witness interviews were all added to a framework that already existed. The March 1981 report therefore occupies a unique position within the evidence map: it is both a source document and the blueprint that shaped how nearly all later evidence would be interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-3-dark.svg" | relative_url }}" alt="VISIT Report illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the First Report Shaped the Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the First Report Shaped the Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how early reports shape later case narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how early reports shape later case narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how reports and testimony become part of the public record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reports and testimony become part of the public record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how narratives and interpretations evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how narratives and interpretations evolve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Documents influential cases and their reporting history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents influential cases and their reporting history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="visit-report-how-the-first-report-shaped-the-case-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ This early consolidation gave the case unusual staying power. Medical records, m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ This early consolidation gave the case unusual staying power. Medical records, m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ This early consolidation gave the case unusual staying power. Medical records, m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ This early consolidation gave the case unusual staying power. Medical records, m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ This early consolidation gave the case unusual staying power. Medical records, m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,95 +751,95 @@ This early consolidation gave the case unusual staying power. Medical records, m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: books.google.com  
    Title: Books The [Cash-Landrum UFO Incident](&#123;&#123; 'cash-landrum-ufo-incident/' | relative_url &#125;&#125;)  
-   Link: <a href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SchuesslerTitle, The Cash-Landrum UFO Incident; Author, John F. Schuessler; Contributor, Bob Pratt; Publisher, Geo Graphics Print. Com...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SchuesslerTitle, The Cash-Landrum UFO Incident; Author, John F. Schuessler; Contributor, Bob Pratt; Publisher, Geo Graphics Print. Com...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Cash-Landrum UFO illustration by Kathy Schuessler.jpg3 Jul 2023 — English: Detail from the illustration used for th...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Cash-Landrum UFO illustration by Kathy Schuessler.jpg3 Jul 2023 — English: Detail from the illustration used for th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident  
-   Link: <a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Men in Black and Black Helicopters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Men in Black and Black Helicopters...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Index to the Cash-Landrum Original Case Report. (All by John F. Schuessler...Read more...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/june_5.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/june_5.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pneumocystis Pneumonia --- Los AngelesA previously healthy 33-year-old man developed P. carinii pneumonia and oral mucosal candidiasis in...</p></details>
+   Link:<a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/june_5.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/june_5.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pneumocystis Pneumonia --- Los AngelesA previously healthy 33-year-old man developed P. carinii pneumonia and oral mucosal candidiasis in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: circulatingnow.nlm.nih.gov  
    Title: june 5 1981 the first report of aids in the u s  
-   Link: <a href="https://circulatingnow.nlm.nih.gov/2021/06/04/june-5-1981-the-first-report-of-aids-in-the-u-s/" target="_blank" rel="noopener noreferrer nofollow">https://circulatingnow.nlm.nih.gov/2021/06/04/june-5-1981-the-first-report-of-aids-in-the-u-s/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 1981—The First Report of AIDS in the U.S.4 Jun 2021 — In the June 5, 1981 edition of the Morbidity and Mortality Weekly Report (MMWR)...</p></details>
+   Link:<a href="https://circulatingnow.nlm.nih.gov/2021/06/04/june-5-1981-the-first-report-of-aids-in-the-u-s/" target="_blank" rel="noopener noreferrer nofollow">https://circulatingnow.nlm.nih.gov/2021/06/04/june-5-1981-the-first-report-of-aids-in-the-u-s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5, 1981—The First Report of AIDS in the U.S.4 Jun 2021 — In the June 5, 1981 edition of the Morbidity and Mortality Weekly Report (MMWR)...</p></details>
    Published: June 5, 1981  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: restoredcdc.org  
-   Link: <a href="https://restoredcdc.org/www.cdc.gov/mmwr/preview/mmwrhtml/lmrk077.htm" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/mmwr/preview/mmwrhtml/lmrk077.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pneumocystis Pneumonia -- Los AngelesThe June 4, 1981, report of five cases of Pneumocystis carinii pneumonia (PCP) in homosexual men in...</p></details>
+   Link:<a href="https://restoredcdc.org/www.cdc.gov/mmwr/preview/mmwrhtml/lmrk077.htm" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/mmwr/preview/mmwrhtml/lmrk077.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pneumocystis Pneumonia -- Los AngelesThe June 4, 1981, report of five cases of Pneumocystis carinii pneumonia (PCP) in homosexual men in...</p></details>
    Published: June 4, 1981  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>release of the original 1981 investigator&#x27;s report on the case...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>release of the original 1981 investigator&#x27;s report on the case...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>occurred on the evening of December 29, 1980...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>occurred on the evening of December 29, 1980...</p></details>
    Published: December 29, 1980  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.howstuffworks.com  
    Title: cash landrum ufo incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: podcasts.happyscribe.com  
    Title: alien the cash landrum incident  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, I&#x27;m covering the Cash Landrum incident. s up her friend, 57-year-old Vicky Landrum. it was a diamond-shaped...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today, I&#x27;m covering the Cash Landrum incident. s up her friend, 57-year-old Vicky Landrum. it was a diamond-shaped...</p></details>

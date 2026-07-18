@@ -280,7 +280,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_di
 
 ## Introduction
 
-One of the most revealing details in [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }})’s account is not the alleged object itself but how its description evolved. In later retellings of the Cash–Landrum incident, the craft became a clearly defined, upright diamond-shaped object with flames shooting from its underside. Yet some of the earliest documented statements from the witnesses were more uncertain. Betty Cash and Vickie Landrum initially emphasised an overwhelming light source whose brightness made observation difficult, while young Colby Landrum was the first witness specifically associated with the “big diamond” description. Over time, the [diamond shape]({{ 'diamond-shape/' | relative_url }}) became the dominant image of the case. This shift has become an important point in debates over witness memory, UFO investigation methods, and the reliability of later reconstructions of dramatic events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+One of the most revealing details in [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }})’s account is not the alleged object itself but how its description evolved. In later retellings of the Cash–Landrum incident, the craft became a clearly defined, upright diamond-shaped object with flames shooting from its underside. Yet some of the earliest documented statements from the witnesses were more uncertain. Betty Cash and Vickie Landrum initially emphasised an overwhelming light source whose brightness made observation difficult, while young Colby Landrum was the first witness specifically associated with the “big diamond” description. Over time, the [diamond shape]({{ 'diamond-shape/' | relative_url }}) became the dominant image of the case. This shift has become an important point in debates over witness memory, UFO investigation methods, and the reliability of later reconstructions of dramatic events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-1-dark.svg" | relative_url }}" alt="Shape Shift illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ One of the most revealing details in [Vickie Landrum]({{ 'vickie-landrum/' | rel
 
 The most widely known version of the Cash–Landrum story describes a large diamond-shaped craft hovering above a Texas road. However, the earliest surviving reports present a less certain picture.
 
-According to records discussed by later investigators, the first documented accounts collected roughly a month after the incident focused heavily on the object's brightness. [Betty Cash]({{ 'betty-cash/' | relative_url }}) reportedly stated that she could not get close enough and that the lights were too bright to determine its shape. Vickie Landrum similarly said she could not tell what shape it was. In those early statements, the only witness specifically asserting a diamond form was seven-year-old Colby Landrum, who “swore it looked like a big diamond.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+According to records discussed by later investigators, the first documented accounts collected roughly a month after the incident focused heavily on the object's brightness. [Betty Cash]({{ 'betty-cash/' | relative_url }}) reportedly stated that she could not get close enough and that the lights were too bright to determine its shape. Vickie Landrum similarly said she could not tell what shape it was. In those early statements, the only witness specifically asserting a diamond form was seven-year-old Colby Landrum, who “swore it looked like a big diamond.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This distinction matters because the modern image of the case often assumes that all three witnesses immediately and independently described the same geometric object. The surviving documentation suggests a more complicated sequence: first an intensely bright light, then later a more precise geometric interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This distinction matters because the modern image of the case often assumes that all three witnesses immediately and independently described the same geometric object. The surviving documentation suggests a more complicated sequence: first an intensely bright light, then later a more precise geometric interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The uncertainty is understandable. The witnesses consistently claimed the object emitted extreme light and bursts of flame. Under such conditions, distinguishing the outline of a distant object would be difficult. Even believers in the case have acknowledged that much of what was observed involved glare, fire, and motion rather than a clear, prolonged view of a solid craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The uncertainty is understandable. The witnesses consistently claimed the object emitted extreme light and bursts of flame. Under such conditions, distinguishing the outline of a distant object would be difficult. Even believers in the case have acknowledged that much of what was observed involved glare, fire, and motion rather than a clear, prolonged view of a solid craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xbljJzr_Sag" title="The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath</a></p><p class="youtube-embed-meta">Channel: Randomness Reloaded &middot; Views: 50 &middot; Uploaded: April 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xbljJzr_Sag">Open on YouTube</a></p></div></div></div>
@@ -301,17 +301,17 @@ The uncertainty is understandable. The witnesses consistently claimed the object
 
 A significant turning point came during the August 1981 interviews conducted at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base, about eight months after the encounter.
 
-During those interviews, investigators asked the witnesses to sketch what they had seen. Betty Cash drew a diamond-shaped object and identified it as a diamond. Vickie Landrum agreed with the drawing, added flames extending downward from the lower portion, and signed the sketch as well. The drawing subsequently became one of the most reproduced visual representations of the Cash–Landrum incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+During those interviews, investigators asked the witnesses to sketch what they had seen. Betty Cash drew a diamond-shaped object and identified it as a diamond. Vickie Landrum agreed with the drawing, added flames extending downward from the lower portion, and signed the sketch as well. The drawing subsequently became one of the most reproduced visual representations of the Cash–Landrum incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 By this stage, the description had become much more detailed than the earliest reports. The object was commonly characterised as:
 
-* A large upright diamond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</span></span></span>
+* A large upright diamond.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</span></span></span>
 * Metallic in appearance.
 * Roughly comparable in size to a local water tower.
 * Ringed by [blue lights]({{ 'blue-lights/' | relative_url }}) around its centre.
-* Emitting powerful flames from below. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+* Emitting powerful flames from below.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The Bergstrom sketch gave investigators and journalists something concrete to reproduce. Once the drawing existed, later books, television programmes, newspaper articles, and UFO databases could present a consistent visual image. The diamond shape therefore became not merely a description but the defining icon of the entire case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The Bergstrom sketch gave investigators and journalists something concrete to reproduce. Once the drawing existed, later books, television programmes, newspaper articles, and UFO databases could present a consistent visual image. The diamond shape therefore became not merely a description but the defining icon of the entire case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-2-dark.svg" | relative_url }}" alt="Shape Shift illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,11 +319,11 @@ The Bergstrom sketch gave investigators and journalists something concrete to re
 
 Several factors may help explain how the object's description became more specific over time.
 
-First, witness recollections often become more structured after [repeated interviews]({{ 'retelling-loop/' | relative_url }}). Investigators ask follow-up questions, request drawings, compare accounts, and encourage witnesses to clarify uncertainties. Psychologists have long noted that memory is reconstructive rather than a perfect recording of events. Details that were initially vague can later become organised into a more coherent narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
+First, witness recollections often become more structured after [repeated interviews]({{ 'retelling-loop/' | relative_url }}). Investigators ask follow-up questions, request drawings, compare accounts, and encourage witnesses to clarify uncertainties. Psychologists have long noted that memory is reconstructive rather than a perfect recording of events. Details that were initially vague can later become organised into a more coherent narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
 
-Second, the witnesses discussed the incident repeatedly with researchers, lawyers, journalists, television producers, and one another. As accounts are retold, descriptions frequently stabilise around details that seem most memorable or easiest to communicate. In the Cash–Landrum case, the diamond shape provided a simple and striking visual shorthand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
+Second, the witnesses discussed the incident repeatedly with researchers, lawyers, journalists, television producers, and one another. As accounts are retold, descriptions frequently stabilise around details that seem most memorable or easiest to communicate. In the Cash–Landrum case, the diamond shape provided a simple and striking visual shorthand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
 
-Third, the existence of a signed drawing reinforced a shared description. Once a sketch becomes part of a case file, later discussions tend to reference the sketch rather than the original uncertainty that preceded it. The drawing effectively fixed the object's appearance in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Third, the existence of a signed drawing reinforced a shared description. Once a sketch becomes part of a case file, later discussions tend to reference the sketch rather than the original uncertainty that preceded it. The drawing effectively fixed the object's appearance in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UJdhk3_DurE" title="Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer">Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UJdhk3_DurE">Open on YouTube</a></p></div></div></div>
@@ -332,197 +332,197 @@ Third, the existence of a signed drawing reinforced a shared description. Once a
 
 The transition from an indistinct bright light to a clearly defined diamond-shaped craft has become one of the most discussed evidential issues in the Cash–Landrum case.
 
-For supporters of the witnesses, the later diamond description represents a refinement rather than a contradiction. They argue that the witnesses gradually articulated details that were difficult to express immediately after a frightening event. From this perspective, the Bergstrom drawing captured what the witnesses had seen all along but had not yet fully described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+For supporters of the witnesses, the later diamond description represents a refinement rather than a contradiction. They argue that the witnesses gradually articulated details that were difficult to express immediately after a frightening event. From this perspective, the Bergstrom drawing captured what the witnesses had seen all along but had not yet fully described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Sceptical investigators interpret the same development differently. They point out that the earliest documented statements show substantial uncertainty about the object's shape. In their view, the increasing confidence surrounding the diamond form illustrates how narratives can become more precise as a case gains attention, even when the original observations were ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
+Sceptical investigators interpret the same development differently. They point out that the earliest documented statements show substantial uncertainty about the object's shape. In their view, the increasing confidence surrounding the diamond form illustrates how narratives can become more precise as a case gains attention, even when the original observations were ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
 
-The disagreement is significant because many later arguments about the incident depend on the object being a structured craft rather than an unusually bright aerial light or other phenomenon. A sharply defined diamond-shaped vehicle implies one set of explanations; an intense light source whose outline could not initially be determined leaves a much wider range of possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
+The disagreement is significant because many later arguments about the incident depend on the object being a structured craft rather than an unusually bright aerial light or other phenomenon. A sharply defined diamond-shaped vehicle implies one set of explanations; an intense light source whose outline could not initially be determined leaves a much wider range of possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-3-dark.svg" | relative_url }}" alt="Shape Shift illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Diamond as the Case's Lasting Symbol
 
-Today, the Cash–Landrum incident is almost universally illustrated with an upright diamond-shaped craft. Television documentaries, UFO books, podcasts, and online summaries routinely present the object in that form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Today, the Cash–Landrum incident is almost universally illustrated with an upright diamond-shaped craft. Television documentaries, UFO books, podcasts, and online summaries routinely present the object in that form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Yet the historical record shows that this iconic image emerged through a process rather than appearing fully formed in the earliest accounts. Vickie Landrum's testimony helps trace that evolution: from a terrifying, blinding light in the sky to a specific geometric craft that became one of the most recognisable images in American UFO history. Understanding that progression does not resolve what the witnesses encountered, but it does clarify how one of the case's most famous details entered the public narrative and why it remains a focal point in debates about the reliability of eyewitness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Yet the historical record shows that this iconic image emerged through a process rather than appearing fully formed in the earliest accounts. Vickie Landrum's testimony helps trace that evolution: from a terrifying, blinding light in the sky to a specific geometric craft that became one of the most recognisable images in American UFO history. Understanding that progression does not resolve what the witnesses encountered, but it does clarify how one of the case's most famous details entered the public narrative and why it remains a focal point in debates about the reliability of eyewitness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FaUxzN1dDm4" title="The incredible story of the Cash Landrum UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer">The incredible story of the Cash Landrum UFO incident</a></p><p class="youtube-embed-meta">Channel: RED STONE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FaUxzN1dDm4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Object Became a Diamond. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Object Became a Diamond. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses evidence, perception, and critical evaluation of unusual phenomena such as UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evidence, perception, and critical evaluation of unusual phenomena such as UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO cases are documented, interpreted, and debated over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO cases are documented, interpreted, and debated over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Helps explain how recollections and narratives can evolve, a key issue in the article&#x27;s discussion of changing descriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how recollections and narratives can evolve, a key issue in the article&#x27;s discussion of changing descriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why people form and maintain beliefs about extraordinary events and ambiguous observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people form and maintain beliefs about extraordinary events and ambiguous observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="shape-shift-how-the-object-became-a-diamond-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Yet the historical record shows that this iconic image emerged through a process
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Yet the historical record shows that this iconic image emerged through a process
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Yet the historical record shows that this iconic image emerged through a process
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Yet the historical record shows that this iconic image emerged through a process
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Yet the historical record shows that this iconic image emerged through a process
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,69 +728,69 @@ Yet the historical record shows that this iconic image emerged through a process
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — The earlier descriptions of the object, rather than depicting a diamon...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Classic&#x27; Cash-Landrum Case UnravelsCurt Collins is a UFO researcher who for the past year or so has been gathering as much informati...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Classic&#x27; Cash-Landrum Case UnravelsCurt Collins is a UFO researcher who for the past year or so has been gathering as much informati...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sosupernaturalpodcast.com  
-   Link: <a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
+   Link:<a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ped craft Metallic, flame-engulfed underside Emitting extreme...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ped craft Metallic, flame-engulfed underside Emitting extreme...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Betty got out the car and approached the object, the object was described as bei...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Betty got out the car and approached the object, the object was described as bei...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By A UFO - The Cash-Landrum UFO Incident12 Jan 2026 — Betty Cash, Vickie Landrum, and [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) Landrum encountered a flaming, diamond-shaped...</p></details>
+   Link:<a href="https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By A UFO - The Cash-Landrum UFO Incident12 Jan 2026 — Betty Cash, Vickie Landrum, and [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) Landrum encountered a flaming, diamond-shaped...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
    Title: CASH LANDRUM INCIDENT  
-   Link: <a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident Analysis | PDFReview of the December 1980 Cash-Landrum UFO incident that resulted in serious radiation injury t...</p></details>
+   Link:<a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident Analysis | PDFReview of the December 1980 Cash-Landrum UFO incident that resulted in serious radiation injury t...</p></details>
    Published: December 1980  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The incredible story of the Cash Landrum UFO incident  
-   Link: <a href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaUxzN1dDm4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum incident diamond shape description The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaUxzN1dDm4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum incident diamond shape description The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They saw a UFO… and hours later, their bodies showed...On December 29,1980 three Texans suffered severe burns when they encountered a fi...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They saw a UFO… and hours later, their bodies showed...On December 29,1980 three Texans suffered severe burns when they encountered a fi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO  
-   Link: <a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJdhk3_DurE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJdhk3_DurE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>

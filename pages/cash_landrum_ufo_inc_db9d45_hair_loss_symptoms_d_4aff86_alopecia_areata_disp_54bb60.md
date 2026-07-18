@@ -278,7 +278,7 @@ One of the most consequential medical disputes within the Cash–Landrum case wa
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-1-dark.svg" | relative_url }}" alt="Alopecia Areata illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of the diagnosis lies in its explanatory power. If Cash's hair loss was consistent with alopecia areata and supported by pathology findings, then one of the case's most widely cited physical effects becomes less persuasive as evidence of [radiation]({{ 'radiation/' | relative_url }}) exposure. If the diagnosis was mistaken, then critics may have dismissed a genuine injury. The [debate]({{ 'debate/' | relative_url }}) therefore centres on clinical evidence, biopsy interpretation, and the reliability of competing medical explanations rather than on the mere fact that hair loss occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
+The importance of the diagnosis lies in its explanatory power. If Cash's hair loss was consistent with alopecia areata and supported by pathology findings, then one of the case's most widely cited physical effects becomes less persuasive as evidence of [radiation]({{ 'radiation/' | relative_url }}) exposure. If the diagnosis was mistaken, then critics may have dismissed a genuine injury. The [debate]({{ 'debate/' | relative_url }}) therefore centres on clinical evidence, biopsy interpretation, and the reliability of competing medical explanations rather than on the mere fact that hair loss occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zaWgXHWaxg8" title="The Mysterious Cash-Landrum Close Encounter Incident in 1980 - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer">The Mysterious Cash-Landrum Close Encounter Incident in 1980 - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zaWgXHWaxg8">Open on YouTube</a></p></div></div></div>
@@ -287,11 +287,11 @@ The importance of the diagnosis lies in its explanatory power. If Cash's hair lo
 
 ### What alopecia areata usually looks like
 
-Alopecia areata is an autoimmune condition in which the body's immune system attacks hair follicles, producing non-scarring hair loss. The classic presentation consists of smooth, sharply defined round or oval bald patches. The scalp skin usually remains intact rather than showing the permanent destruction associated with burns or scarring alopecias. Hair can regrow spontaneously, sometimes beginning with fine or differently coloured hairs before returning to a more normal appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC+2The Pharmaceutical Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
+Alopecia areata is an autoimmune condition in which the body's immune system attacks hair follicles, producing non-scarring hair loss. The classic presentation consists of smooth, sharply defined round or oval bald patches. The scalp skin usually remains intact rather than showing the permanent destruction associated with burns or scarring alopecias. Hair can regrow spontaneously, sometimes beginning with fine or differently coloured hairs before returning to a more normal appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC+2The Pharmaceutical Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
 
-From a diagnostic standpoint, alopecia areata can appear surprisingly dramatic in photographs. Large areas of missing hair may develop over a relatively short period, creating an impression of severe injury even when the underlying mechanism is autoimmune rather than traumatic. Dermatologists generally diagnose the condition from its characteristic pattern, although scalp biopsy may be used when the diagnosis is uncertain or controversial. Europe PMC+2The London Skin And Hair Clinic <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[europepmc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
+From a diagnostic standpoint, alopecia areata can appear surprisingly dramatic in photographs. Large areas of missing hair may develop over a relatively short period, creating an impression of severe injury even when the underlying mechanism is autoimmune rather than traumatic. Dermatologists generally diagnose the condition from its characteristic pattern, although scalp biopsy may be used when the diagnosis is uncertain or controversial. Europe PMC+2The London Skin And Hair Clinic<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[europepmc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
 
-This distinction matters because radiation-induced hair loss and alopecia areata are not diagnosed simply by observing that hair is missing. Physicians look for the pattern of loss, associated skin changes, timing, laboratory findings, and, where available, microscopic examination of scalp tissue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdfs.semanticscholar.org/043c/3ec9c3288580952c8f9517dca4ee08cddbc0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfs.semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfs.semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar Scalp Biopsy and Diagnosis of Common Hair Loss Problems</span><span class="citation-popover-snippet">Semantic ScholarScalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 1, 2013 — by K Al-refu · 2013 · Cited by 4 — To establish the...</span><span class="citation-popover-meta">Published: July 1, 2013</span></span></span>
+This distinction matters because radiation-induced hair loss and alopecia areata are not diagnosed simply by observing that hair is missing. Physicians look for the pattern of loss, associated skin changes, timing, laboratory findings, and, where available, microscopic examination of scalp tissue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdfs.semanticscholar.org/043c/3ec9c3288580952c8f9517dca4ee08cddbc0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfs.semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfs.semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar Scalp Biopsy and Diagnosis of Common Hair Loss Problems</span><span class="citation-popover-snippet">Semantic ScholarScalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 1, 2013 — by K Al-refu · 2013 · Cited by 4 — To establish the...</span><span class="citation-popover-meta">Published: July 1, 2013</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GjByxf7XOU0" title="Cash-Landrum 1980, Close Encounter UFO Incident - One Of the Most Important UFO Cases in History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GjByxf7XOU0" target="_blank" rel="noopener noreferrer">Cash-Landrum 1980, Close Encounter UFO Incident - One Of the Most Important UFO Cases in History</a></p><p class="youtube-embed-meta">Channel: Close Encounters UFO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GjByxf7XOU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GjByxf7XOU0">Open on YouTube</a></p></div></div></div>
@@ -300,7 +300,7 @@ This distinction matters because radiation-induced hair loss and alopecia areata
 
 Accounts drawn from reviews of the Cash–Landrum medical record state that areas of alopecia were documented during Cash's later hospitalisation rather than immediately after the incident. According to sceptical analyses of the case, a dermatologist reportedly described the affected areas as rounded patches with evidence of hair regrowth, features considered compatible with alopecia areata rather than widespread follicular destruction.
 
-The most significant piece of evidence cited by proponents of the alopecia explanation is a scalp biopsy. Reviews of the case, particularly those discussing the hospital records, report that pathology findings were interpreted as supporting alopecia areata. In ordinary dermatological practice, biopsy can be used to distinguish among different causes of hair loss when clinical appearance alone is insufficient. Histological examination is especially valuable because several forms of alopecia can appear similar to non-specialists while having very different underlying mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overview of Alopecia: A Dermatopathologist&#x27;s Perspectiveby CI Vidal · 2015 · Cited by 26 — Biopsy of the active edge of alopecia can h...</span></span></span>
+The most significant piece of evidence cited by proponents of the alopecia explanation is a scalp biopsy. Reviews of the case, particularly those discussing the hospital records, report that pathology findings were interpreted as supporting alopecia areata. In ordinary dermatological practice, biopsy can be used to distinguish among different causes of hair loss when clinical appearance alone is insufficient. Histological examination is especially valuable because several forms of alopecia can appear similar to non-specialists while having very different underlying mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overview of Alopecia: A Dermatopathologist&#x27;s Perspectiveby CI Vidal · 2015 · Cited by 26 — Biopsy of the active edge of alopecia can h...</span></span></span>
 
 The reported biopsy finding became important because it moved the discussion from witness testimony and photographs into the realm of pathology. Rather than asking whether Cash appeared to be losing hair, the dispute shifted to whether microscopic examination of the scalp had identified a recognised autoimmune condition.
 
@@ -318,7 +318,7 @@ Sceptical writers have argued that the alopecia diagnosis provides a coherent me
 * The reported pattern of bald areas resembled recognised presentations of alopecia areata.
 * The condition is capable of producing extensive patchy hair loss without radiation exposure.
 * A biopsy reportedly supported the diagnosis.
-* Other expected indicators of severe radiation injury were either absent or insufficiently documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
+* Other expected indicators of severe radiation injury were either absent or insufficiently documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
 
 </div>
 
@@ -333,204 +333,204 @@ A further point of contention concerns the pathology itself. Accounts of the dis
 
 The alopecia areata diagnosis addresses a specific question: why Cash developed visible bald patches. It does not automatically explain every symptom reported after the encounter.
 
-From a medical perspective, alopecia areata is a recognised mechanism for patchy, non-scarring hair loss and can produce appearances that resemble a serious injury to observers unfamiliar with the condition. Its existence therefore weakens the claim that hair loss alone constitutes evidence of radiation exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC+2The Pharmaceutical Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
+From a medical perspective, alopecia areata is a recognised mechanism for patchy, non-scarring hair loss and can produce appearances that resemble a serious injury to observers unfamiliar with the condition. Its existence therefore weakens the claim that hair loss alone constitutes evidence of radiation exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC+2The Pharmaceutical Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</span></span></span>
 
 At the same time, establishing that a person has alopecia areata does not by itself determine the cause of all other reported medical problems. This is why the diagnosis remains a focal point rather than a complete resolution of the Cash–Landrum medical controversy. The key evidential value of the diagnosis lies in showing that there was a plausible, medically recognised, non-radiation explanation for one of the case's most visually compelling symptoms.
 
-In that sense, alopecia areata became one of the most important competing mechanisms in the Cash medical dispute. It transformed the discussion from a straightforward claim of radiation-induced hair loss into a narrower and more difficult question about diagnosis, pathology, and the interpretation of incomplete medical records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overview of Alopecia: A Dermatopathologist&#x27;s Perspectiveby CI Vidal · 2015 · Cited by 26 — Biopsy of the active edge of alopecia can h...</span></span></span>
+In that sense, alopecia areata became one of the most important competing mechanisms in the Cash medical dispute. It transformed the discussion from a straightforward claim of radiation-induced hair loss into a narrower and more difficult question about diagnosis, pathology, and the interpretation of incomplete medical records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overview of Alopecia: A Dermatopathologist&#x27;s Perspectiveby CI Vidal · 2015 · Cited by 26 — Biopsy of the active edge of alopecia can h...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-3-dark.svg" | relative_url }}" alt="Alopecia Areata illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Diagnosis That Complicated the UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Diagnosis That Complicated the UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses critical thinking and evaluation of extraordinary claims, fitting the broader UFO-medical controversy context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses critical thinking and evaluation of extraordinary claims, fitting the broader UFO-medical controversy context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Helps readers evaluate competing medical claims, evidence quality, and controversial interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate competing medical claims, evidence quality, and controversial interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=And+the+Band+Played+on+Randy+Shilts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open And the Band Played on on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10584912-M.jpg" alt="Cover for And the Band Played on" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=And+the+Band+Played+on+Randy+Shilts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="And the Band Played on">And the Band Played on</a>
-        </h4>
-        <p class="fr-book-author">By Randy Shilts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=And+the+Band+Played+on+Randy+Shilts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open And the Band Played on on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10584912-M.jpg" alt="Cover for And the Band Played on" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=And+the+Band+Played+on+Randy+Shilts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="And the Band Played on">And the Band Played on</a>
+</h4>
+<p class="fr-book-author">By Randy Shilts</p>
         
-        <p class="fr-book-desc">First published 1987. Subjects: AIDS (Disease), History, Political aspects of AIDS (Disease), Social aspects, Social aspects of AIDS (Dis...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=And+the+Band+Played+on+Randy+Shilts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1987. Subjects: AIDS (Disease), History, Political aspects of AIDS (Disease), Social aspects, Social aspects of AIDS (Dis...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=And+the+Band+Played+on+Randy+Shilts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="alopecia-areata-the-diagnosis-that-complicated-the-ufo-story-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ In that sense, alopecia areata became one of the most important competing mechan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ In that sense, alopecia areata became one of the most important competing mechan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ In that sense, alopecia areata became one of the most important competing mechan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ In that sense, alopecia areata became one of the most important competing mechan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ In that sense, alopecia areata became one of the most important competing mechan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,88 +736,88 @@ In that sense, alopecia areata became one of the most important competing mechan
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: europepmc.org  
-   Link: <a href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/pmc/pmc4569104</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</p></details>
+   Link:<a href="https://europepmc.org/article/pmc/pmc4569104" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/pmc/pmc4569104</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Europe PMCAlopecia areata: Part 1: pathogenesis, diagnosis, and...by F Spano · 2015 · Cited by 170 — Diagnosis can often be made clinica...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pharmaceutical-journal.com  
    Title: Alopecia is the Latin term for hair loss  
-   Link: <a href="https://pharmaceutical-journal.com/article/ld/alopecia-areata-recognition-diagnosis-and-management" target="_blank" rel="noopener noreferrer nofollow">https://pharmaceutical-journal.com/article/ld/alopecia-areata-recognition-diagnosis-and-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pharmaceutical JournalAlopecia areata: recognition, diagnosis and management15 Jul 2025 — Alopecia areata is an autoimmune condition...</p></details>
+   Link:<a href="https://pharmaceutical-journal.com/article/ld/alopecia-areata-recognition-diagnosis-and-management" target="_blank" rel="noopener noreferrer nofollow">https://pharmaceutical-journal.com/article/ld/alopecia-areata-recognition-diagnosis-and-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pharmaceutical JournalAlopecia areata: recognition, diagnosis and management15 Jul 2025 — Alopecia areata is an autoimmune condition...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Alopecia: A Dermatopathologist&#x27;s Perspectiveby CI Vidal · 2015 · Cited by 26 — Biopsy of the active edge of alopecia can h...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6170065/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Alopecia: A Dermatopathologist&#x27;s Perspectiveby CI Vidal · 2015 · Cited by 26 — Biopsy of the active edge of alopecia can h...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brief Review of Scalp Biopsy and its Interpretation - PMCby SK Gowda · 2025 · Cited by 3 — Alopecia areata Areas where the hair pull test...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brief Review of Scalp Biopsy and its Interpretation - PMCby SK Gowda · 2025 · Cited by 3 — Alopecia areata Areas where the hair pull test...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thelondonskinandhairclinic.com  
-   Link: <a href="https://thelondonskinandhairclinic.com/alopecia-areata/" target="_blank" rel="noopener noreferrer nofollow">https://thelondonskinandhairclinic.com/alopecia-areata/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common features include: round or oval patches of hair loss on the scalp smooth skin tingling or...</p></details>
+   Link:<a href="https://thelondonskinandhairclinic.com/alopecia-areata/" target="_blank" rel="noopener noreferrer nofollow">https://thelondonskinandhairclinic.com/alopecia-areata/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common features include: round or oval patches of hair loss on the scalp smooth skin tingling or...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pdfs.semanticscholar.org  
    Title: Semantic Scholar Scalp Biopsy and Diagnosis of Common Hair Loss Problems  
-   Link: <a href="https://pdfs.semanticscholar.org/043c/3ec9c3288580952c8f9517dca4ee08cddbc0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/043c/3ec9c3288580952c8f9517dca4ee08cddbc0.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarScalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 1, 2013 — by K Al-refu · 2013 · Cited by 4 — To establish the...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/043c/3ec9c3288580952c8f9517dca4ee08cddbc0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/043c/3ec9c3288580952c8f9517dca4ee08cddbc0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarScalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 1, 2013 — by K Al-refu · 2013 · Cited by 4 — To establish the...</p></details>
    Published: July 1, 2013  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: webmd.com  
-   Link: <a href="https://www.webmd.com/skin-problems-and-treatments/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/skin-problems-and-treatments/alopecia-areata</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alopecia Areata: Symptoms, Causes, &amp; TreatmentsYour hair loss might be due to an autoimmune disorder called alopecia areata. There&#x27;s no c...</p></details>
+   Link:<a href="https://www.webmd.com/skin-problems-and-treatments/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/skin-problems-and-treatments/alopecia-areata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alopecia Areata: Symptoms, Causes, &amp; TreatmentsYour hair loss might be due to an autoimmune disorder called alopecia areata. There&#x27;s no c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aad.org  
-   Link: <a href="https://www.aad.org/public/diseases/hair-loss/types/alopecia/treatment" target="_blank" rel="noopener noreferrer nofollow">https://www.aad.org/public/diseases/hair-loss/types/alopecia/treatment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hair loss types: Alopecia areata diagnosis and treatmentA common treatment plan involves applying a corticosteroid to regrow your hair an...</p></details>
+   Link:<a href="https://www.aad.org/public/diseases/hair-loss/types/alopecia/treatment" target="_blank" rel="noopener noreferrer nofollow">https://www.aad.org/public/diseases/hair-loss/types/alopecia/treatment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hair loss types: Alopecia areata diagnosis and treatmentA common treatment plan involves applying a corticosteroid to regrow your hair an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: circlehealthgroup.co.uk  
-   Link: <a href="https://www.circlehealthgroup.co.uk/treatments/hair-loss-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://www.circlehealthgroup.co.uk/treatments/hair-loss-alopecia</a>  
+   Link:<a href="https://www.circlehealthgroup.co.uk/treatments/hair-loss-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://www.circlehealthgroup.co.uk/treatments/hair-loss-alopecia</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wpu8ck7H3Xk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wpu8ck7H3Xk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mimickers of alopecia areata. With Dr. David Saceda CorraloMimickers of alopecia areata. With Dr. David Saceda Corralo. 242 views · 8 m...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wpu8ck7H3Xk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wpu8ck7H3Xk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mimickers of alopecia areata. With Dr. David Saceda CorraloMimickers of alopecia areata. With Dr. David Saceda Corralo. 242 views · 8 m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GjByxf7XOU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GjByxf7XOU0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Cash Landrum UFO incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) medical radiation hair loss The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GjByxf7XOU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GjByxf7XOU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Cash Landrum UFO incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) medical radiation hair loss The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/292802632_Clinical_and_histological_challenge_in_the_differential_diagnosis_of_diffuse_alopecia_female_androgenetic_alopecia_telogen_effluvium_and_alopecia_areata_-_part_I" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292802632_Clinical_and_histological_challenge_in_the_differential_diagnosis_of_diffuse_alopecia_female_androgenetic_alopecia_telogen_effluvium_and_alopecia_areata_-_part_I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic alopecia is presented and the most important histological changes are discussed...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292802632_Clinical_and_histological_challenge_in_the_differential_diagnosis_of_diffuse_alopecia_female_androgenetic_alopecia_telogen_effluvium_and_alopecia_areata_-_part_I" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292802632_Clinical_and_histological_challenge_in_the_differential_diagnosis_of_diffuse_alopecia_female_androgenetic_alopecia_telogen_effluvium_and_alopecia_areata_-_part_I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic alopecia is presented and the most important histological changes are discussed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZAlRo4jMac/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZAlRo4jMac/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 cases of scarring hair loss from my clinic — biopsy...Circular bald spots might signal alopecia areata, an autoimmune disorder...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZAlRo4jMac/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZAlRo4jMac/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 cases of scarring hair loss from my clinic — biopsy...Circular bald spots might signal alopecia areata, an autoimmune disorder...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: my.clevelandclinic.org  
    Title: It's usually the result of inflammatory or autoimmune disorders.Read more  
-   Link: <a href="https://my.clevelandclinic.org/health/diseases/24582-scarring-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/diseases/24582-scarring-alopecia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Cicatricial) Alopecia: What It Looks Like &amp;...6 Jan 2023 — Scarring (cicatricial) alopecia is hair loss caused by hair follicle destruc...</p></details>
+   Link:<a href="https://my.clevelandclinic.org/health/diseases/24582-scarring-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/diseases/24582-scarring-alopecia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Cicatricial) Alopecia: What It Looks Like &amp;...6 Jan 2023 — Scarring (cicatricial) alopecia is hair loss caused by hair follicle destruc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jcadonline.com  
    Title: hair loss differential diagnosis scarring  
-   Link: <a href="https://jcadonline.com/hair-loss-differential-diagnosis-scarring/" target="_blank" rel="noopener noreferrer nofollow">https://jcadonline.com/hair-loss-differential-diagnosis-scarring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bi-temporal Scalp Hair Loss: Differential Diagnosis...by MD Brianna De Souza · 2021 — Skin biopsies from the edges of active alopecia ar...</p></details>
+   Link:<a href="https://jcadonline.com/hair-loss-differential-diagnosis-scarring/" target="_blank" rel="noopener noreferrer nofollow">https://jcadonline.com/hair-loss-differential-diagnosis-scarring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bi-temporal Scalp Hair Loss: Differential Diagnosis...by MD Brianna De Souza · 2021 — Skin biopsies from the edges of active alopecia ar...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hims.com  
-   Link: <a href="https://www.hims.com/blog/scalp-biopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.hims.com/blog/scalp-biopsy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ce of skin from the scalp for testing and analysis.Read more...</p></details>
+   Link:<a href="https://www.hims.com/blog/scalp-biopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.hims.com/blog/scalp-biopsy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ce of skin from the scalp for testing and analysis.Read more...</p></details>

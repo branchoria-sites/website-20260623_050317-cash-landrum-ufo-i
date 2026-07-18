@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-government/
 description: Focused pages that expand on Liability.
-date: '2026-06-23'
+date: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_government_responsib_77e55d
 parent_title: Liability
@@ -16,7 +16,7 @@ parent_permalink: /liability/
 
 # Explore Topics in Liability
 
-The following pages expand on the main **[Liability]({{ '/liability/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Liability]({{ '/liability/' | relative_url }})** page and cover its key branches in.
 
 - [Agency Test]({{ '/agency-test/' | relative_url }})
 - [Employee Scope]({{ '/employee-scope/' | relative_url }})

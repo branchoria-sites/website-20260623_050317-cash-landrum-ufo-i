@@ -274,39 +274,39 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_da
 
 ## Introduction
 
-One of the most frequently repeated pieces of physical evidence in the Cash–Landrum UFO case is the claim that intense heat inside [Betty Cash]({{ 'betty-cash/' | relative_url }})’s car left visible marks on the dashboard. In popular retellings, the story often becomes a dramatic image of [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }})’s hands sinking into a dashboard softened by extraordinary temperatures. Yet the actual evidence is more complicated. The dispute is not simply whether marks existed, but what caused them, when they appeared, and whether photographs support the stronger versions of the story. Because physical traces can seem more objective than witness memories, the dashboard impressions became an important test case for evaluating the reliability of the broader Cash–Landrum narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+One of the most frequently repeated pieces of physical evidence in the Cash–Landrum UFO case is the claim that intense heat inside [Betty Cash]({{ 'betty-cash/' | relative_url }})’s car left visible marks on the dashboard. In popular retellings, the story often becomes a dramatic image of [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }})’s hands sinking into a dashboard softened by extraordinary temperatures. Yet the actual evidence is more complicated. The dispute is not simply whether marks existed, but what caused them, when they appeared, and whether photographs support the stronger versions of the story. Because physical traces can seem more objective than witness memories, the dashboard impressions became an important test case for evaluating the reliability of the broader Cash–Landrum narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-1-dark.svg" | relative_url }}" alt="Dashboard illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Betty Cash's Melted-Dashboard Claim
 
-The earliest and most influential version of the claim came from Betty Cash. During the August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, she stated that when Vickie Landrum braced herself against the dashboard, the heat was so intense that her fingerprints remained embedded in the padded surface. Cash described the dashboard as having effectively melted under the conditions created by [the object]({{ 'the-object/' | relative_url }}) outside the vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The earliest and most influential version of the claim came from Betty Cash. During the August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, she stated that when Vickie Landrum braced herself against the dashboard, the heat was so intense that her fingerprints remained embedded in the padded surface. Cash described the dashboard as having effectively melted under the conditions created by [the object]({{ 'the-object/' | relative_url }}) outside the vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The importance of this claim was obvious. If a witness could point to a lasting physical alteration inside the car, the incident would no longer depend solely on recollection. The dashboard would become a material trace allegedly linking the encounter to an observable effect. For UFO investigators, that possibility elevated the marks from a minor detail to potential corroborative evidence. John Schuessler, the principal investigator of the case, repeatedly documented the vehicle and treated the impressions as one of the noteworthy physical features associated with the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">The Cash Landrum Incident J.Schuessler</span><span class="citation-popover-snippet">He is one of the most capable, serious, resourceful, and open-...Read more...</span></span></span>
+The importance of this claim was obvious. If a witness could point to a lasting physical alteration inside the car, the incident would no longer depend solely on recollection. The dashboard would become a material trace allegedly linking the encounter to an observable effect. For UFO investigators, that possibility elevated the marks from a minor detail to potential corroborative evidence. John Schuessler, the principal investigator of the case, repeatedly documented the vehicle and treated the impressions as one of the noteworthy physical features associated with the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">The Cash Landrum Incident J.Schuessler</span><span class="citation-popover-snippet">He is one of the most capable, serious, resourceful, and open-...Read more...</span></span></span>
 
-However, even at this stage, a practical question emerged: if temperatures were high enough to soften the dashboard significantly, why was the damage apparently limited to a few impressions rather than widespread deformation of the interior? Critics argued that the physical behaviour of automotive materials should be part of any assessment of the claim, not merely the witnesses’ description of heat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+However, even at this stage, a practical question emerged: if temperatures were high enough to soften the dashboard significantly, why was the damage apparently limited to a few impressions rather than widespread deformation of the interior? Critics argued that the physical behaviour of automotive materials should be part of any assessment of the claim, not merely the witnesses’ description of heat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## Vickie's Later Handprint Retellings
 
-As the case gained publicity through television programmes, documentaries, books, and UFO conferences, the dashboard story acquired a life of its own. Vickie Landrum later described the interior as becoming so hot that her handprint remained in the dashboard. The retellings often emphasised a dramatic thermal effect, reinforcing the idea that the marks were evidence of extraordinary temperatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
+As the case gained publicity through television programmes, documentaries, books, and UFO conferences, the dashboard story acquired a life of its own. Vickie Landrum later described the interior as becoming so hot that her handprint remained in the dashboard. The retellings often emphasised a dramatic thermal effect, reinforcing the idea that the marks were evidence of extraordinary temperatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
 
-Yet not all descriptions matched exactly. In some versions, Landrum was portrayed as pressing forward against the dashboard during a moment of fear. In others, the emphasis shifted toward heat softening the material. Schuessler's descriptions generally framed the marks as impressions left when Landrum leaned forward and gripped or pressed against the padded dashboard while observing the object. That distinction matters. A pressure mark in a soft padded surface is a different evidential claim from a dashboard partially melted by external heat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
+Yet not all descriptions matched exactly. In some versions, Landrum was portrayed as pressing forward against the dashboard during a moment of fear. In others, the emphasis shifted toward heat softening the material. Schuessler's descriptions generally framed the marks as impressions left when Landrum leaned forward and gripped or pressed against the padded dashboard while observing the object. That distinction matters. A pressure mark in a soft padded surface is a different evidential claim from a dashboard partially melted by external heat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
 
-The evolution of the narrative illustrates a common problem in long-running UFO cases. A vivid detail that begins as part of a witness statement can gradually become simplified into a stronger and more dramatic version. By the time many readers encounter the story, they hear about "melted handprints" rather than a more nuanced question about impressions in a padded dashboard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
+The evolution of the narrative illustrates a common problem in long-running UFO cases. A vivid detail that begins as part of a witness statement can gradually become simplified into a stronger and more dramatic version. By the time many readers encounter the story, they hear about "melted handprints" rather than a more nuanced question about impressions in a padded dashboard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
 
 ## Why the Photographs Complicate the Evidence
 
-The strongest challenge to the popular version of the dashboard story comes from the photographs themselves. Researchers who later examined and reproduced images of the vehicle noted that the visible impressions were far less dramatic than many listeners would expect from descriptions of fingerprints embedded in melted material. The marks appear as shallow depressions or irregular impressions rather than sharply defined handprints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
+The strongest challenge to the popular version of the dashboard story comes from the photographs themselves. Researchers who later examined and reproduced images of the vehicle noted that the visible impressions were far less dramatic than many listeners would expect from descriptions of fingerprints embedded in melted material. The marks appear as shallow depressions or irregular impressions rather than sharply defined handprints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
 
-This creates an evidential tension. The photographs do not show an untouched dashboard, but neither do they clearly demonstrate the kind of severe thermal deformation often imagined from the verbal accounts. As a result, interpretation becomes highly subjective. Supporters may see unusual impressions consistent with the witnesses' account. Critics may see ordinary wear, age-related distortion, or pressure marks in a padded vinyl surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
+This creates an evidential tension. The photographs do not show an untouched dashboard, but neither do they clearly demonstrate the kind of severe thermal deformation often imagined from the verbal accounts. As a result, interpretation becomes highly subjective. Supporters may see unusual impressions consistent with the witnesses' account. Critics may see ordinary wear, age-related distortion, or pressure marks in a padded vinyl surface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
 
-Another difficulty is the absence of a decisive baseline. There is no widely accepted pre-incident photographic record showing the dashboard's condition before December 1980. Without such comparison images, investigators cannot conclusively determine whether the impressions were new, whether they developed gradually, or whether they reflected existing wear patterns. This missing point of reference limits the evidential value of the photographs regardless of one's position on the overall case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
+Another difficulty is the absence of a decisive baseline. There is no widely accepted pre-incident photographic record showing the dashboard's condition before December 1980. Without such comparison images, investigators cannot conclusively determine whether the impressions were new, whether they developed gradually, or whether they reflected existing wear patterns. This missing point of reference limits the evidential value of the photographs regardless of one's position on the overall case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-2-dark.svg" | relative_url }}" alt="Dashboard illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,15 +316,15 @@ The dashboard dispute ultimately revolves around three competing explanations.
 
 **Heat damage:**
 
-The witnesses' preferred interpretation is that extraordinary heat softened the dashboard material, allowing impressions to remain after contact. This explanation fits the broader narrative of intense heat radiating from the object and causing effects on both people and property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The witnesses' preferred interpretation is that extraordinary heat softened the dashboard material, allowing impressions to remain after contact. This explanation fits the broader narrative of intense heat radiating from the object and causing effects on both people and property.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 **Pressure impressions:**
 
-A more limited interpretation accepts that marks existed but argues they may have resulted from force applied to a padded surface. In this view, Landrum's actions during a frightening event could have produced temporary or lasting depressions without requiring extreme temperatures. Schuessler's descriptions sometimes align more closely with this interpretation than with a fully melted dashboard scenario. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
+A more limited interpretation accepts that marks existed but argues they may have resulted from force applied to a padded surface. In this view, Landrum's actions during a frightening event could have produced temporary or lasting depressions without requiring extreme temperatures. Schuessler's descriptions sometimes align more closely with this interpretation than with a fully melted dashboard scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the 4th witness betty cashs car</span><span class="citation-popover-snippet">Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</span></span></span>
 
 **Pre-existing wear or ageing:**
 
-Sceptical investigators have suggested that the marks may have reflected ordinary deterioration in an ageing automobile interior. Vinyl-covered dashboards can crack, deform, or retain impressions over time, especially after years of exposure to sunlight and changing temperatures. Without contemporaneous material testing, this possibility cannot be excluded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Sceptical investigators have suggested that the marks may have reflected ordinary deterioration in an ageing automobile interior. Vinyl-covered dashboards can crack, deform, or retain impressions over time, especially after years of exposure to sunlight and changing temperatures. Without contemporaneous material testing, this possibility cannot be excluded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 None of these explanations has been definitively proven. The key point is that the photographs do not clearly discriminate among them.
 
@@ -332,203 +332,203 @@ None of these explanations has been definitively proven. The key point is that t
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-3-dark.svg" | relative_url }}" alt="Dashboard illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Dashboard Evidence Actually Shows
 
-The dashboard impressions remain one of the most discussed physical traces in the Cash–Landrum case because they seem to offer something tangible. Yet the evidential value of the marks is weaker than many summaries imply. There is evidence that impressions were present on the dashboard and that the witnesses connected them to the encounter. There is not, however, universally accepted evidence demonstrating that the dashboard melted from extraordinary heat, nor is there a conclusive forensic analysis establishing exactly how the marks formed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The dashboard impressions remain one of the most discussed physical traces in the Cash–Landrum case because they seem to offer something tangible. Yet the evidential value of the marks is weaker than many summaries imply. There is evidence that impressions were present on the dashboard and that the witnesses connected them to the encounter. There is not, however, universally accepted evidence demonstrating that the dashboard melted from extraordinary heat, nor is there a conclusive forensic analysis establishing exactly how the marks formed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-For that reason, the dashboard handprints occupy an unusual position in the case. They are neither a clear hoax nor a clear physical confirmation. Instead, they illustrate how a visible trace can become central to a UFO narrative while remaining open to sharply different interpretations. The dispute persists not because the marks are absent, but because their meaning is uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+For that reason, the dashboard handprints occupy an unusual position in the case. They are neither a clear hoax nor a clear physical confirmation. Instead, they illustrate how a visible trace can become central to a UFO narrative while remaining open to sharply different interpretations. The dispute persists not because the marks are absent, but because their meaning is uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Heat Really Mark the Dashboard?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Heat Really Mark the Dashboard?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines physical evidence claims, witness testimony, and standards of proof in major UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines physical evidence claims, witness testimony, and standards of proof in major UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for assessing extraordinary claims, physical evidence, photographs, and anecdotal reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing extraordinary claims, physical evidence, photographs, and anecdotal reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating reported UFO evidence and witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating reported UFO evidence and witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers major UFO incidents and investigative debates, including disputed evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major UFO incidents and investigative debates, including disputed evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="dashboard-did-heat-really-mark-the-dashboard-cash-landrum-ufo-incident-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For that reason, the dashboard handprints occupy an unusual position in the case
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For that reason, the dashboard handprints occupy an unusual position in the case
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For that reason, the dashboard handprints occupy an unusual position in the case
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For that reason, the dashboard handprints occupy an unusual position in the case
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For that reason, the dashboard handprints occupy an unusual position in the case
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,87 +734,87 @@ For that reason, the dashboard handprints occupy an unusual position in the case
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufology-news.com  
    Title: The Cash Landrum Incident J.Schuessler  
-   Link: <a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He is one of the most capable, serious, resourceful, and open-...Read more...</p></details>
+   Link:<a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He is one of the most capable, serious, resourceful, and open-...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blueblurrylines.com  
    Title: the 4th witness betty cashs car  
-   Link: <a href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/03/the-4th-witness-betty-cashs-car.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe 4th Witness, Betty Cash&#x27;s Car26 Mar 2014 — The Dashboard. One of the strange things reported was the impression of V...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...8 Feb 2018 — The case is amongst the most famous of UFO eve...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...8 Feb 2018 — The case is amongst the most famous of UFO eve...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Cash-Landrum-Incident-John-Schuessler/dp/1953321119?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Cash-Landrum-Incident-John-Schuessler/dp/1953321119?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash Landrum Incident: Schuessler, JohnThis book is the only definitive account, including original photos, documents, and interviews...</p></details>
+   Link:<a href="https://www.amazon.com/Cash-Landrum-Incident-John-Schuessler/dp/1953321119?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Cash-Landrum-Incident-John-Schuessler/dp/1953321119?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash Landrum Incident: Schuessler, JohnThis book is the only definitive account, including original photos, documents, and interviews...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingHad Betty Cash and Vicki Landrum reported only seeing a UFO, their story would end there. Despite health pro...</p></details>
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingHad Betty Cash and Vicki Landrum reported only seeing a UFO, their story would end there. Despite health pro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — During the discussion with Curt Collins, Cash&#x27;s description of the obj...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — During the discussion with Curt Collins, Cash&#x27;s description of the obj...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sosupernaturalpodcast.com  
-   Link: <a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: The Cash-Landrum IncidentOn the night of December 29, 1980, Betty Cash, Vickie Landrum, and Vickie&#x27;s grandson [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) were driving t...</p></details>
+   Link:<a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: The Cash-Landrum IncidentOn the night of December 29, 1980, Betty Cash, Vickie Landrum, and Vickie&#x27;s grandson [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) were driving t...</p></details>
    Published: December 29, 1980  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1prvu6t/people_say_theres_no_evidence_but_in_1980_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1prvu6t/people_say_theres_no_evidence_but_in_1980_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People say there&#x27;s &quot;No evidence&quot; but in 1980 a family got ill...r/UFOs - The Haunting Light of Texas: Revisiting the Cash-Landrum UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1prvu6t/people_say_theres_no_evidence_but_in_1980_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1prvu6t/people_say_theres_no_evidence_but_in_1980_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People say there&#x27;s &quot;No evidence&quot; but in 1980 a family got ill...r/UFOs - The Haunting Light of Texas: Revisiting the Cash-Landrum UFO...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>left a handprint. Fire and heat, the UFO slowly ascended.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>left a handprint. Fire and heat, the UFO slowly ascended.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/4oEiS46LkiNj45YeoIEivc" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4oEiS46LkiNj45YeoIEivc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Cash-Landrum UFO Incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;), Serious Effects of...21 Feb 2025 — It was 1980 when three lives were terribly impacted during a Texas highway...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4oEiS46LkiNj45YeoIEivc" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4oEiS46LkiNj45YeoIEivc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Cash-Landrum UFO Incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;), Serious Effects of...21 Feb 2025 — It was 1980 when three lives were terribly impacted during a Texas highway...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary with Carter...25 Mar 2026 — In this episode of Conspiracy Theories learn about The Cash-Landrum UFO Incident and Witness Account...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary with Carter...25 Mar 2026 — In this episode of Conspiracy Theories learn about The Cash-Landrum UFO Incident and Witness Account...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theparacast.com  
    Title: Chris Lambright and Curtis L  
-   Link: <a href="https://www.theparacast.com/forum/threads/chris-lambright-and-curtis-l-collins.13472/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparacast.com/forum/threads/chris-lambright-and-curtis-l-collins.13472/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collins14 Jul 2013 — Cash still has the 1980 [Oldsmobile](&amp;#123;&amp;#123; &#x27;oldsmobile/&#x27; | relative_url &amp;#125;&amp;#125;) she drove that night. She says the intense heat embedded Landrum&#x27;s handprint on t...</p></details>
+   Link:<a href="https://www.theparacast.com/forum/threads/chris-lambright-and-curtis-l-collins.13472/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparacast.com/forum/threads/chris-lambright-and-curtis-l-collins.13472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collins14 Jul 2013 — Cash still has the 1980 [Oldsmobile](&amp;#123;&amp;#123; &#x27;oldsmobile/&#x27; | relative_url &amp;#125;&amp;#125;) she drove that night. She says the intense heat embedded Landrum&#x27;s handprint on t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.howstuffworks.com  
    Title: cash landrum ufo incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentDid you know that witnesses have reported damaged property and even personal injury after UFO sightings? Take a...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentDid you know that witnesses have reported damaged property and even personal injury after UFO sightings? Take a...</p></details>

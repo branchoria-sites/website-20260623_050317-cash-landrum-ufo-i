@@ -448,29 +448,29 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-ov
 
 ## Introduction
 
-Hypnosis did not solve the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}); it made parts of the case harder to evaluate. The core report was already dramatic before hypnosis entered the file: Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and young Colby Landrum said they saw a bright, heat-emitting object near Dayton, Texas, on 29 December 1980, followed by military-style helicopters. But the hypnosis material, especially Vickie Landrum’s 1981 sessions with Dr R. Leo Sprinkle, appears to have introduced or reinforced details that later became part of the case’s popular image, including “little blue lights” and a smell compared with lighter fluid. That matters because modern memory research treats hypnosis as a risky tool for factual reconstruction: it can increase confidence without reliably increasing accuracy, and memories recovered under hypnosis need independent corroboration before they carry evidential weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Hypnosis did not solve the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}); it made parts of the case harder to evaluate. The core report was already dramatic before hypnosis entered the file: Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and young Colby Landrum said they saw a bright, heat-emitting object near Dayton, Texas, on 29 December 1980, followed by military-style helicopters. But the hypnosis material, especially Vickie Landrum’s 1981 sessions with Dr R. Leo Sprinkle, appears to have introduced or reinforced details that later became part of the case’s popular image, including “little blue lights” and a smell compared with lighter fluid. That matters because modern memory research treats hypnosis as a risky tool for factual reconstruction: it can increase confidence without reliably increasing accuracy, and memories recovered under hypnosis need independent corroboration before they carry evidential weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-overview.webp" | relative_url }}" alt="Overview image for Hypnosis" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Hypnosis Appeared in the Records
 
-Hypnosis entered the Cash-Landrum record in the same period when UFO investigators, journalists, and television producers were trying to turn a frightening roadside story into a documented case. The Blue Blurry Lines document guide lists Dr R. Leo [Sprinkle]({{ 'sprinkle/' | relative_url }})’s Cash-Landrum files and correspondence, noting that Sprinkle hypnotised Vickie Landrum in July 1981 and later for a television programme. The same file collection also places those materials alongside medical correspondence, the [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, National Enquirer coverage, and other case documents, showing that hypnosis became part of the evidential archive rather than a side anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Hypnosis entered the Cash-Landrum record in the same period when UFO investigators, journalists, and television producers were trying to turn a frightening roadside story into a documented case. The Blue Blurry Lines document guide lists Dr R. Leo [Sprinkle]({{ 'sprinkle/' | relative_url }})’s Cash-Landrum files and correspondence, noting that Sprinkle hypnotised Vickie Landrum in July 1981 and later for a television programme. The same file collection also places those materials alongside medical correspondence, the [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, National Enquirer coverage, and other case documents, showing that hypnosis became part of the evidential archive rather than a side anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The first session was not simply a private therapeutic exercise. According to later case analysis, Sprinkle put Vickie Landrum under regressive hypnosis on 11 July 1981 for National Enquirer coverage, and later again for ABC’s *That’s Incredible!*. The stated purpose was to recover additional details about the sighting. That context is important: the session sat at the intersection of UFO investigation, media attention, and witness memory, a combination that raises obvious risks of expectation, performance pressure, and narrative shaping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The first session was not simply a private therapeutic exercise. According to later case analysis, Sprinkle put Vickie Landrum under regressive hypnosis on 11 July 1981 for National Enquirer coverage, and later again for ABC’s *That’s Incredible!*. The stated purpose was to recover additional details about the sighting. That context is important: the session sat at the intersection of UFO investigation, media attention, and witness memory, a combination that raises obvious risks of expectation, performance pressure, and narrative shaping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-Dr Ronald Leo Sprinkle was not a neutral forensic interviewer in the modern sense. He was known in UFO circles for using hypnotic regression in alien abduction cases and served as a consultant associated with UFO organisations. Blue Blurry Lines identifies him as a professor specialising in hypnotic regression for alien abduction investigations, and notes that he hypnotised Vickie Landrum for both *That’s Incredible!* and the National Enquirer. That does not prove he acted improperly, but it does place the session within a UFO-investigation culture that was already receptive to hypnosis as a discovery tool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Dr Ronald Leo Sprinkle was not a neutral forensic interviewer in the modern sense. He was known in UFO circles for using hypnotic regression in alien abduction cases and served as a consultant associated with UFO organisations. Blue Blurry Lines identifies him as a professor specialising in hypnotic regression for alien abduction investigations, and notes that he hypnotised Vickie Landrum for both *That’s Incredible!* and the National Enquirer. That does not prove he acted improperly, but it does place the session within a UFO-investigation culture that was already receptive to hypnosis as a discovery tool.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The television setting added another layer. The November 1981 *That’s Incredible!* broadcast featured Vickie Landrum under hypnosis, along with Colby Landrum, Betty Cash, Sprinkle, and investigator John Schuessler. The same broadcast also included a recreation that the witnesses reportedly felt was accurate. A televised hypnosis segment can preserve witness claims for public review, but it can also freeze a partly reconstructed version of events into the popular memory of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The television setting added another layer. The November 1981 *That’s Incredible!* broadcast featured Vickie Landrum under hypnosis, along with Colby Landrum, Betty Cash, Sprinkle, and investigator John Schuessler. The same broadcast also included a recreation that the witnesses reportedly felt was accurate. A televised hypnosis segment can preserve witness claims for public review, but it can also freeze a partly reconstructed version of events into the popular memory of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Hypnosis Material Added
 
-The most important hypnosis-related issue is not that Vickie Landrum repeated the whole Cash-Landrum story under hypnosis. It is that specific details appear to have emerged or gained force through that process. Blue Blurry Lines identifies two details produced in the July 1981 hypnosis session: a smell compared with lighter fluid and the first mention of blue lights. Landrum was reported as saying that the object had “some blue on it” and looked like “little lights”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The most important hypnosis-related issue is not that Vickie Landrum repeated the whole Cash-Landrum story under hypnosis. It is that specific details appear to have emerged or gained force through that process. Blue Blurry Lines identifies two details produced in the July 1981 hypnosis session: a smell compared with lighter fluid and the first mention of blue lights. Landrum was reported as saying that the object had “some blue on it” and looked like “little lights”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-Those details mattered because they were not treated as disposable curiosities. John Schuessler, one of the main case investigators and later author of a book on the incident, accepted the hypnosis material as genuine evidence and folded it into the broader case description. He reportedly interpreted the lighter-fluid smell as a possible helicopter-fuel odour and the blue lights as a ring around the UFO’s fuselage. In that reading, hypnosis did not merely retrieve colour; it helped support a more technical-looking scenario involving a structured craft and nearby military [aircraft]({{ 'aircraft/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Those details mattered because they were not treated as disposable curiosities. John Schuessler, one of the main case investigators and later author of a book on the incident, accepted the hypnosis material as genuine evidence and folded it into the broader case description. He reportedly interpreted the lighter-fluid smell as a possible helicopter-fuel odour and the blue lights as a ring around the UFO’s fuselage. In that reading, hypnosis did not merely retrieve colour; it helped support a more technical-looking scenario involving a structured craft and nearby military [aircraft]({{ 'aircraft/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The difficulty is that the “blue lights” detail is weakly supported outside the hypnosis pathway. Blue Blurry Lines argues that there were no public statements from the original witnesses, before or after hypnosis, describing a glowing UFO with blue lights. It also points to another possible source of confusion: Colby’s Lite-Brite picture, whose coloured pegs may have been interpreted as lights around the object’s centre. In other words, a later composite image may have formed from a child’s picture, a hypnotically elicited phrase, and interpretive enthusiasm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The difficulty is that the “blue lights” detail is weakly supported outside the hypnosis pathway. Blue Blurry Lines argues that there were no public statements from the original witnesses, before or after hypnosis, describing a glowing UFO with blue lights. It also points to another possible source of confusion: Colby’s Lite-Brite picture, whose coloured pegs may have been interpreted as lights around the object’s centre. In other words, a later composite image may have formed from a child’s picture, a hypnotically elicited phrase, and interpretive enthusiasm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 This is where the Cash-Landrum case becomes a useful cautionary example. The earliest accounts already contained enough striking elements: intense light, heat, a stopped car, injuries, helicopters, and fear. Hypnosis added details that made the object more visually specific, but those same additions create a credibility problem. A detail that appears after a suggestive retrieval method should not be treated the same way as a detail reported independently, repeatedly, and before the witness has absorbed investigators’ theories or media framings.
 
@@ -479,11 +479,11 @@ This is where the Cash-Landrum case becomes a useful cautionary example. The ear
 
 ## Memory Recovery Concerns
 
-The central memory problem is that hypnosis can make a witness feel more certain without making the memory more accurate. Ohio State University reported a study presented at the American Psychological Association in which hypnotised participants were no more accurate than others in dating news events, but were more reluctant to change wrong answers when challenged. The researchers’ bottom line was that memories recovered through hypnosis or similar methods need corroboration before being accepted as true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.osu.edu/hypnosis-may-give-false-confidence-in-inaccurate-memories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.osu.edu">[Ohio State News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.osu.edu</span><span class="citation-popover-title">Ohio State News Hypnosis May Give False Confidence In Inaccurate Memories</span><span class="citation-popover-snippet">Ohio State News Hypnosis May Give False Confidence In Inaccurate Memories</span></span></span>
+The central memory problem is that hypnosis can make a witness feel more certain without making the memory more accurate. Ohio State University reported a study presented at the American Psychological Association in which hypnotised participants were no more accurate than others in dating news events, but were more reluctant to change wrong answers when challenged. The researchers’ bottom line was that memories recovered through hypnosis or similar methods need corroboration before being accepted as true.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.osu.edu/hypnosis-may-give-false-confidence-in-inaccurate-memories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.osu.edu">[Ohio State News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.osu.edu</span><span class="citation-popover-title">Ohio State News Hypnosis May Give False Confidence In Inaccurate Memories</span><span class="citation-popover-snippet">Ohio State News Hypnosis May Give False Confidence In Inaccurate Memories</span></span></span>
 
-The British Psychological Society’s report on recovered memories gives an even sharper warning: reputable hypnosis organisations have cautioned against using hypnosis as a method of memory retrieval, and the report summarises the risk by saying hypnosis makes memory more confident and less reliable. That principle applies directly to the Cash-Landrum file because the disputed details are not just emotional impressions; they concern factual features of an alleged object and its surroundings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cirp.org/library/psych/BPS/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cirp.org">[Circumcision Resource Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cirp.org</span><span class="citation-popover-snippet">Open source on cirp.org.</span></span></span>
+The British Psychological Society’s report on recovered memories gives an even sharper warning: reputable hypnosis organisations have cautioned against using hypnosis as a method of memory retrieval, and the report summarises the risk by saying hypnosis makes memory more confident and less reliable. That principle applies directly to the Cash-Landrum file because the disputed details are not just emotional impressions; they concern factual features of an alleged object and its surroundings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cirp.org/library/psych/BPS/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cirp.org">[Circumcision Resource Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cirp.org</span><span class="citation-popover-snippet">Open source on cirp.org.</span></span></span>
 
-Eyewitness memory is also limited even without hypnosis. The National Research Council’s work on eyewitness identification explains that accurate recall depends on what a witness could sense, perceive, and remember, and that the reliability of later accounts is constrained by the limits of vision and memory. The Cash-Landrum sighting was reportedly frightening, bright, hot, confusing, and brief, with witnesses under stress and later exposed to investigators, journalists, legal questions, and UFO interpretations. Those are not conditions under which every late-emerging detail should be given equal weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
+Eyewitness memory is also limited even without hypnosis. The National Research Council’s work on eyewitness identification explains that accurate recall depends on what a witness could sense, perceive, and remember, and that the reliability of later accounts is constrained by the limits of vision and memory. The Cash-Landrum sighting was reportedly frightening, bright, hot, confusing, and brief, with witnesses under stress and later exposed to investigators, journalists, legal questions, and UFO interpretations. Those are not conditions under which every late-emerging detail should be given equal weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
 
 This does not mean the witnesses were lying, nor does it mean every hypnosis-linked detail is false. A fair assessment is narrower: hypnosis is a poor tool for separating accurate recall from imagination, inference, expectation, and suggestion. A witness can be sincere and still produce a contaminated memory. In the Cash-Landrum case, that distinction matters because the moral force of the story rests heavily on the witnesses’ suffering, while the technical interpretation of the object depends on details that changed, sharpened, or accumulated over time.
 
@@ -491,11 +491,11 @@ This does not mean the witnesses were lying, nor does it mean every hypnosis-lin
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Hypnosis Changed the Case Image
 
-The Cash-Landrum UFO is often pictured as a large, metallic, diamond-shaped object with flames below and blue lights around its middle. Yet the early descriptions were less tidy than that image suggests. In the August 1981 Bergstrom Air Force Base interview, Betty Cash drew and signed a diamond-like shape, with Vickie Landrum agreeing to the approximate shape and adding that fire came downward from it. The interview is a valuable record because it was taken by Air Force officers as part of a [claims process]({{ 'claims-process/' | relative_url }}), not by a television crew or tabloid reporter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+The Cash-Landrum UFO is often pictured as a large, metallic, diamond-shaped object with flames below and blue lights around its middle. Yet the early descriptions were less tidy than that image suggests. In the August 1981 Bergstrom Air Force Base interview, Betty Cash drew and signed a diamond-like shape, with Vickie Landrum agreeing to the approximate shape and adding that fire came downward from it. The interview is a valuable record because it was taken by Air Force officers as part of a [claims process]({{ 'claims-process/' | relative_url }}), not by a television crew or tabloid reporter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
-But even that August interview came after months of investigation, discussion, media interest, and the July hypnosis session. Earlier accounts, as summarised by Blue Blurry Lines, were less precise: Betty Cash reportedly said in early February 1981 that the lights were too bright for her to detect the figure, while Vickie also said the brightness limited what she could see. That contrast does not erase the later diamond description, but it shows how the case’s visual certainty grew over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+But even that August interview came after months of investigation, discussion, media interest, and the July hypnosis session. Earlier accounts, as summarised by Blue Blurry Lines, were less precise: Betty Cash reportedly said in early February 1981 that the lights were too bright for her to detect the figure, while Vickie also said the brightness limited what she could see. That contrast does not erase the later diamond description, but it shows how the case’s visual certainty grew over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The blue-light issue is especially important because it demonstrates how a small memory detail can become a durable icon. If the first explicit “little lights” wording came from hypnosis, and if a child’s picture was then interpreted through that lens, later illustrations could easily present a cleaner, more mechanical craft than the witnesses initially described. Blue Blurry Lines argues that this process produced a composite image: not simply what the witnesses first saw, but a reconstructed “Unidentified Space Vehicle” shaped by later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The blue-light issue is especially important because it demonstrates how a small memory detail can become a durable icon. If the first explicit “little lights” wording came from hypnosis, and if a child’s picture was then interpreted through that lens, later illustrations could easily present a cleaner, more mechanical craft than the witnesses initially described. Blue Blurry Lines argues that this process produced a composite image: not simply what the witnesses first saw, but a reconstructed “Unidentified Space Vehicle” shaped by later interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 That matters for readers trying to judge the case today. The question is not only “What did the witnesses say?” but “When did they say it, under what conditions, and how did later investigators use it?” A detail reported before investigators propose meanings carries different weight from a detail that appears during hypnosis and then becomes evidence for a theory.
 
@@ -506,7 +506,7 @@ That matters for readers trying to judge the case today. The question is not onl
 
 A common misunderstanding is to treat concerns about hypnosis as an accusation against the witness. That is not the strongest critique. The better criticism is methodological: hypnosis makes it difficult to know which parts of a statement are memory, which are inference, and which are shaped by the situation.
 
-In the Cash-Landrum case, several factors made contamination especially plausible: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the original cash landrum case file</span><span class="citation-popover-snippet">the original cash landrum case file</span></span></span>
+In the Cash-Landrum case, several factors made contamination especially plausible:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the original cash landrum case file</span><span class="citation-popover-snippet">the original cash landrum case file</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -525,9 +525,9 @@ None of those factors proves the sighting was invented. They do, however, explai
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-3-dark.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Hypnosis Affects Case Credibility
 
-Hypnosis weakens the Cash-Landrum case most where the case needs technical specificity. The claim that the witnesses encountered heat, fear, illness, and helicopters does not depend entirely on hypnosis. But details such as a ring of blue lights, a fuel-like smell, and a more vehicle-like object become less secure if their first clear appearance comes through hypnotic regression or later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Hypnosis weakens the Cash-Landrum case most where the case needs technical specificity. The claim that the witnesses encountered heat, fear, illness, and helicopters does not depend entirely on hypnosis. But details such as a ring of blue lights, a fuel-like smell, and a more vehicle-like object become less secure if their first clear appearance comes through hypnotic regression or later interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The legal and investigative stakes were high. The witnesses eventually pursued government accountability, and the Bergstrom Air Force Base interview was part of a route towards claims and litigation. In that setting, memory quality mattered. A court or official investigator would need evidence that could survive scrutiny: contemporaneous records, independent witnesses, medical documentation, physical traces, [flight records]({{ 'flight-records/' | relative_url }}), or official admissions. Hypnosis could not substitute for those forms of corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+The legal and investigative stakes were high. The witnesses eventually pursued government accountability, and the Bergstrom Air Force Base interview was part of a route towards claims and litigation. In that setting, memory quality mattered. A court or official investigator would need evidence that could survive scrutiny: contemporaneous records, independent witnesses, medical documentation, physical traces, [flight records]({{ 'flight-records/' | relative_url }}), or official admissions. Hypnosis could not substitute for those forms of corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
 The broader credibility effect is mixed. On one hand, the presence of hypnosis gives sceptics a concrete reason to challenge later refinements in the story. On the other hand, it does not automatically invalidate every part of the original incident report. The strongest way to evaluate the case is to grade the evidence by independence and timing: early non-hypnotic statements first, official interviews with caution, hypnosis-derived material last unless independently confirmed.
 
@@ -538,194 +538,194 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Hypnosis Help or Complicate the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Hypnosis Help or Complicate the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Dr Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Dr Julia Shaw</p>
         
-        <p class="fr-book-desc">Directly addresses how memories can be altered, reinforced, or created.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how memories can be altered, reinforced, or created.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores memory, belief formation, and confidence in contested recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores memory, belief formation, and confidence in contested recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a contrasting perspective on evaluating witness evidence and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a contrasting perspective on evaluating witness evidence and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broader context for assessing UFO testimony and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for assessing UFO testimony and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="hypnosis-did-hypnosis-help-or-complicate-the-case-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -845,7 +845,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -890,7 +890,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -931,108 +931,108 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & Colby Landrum, Part 1 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.ph  
-   Link: <a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
+   Link:<a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.osu.edu  
    Title: Ohio State News Hypnosis May Give False Confidence In Inaccurate Memories  
-   Link: <a href="https://news.osu.edu/hypnosis-may-give-false-confidence-in-inaccurate-memories/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/hypnosis-may-give-false-confidence-in-inaccurate-memories/</a>  
+   Link:<a href="https://news.osu.edu/hypnosis-may-give-false-confidence-in-inaccurate-memories/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/hypnosis-may-give-false-confidence-in-inaccurate-memories/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cirp.org  
-   Link: <a href="https://www.cirp.org/library/psych/BPS/" target="_blank" rel="noopener noreferrer nofollow">https://www.cirp.org/library/psych/BPS/</a>  
+   Link:<a href="https://www.cirp.org/library/psych/BPS/" target="_blank" rel="noopener noreferrer nofollow">https://www.cirp.org/library/psych/BPS/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueblurrylines.com  
    Title: the original cash landrum [case file](&#123;&#123; 'case-file/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blueblurrylines.com  
    Title: cash landrum theory analysis  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nij.ojp.gov  
    Title: eyewitness memory  
-   Link: <a href="https://nij.ojp.gov/taxonomy/term/eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-memory</a>  
+   Link:<a href="https://nij.ojp.gov/taxonomy/term/eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-memory</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentIn 1981, Landrum appeared on That&#x27;s Incredible!, a popular ABC television program. · Landrum and Cash both appear...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentIn 1981, Landrum appeared on That&#x27;s Incredible!, a popular ABC television program. · Landrum and Cash both appear...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How Reliable Is Your Memory? Dr. Elizabeth (Beth) Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=fERbGDuPvWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fERbGDuPvWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abducted: How People Come to Believe They Were Kidnapped by Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fERbGDuPvWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fERbGDuPvWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abducted: How People Come to Believe They Were Kidnapped by Aliens...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Power of Suggestion: How to Implant False Memories  
-   Link: <a href="https://www.youtube.com/watch?v=YKHyTRgqSwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YKHyTRgqSwQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Reliable Is Your Memory? Dr. Elizabeth (Beth) Loftus - TED Talk on False Memories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YKHyTRgqSwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YKHyTRgqSwQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Reliable Is Your Memory? Dr. Elizabeth (Beth) Loftus - TED Talk on False Memories...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/84918836/Forensic_Hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/84918836/Forensic_Hypnosis</a>  
+   Link:<a href="https://www.academia.edu/84918836/Forensic_Hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/84918836/Forensic_Hypnosis</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt13912902/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt13912902/</a>  
+   Link:<a href="https://www.imdb.com/title/tt13912902/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt13912902/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/David-Mackinnon-4/publication/19163683_Eyewitness_Memory_Enhancement_in_the_Police_Interview_Cognitive_Retrieval_Mnemonics_Versus_Hypnosis/links/09e4150bf4bc549a04000000/Eyewitness-Memory-Enhancement-in-the-Police-Interview-Cognitive-Retrieval-Mnemonics-Versus-Hypnosis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/David-Mackinnon-4/publication/19163683_Eyewitness_Memory_Enhancement_in_the_Police_Interview_Cognitive_Retrieval_Mnemonics_Versus_Hypnosis/links/09e4150bf4bc549a04000000/Eyewitness-Memory-Enhancement-in-the-Police-Interview-Cognitive-Retrieval-Mnemonics-Versus-Hypnosis.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/David-Mackinnon-4/publication/19163683_Eyewitness_Memory_Enhancement_in_the_Police_Interview_Cognitive_Retrieval_Mnemonics_Versus_Hypnosis/links/09e4150bf4bc549a04000000/Eyewitness-Memory-Enhancement-in-the-Police-Interview-Cognitive-Retrieval-Mnemonics-Versus-Hypnosis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/David-Mackinnon-4/publication/19163683_Eyewitness_Memory_Enhancement_in_the_Police_Interview_Cognitive_Retrieval_Mnemonics_Versus_Hypnosis/links/09e4150bf4bc549a04000000/Eyewitness-Memory-Enhancement-in-the-Police-Interview-Cognitive-Retrieval-Mnemonics-Versus-Hypnosis.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
+   Link:<a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  

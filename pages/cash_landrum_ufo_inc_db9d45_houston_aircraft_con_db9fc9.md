@@ -442,7 +442,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-ov
 
 ## Introduction
 
-The “Houston airport” explanation matters because it shows that the Cash-Landrum sighting did not begin, in the witnesses’ own framing, as a fully formed claim about an exotic craft. The first light was initially treated as something ordinary: possibly an aircraft associated with Houston Intercontinental Airport, now George Bush Intercontinental. That was a reasonable first thought in the region, because Houston Intercontinental had opened in 1969 and was already a major airport by the period in question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fly2houston.com/airport-business/our-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fly2houston.com">[Fly2Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fly2houston.com</span><span class="citation-popover-title">Our Story</span><span class="citation-popover-snippet">Our Story...</span></span></span>
+The “Houston airport” explanation matters because it shows that the Cash-Landrum sighting did not begin, in the witnesses’ own framing, as a fully formed claim about an exotic craft. The first light was initially treated as something ordinary: possibly an aircraft associated with Houston Intercontinental Airport, now George Bush Intercontinental. That was a reasonable first thought in the region, because Houston Intercontinental had opened in 1969 and was already a major airport by the period in question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fly2houston.com/airport-business/our-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fly2houston.com">[Fly2Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fly2houston.com</span><span class="citation-popover-title">Our Story</span><span class="citation-popover-snippet">Our Story...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-overview.webp" | relative_url }}" alt="Overview image for Aircraft" loading="eager" decoding="sync" fetchpriority="high">
@@ -453,38 +453,38 @@ The aircraft idea helps explain the opening minutes of the case: a bright light 
 
 ## The airport context near Houston
 
-Houston Intercontinental Airport was part of the ordinary mental landscape for people travelling in the Houston area in 1980. The airport opened in 1969, moving scheduled passenger flights from Hobby to the new Intercontinental site, and Terminal C opened in 1981, immediately after the Cash-Landrum incident period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fly2houston.com/airport-business/our-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fly2houston.com">[Fly2Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fly2houston.com</span><span class="citation-popover-title">Our Story</span><span class="citation-popover-snippet">Our Story...</span></span></span> The Texas State Historical Association describes Intercontinental as a large post-war airport project north of downtown Houston, built to relieve pressure on the older Houston International, later William P. Hobby Airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tshaonline.org/handbook/entries/houston-intercontinental-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-title">Texas State Historical Association Houston Intercontinental Airport</span><span class="citation-popover-snippet">Texas State Historical Association Houston Intercontinental Airport</span></span></span>
+Houston Intercontinental Airport was part of the ordinary mental landscape for people travelling in the Houston area in 1980. The airport opened in 1969, moving scheduled passenger flights from Hobby to the new Intercontinental site, and Terminal C opened in 1981, immediately after the Cash-Landrum incident period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fly2houston.com/airport-business/our-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fly2houston.com">[Fly2Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fly2houston.com</span><span class="citation-popover-title">Our Story</span><span class="citation-popover-snippet">Our Story...</span></span></span> The Texas State Historical Association describes Intercontinental as a large post-war airport project north of downtown Houston, built to relieve pressure on the older Houston International, later William P. Hobby Airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tshaonline.org/handbook/entries/houston-intercontinental-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-title">Texas State Historical Association Houston Intercontinental Airport</span><span class="citation-popover-snippet">Texas State Historical Association Houston Intercontinental Airport</span></span></span>
 
-That matters because UFO reports often begin with an attempted ordinary identification. In the Cash-Landrum narrative, the first light was not automatically interpreted as alien or military. Later summaries of the case record that the witnesses first thought they might be seeing an aircraft approaching Houston Intercontinental, roughly 35 miles away, before the light seemed to become closer and more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span> Robert Sheaffer’s Skeptical Inquirer article also notes that, in common retellings, the witnesses first considered a helicopter or aeroplane because there were airfields in the wider area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+That matters because UFO reports often begin with an attempted ordinary identification. In the Cash-Landrum narrative, the first light was not automatically interpreted as alien or military. Later summaries of the case record that the witnesses first thought they might be seeing an aircraft approaching Houston Intercontinental, roughly 35 miles away, before the light seemed to become closer and more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span> Robert Sheaffer’s Skeptical Inquirer article also notes that, in common retellings, the witnesses first considered a helicopter or aeroplane because there were airfields in the wider area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 The regional geography makes that opening reaction understandable without making it decisive. The reported road was not on an airport perimeter; it was a rural highway area north-east of Houston, with woods, bends, and few visual reference points. A moving driver seeing a bright light through gaps in trees could easily start with the most familiar explanation: an aircraft on approach, a helicopter, or airport-related traffic. But the airport context only explains why “aircraft” was the first category considered. It does not prove that the object was on a normal flight path, or that air traffic controllers saw what the witnesses later described.
 
-One detail shows how the airport idea became part of the case after the sighting: a later file analysis records [Betty Cash]({{ 'betty-cash/' | relative_url }})’s belief that air controllers at Houston Intercontinental “must have seen the bright thing” and the helicopters. That is a claim about what she thought should have been visible, not evidence that controllers actually tracked it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span> In other words, the airport served two roles in the story: first as a mundane explanation for the initial light, and later as an imagined institutional witness that might confirm the event.
+One detail shows how the airport idea became part of the case after the sighting: a later file analysis records [Betty Cash]({{ 'betty-cash/' | relative_url }})’s belief that air controllers at Houston Intercontinental “must have seen the bright thing” and the helicopters. That is a claim about what she thought should have been visible, not evidence that controllers actually tracked it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span> In other words, the airport served two roles in the story: first as a mundane explanation for the initial light, and later as an imagined institutional witness that might confirm the event.
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why bright lights can mislead drivers
 
-Night viewing is poor at judging distance, size, and motion, especially when the observer is moving and the surrounding terrain is dark. Aviation safety material is useful here because pilots, who are trained observers of lights at night, are repeatedly warned about visual illusions. The FAA’s Airplane Flying Handbook states that lights along a road or on moving trains can be mistaken for runway or approach lights, and that bright runway and approach lights can create the illusion of less distance, especially when the surrounding terrain is sparsely lit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Airplane Flying Handbook (3C) Chapter 11...</span></span></span>
+Night viewing is poor at judging distance, size, and motion, especially when the observer is moving and the surrounding terrain is dark. Aviation safety material is useful here because pilots, who are trained observers of lights at night, are repeatedly warned about visual illusions. The FAA’s Airplane Flying Handbook states that lights along a road or on moving trains can be mistaken for runway or approach lights, and that bright runway and approach lights can create the illusion of less distance, especially when the surrounding terrain is sparsely lit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Airplane Flying Handbook (3C) Chapter 11...</span></span></span>
 
-That mechanism maps well onto the first stage of the Cash-Landrum account. A single bright light above or beyond trees can appear ambiguous: it may seem stationary for a time, then shift as the car rounds bends; it may appear to descend or rise as tree lines and road grade change; and it may seem closer than it is because there are few intermediate cues. AOPA, discussing night flying optical illusions, gives a pilot’s example in which distant airport and city lights appeared much closer than they really were, with the actual distance later judged to be around 40 miles rather than 15 to 20. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/news-and-media/all-news/2002/april/pilot/never-again-online-optical-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">never again online optical illusions</span><span class="citation-popover-snippet">AOPANever Again Online: Optical illusions5 Apr 2002 — This illusion has two aspects to it, the first being the apparent closeness of the...</span></span></span>
+That mechanism maps well onto the first stage of the Cash-Landrum account. A single bright light above or beyond trees can appear ambiguous: it may seem stationary for a time, then shift as the car rounds bends; it may appear to descend or rise as tree lines and road grade change; and it may seem closer than it is because there are few intermediate cues. AOPA, discussing night flying optical illusions, gives a pilot’s example in which distant airport and city lights appeared much closer than they really were, with the actual distance later judged to be around 40 miles rather than 15 to 20.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/news-and-media/all-news/2002/april/pilot/never-again-online-optical-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">never again online optical illusions</span><span class="citation-popover-snippet">AOPANever Again Online: Optical illusions5 Apr 2002 — This illusion has two aspects to it, the first being the apparent closeness of the...</span></span></span>
 
 For a driver, the problem can be even less controlled than for a pilot. The witnesses were not navigating by instruments, consulting a chart, or holding a steady line of sight. They were in a car on a winding rural road, seeing the light intermittently through trees. A distant aircraft’s [landing lights]({{ 'landing-lights/' | relative_url }}) can appear very bright when aimed roughly toward the observer. A helicopter searchlight or landing light can also look like a single brilliant source before the aircraft itself is resolved. The first few minutes of confusion therefore do not require anything extraordinary.
 
-The same mechanism can also feed escalation. Once a light is judged to be “coming closer”, every new view through the trees may seem to confirm approach, descent, or hovering. The human visual system is good at interpreting familiar scenes, but much weaker when it has only a bright point against darkness. The FAA warning that bright lights can make a runway appear closer is written for pilots, but the underlying perceptual issue — brightness being mistaken for proximity — is directly relevant to a driver trying to judge an unexplained light at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Airplane Flying Handbook (3C) Chapter 11...</span></span></span>
+The same mechanism can also feed escalation. Once a light is judged to be “coming closer”, every new view through the trees may seem to confirm approach, descent, or hovering. The human visual system is good at interpreting familiar scenes, but much weaker when it has only a bright point against darkness. The FAA warning that bright lights can make a runway appear closer is written for pilots, but the underlying perceptual issue — brightness being mistaken for proximity — is directly relevant to a driver trying to judge an unexplained light at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Airplane Flying Handbook (3C) Chapter 11...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## Where the aircraft idea falls short
 
-The aircraft explanation becomes strained when it is asked to cover the full later account rather than the first light. In the Bergstrom Air Force Base interview, Betty Cash described the object as almost level with the treetops, lighting the sky, and blocking the road ahead. She later drew a diamond shape, with Vickie Landrum agreeing that the sketch roughly matched what she saw and adding that fire came from below. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> Cash also estimated the object as roughly water-tower sized, over or near the road, and close enough that she believed the car was about 130 feet back from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+The aircraft explanation becomes strained when it is asked to cover the full later account rather than the first light. In the Bergstrom Air Force Base interview, Betty Cash described the object as almost level with the treetops, lighting the sky, and blocking the road ahead. She later drew a diamond shape, with Vickie Landrum agreeing that the sketch roughly matched what she saw and adding that fire came from below.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> Cash also estimated the object as roughly water-tower sized, over or near the road, and close enough that she believed the car was about 130 feet back from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
 Those details are not what one expects from a normal aircraft approaching a major airport. A commercial aeroplane would not hover just above a rural road, repeatedly emit flame downward, or remain in that position for many minutes. A helicopter could hover and could carry a bright light, but the witnesses’ description of a large diamond-shaped object with heat and flame is not naturally explained by a single helicopter either. The point is not that the later description is therefore proven; it is that the “ordinary aircraft” hypothesis works best only at the earliest, least detailed stage of the sighting.
 
-The heat claims are the hardest break with a simple aircraft-light explanation. Cash told Air Force interviewers that the light and heat were intense, that the car door handle became too hot to touch with her bare hand, and that the car seemed to go dead before restarting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> Those are not typical effects of seeing a distant aircraft light. They either require a much closer heat source, a separate physical explanation, a mistaken interpretation of what happened inside the car, or a later account that mixed perception, fear, illness, and memory in ways that are difficult to untangle.
+The heat claims are the hardest break with a simple aircraft-light explanation. Cash told Air Force interviewers that the light and heat were intense, that the car door handle became too hot to touch with her bare hand, and that the car seemed to go dead before restarting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> Those are not typical effects of seeing a distant aircraft light. They either require a much closer heat source, a separate physical explanation, a mistaken interpretation of what happened inside the car, or a later account that mixed perception, fear, illness, and memory in ways that are difficult to untangle.
 
-The helicopter element complicates the aircraft explanation further. Cash said some helicopters followed the object towards Crosby and Intercontinental Airport, with helicopters on both sides and apparently trying to get around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> Yet the same interview shows how uncertain identification could be: when asked exactly what she saw on the helicopters, she first referred to “United States Air Force”, then had to clarify what was actually printed or seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> The helicopter claims are central to the alleged military link, but they are also a place where ordinary aviation recognition, stress, darkness, and expectation could easily interact.
+The helicopter element complicates the aircraft explanation further. Cash said some helicopters followed the object towards Crosby and Intercontinental Airport, with helicopters on both sides and apparently trying to get around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> Yet the same interview shows how uncertain identification could be: when asked exactly what she saw on the helicopters, she first referred to “United States Air Force”, then had to clarify what was actually printed or seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span> The helicopter claims are central to the alleged military link, but they are also a place where ordinary aviation recognition, stress, darkness, and expectation could easily interact.
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -492,7 +492,7 @@ The helicopter element complicates the aircraft explanation further. Cash said s
 
 The Houston airport explanation is strongest as a partial mechanism, not as a complete solution. It explains why the witnesses’ first reaction may have been ordinary, why a bright light in that region could be read as aviation-related, and why the initial sighting might have seemed to change as the car moved along a dark, wooded road. It also explains why later discussion naturally looked towards Houston Intercontinental for possible confirmation.
 
-Its weakness is that it does not explain the distinctive claims that made the Cash-Landrum case famous: heat, alleged physical effects, a diamond-shaped object near the road, and a formation of helicopters. Skeptical writers have therefore tended to make a broader argument: not merely that the object was an aeroplane, but that the case lacks solid independent evidence for its most dramatic elements. Sheaffer, for example, argued that if the events occurred exactly as later reported, no ordinary explanation would fit, while also stressing the absence of solid independent confirmation after years of searching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+Its weakness is that it does not explain the distinctive claims that made the Cash-Landrum case famous: heat, alleged physical effects, a diamond-shaped object near the road, and a formation of helicopters. Skeptical writers have therefore tended to make a broader argument: not merely that the object was an aeroplane, but that the case lacks solid independent evidence for its most dramatic elements. Sheaffer, for example, argued that if the events occurred exactly as later reported, no ordinary explanation would fit, while also stressing the absence of solid independent confirmation after years of searching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 That distinction is important for a fair reading of the case. “They first thought it was a plane” should not be used as a casual debunking shortcut. People often begin with ordinary explanations and then reject them when new details appear. But the reverse is also true: once an event becomes frightening, unusual, and repeatedly retold, the earliest ambiguous light can be absorbed into a much stronger later narrative. The Houston airport context therefore helps readers separate two questions that are often blurred together: what may have started the sighting, and whether the full Cash-Landrum account can be reduced to ordinary aircraft confusion.
 
@@ -501,7 +501,7 @@ That distinction is important for a fair reading of the case. “They first thou
 
 ## A careful bottom line
 
-Ordinary aircraft near Houston Intercontinental could plausibly account for the first impression of a bright light in the distance. Aviation safety sources show that night lights can mislead even trained pilots about distance, height, and alignment, especially over dark terrain with few visual cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Airplane Flying Handbook (3C) Chapter 11...</span></span></span> For a car travelling through woods, those same perceptual traps would be stronger, not weaker.
+Ordinary aircraft near Houston Intercontinental could plausibly account for the first impression of a bright light in the distance. Aviation safety sources show that night lights can mislead even trained pilots about distance, height, and alignment, especially over dark terrain with few visual cues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Airplane Flying Handbook (3C) Chapter 11...</span></span></span> For a car travelling through woods, those same perceptual traps would be stronger, not weaker.
 
 But the later Cash-Landrum claims go far beyond a distant aircraft light. A normal approach to Houston Intercontinental does not account for a large object hovering near treetop level, intense heat at the car, flame from below, engine or electrical effects, or a reported helicopter formation. The airport explanation is therefore best understood as a credible explanation for the witnesses’ first confusion, and a useful reminder that the case began in ordinary aviation context, rather than as a complete explanation of the entire alleged encounter.
 
@@ -509,194 +509,194 @@ But the later Cash-Landrum claims go far beyond a distant aircraft light. A norm
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Ordinary Aircraft Explain the First Light?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Ordinary Aircraft Explain the First Light?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores conventional versus unconventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores conventional versus unconventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Provides context for how aircraft lights and operations are perceived.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how aircraft lights and operations are perceived.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines cases where ordinary explanations are debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines cases where ordinary explanations are debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Relevant to aircraft-based interpretations of unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to aircraft-based interpretations of unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="aircraft-could-ordinary-aircraft-explain-the-first-light-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -712,7 +712,7 @@ But the later Cash-Landrum claims go far beyond a distant aircraft light. A norm
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -732,7 +732,7 @@ But the later Cash-Landrum claims go far beyond a distant aircraft light. A norm
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -764,7 +764,7 @@ But the later Cash-Landrum claims go far beyond a distant aircraft light. A norm
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -816,7 +816,7 @@ But the later Cash-Landrum claims go far beyond a distant aircraft light. A norm
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -861,7 +861,7 @@ But the later Cash-Landrum claims go far beyond a distant aircraft light. A norm
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -902,138 +902,138 @@ But the later Cash-Landrum claims go far beyond a distant aircraft light. A norm
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fly2houston.com  
    Title: Our Story  
-   Link: <a href="https://www.fly2houston.com/airport-business/our-story/" target="_blank" rel="noopener noreferrer nofollow">https://www.fly2houston.com/airport-business/our-story/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Story...</p></details>
+   Link:<a href="https://www.fly2houston.com/airport-business/our-story/" target="_blank" rel="noopener noreferrer nofollow">https://www.fly2houston.com/airport-business/our-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Story...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: Airplane Flying Handbook (3C) Chapter 11  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Flying Handbook (3C) Chapter 11...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Flying Handbook (3C) Chapter 11...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aopa.org  
    Title: never again online optical illusions  
-   Link: <a href="https://www.aopa.org/news-and-[media" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-[media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Never Again Online: Optical illusions5 Apr 2002 — This illusion has two aspects to it, the first being the apparent closeness of the...</p></details>
+   Link:<a href="https://www.aopa.org/news-and-[media" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-[media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Never Again Online: Optical illusions5 Apr 2002 — This illusion has two aspects to it, the first being the apparent closeness of the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & Colby Landrum, Part 1 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: IAH Airport Capacity Profile 2014  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/airports/planning_capacity/profiles/IAH-Airport-Capacity-Profile-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/airports/planning_capacity/profiles/IAH-Airport-Capacity-Profile-2014.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/airports/planning_capacity/profiles/IAH-Airport-Capacity-Profile-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/airports/planning_capacity/profiles/IAH-Airport-Capacity-Profile-2014.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: George Bush Intercontinental Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tshaonline.org  
    Title: Texas State Historical Association Houston Intercontinental Airport  
-   Link: <a href="https://www.tshaonline.org/handbook/entries/houston-intercontinental-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/handbook/entries/houston-intercontinental-airport</a>  
+   Link:<a href="https://www.tshaonline.org/handbook/entries/houston-intercontinental-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/handbook/entries/houston-intercontinental-airport</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file</a>  
+   Link:<a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-[case-file</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2015/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/page/3/</a>  
+   Link:<a href="https://skepticalinquirer.org/2015/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/page/3/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: qsl.net  
    Title: Night Flying  
-   Link: <a href="https://www.qsl.net/wu1m/Night_Flying.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/wu1m/Night_Flying.pdf</a>  
+   Link:<a href="https://www.qsl.net/wu1m/Night_Flying.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/wu1m/Night_Flying.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO Magical Mystery Tour with Michael Schratt  
-   Link: <a href="https://www.youtube.com/watch?v=TdekqMVGWyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TdekqMVGWyk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigative documentary The Lawsuit That Never Landed: The Cash-Landrum Encounter details the [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) of the initial sighting outs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TdekqMVGWyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TdekqMVGWyk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The investigative documentary The Lawsuit That Never Landed: The Cash-Landrum Encounter details the [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) of the initial sighting outs...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faasafety.gov  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident: 23 Helicopters and a Deadly UFO  
-   Link: <a href="https://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0r5par-v67w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0r5par-v67w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Lawsuit That Never Landed: The Cash-Landrum Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=XeHaNpNlHQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XeHaNpNlHQQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: 23 Helicopters and a Deadly UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XeHaNpNlHQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XeHaNpNlHQQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: 23 Helicopters and a Deadly UFO...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ufoac.com  
-   Link: <a href="https://ufoac.com/cash%E2%80%93landrum-ufo-incident.-who-burned-people-with-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/cash%E2%80%93landrum-ufo-incident.-who-burned-people-with-[radiation</a>  
+   Link:<a href="https://ufoac.com/cash%E2%80%93landrum-ufo-incident.-who-burned-people-with-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/cash%E2%80%93landrum-ufo-incident.-who-burned-people-with-[radiation</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mrballen/videos/even-a-nasa-scientist-became-a-believer-after-this/2304060873305561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/videos/even-a-nasa-scientist-became-a-believer-after-this/2304060873305561/</a>  
+   Link:<a href="https://www.facebook.com/mrballen/videos/even-a-nasa-scientist-became-a-believer-after-this/2304060873305561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/videos/even-a-nasa-scientist-became-a-believer-after-this/2304060873305561/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: flightsafety.org  
-   Link: <a href="https://flightsafety.org/wp-content/uploads/2016/11/asw_aug10_p14-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/11/asw_aug10_p14-18.pdf</a>  
+   Link:<a href="https://flightsafety.org/wp-content/uploads/2016/11/asw_aug10_p14-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/11/asw_aug10_p14-18.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/973482324/FAA-Pilots-Handbook-Night-Operations-Ch10-marked" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/973482324/FAA-Pilots-Handbook-Night-Operations-Ch10-marked</a>  
+   Link:<a href="https://www.scribd.com/document/973482324/FAA-Pilots-Handbook-Night-Operations-Ch10-marked" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/973482324/FAA-Pilots-Handbook-Night-Operations-Ch10-marked</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: easttexashistory.org  
-   Link: <a href="https://easttexashistory.org/items/show/145" target="_blank" rel="noopener noreferrer nofollow">https://easttexashistory.org/items/show/145</a>  
+   Link:<a href="https://easttexashistory.org/items/show/145" target="_blank" rel="noopener noreferrer nofollow">https://easttexashistory.org/items/show/145</a>  

@@ -274,7 +274,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_he
 
 ## Introduction
 
-The helicopter issue sat at the centre of the [Cash-Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}). The witnesses did not merely claim to have seen a strange object near Dayton, Texas, in December 1980. They also reported that [the object]({{ 'the-object/' | relative_url }}) was accompanied by a large formation of military-style helicopters. That detail created a possible route to federal liability. If the helicopters could be identified as government aircraft, then the witnesses might be able to connect their alleged injuries to a federal operation. If they could not, the legal case would struggle regardless of how unusual the underlying sighting appeared. In the end, the courts found that the necessary government connection had not been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — One day in April 1981, a CH-47 helicopter flew into Dayton. As Colby watched, he became very upset. Landrum decided to ta...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The helicopter issue sat at the centre of the [Cash-Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}). The witnesses did not merely claim to have seen a strange object near Dayton, Texas, in December 1980. They also reported that [the object]({{ 'the-object/' | relative_url }}) was accompanied by a large formation of military-style helicopters. That detail created a possible route to federal liability. If the helicopters could be identified as government aircraft, then the witnesses might be able to connect their alleged injuries to a federal operation. If they could not, the legal case would struggle regardless of how unusual the underlying sighting appeared. In the end, the courts found that the necessary government connection had not been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — One day in April 1981, a CH-47 helicopter flew into Dayton. As Colby watched, he became very upset. Landrum decided to ta...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-1-dark.svg" | relative_url }}" alt="Agency Link illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ The helicopter issue sat at the centre of the [Cash-Landrum lawsuit]({{ 'lawsuit
 
 From a legal perspective, the unidentified object was almost secondary. A lawsuit against the United States required proof that federal personnel or agencies were involved. The reported helicopters offered the most concrete path to that proof because helicopters are identifiable [aircraft]({{ 'aircraft/' | relative_url }}) with operators, bases, [flight records]({{ 'flight-records/' | relative_url }}) and chains of command.
 
-The witnesses consistently described numerous helicopters accompanying or surrounding the object. Their accounts often cited around twenty-three aircraft. Several were later described as tandem-rotor helicopters resembling Boeing CH-47 Chinooks, a distinctive heavy-lift design widely used by military forces. The unusual shape of the Chinook made it one of the easier helicopter types for witnesses to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks+2TechEBlog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopt...</span><span class="citation-popover-meta">Published: December 29, 1980</span></span></span>
+The witnesses consistently described numerous helicopters accompanying or surrounding the object. Their accounts often cited around twenty-three aircraft. Several were later described as tandem-rotor helicopters resembling Boeing CH-47 Chinooks, a distinctive heavy-lift design widely used by military forces. The unusual shape of the Chinook made it one of the easier helicopter types for witnesses to recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks+2TechEBlog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopt...</span><span class="citation-popover-meta">Published: December 29, 1980</span></span></span>
 
-This distinction mattered because a mysterious aerial object could remain unidentified indefinitely. A formation of military helicopters, by contrast, should theoretically be traceable to a specific operator. The lawsuit therefore focused heavily on the aircraft rather than on proving what the object itself was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</span></span></span>
+This distinction mattered because a mysterious aerial object could remain unidentified indefinitely. A formation of military helicopters, by contrast, should theoretically be traceable to a specific operator. The lawsuit therefore focused heavily on the aircraft rather than on proving what the object itself was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ This distinction mattered because a mysterious aerial object could remain uniden
 
 The witnesses supplied several pieces of identification evidence, though each had limitations.
 
-First, Betty Cash stated that she believed she saw markings identifying some helicopters as belonging to the United States Air Force. During official interviews, investigators questioned her closely about exactly what had been seen and how clearly the markings had been observed. Later discussions of the case noted that this claimed identification became disputed and was never independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</span></span></span>
+First, Betty Cash stated that she believed she saw markings identifying some helicopters as belonging to the United States Air Force. During official interviews, investigators questioned her closely about exactly what had been seen and how clearly the markings had been observed. Later discussions of the case noted that this claimed identification became disputed and was never independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</span></span></span>
 
-Second, the witnesses repeatedly described the helicopters as twin-rotor aircraft. That description pointed investigators toward the CH-47 Chinook, a large tandem-rotor helicopter used by the US Army and some National Guard units. Researchers supporting the witnesses argued that the aircraft's silhouette was distinctive enough to make mistaken identification less likely. Some later UFO literature even attempted to trace potential Chinook units operating in Texas at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[Ufology News+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-snippet">Ufology NewsTHE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Eight CH-47 Chinook helicopters, which are large and have...</span></span></span>
+Second, the witnesses repeatedly described the helicopters as twin-rotor aircraft. That description pointed investigators toward the CH-47 Chinook, a large tandem-rotor helicopter used by the US Army and some National Guard units. Researchers supporting the witnesses argued that the aircraft's silhouette was distinctive enough to make mistaken identification less likely. Some later UFO literature even attempted to trace potential Chinook units operating in Texas at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[Ufology News+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-snippet">Ufology NewsTHE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Eight CH-47 Chinook helicopters, which are large and have...</span></span></span>
 
-Third, there were reports from other observers who claimed to have seen helicopters in the region that evening. One frequently cited account came from a local detective who reportedly observed a number of [Chinook-type]({{ 'chinook-type/' | relative_url }}) helicopters near Dayton on the same night. Such accounts suggested that helicopter activity may indeed have occurred in the area, but they did not establish who was operating the aircraft or whether they were connected to the object described by Cash and the Landrums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (po...</span></span></span>
+Third, there were reports from other observers who claimed to have seen helicopters in the region that evening. One frequently cited account came from a local detective who reportedly observed a number of [Chinook-type]({{ 'chinook-type/' | relative_url }}) helicopters near Dayton on the same night. Such accounts suggested that helicopter activity may indeed have occurred in the area, but they did not establish who was operating the aircraft or whether they were connected to the object described by Cash and the Landrums.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (po...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-2-dark.svg" | relative_url }}" alt="Agency Link illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -305,11 +305,11 @@ Third, there were reports from other observers who claimed to have seen helicopt
 
 The central problem was that recognising a helicopter type is not the same as identifying an operator.
 
-Even if the aircraft were Chinooks, that fact alone did not establish ownership by a specific federal agency. Chinooks were flown by multiple military organisations, including Army and National Guard units. Determining responsibility required evidence such as flight records, mission documentation, unit logs, pilot testimony or other official records linking a particular government organisation to the reported event. That evidence never emerged in a form accepted by the court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[Ufology News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-snippet">Ufology NewsTHE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Eight CH-47 Chinook helicopters, which are large and have...</span></span></span>
+Even if the aircraft were Chinooks, that fact alone did not establish ownership by a specific federal agency. Chinooks were flown by multiple military organisations, including Army and National Guard units. Determining responsibility required evidence such as flight records, mission documentation, unit logs, pilot testimony or other official records linking a particular government organisation to the reported event. That evidence never emerged in a form accepted by the court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[Ufology News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-snippet">Ufology NewsTHE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Eight CH-47 Chinook helicopters, which are large and have...</span></span></span>
 
-Government investigations examined military involvement and reported finding no evidence that federal agencies had conducted the operation alleged by the witnesses. Army and military officials denied participation, and investigators were unable to identify records placing government helicopters in a mission matching the witnesses' description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nationalufocenter.com/2014/01/1980-cash-landrum-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalufocenter.com">[UFO Center+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalufocenter.com</span><span class="citation-popover-title">1980 cash landrum ufo encounter</span><span class="citation-popover-snippet">Government for medical damages resulting from the unknown object encountered on...Read more...</span></span></span>
+Government investigations examined military involvement and reported finding no evidence that federal agencies had conducted the operation alleged by the witnesses. Army and military officials denied participation, and investigators were unable to identify records placing government helicopters in a mission matching the witnesses' description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nationalufocenter.com/2014/01/1980-cash-landrum-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalufocenter.com">[UFO Center+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalufocenter.com</span><span class="citation-popover-title">1980 cash landrum ufo encounter</span><span class="citation-popover-snippet">Government for medical damages resulting from the unknown object encountered on...Read more...</span></span></span>
 
-The legal standard was also stricter than the standard for a UFO report. The witnesses did not need merely to show that helicopters were present. They needed to show, by a preponderance of the evidence, that federal employees operating federal aircraft were responsible for the events that allegedly caused their injuries. The court concluded that the plaintiffs had not met that burden. Judges found insufficient evidence that either the helicopters or the unidentified object belonged to or were operated by the United States government. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform+2Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</span></span></span>
+The legal standard was also stricter than the standard for a UFO report. The witnesses did not need merely to show that helicopters were present. They needed to show, by a preponderance of the evidence, that federal employees operating federal aircraft were responsible for the events that allegedly caused their injuries. The court concluded that the plaintiffs had not met that burden. Judges found insufficient evidence that either the helicopters or the unidentified object belonged to or were operated by the United States government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform+2Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7V757DZ5Xwk" title="Cash-Landrum UFO Incident - The Unexplained [Episode 4]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer">Cash-Landrum UFO Incident - The Unexplained [Episode 4]</a></p><p class="youtube-embed-meta">Channel: Josh Snares</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7V757DZ5Xwk">Open on YouTube</a></p></div></div></div>
@@ -321,202 +321,202 @@ The legal standard was also stricter than the standard for a UFO report. The wit
 
 The helicopter reports created a powerful impression that some organised operation was underway. To many observers, the presence of numerous military-style aircraft made government involvement seem plausible. Yet plausibility and legal attribution are different things.
 
-The Cash-Landrum witnesses provided descriptions, counts, and claimed markings. Investigators and researchers explored possible Chinook connections. Additional witnesses reported helicopter activity. None of those elements, however, produced the documentary chain needed to tie the aircraft to a particular federal agency. The result was a persistent gap in the record: helicopters were reported, military helicopters were suspected, but a responsible government operator was never conclusively identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (po...</span></span></span>
+The Cash-Landrum witnesses provided descriptions, counts, and claimed markings. Investigators and researchers explored possible Chinook connections. Additional witnesses reported helicopter activity. None of those elements, however, produced the documentary chain needed to tie the aircraft to a particular federal agency. The result was a persistent gap in the record: helicopters were reported, military helicopters were suspected, but a responsible government operator was never conclusively identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (po...</span></span></span>
 
-That missing agency link ultimately became one of the most important facts in the entire case. The lawsuit did not fail because the witnesses could not describe the helicopters. It failed because the helicopters could not be connected, to the court's satisfaction, to a specific federal entity that could be held accountable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</span></span></span>
+That missing agency link ultimately became one of the most important facts in the entire case. The lawsuit did not fail because the witnesses could not describe the helicopters. It failed because the helicopters could not be connected, to the court's satisfaction, to a specific federal entity that could be held accountable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-3-dark.svg" | relative_url }}" alt="Agency Link illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the Helicopters Be Tied to the Government?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the Helicopters Be Tied to the Government?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores military sightings and evidence trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military sightings and evidence trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on testimony involving military personnel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testimony involving military personnel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for identifying aircraft and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for identifying aircraft and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820708-M.jpg" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard M. Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820708-M.jpg" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard M. Dolan</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Government information, Government policy, Conspiracies, Unidentified flying objects, Sightings and encou...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Government information, Government policy, Conspiracies, Unidentified flying objects, Sightings and encou...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift"><img src="{{ '/assets/images/marketplace-covers/11ad7281ec7ae75872a2.jpg' | relative_url }}" alt="Listing image for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift"><img src="{{ '/assets/images/marketplace-covers/11ad7281ec7ae75872a2.jpg' | relative_url }}" alt="Listing image for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKY ONE - UFO SHADO Konami collection"><img src="{{ '/assets/images/marketplace-covers/d6f8fcae581b37f681aa.jpg' | relative_url }}" alt="Listing image for SKY ONE - UFO SHADO Konami collection" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SKY ONE - UFO SHADO Konami collection</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKY ONE - UFO SHADO Konami collection"><img src="{{ '/assets/images/marketplace-covers/d6f8fcae581b37f681aa.jpg' | relative_url }}" alt="Listing image for SKY ONE - UFO SHADO Konami collection" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SKY ONE - UFO SHADO Konami collection</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami UFO series - Interceptor, sealed"><img src="{{ '/assets/images/marketplace-covers/cc932aad77368234dca3.jpg' | relative_url }}" alt="Listing image for Konami UFO series - Interceptor, sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Konami UFO series - Interceptor, sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami UFO series - Interceptor, sealed"><img src="{{ '/assets/images/marketplace-covers/cc932aad77368234dca3.jpg' | relative_url }}" alt="Listing image for Konami UFO series - Interceptor, sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Konami UFO series - Interceptor, sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="agency-link-could-the-helicopters-be-tied-to-the-government-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ That missing agency link ultimately became one of the most important facts in th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ That missing agency link ultimately became one of the most important facts in th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ That missing agency link ultimately became one of the most important facts in th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ That missing agency link ultimately became one of the most important facts in th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ That missing agency link ultimately became one of the most important facts in th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,136 +722,136 @@ That missing agency link ultimately became one of the most important facts in th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — One day in April 1981, a CH-47 helicopter flew into Dayton. As [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) watched, he became very upset. Landrum decided to ta...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — One day in April 1981, a CH-47 helicopter flew into Dayton. As [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) watched, he became very upset. Landrum decided to ta...</p></details>
    Published: April 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The corroboration by seven additional witnesses of strang...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopt...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopt...</p></details>
    Published: December 29, 1980  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techeblog.com  
    Title: 5 bizarre ufo related incidents that still cant be explained  
-   Link: <a href="https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Bizarre UFO Related Incidents That Still Can&#x27;t Be Explained9 Oct 2014 — Cash and Landrum counted 23 helicopters, and later identified s...</p></details>
+   Link:<a href="https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Bizarre UFO Related Incidents That Still Can&#x27;t Be Explained9 Oct 2014 — Cash and Landrum counted 23 helicopters, and later identified s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Boeing CH-47 Chinook  
-   Link: <a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>they sued the US government over it. The US district Court judge says, They couldn&#x27;t find any evidence those helicopters Betty and Vicky...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>they sued the US government over it. The US district Court judge says, They couldn&#x27;t find any evidence those helicopters Betty and Vicky...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufology-news.com  
-   Link: <a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology NewsTHE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Eight CH-47 Chinook helicopters, which are large and have...</p></details>
+   Link:<a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology NewsTHE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Eight CH-47 Chinook helicopters, which are large and have...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/908709173/125032" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/908709173/125032</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ouston area. United States if they were prepared assist the...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/908709173/125032" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/908709173/125032</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ouston area. United States if they were prepared assist the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military—the Army, Marines, and Air Force—issued statements denying any CH-47 helicopters were airborne in Texas on the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military—the Army, Marines, and Air Force—issued statements denying any CH-47 helicopters were airborne in Texas on the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (po...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (po...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalufocenter.com  
    Title: 1980 cash landrum ufo encounter  
-   Link: <a href="https://nationalufocenter.com/2014/01/1980-cash-landrum-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://nationalufocenter.com/2014/01/1980-cash-landrum-ufo-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government for medical damages resulting from the unknown object encountered on...Read more...</p></details>
+   Link:<a href="https://nationalufocenter.com/2014/01/1980-cash-landrum-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://nationalufocenter.com/2014/01/1980-cash-landrum-ufo-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government for medical damages resulting from the unknown object encountered on...Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1evtgcc/the_cashlandrum_ufo_mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1evtgcc/the_cashlandrum_ufo_mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Mystery: r/aliensThe Cash-Landrum UFO Mystery... SERIOUS UFO intel documents stolen out of Russia reveal decade-lo...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1evtgcc/the_cashlandrum_ufo_mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1evtgcc/the_cashlandrum_ufo_mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Mystery: r/aliensThe Cash-Landrum UFO Mystery... SERIOUS UFO intel documents stolen out of Russia reveal decade-lo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-[radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-[radiation-sickness?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?Transcript of the Bergstrom AFB interview Brad Sparks&#x27;s analysis of the &quot;radiation sickness&quot;...</p></details>
+   Link:<a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-[radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-[radiation-sickness?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?Transcript of the Bergstrom AFB interview Brad Sparks&#x27;s analysis of the &quot;radiation sickness&quot;...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: podbean.com  
    Title: State of the Unknown | Documented Hauntings and Real  
-   Link: <a href="https://www.podbean.com/podcast-detail/4cpv7-3551da/State-of-the-Unknown-%7C-Documented-Hauntings-and-Real-Paranormal-Cases-Across-America-Podcast" target="_blank" rel="noopener noreferrer nofollow">https://www.podbean.com/podcast-detail/4cpv7-3551da/State-of-the-Unknown-%7C-Documented-Hauntings-and-Real-Paranormal-Cases-Across-America-Podcast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 Chinook helicopters... More than four decades later, the Cash–Landrum Incident remains one of the most controversial UFO encounter...</p></details>
+   Link:<a href="https://www.podbean.com/podcast-detail/4cpv7-3551da/State-of-the-Unknown-%7C-Documented-Hauntings-and-Real-Paranormal-Cases-Across-America-Podcast" target="_blank" rel="noopener noreferrer nofollow">https://www.podbean.com/podcast-detail/4cpv7-3551da/State-of-the-Unknown-%7C-Documented-Hauntings-and-Real-Paranormal-Cases-Across-America-Podcast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 Chinook helicopters... More than four decades later, the Cash–Landrum Incident remains one of the most controversial UFO encounter...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>some kind of nuclear powered drone that they lost control of.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>some kind of nuclear powered drone that they lost control of.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e never scientifically confirmed. The court dismissed the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e never scientifically confirmed. The court dismissed the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hjkc.de  
    Title: The Cash-Landrum UFO Incident  
-   Link: <a href="https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CenapThe UFO story seems to defy debunking because of the physical injuries suffered by witnesses. by Brian Dunning. So often when we ope...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CenapThe UFO story seems to defy debunking because of the physical injuries suffered by witnesses. by Brian Dunning. So often when we ope...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: open.spotify.com  
    Title: 44It5fz Lpns Qw Wmm Xuulgf  
-   Link: <a href="https://open.spotify.com/episode/44It5fzLpnsQwWmmXuulgf" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/44It5fzLpnsQwWmmXuulgf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com676. Rare Live Interview with Colby Landrum, Cash...9 Jul 2025 — Colby Landrum—one of the three witnesses in the infamous 198...</p></details>
+   Link:<a href="https://open.spotify.com/episode/44It5fzLpnsQwWmmXuulgf" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/44It5fzLpnsQwWmmXuulgf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com676. Rare Live Interview with Colby Landrum, Cash...9 Jul 2025 — Colby Landrum—one of the three witnesses in the infamous 198...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Attack | Dark Mysteries21 Nov 2025 — On Dec. 29, 1980, Betty Cash, Vickie Landrum, and her grandson Colby encountered a...</p></details>
+   Link:<a href="https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Attack | Dark Mysteries21 Nov 2025 — On Dec. 29, 1980, Betty Cash, Vickie Landrum, and her grandson Colby encountered a...</p></details>

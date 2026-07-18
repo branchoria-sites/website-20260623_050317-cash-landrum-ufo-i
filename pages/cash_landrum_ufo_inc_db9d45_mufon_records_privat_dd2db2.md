@@ -448,7 +448,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-ov
 
 ## Introduction
 
-Private UFO investigators did not solve the Cash-Landrum incident, but they did preserve much of what later readers can examine: early witness interviews, MUFON forms, [medical summaries]({{ 'medical-gaps/' | relative_url }}), correspondence, [helicopter leads]({{ 'helicopter-leads/' | relative_url }}), legal papers, and later disputes over withheld or missing records. That makes the MUFON and private-investigation trail one of the most important evidence layers in the case. It is also one of the most problematic, because the surviving record is uneven: some material is close to the witnesses, while other material is filtered through investigators, advocacy, privacy concerns, rivalry between UFO groups, and speculation about secret government aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
+Private UFO investigators did not solve the Cash-Landrum incident, but they did preserve much of what later readers can examine: early witness interviews, MUFON forms, [medical summaries]({{ 'medical-gaps/' | relative_url }}), correspondence, [helicopter leads]({{ 'helicopter-leads/' | relative_url }}), legal papers, and later disputes over withheld or missing records. That makes the MUFON and private-investigation trail one of the most important evidence layers in the case. It is also one of the most problematic, because the surviving record is uneven: some material is close to the witnesses, while other material is filtered through investigators, advocacy, privacy concerns, rivalry between UFO groups, and speculation about secret government aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-overview.webp" | relative_url }}" alt="Overview image for MUFON Files" loading="eager" decoding="sync" fetchpriority="high">
@@ -456,11 +456,11 @@ The core point is simple: without John F. Schuessler, MUFON, [Project VISIT]({{ 
 
 ## Why MUFON Became Central
 
-MUFON, the Mutual UFO Network, began in 1969 as the Midwest UFO Network and later grew into a wider civilian investigation body, built around local investigators, field reports, a journal, and annual symposia. Its own history emphasises a grassroots structure designed to respond quickly to UFO reports, and notes that the organisation developed a Field Investigator’s Manual from 1971 to make reports more consistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">Through the Ages</span><span class="citation-popover-snippet">MUFON Through the Ages - MUFON...</span></span></span>
+MUFON, the Mutual UFO Network, began in 1969 as the Midwest UFO Network and later grew into a wider civilian investigation body, built around local investigators, field reports, a journal, and annual symposia. Its own history emphasises a grassroots structure designed to respond quickly to UFO reports, and notes that the organisation developed a Field Investigator’s Manual from 1971 to make reports more consistent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">Through the Ages</span><span class="citation-popover-snippet">MUFON Through the Ages - MUFON...</span></span></span>
 
-That structure mattered in the Cash-Landrum case because the official US Air Force UFO programme, Project Blue Book, had already ended. When [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) tried to report what she believed had happened, the route into sustained investigation was not a government UFO desk but the civilian UFO network. The case moved through NUFORC and APRO contacts before being handed to John F. Schuessler, then a senior MUFON figure in Texas and an aerospace engineer working in the Houston space community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
+That structure mattered in the Cash-Landrum case because the official US Air Force UFO programme, Project Blue Book, had already ended. When [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) tried to report what she believed had happened, the route into sustained investigation was not a government UFO desk but the civilian UFO network. The case moved through NUFORC and APRO contacts before being handed to John F. Schuessler, then a senior MUFON figure in Texas and an aerospace engineer working in the Houston space community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
 
-Schuessler’s status gave the case unusual authority in UFO circles. Blue Blurry Lines’ review of the original file notes that he was a NASA contractor on the Space Shuttle programme, but also stresses that his role in the case came from his private UFO work, not from an official NASA assignment. He was deputy director of MUFON and led Project VISIT, a small private group interested in the engineering and physiological aspects of reported UFO encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
+Schuessler’s status gave the case unusual authority in UFO circles. Blue Blurry Lines’ review of the original file notes that he was a NASA contractor on the Space Shuttle programme, but also stresses that his role in the case came from his private UFO work, not from an official NASA assignment. He was deputy director of MUFON and led Project VISIT, a small private group interested in the engineering and physiological aspects of reported UFO encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
 
 This distinction is important. Much later confusion comes from treating Schuessler’s aerospace background as if it made the investigation official. It did not. The Cash-Landrum file was primarily a private UFO investigation that later intersected with government agencies, medical professionals and the courts.
 
@@ -468,11 +468,11 @@ This distinction is important. Much later confusion comes from treating Schuessl
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-Illustration-1-dark.svg" | relative_url }}" alt="MUFON Files illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Interviews and Witness Statements
 
-The most valuable private-investigation material is the early witness record. Schuessler’s original 35-page report to MUFON, dated 4 March 1981, included MUFON sighting forms, witness questionnaires, handwritten interview notes, an on-site investigation report, a phone interview with [Betty Cash]({{ 'betty-cash/' | relative_url }}), notes from Alan Holt, and a helicopter-investigation memo. The table of contents preserved by Blue Blurry Lines shows that the file was not just a retelling, but a bundle of forms, calls, sketches and investigator notes created within roughly two months of the alleged event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
+The most valuable private-investigation material is the early witness record. Schuessler’s original 35-page report to MUFON, dated 4 March 1981, included MUFON sighting forms, witness questionnaires, handwritten interview notes, an on-site investigation report, a phone interview with [Betty Cash]({{ 'betty-cash/' | relative_url }}), notes from Alan Holt, and a helicopter-investigation memo. The table of contents preserved by Blue Blurry Lines shows that the file was not just a retelling, but a bundle of forms, calls, sketches and investigator notes created within roughly two months of the alleged event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
 
-That early file is useful because it catches details before the story became heavily shaped by documentaries, lawsuits and UFO conference presentations. It also complicates the case. Blue Blurry Lines argues that by the time Schuessler became involved, the witnesses had already told the story many times: to family members, doctors, police, NUFORC, APRO, reporters and others. In other words, even the “early” MUFON record was not a pristine first report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
+That early file is useful because it catches details before the story became heavily shaped by documentaries, lawsuits and UFO conference presentations. It also complicates the case. Blue Blurry Lines argues that by the time Schuessler became involved, the witnesses had already told the story many times: to family members, doctors, police, NUFORC, APRO, reporters and others. In other words, even the “early” MUFON record was not a pristine first report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Analysis</span></span></span>
 
-The Bergstrom Air Force Base interview of 17 August 1981 is another key preserved record. It was not a MUFON interview, but its public transcript is part of the wider private UFO archive around the case. The transcript records Betty Cash, Vickie Landrum and Colby Landrum speaking with Air Force claims personnel at the Bergstrom Air Force Base law library. CUFON notes that its transcript came from a tape supplied by Betty Cash, and it cautions that the transcription reflects the best effort of the transcriber rather than a perfect official record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Compare the Bergstrom Air Force Base transcript.">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Compare the Bergstrom Air Force Base transcript.</span><span class="citation-popover-snippet">Open source on cufon.org.</span></span></span>
+The Bergstrom Air Force Base interview of 17 August 1981 is another key preserved record. It was not a MUFON interview, but its public transcript is part of the wider private UFO archive around the case. The transcript records Betty Cash, Vickie Landrum and Colby Landrum speaking with Air Force claims personnel at the Bergstrom Air Force Base law library. CUFON notes that its transcript came from a tape supplied by Betty Cash, and it cautions that the transcription reflects the best effort of the transcriber rather than a perfect official record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Compare the Bergstrom Air Force Base transcript.">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Compare the Bergstrom Air Force Base transcript.</span><span class="citation-popover-snippet">Open source on cufon.org.</span></span></span>
 
 Together, the MUFON file and Bergstrom transcript let readers compare versions of the account. That comparison matters because some details appear to have become more fixed over time, including the precise shape of the object, the handling of the car, the claimed location, and the interpretation of helicopter activity. The private archive is therefore not just evidence for the witnesses’ story; it is evidence of how the story developed.
 
@@ -481,15 +481,15 @@ Together, the MUFON file and Bergstrom transcript let readers compare versions o
 
 ## Medical and Legal Document Trails
 
-The medical trail is the part of the private record that most strongly shaped public perception of the case. UFO writers and television programmes often treated Cash-Landrum as a “[radiation sickness]({{ 'radiation-claim/' | relative_url }})” case, and MUFON-related publications helped establish that framing. The Blue Blurry Lines document guide lists Schuessler’s “Cash-Landrum Radiation Case” in the November 1981 MUFON UFO Journal, his 1982 MUFON symposium paper “Radiation Sickness Caused by UFOs”, a December 1982 MUFON Journal technical review of radiation in the case, and later articles on medical evidence and government responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The medical trail is the part of the private record that most strongly shaped public perception of the case. UFO writers and television programmes often treated Cash-Landrum as a “[radiation sickness]({{ 'radiation-claim/' | relative_url }})” case, and MUFON-related publications helped establish that framing. The Blue Blurry Lines document guide lists Schuessler’s “Cash-Landrum Radiation Case” in the November 1981 MUFON UFO Journal, his 1982 MUFON symposium paper “Radiation Sickness Caused by UFOs”, a December 1982 MUFON Journal technical review of radiation in the case, and later articles on medical evidence and government responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-Yet the surviving files also show a major limitation. A later batch of more than 700 pages from a former MUFON officer contained case files, clippings, article drafts, correspondence, witness interviews, legal filings and other material, but the reviewer found no actual medical records in that collection, only summaries and correspondence discussing the witnesses’ health. The same review describes the collection as large but incomplete, with duplicated documents, missing primary records and gaps in quoted interview material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2017/11/the-cash-landrum-ufo-original-case-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Separate medical summaries from actual medical records.">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Separate medical summaries from actual medical records.</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Yet the surviving files also show a major limitation. A later batch of more than 700 pages from a former MUFON officer contained case files, clippings, article drafts, correspondence, witness interviews, legal filings and other material, but the reviewer found no actual medical records in that collection, only summaries and correspondence discussing the witnesses’ health. The same review describes the collection as large but incomplete, with duplicated documents, missing primary records and gaps in quoted interview material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2017/11/the-cash-landrum-ufo-original-case-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Separate medical summaries from actual medical records.">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Separate medical summaries from actual medical records.</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-That absence matters because medical causation was central to the case. Gary P. Posner’s later medical critique, published as a chapter in *The Reliability of UFO Witness Testimony*, argues that the reported signs and symptoms give strong reason to doubt ionising radiation as the cause of the illnesses. He also frames the case as one in which not only eyewitness testimony, but the testimony and interpretations of later contributors, require scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter? &#124; Zenodo</span><span class="citation-popover-snippet">ZenodoThe Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter? &#124; Zenodo</span></span></span>
+That absence matters because medical causation was central to the case. Gary P. Posner’s later medical critique, published as a chapter in *The Reliability of UFO Witness Testimony*, argues that the reported signs and symptoms give strong reason to doubt ionising radiation as the cause of the illnesses. He also frames the case as one in which not only eyewitness testimony, but the testimony and interpretations of later contributors, require scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter? &#124; Zenodo</span><span class="citation-popover-snippet">ZenodoThe Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter? &#124; Zenodo</span></span></span>
 
-Sceptics made a related point about baseline health records. Philip J. Klass repeatedly argued that if the case depended on a before-and-after medical claim, investigators needed evidence of the witnesses’ health before the incident, not only descriptions of illness afterwards. Blue Blurry Lines’ review of Klass’s correspondence notes that Schuessler and the witnesses considered such records private, while critics argued that the privacy decision weakened the evidential case once the incident became a lawsuit and public UFO claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Sceptics made a related point about baseline health records. Philip J. Klass repeatedly argued that if the case depended on a before-and-after medical claim, investigators needed evidence of the witnesses’ health before the incident, not only descriptions of illness afterwards. Blue Blurry Lines’ review of Klass’s correspondence notes that Schuessler and the witnesses considered such records private, while critics argued that the privacy decision weakened the evidential case once the incident became a lawsuit and public UFO claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The legal files followed the same pattern: they preserved a serious attempt to obtain accountability, but they did not prove government responsibility. The document guide lists legal materials ranging from damage claims to the attempted civil lawsuit, including the Cash-Landrum civil action file and CUFON-hosted legal documents. It also notes a key gap: documents from the defence investigation into whether the UFO was a US military device have not surfaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The legal files followed the same pattern: they preserved a serious attempt to obtain accountability, but they did not prove government responsibility. The document guide lists legal materials ranging from damage claims to the attempted civil lawsuit, including the Cash-Landrum civil action file and CUFON-hosted legal documents. It also notes a key gap: documents from the defence investigation into whether the UFO was a US military device have not surfaced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-Illustration-2-dark.svg" | relative_url }}" alt="MUFON Files illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -497,11 +497,11 @@ The legal files followed the same pattern: they preserved a serious attempt to o
 
 The private UFO investigation added three things that official handling alone probably would not have provided.
 
-First, it created continuity. Schuessler and MUFON kept the case active through journal articles, symposium papers, correspondence and eventually Schuessler’s 1998 book, *The Cash-Landrum UFO Incident*. Google Books lists that book as a 323-page volume by Schuessler, published by Geo Graphics Printing Company, and its foreword argues that the case had been neglected amid later UFO controversies such as Roswell and MJ-12. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">Google BooksThe Cash-Landrum UFO Incident - John F. Schuessler - Google Books...</span></span></span>
+First, it created continuity. Schuessler and MUFON kept the case active through journal articles, symposium papers, correspondence and eventually Schuessler’s 1998 book, *The Cash-Landrum UFO Incident*. Google Books lists that book as a 323-page volume by Schuessler, published by Geo Graphics Printing Company, and its foreword argues that the case had been neglected amid later UFO controversies such as Roswell and MJ-12.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">Google BooksThe Cash-Landrum UFO Incident - John F. Schuessler - Google Books...</span></span></span>
 
-Second, private investigators pursued lateral leads. They collected helicopter reports, interviewed additional witnesses, followed rumours, corresponded with doctors and researchers, and tried to connect the event to military activity. The Blue Blurry Lines document guide lists Schuessler’s 1983 MUFON Journal article on helicopter activity, VISIT notes on later helicopter witnesses, and Sarran-related material connected to the Army Inspector General investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Second, private investigators pursued lateral leads. They collected helicopter reports, interviewed additional witnesses, followed rumours, corresponded with doctors and researchers, and tried to connect the event to military activity. The Blue Blurry Lines document guide lists Schuessler’s 1983 MUFON Journal article on helicopter activity, VISIT notes on later helicopter witnesses, and Sarran-related material connected to the Army Inspector General investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-Third, the UFO community created a distributed archive. MUFON journals, CUFON transcripts, AFU files, Box-hosted scans, archived PDFs, private correspondence and later blog-based document guides now form a scattered but searchable paper trail. That is why modern readers can inspect the case as a documentary problem rather than relying only on a single dramatic account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Third, the UFO community created a distributed archive. MUFON journals, CUFON transcripts, AFU files, Box-hosted scans, archived PDFs, private correspondence and later blog-based document guides now form a scattered but searchable paper trail. That is why modern readers can inspect the case as a documentary problem rather than relying only on a single dramatic account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 But these strengths came with weaknesses. Private UFO investigation was also advocacy, networking and reputation management. Schuessler had to seek evidence, protect witnesses, promote the case and respond to critics. Those roles can conflict. A file designed to support witnesses in a public and legal fight is not the same as a neutral investigative archive.
 
@@ -510,13 +510,13 @@ But these strengths came with weaknesses. Private UFO investigation was also adv
 
 ## What Private Investigation Distorted or Left Unclear
 
-The private record did not only preserve the case; it also helped shape its mythology. One example is the “secret project” line of interpretation. Blue Blurry Lines traces how William Moore and Richard Doty-related claims fed rumours that the object was a malfunctioning secret government craft, sometimes linked to later UFO conspiracy language such as “Project Snowbird”. The same account notes that MUFON files contain correspondence from attorney Peter Gersten pressing Moore to produce alleged physical evidence, including soil samples, photographs and an executive briefing, but that the promised evidence did not materialise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
+The private record did not only preserve the case; it also helped shape its mythology. One example is the “secret project” line of interpretation. Blue Blurry Lines traces how William Moore and Richard Doty-related claims fed rumours that the object was a malfunctioning secret government craft, sometimes linked to later UFO conspiracy language such as “Project Snowbird”. The same account notes that MUFON files contain correspondence from attorney Peter Gersten pressing Moore to produce alleged physical evidence, including soil samples, photographs and an executive briefing, but that the promised evidence did not materialise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
 
-This episode shows a wider problem in private UFO investigation: unverified insider claims can redirect attention away from slower evidential work. The Cash-Landrum case already had concrete questions: What exactly did the witnesses see? Were helicopters present? What caused the reported illnesses? Were there medical records, radiation measurements or official [flight logs]({{ 'flight-logs/' | relative_url }}) to test the claims? Rumours about secret projects offered a more dramatic answer but did not provide reliable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
+This episode shows a wider problem in private UFO investigation: unverified insider claims can redirect attention away from slower evidential work. The Cash-Landrum case already had concrete questions: What exactly did the witnesses see? Were helicopters present? What caused the reported illnesses? Were there medical records, radiation measurements or official [flight logs]({{ 'flight-logs/' | relative_url }}) to test the claims? Rumours about secret projects offered a more dramatic answer but did not provide reliable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
 
-The road-location issue is another example. Later versions of the case often imply a known, physical scene, yet critical reviews point out that claimed physical marks and exact location evidence were not well documented. The *Sceptical Inquirer* review discusses claims that investigators had identified a heated or marked area of road, but notes the lack of photographs or other clear evidence showing such marks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+The road-location issue is another example. Later versions of the case often imply a known, physical scene, yet critical reviews point out that claimed physical marks and exact location evidence were not well documented. The *Sceptical Inquirer* review discusses claims that investigators had identified a heated or marked area of road, but notes the lack of photographs or other clear evidence showing such marks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
-The Texas Department of Health radiation inquiry also cuts both ways. According to the *Sceptical Inquirer* review, the state found no residual radiation along the road but was not simply dismissing the case; it reportedly offered to continue by having doctors examine the medical records. The review says there is no documentation in the state files that Schuessler accepted that help. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+The Texas Department of Health radiation inquiry also cuts both ways. According to the *Sceptical Inquirer* review, the state found no residual radiation along the road but was not simply dismissing the case; it reportedly offered to continue by having doctors examine the medical records. The review says there is no documentation in the state files that Schuessler accepted that help.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 The fairest reading is not that private investigators fabricated the case, nor that they proved it. They preserved a large, emotionally powerful, internally complicated record. That record supports the seriousness of the witnesses’ distress and the persistence of the investigation, but it also shows the evidential problems that prevented the case from becoming a proven military, radiation or UFO incident.
 
@@ -544,194 +544,194 @@ A practical reading order is:
 The lasting value of the MUFON and private UFO record is that it makes the Cash-Landrum case inspectable. It preserves witness voices, investigator decisions, medical interpretations, legal efforts and disputes over evidence. Its lasting limitation is the same one: the record is mediated, incomplete and sometimes advocacy-driven. That is why the Cash-Landrum incident remains not only a famous UFO injury claim, but also a case study in how civilian investigators can both save evidence and shape the mystery they are trying to solve.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did UFO Investigators Preserve?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did UFO Investigators Preserve?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains UFO case investigation methods and evidence preservation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains UFO case investigation methods and evidence preservation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses case files, witness reports, and investigative challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses case files, witness reports, and investigative challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context for private versus official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for private versus official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documentation, witnesses, and investigative records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documentation, witnesses, and investigative records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="mufon-files-what-did-ufo-investigators-preserve-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -747,7 +747,7 @@ The lasting value of the MUFON and private UFO record is that it makes the Cash-
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -767,7 +767,7 @@ The lasting value of the MUFON and private UFO record is that it makes the Cash-
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -799,7 +799,7 @@ The lasting value of the MUFON and private UFO record is that it makes the Cash-
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -851,7 +851,7 @@ The lasting value of the MUFON and private UFO record is that it makes the Cash-
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -896,7 +896,7 @@ The lasting value of the MUFON and private UFO record is that it makes the Cash-
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -937,167 +937,167 @@ The lasting value of the MUFON and private UFO record is that it makes the Cash-
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mufon.com  
    Title: Through the Ages  
-   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the Ages - MUFON...</p></details>
+   Link:<a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the Ages - MUFON...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: books.google.com  
    Title: Books The Cash-Landrum UFO Incident  
-   Link: <a href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe Cash-Landrum UFO Incident - John F. Schuessler - Google Books...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe Cash-Landrum UFO Incident - John F. Schuessler - Google Books...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
+   Link:<a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
+   Link:<a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cash.app  
-   Link: <a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
+   Link:<a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.ph  
-   Link: <a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
+   Link:<a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
+   Link:<a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: colab.research.google.com  
    Title: 1z GGaeld AMK9z Dp Ns64l Mkj QH1WGLl98c  
-   Link: <a href="https://colab.research.google.com/drive/1zGGaeldAMK9zDpNs64lMkjQH1WGLl98c" target="_blank" rel="noopener noreferrer nofollow">https://colab.research.google.com/drive/1zGGaeldAMK9zDpNs64lMkjQH1WGLl98c</a>  
+   Link:<a href="https://colab.research.google.com/drive/1zGGaeldAMK9zDpNs64lMkjQH1WGLl98c" target="_blank" rel="noopener noreferrer nofollow">https://colab.research.google.com/drive/1zGGaeldAMK9zDpNs64lMkjQH1WGLl98c</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The incredible story of the Cash Landrum UFO incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incredible story of the Cash Landrum UFO incident...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blueblurrylines.com  
    Title: whos who in cash landrum ufo case  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo true picture  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: blueblurrylines.com  
    Title: 40 years and cash landrum ufo case  
-   Link: <a href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sourcewatch.org  
-   Link: <a href="https://www.sourcewatch.org/index.php/MUFON" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/MUFON</a>  
+   Link:<a href="https://www.sourcewatch.org/index.php/MUFON" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/MUFON</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: syfy.com  
    Title: mufon mutual ufo network showtime docuseries  
-   Link: <a href="https://www.syfy.com/syfy-wire/mufon-mutual-ufo-network-showtime-docuseries" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/mufon-mutual-ufo-network-showtime-docuseries</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/mufon-mutual-ufo-network-showtime-docuseries" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/mufon-mutual-ufo-network-showtime-docuseries</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: legistorm.com  
    Title: MUFO N  
-   Link: <a href="https://www.legistorm.com/organization/summary/180519/MUFON.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/organization/summary/180519/MUFON.html</a>  
+   Link:<a href="https://www.legistorm.com/organization/summary/180519/MUFON.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/organization/summary/180519/MUFON.html</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_JPmA78VuXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_JPmA78VuXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_JPmA78VuXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_JPmA78VuXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The incredible story of the Cash Landrum UFO incident  
-   Link: <a href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaUxzN1dDm4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum UFO MUFON Schuessler The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaUxzN1dDm4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum UFO MUFON Schuessler The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: becleverwithyourcash.com  
-   Link: <a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
+   Link:<a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/cash</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/cash</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/book-search/title/cash-landrum-ufo-incident/author/schuessler-john/" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/book-search/title/cash-landrum-ufo-incident/author/schuessler-john/</a>  
+   Link:<a href="https://www.abebooks.co.uk/book-search/title/cash-landrum-ufo-incident/author/schuessler-john/" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/book-search/title/cash-landrum-ufo-incident/author/schuessler-john/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/author/show/16148235.John_F_Schuessler" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/show/16148235.John_F_Schuessler</a>  
+   Link:<a href="https://www.goodreads.com/author/show/16148235.John_F_Schuessler" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/show/16148235.John_F_Schuessler</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: guinnessworldrecords.de  
-   Link: <a href="https://guinnessworldrecords.de/world-records/116241-largest-civilian-ufo-investigative-group" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/116241-largest-civilian-ufo-investigative-group</a>  
+   Link:<a href="https://guinnessworldrecords.de/world-records/116241-largest-civilian-ufo-investigative-group" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/116241-largest-civilian-ufo-investigative-group</a>  

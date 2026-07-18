@@ -448,7 +448,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-overv
 
 ## Introduction
 
-The $20 million [Cash-Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) failed for a simple but decisive legal reason: Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) could not prove that the object they said injured them, or the helicopters they said accompanied it, belonged to or were controlled by the United States government. That did not require the court to decide what the witnesses had seen, whether they were honestly reporting their experience, or whether their illnesses were real. It meant the plaintiffs had not cleared the threshold needed to hold the federal government liable. The case was dismissed by US District Judge Ross Sterling on 21 August 1986, before a trial on the wider merits of the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span><span class="citation-popover-snippet">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span></span></span>
+The $20 million [Cash-Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) failed for a simple but decisive legal reason: Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) could not prove that the object they said injured them, or the helicopters they said accompanied it, belonged to or were controlled by the United States government. That did not require the court to decide what the witnesses had seen, whether they were honestly reporting their experience, or whether their illnesses were real. It meant the plaintiffs had not cleared the threshold needed to hold the federal government liable. The case was dismissed by US District Judge Ross Sterling on 21 August 1986, before a trial on the wider merits of the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span><span class="citation-popover-snippet">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-overview.webp" | relative_url }}" alt="Overview image for Lawsuit" loading="eager" decoding="sync" fetchpriority="high">
@@ -458,7 +458,7 @@ That distinction matters because the lawsuit is often retold as if a court “de
 
 The lawsuit grew out of the reported 29 December 1980 encounter near Dayton and Huffman, Texas, in which Cash, Landrum, and Landrum’s grandson Colby said they came close to an intensely hot, bright, diamond-shaped object and later saw numerous military-style helicopters. The legal claim translated that UFO account into a government-liability argument: if the helicopters were military aircraft, and if they were escorting or responding to [the object]({{ 'the-object/' | relative_url }}), then the government may have known about, controlled, or negligently allowed the dangerous operation over a public road.
 
-Contemporary reporting framed the claim as a negligence suit. A September 1985 UPI report said Cash and Landrum were seeking $20 million, alleging that the government had failed to warn them about a UFO they said emitted dangerous radiation. The article also captured the government’s central defence: Assistant US Attorney Frank Conforti argued that the plaintiffs could not hold the government liable for something it did not own or control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">failed to warn them about a UFO they claim emitted... Cash and Vickie Landrum in response to a government motion to dismiss their suit.R...</span></span></span>
+Contemporary reporting framed the claim as a negligence suit. A September 1985 UPI report said Cash and Landrum were seeking $20 million, alleging that the government had failed to warn them about a UFO they said emitted dangerous radiation. The article also captured the government’s central defence: Assistant US Attorney Frank Conforti argued that the plaintiffs could not hold the government liable for something it did not own or control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">failed to warn them about a UFO they claim emitted... Cash and Vickie Landrum in response to a government motion to dismiss their suit.R...</span></span></span>
 
 The plaintiffs’ practical problem was that the most vivid part of the story was not enough by itself. Seeing helicopters that looked military did not prove the aircraft were Army, Air Force, Navy, National Guard, or other federal assets. Seeing a strange object did not prove that it was a classified US craft. In a UFO narrative, those links may feel intuitive; in a federal damages case, they had to be evidenced.
 
@@ -468,7 +468,7 @@ The plaintiffs’ practical problem was that the most vivid part of the story wa
 
 The helicopters were the strongest route to government responsibility because they sounded conventional enough to investigate. A giant, unidentified, heat-emitting object was hard to trace. Helicopters, especially if they were CH-47 Chinook-type aircraft as often described in later accounts, should have left some operational trail: flight records, unit involvement, witnesses at bases, maintenance logs, or a command explanation.
 
-That is why official and civilian investigations focused heavily on whether any US military helicopters were operating in the area that night. Blue Blurry Lines’ case chronology notes that once the Air Force did not accept ownership of the reported helicopters, the matter became an Army Inspector General investigation led by Lt Col George C. [Sarran]({{ 'sarran/' | relative_url }}). That investigation found no evidence that Army, National Guard, or Army Reserve helicopters were involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span><span class="citation-popover-snippet">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span></span></span>
+That is why official and civilian investigations focused heavily on whether any US military helicopters were operating in the area that night. Blue Blurry Lines’ case chronology notes that once the Air Force did not accept ownership of the reported helicopters, the matter became an Army Inspector General investigation led by Lt Col George C. [Sarran]({{ 'sarran/' | relative_url }}). That investigation found no evidence that Army, National Guard, or Army Reserve helicopters were involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span><span class="citation-popover-snippet">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span></span></span>
 
 This left the plaintiffs in an awkward position. Their claim depended on the helicopters being government aircraft, but the available official record did not support that link. Sarran reportedly considered several witnesses credible, yet a witness appearing credible is not the same as proving that a specific federal agency operated the aircraft. The lawsuit therefore exposed the gap between a compelling account and a legally actionable chain of responsibility.
 
@@ -477,7 +477,7 @@ This left the plaintiffs in an awkward position. Their claim depended on the hel
 
 ## The Government’s Motion to Dismiss
 
-By 1985, the case had reached the stage where the government was asking the court to throw it out. UPI reported that Judge Ross Sterling would review written arguments responding to the government’s motion to dismiss. The government’s position was blunt: the plaintiffs had not shown that the United States controlled the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">failed to warn them about a UFO they claim emitted... Cash and Vickie Landrum in response to a government motion to dismiss their suit.R...</span></span></span>
+By 1985, the case had reached the stage where the government was asking the court to throw it out. UPI reported that Judge Ross Sterling would review written arguments responding to the government’s motion to dismiss. The government’s position was blunt: the plaintiffs had not shown that the United States controlled the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">failed to warn them about a UFO they claim emitted... Cash and Vickie Landrum in response to a government motion to dismiss their suit.R...</span></span></span>
 
 The plaintiffs’ side had to do more than show injury or distress. They needed to show that the defendant — the US government — had a legally meaningful connection to the cause of the alleged harm. In practical terms, that meant proving one of the following:
 
@@ -491,17 +491,17 @@ The plaintiffs’ side had to do more than show injury or distress. They needed 
 
 </div>
 
-The [case file]({{ 'case-file/' | relative_url }}) also became entangled with claims about secret projects. Blue Blurry Lines reports that attorney Peter Gersten pursued the possibility that the object was a government device and asked about “Project Snowbird” and “Project Moondust” in interrogatories. Later commentary from the same archive argues that this line of inquiry may have weakened the case by pushing it towards unverified UFO-disinformation claims rather than admissible evidence tying the event to a known government actor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
+The [case file]({{ 'case-file/' | relative_url }}) also became entangled with claims about secret projects. Blue Blurry Lines reports that attorney Peter Gersten pursued the possibility that the object was a government device and asked about “Project Snowbird” and “Project Moondust” in interrogatories. Later commentary from the same archive argues that this line of inquiry may have weakened the case by pushing it towards unverified UFO-disinformation claims rather than admissible evidence tying the event to a known government actor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span><span class="citation-popover-snippet">Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-Illustration-2-dark.svg" | relative_url }}" alt="Lawsuit illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Case Was Dismissed
 
-Judge Sterling dismissed the case on 21 August 1986 without it going to trial. The most important reasons were lack of evidence and sworn statements from military representatives that they did not operate a vehicle resembling the described object. Blue Blurry Lines summarises the dismissal as resting on two key factors: the plaintiffs’ lack of proof, and statements by the US military that it did not operate a vehicle like the UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span><span class="citation-popover-snippet">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span></span></span>
+Judge Sterling dismissed the case on 21 August 1986 without it going to trial. The most important reasons were lack of evidence and sworn statements from military representatives that they did not operate a vehicle resembling the described object. Blue Blurry Lines summarises the dismissal as resting on two key factors: the plaintiffs’ lack of proof, and statements by the US military that it did not operate a vehicle like the UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span><span class="citation-popover-snippet">Blue Blurry Lines: Who&#x27;s Who in the Cash-Landrum UFO Case</span></span></span>
 
-Other summaries of the legal action make the same point. The case was dismissed after testimony or statements from officials associated with NASA, the Air Force, the Army and the Navy persuaded the court that no agency possessed the described UFO and that military personnel had not operated the reported helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Cash–Landrum incidentCash and Landrum sued the U.S. federal government for $20 million. a U.S. District Court judge dismissed their case...</span></span></span>
+Other summaries of the legal action make the same point. The case was dismissed after testimony or statements from officials associated with NASA, the Air Force, the Army and the Navy persuaded the court that no agency possessed the described UFO and that military personnel had not operated the reported helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Cash–Landrum incidentCash and Landrum sued the U.S. federal government for $20 million. a U.S. District Court judge dismissed their case...</span></span></span>
 
-A sceptical review in *Skeptical Inquirer* put the legal result in similarly narrow terms: Cash and Landrum sought $20 million in damages, were represented pro bono by Peter Gersten, and had their suit dismissed in 1986 because US government involvement had not been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+A sceptical review in *Skeptical Inquirer* put the legal result in similarly narrow terms: Cash and Landrum sought $20 million in damages, were represented pro bono by Peter Gersten, and had their suit dismissed in 1986 because US government involvement had not been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 The key word is “demonstrated”. The dismissal did not require the court to identify a mundane explanation for the sighting. It required the plaintiffs to connect the alleged harm to the federal defendant. They did not.
 
@@ -520,7 +520,7 @@ That distinction also explains why the case still attracts attention. In governa
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-Illustration-3-dark.svg" | relative_url }}" alt="Lawsuit illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Lawsuit Still Matters
 
-The lawsuit matters because it forced the Cash-Landrum incident into a formal accountability framework. Most UFO cases remain in the realm of witness reports, media retellings, and private investigation. This one produced claims forms, legal filings, government responses, archival traces, and a federal dismissal. Rice University’s Woodson Research Center, for example, lists a “Cash + Landrum vs US: UFO damages, 1985” file within the Clifford Stone Ufology research papers, showing how the lawsuit became part of the documentary afterlife of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.library.rice.edu/repositories/2/archival_objects/366761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Rice University ArchivesCash + Landrum vs US: UFO damages, 1985 &#124; ArchivesSpace Public Interface...</span></span></span>
+The lawsuit matters because it forced the Cash-Landrum incident into a formal accountability framework. Most UFO cases remain in the realm of witness reports, media retellings, and private investigation. This one produced claims forms, legal filings, government responses, archival traces, and a federal dismissal. Rice University’s Woodson Research Center, for example, lists a “Cash + Landrum vs US: UFO damages, 1985” file within the Clifford Stone Ufology research papers, showing how the lawsuit became part of the documentary afterlife of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.library.rice.edu/repositories/2/archival_objects/366761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Rice University ArchivesCash + Landrum vs US: UFO damages, 1985 &#124; ArchivesSpace Public Interface...</span></span></span>
 
 The case also shows the limits of litigation as a UFO-investigation tool. A court can ask whether a plaintiff has proved government responsibility. It is not designed to answer every unresolved factual question in an anomalous-event narrative. When records do not connect the alleged aircraft to the government, when agencies deny possession or operation of the object, and when no admissible evidence bridges that gap, the legal system has little room to proceed.
 
@@ -531,194 +531,194 @@ That is why the Cash-Landrum lawsuit remains both historically unusual and legal
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did the $20 Million Lawsuit Fail?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did the $20 Million Lawsuit Fail?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines unresolved cases involving government claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines unresolved cases involving government claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights evidence and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights evidence and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how unresolved sightings can remain open questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how unresolved sightings can remain open questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handling Federal Tort Claims on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handling Federal Tort Claims">Handling Federal Tort Claims</a>
-        </h4>
-        <p class="fr-book-author">By Lester S. Jayson and Robert C. Longstret</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handling Federal Tort Claims on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handling Federal Tort Claims">Handling Federal Tort Claims</a>
+</h4>
+<p class="fr-book-author">By Lester S. Jayson and Robert C. Longstret</p>
         
-        <p class="fr-book-desc">First published 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="lawsuit-why-did-the-20-million-lawsuit-fail-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -734,7 +734,7 @@ That is why the Cash-Landrum lawsuit remains both historically unusual and legal
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -754,7 +754,7 @@ That is why the Cash-Landrum lawsuit remains both historically unusual and legal
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -786,7 +786,7 @@ That is why the Cash-Landrum lawsuit remains both historically unusual and legal
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -838,7 +838,7 @@ That is why the Cash-Landrum lawsuit remains both historically unusual and legal
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -883,7 +883,7 @@ That is why the Cash-Landrum lawsuit remains both historically unusual and legal
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -924,113 +924,113 @@ That is why the Cash-Landrum lawsuit remains both historically unusual and legal
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blueblurrylines.com  
    Title: Blue Blurry Lines: Who's Who in the Cash-Landrum UFO Case  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentCash and Landrum sued the U.S. federal government for $20 million. a U.S. District Court judge dismissed their case...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentCash and Landrum sued the U.S. federal government for $20 million. a U.S. District Court judge dismissed their case...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: upi.com  
    Title: Three suing government over UFO radiation  
-   Link: <a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>failed to warn them about a UFO they claim emitted... Cash and Vickie Landrum in response to a government motion to dismiss their suit.R...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>failed to warn them about a UFO they claim emitted... Cash and Vickie Landrum in response to a government motion to dismiss their suit.R...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blueblurrylines.com  
    Title: Blue Blurry Lines: Cash-Landrum UFO Disinformation: Rick Doty & Bill Moore  
-   Link: <a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.library.rice.edu  
    Title: archival objects  
-   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/366761" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/366761</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University ArchivesCash + Landrum vs US: UFO damages, 1985 | ArchivesSpace Public Interface...</p></details>
+   Link:<a href="https://archives.library.rice.edu/repositories/2/archival_objects/366761" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/366761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University ArchivesCash + Landrum vs US: UFO damages, 1985 | ArchivesSpace Public Interface...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blueblurrylines.com  
    Title: ufo advocate [betty cash](&#123;&#123; 'betty-cash/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo true picture  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
    Title: Valerian, Valdamar Matrix II (1991) djvu.txt  
-   Link: <a href="https://archive.org/stream/ValerianValdamarMatrixII1991/Valerian%2C%20Valdamar%20-%20Matrix%20II%20%281991%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ValerianValdamarMatrixII1991/Valerian%2C%20Valdamar%20-%20Matrix%20II%20%281991%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ValerianValdamarMatrixII1991/Valerian%2C%20Valdamar%20-%20Matrix%20II%20%281991%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ValerianValdamarMatrixII1991/Valerian%2C%20Valdamar%20-%20Matrix%20II%20%281991%29_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: otherworlders.com  
    Title: The Cash-Landrum incident  
-   Link: <a href="https://otherworlders.com/ufo-sightings/the-[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://otherworlders.com/ufo-sightings/the-[cash-landrum-ufo-incident</a>  
+   Link:<a href="https://otherworlders.com/ufo-sightings/the-[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://otherworlders.com/ufo-sightings/the-[cash-landrum-ufo-incident</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stateoftheunknown.com  
-   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over...Mar 24, 2026 — Their injuries would lead to a lawsuit against the United Sta...</p></details>
+   Link:<a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over...Mar 24, 2026 — Their injuries would lead to a lawsuit against the United Sta...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ooEik3Bsqe0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ooEik3Bsqe0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lawsuit That Never Landed: The Cash-Landrum Encounter The Lawsuit That Never Landed: The Cash-Landrum Encounter Down the Crooked Path...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ooEik3Bsqe0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ooEik3Bsqe0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lawsuit That Never Landed: The Cash-Landrum Encounter The Lawsuit That Never Landed: The Cash-Landrum Encounter Down the Crooked Path...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/cashlandrumsarran01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/cashlandrumsarran01.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Cash-Landrum case, 1980, USAF memo 1/4, SarranThe DAIG inquiry focused exclusively on the question wether the Army, Army National Gua...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/cashlandrumsarran01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/cashlandrumsarran01.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Cash-Landrum case, 1980, USAF memo 1/4, SarranThe DAIG inquiry focused exclusively on the question wether the Army, Army National Gua...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Cash Landrum Texas UFO: 3 Witnesses, Radiation, No Answers  
-   Link: <a href="https://www.youtube.com/watch?v=0WqABa19kMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0WqABa19kMU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This UFO Caused Physical Injuries — The Cash-Landrum Incident (1980)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0WqABa19kMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0WqABa19kMU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This UFO Caused Physical Injuries — The Cash-Landrum Incident (1980)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident & UFO Injuries, Part 2  
-   Link: <a href="https://www.youtube.com/watch?v=ESJIGpvcKnQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ESJIGpvcKnQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum Texas UFO: 3 Witnesses, Radiation, No Answers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ESJIGpvcKnQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ESJIGpvcKnQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum Texas UFO: 3 Witnesses, Radiation, No Answers...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Lawsuit That Never Landed: The Cash-Landrum Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=XeHaNpNlHQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XeHaNpNlHQQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They Saw a UFO. Then They Got SICK. | EP62...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XeHaNpNlHQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XeHaNpNlHQQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They Saw a UFO. Then They Got SICK. | EP62...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
+   Link:<a href="https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stateoftheunknown.com  
-   Link: <a href="https://stateoftheunknown.com/blog/the-cashlandrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/blog/the-cashlandrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them</a>  
+   Link:<a href="https://stateoftheunknown.com/blog/the-cashlandrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/blog/the-cashlandrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: curiositiescat.com  
-   Link: <a href="https://curiositiescat.com/witnesses/e313a42d22559f9c" target="_blank" rel="noopener noreferrer nofollow">https://curiositiescat.com/witnesses/e313a42d22559f9c</a>  
+   Link:<a href="https://curiositiescat.com/witnesses/e313a42d22559f9c" target="_blank" rel="noopener noreferrer nofollow">https://curiositiescat.com/witnesses/e313a42d22559f9c</a>  

@@ -280,7 +280,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_mi
 
 ## Introduction
 
-The helicopter allegation in the Cash-Landrum case was the most testable part of the story. Witnesses claimed that a large formation of military-style helicopters, including [aircraft]({{ 'aircraft/' | relative_url }}) later identified as CH-47 Chinooks, surrounded or escorted the strange object they encountered in East Texas on 29 December 1980. Estimates ranged from roughly a dozen helicopters to more than twenty. Unlike an unidentified object, however, heavy helicopters are tangible machines that require crews, maintenance, fuel, flight planning, and coordination. If such a formation had actually operated over the area, investigators expected it to have left a substantial documentary and operational trail. The failure to find that trail became one of the most important findings of the Army Inspector General inquiry and later played a major role in the collapse of the witnesses' legal case against the US government. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The helicopter allegation in the Cash-Landrum case was the most testable part of the story. Witnesses claimed that a large formation of military-style helicopters, including [aircraft]({{ 'aircraft/' | relative_url }}) later identified as CH-47 Chinooks, surrounded or escorted the strange object they encountered in East Texas on 29 December 1980. Estimates ranged from roughly a dozen helicopters to more than twenty. Unlike an unidentified object, however, heavy helicopters are tangible machines that require crews, maintenance, fuel, flight planning, and coordination. If such a formation had actually operated over the area, investigators expected it to have left a substantial documentary and operational trail. The failure to find that trail became one of the most important findings of the Army Inspector General inquiry and later played a major role in the collapse of the witnesses' legal case against the US government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-1-dark.svg" | relative_url }}" alt="Paper Trail illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,9 +305,9 @@ For military helicopters, investigators would typically expect to find some comb
 
 The larger the formation, the harder it becomes to conceal or accidentally erase every associated record. A flight involving numerous CH-47-type helicopters would require substantial logistical support and coordination. That practical reality was one reason investigators regarded the helicopter claim as more verifiable than the unidentified object itself.
 
-Army Inspector General investigator Lt. Col. George [Sarran]({{ 'sarran/' | relative_url }}) specifically examined whether Army, National Guard, or Army Reserve helicopters could be connected to the reported event. His reported conclusion was straightforward: no evidence indicated involvement by those military helicopter forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</span></span></span>
+Army Inspector General investigator Lt. Col. George [Sarran]({{ 'sarran/' | relative_url }}) specifically examined whether Army, National Guard, or Army Reserve helicopters could be connected to the reported event. His reported conclusion was straightforward: no evidence indicated involvement by those military helicopter forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</span></span></span>
 
-The significance of that finding is often overlooked. Sarran did not merely fail to identify a particular unit; he failed to uncover evidence that any relevant Army helicopter organisation had conducted the operation described by the witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</span></span></span>
+The significance of that finding is often overlooked. Sarran did not merely fail to identify a particular unit; he failed to uncover evidence that any relevant Army helicopter organisation had conducted the operation described by the witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -316,13 +316,13 @@ The significance of that finding is often overlooked. Sarran did not merely fail
 
 The absence of a paper trail was accompanied by a broader absence of supporting aviation evidence.
 
-The witnesses believed that at least some of the helicopters were military aircraft, and the reported number was large enough that additional observers might reasonably have been expected. Yet investigators were unable to establish a documented chain linking any military flight activity to the event. Official inquiries repeatedly reached the same basic conclusion: no records tied the reported helicopters to a branch of the US armed forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The witnesses believed that at least some of the helicopters were military aircraft, and the reported number was large enough that additional observers might reasonably have been expected. Yet investigators were unable to establish a documented chain linking any military flight activity to the event. Official inquiries repeatedly reached the same basic conclusion: no records tied the reported helicopters to a branch of the US armed forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This does not prove that helicopters were absent. Records can be incomplete, lost, misfiled, or classified. Witnesses can also misidentify aircraft types or numbers. However, the inquiry confronted a specific problem: the stronger the helicopter claim became, the more difficult it was to explain why no corresponding operational evidence surfaced.
 
-The case did include a potentially supportive account from Dayton police officer Lamar Walker and his wife, who later reported seeing multiple [Chinook-type]({{ 'chinook-type/' | relative_url }}) helicopters in the area on the same night. Importantly, however, they did not report observing the central UFO event itself. Their testimony suggested helicopter activity but did not provide the missing link to a documented military operation. Even after those interviews, investigators still found no records establishing Army involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The case did include a potentially supportive account from Dayton police officer Lamar Walker and his wife, who later reported seeing multiple [Chinook-type]({{ 'chinook-type/' | relative_url }}) helicopters in the area on the same night. Importantly, however, they did not report observing the central UFO event itself. Their testimony suggested helicopter activity but did not provide the missing link to a documented military operation. Even after those interviews, investigators still found no records establishing Army involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The result was a persistent evidential gap. Witnesses reported helicopters. Investigators interviewed people who also claimed to have seen helicopters. Yet the expected operational footprint of a large military aviation mission remained elusive. Wikipedia+2Enigma Labs | Report a UFO sighting <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The result was a persistent evidential gap. Witnesses reported helicopters. Investigators interviewed people who also claimed to have seen helicopters. Yet the expected operational footprint of a large military aviation mission remained elusive. Wikipedia+2Enigma Labs | Report a UFO sighting<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-2-dark.svg" | relative_url }}" alt="Paper Trail illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,9 +332,9 @@ The absence of [helicopter records]({{ 'helicopter-trail/' | relative_url }}) wa
 
 Cash and Landrum eventually pursued a lawsuit against the US government, seeking compensation for injuries they believed were connected to the incident. To succeed, they needed more than proof that something unusual had occurred. They needed evidence linking the event to government personnel or equipment.
 
-The helicopter claim appeared to offer that link. If military helicopters had escorted or accompanied the object, then a government connection might be established. But as the investigations progressed, no documentary evidence emerged showing that military units had operated the helicopters described by the witnesses. Courts ultimately concluded that there was insufficient evidence connecting either the helicopters or the unidentified object to the federal government. The lawsuit was dismissed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The helicopter claim appeared to offer that link. If military helicopters had escorted or accompanied the object, then a government connection might be established. But as the investigations progressed, no documentary evidence emerged showing that military units had operated the helicopters described by the witnesses. Courts ultimately concluded that there was insufficient evidence connecting either the helicopters or the unidentified object to the federal government. The lawsuit was dismissed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-In this sense, the missing paper trail became one of the most consequential facts in the entire Cash-Landrum controversy. The witnesses' medical complaints, the reported heat effects, and the unidentified object remained subjects of debate. The helicopter allegation, by contrast, was the portion of the story most vulnerable to documentary verification. When investigators searched for [flight records]({{ 'flight-records/' | relative_url }}), unit involvement, and operational evidence, they found no confirmed military trail to follow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+In this sense, the missing paper trail became one of the most consequential facts in the entire Cash-Landrum controversy. The witnesses' medical complaints, the reported heat effects, and the unidentified object remained subjects of debate. The helicopter allegation, by contrast, was the portion of the story most vulnerable to documentary verification. When investigators searched for [flight records]({{ 'flight-records/' | relative_url }}), unit involvement, and operational evidence, they found no confirmed military trail to follow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -346,204 +346,204 @@ In this sense, the missing paper trail became one of the most consequential fact
 
 The helicopter question remains difficult because neither side obtained a decisive victory.
 
-Those who view the witnesses as credible point out that Sarran reportedly considered several key witnesses truthful and not prone to exaggeration. Multiple people independently reported helicopter activity, which makes simple invention an unsatisfying explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Those who view the witnesses as credible point out that Sarran reportedly considered several key witnesses truthful and not prone to exaggeration. Multiple people independently reported helicopter activity, which makes simple invention an unsatisfying explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Sceptics, however, focus on the absence of the records that a major helicopter operation should have generated. If dozens of heavy helicopters really participated in an organised mission over East Texas, why did investigators fail to uncover unit documentation, flight records, or other operational traces? That question remains one of the strongest challenges to the helicopter narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold+2George Wingfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">George Sarran of the Department of the Army Inspector General, found no evidence that the helicopters the witnesses claimed to see had...</span></span></span>
+Sceptics, however, focus on the absence of the records that a major helicopter operation should have generated. If dozens of heavy helicopters really participated in an organised mission over East Texas, why did investigators fail to uncover unit documentation, flight records, or other operational traces? That question remains one of the strongest challenges to the helicopter narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold+2George Wingfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">George Sarran of the Department of the Army Inspector General, found no evidence that the helicopters the witnesses claimed to see had...</span></span></span>
 
-For the Army Inspector General investigation, the issue ultimately came down to evidence rather than belief. The witnesses supplied a story that should have been verifiable through aviation records. Investigators looked for those records and did not find them. The resulting absence became one of the most important findings in the official examination of the Cash-Landrum incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</span></span></span>
+For the Army Inspector General investigation, the issue ultimately came down to evidence rather than belief. The witnesses supplied a story that should have been verifiable through aviation records. Investigators looked for those records and did not find them. The resulting absence became one of the most important findings in the official examination of the Cash-Landrum incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield+2Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-3-dark.svg" | relative_url }}" alt="Paper Trail illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where were the helicopter records?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where were the helicopter records?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes records, testimony, and official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes records, testimony, and official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses corroboration and missing evidence problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses corroboration and missing evidence problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how investigators rely on records and operational traces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators rely on records and operational traces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Highlights documentary gaps and witness testimony issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights documentary gaps and witness testimony issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVY HOOK - Original Patch - CHINOOK HELICOPTER - Rescue - Vietnam War - B.212"><img src="{{ '/assets/images/marketplace-covers/3bc08cf71e12db6682d6.jpg' | relative_url }}" alt="Listing image for HEAVY HOOK - Original Patch - CHINOOK HELICOPTER - Rescue - Vietnam War - B.212" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">HEAVY HOOK - Original Patch - CHINOOK HELICOPTER - Rescue - Vietnam War - B.212</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVY HOOK - Original Patch - CHINOOK HELICOPTER - Rescue - Vietnam War - B.212"><img src="{{ '/assets/images/marketplace-covers/3bc08cf71e12db6682d6.jpg' | relative_url }}" alt="Listing image for HEAVY HOOK - Original Patch - CHINOOK HELICOPTER - Rescue - Vietnam War - B.212" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">HEAVY HOOK - Original Patch - CHINOOK HELICOPTER - Rescue - Vietnam War - B.212</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT"><img src="{{ '/assets/images/marketplace-covers/900a1ed32e9f936ceba9.jpg' | relative_url }}" alt="Listing image for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT"><img src="{{ '/assets/images/marketplace-covers/900a1ed32e9f936ceba9.jpg' | relative_url }}" alt="Listing image for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON"><img src="{{ '/assets/images/marketplace-covers/ba8f529fe906087dfca0.jpg' | relative_url }}" alt="Listing image for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON"><img src="{{ '/assets/images/marketplace-covers/ba8f529fe906087dfca0.jpg' | relative_url }}" alt="Listing image for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHINOOK FIRST FLIGHT 1961 HELICOPTER RAF MILITARY BRITISH ARMY SEW IRON ON PATCH"><img src="{{ '/assets/images/marketplace-covers/e325ee23a77716ed364e.jpg' | relative_url }}" alt="Listing image for CHINOOK FIRST FLIGHT 1961 HELICOPTER RAF MILITARY BRITISH ARMY SEW IRON ON PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">CHINOOK FIRST FLIGHT 1961 HELICOPTER RAF MILITARY BRITISH ARMY SEW IRON ON PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHINOOK FIRST FLIGHT 1961 HELICOPTER RAF MILITARY BRITISH ARMY SEW IRON ON PATCH"><img src="{{ '/assets/images/marketplace-covers/e325ee23a77716ed364e.jpg' | relative_url }}" alt="Listing image for CHINOOK FIRST FLIGHT 1961 HELICOPTER RAF MILITARY BRITISH ARMY SEW IRON ON PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">CHINOOK FIRST FLIGHT 1961 HELICOPTER RAF MILITARY BRITISH ARMY SEW IRON ON PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="paper-trail-where-were-the-helicopter-records-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ For the Army Inspector General investigation, the issue ultimately came down to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ For the Army Inspector General investigation, the issue ultimately came down to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ For the Army Inspector General investigation, the issue ultimately came down to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ For the Army Inspector General investigation, the issue ultimately came down to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ For the Army Inspector General investigation, the issue ultimately came down to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,97 +749,97 @@ For the Army Inspector General investigation, the issue ultimately came down to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingCash-Landrum CaseGeorge Sarran of the Department of the Army Inspector General. A local policeman and...</p></details>
+   Link:<a href="https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingCash-Landrum CaseGeorge Sarran of the Department of the Army Inspector General. A local policeman and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Diamond-Shaped UFO Being Chased by Helicopters Over Fort Campbell, KY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Diamond-Shaped UFO Being Chased by Helicopters Over Fort Campbell, KY...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Sarran of the Department of the Army Inspector General, found no evidence that the helicopters the witnesses claimed to see had...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Sarran of the Department of the Army Inspector General, found no evidence that the helicopters the witnesses claimed to see had...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: georgewingfield.blogspot.com  
    Title: a fresh look at cash landrum ufo  
-   Link: <a href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</p></details>
+   Link:<a href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George WingfieldA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate that Army...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash (aged 51), [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;) (57), and Vickie&#x27;s grandson, Colby Landrum (7), were driving home to Dayton, Texas, in Cash&#x27;s Oldsmo...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash (aged 51), [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;) (57), and Vickie&#x27;s grandson, Colby Landrum (7), were driving home to Dayton, Texas, in Cash&#x27;s Oldsmo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — In this episode of Unexplained History, we investigate the Cash-Landru...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — In this episode of Unexplained History, we investigate the Cash-Landru...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y unit admitted operating helicopters in the area that night No...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y unit admitted operating helicopters in the area that night No...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: does disclosure mean that we will we finally  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>learn what...The Unsolved Cash-Landrum Incident of 1980, two women and a child receive radiation poisoning after witnessing military hel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>learn what...The Unsolved Cash-Landrum Incident of 1980, two women and a child receive radiation poisoning after witnessing military hel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — Was there a diamond shaped UFO over rural Texas in 1980? This is the astonishin...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — Was there a diamond shaped UFO over rural Texas in 1980? This is the astonishin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
    Title: the cash landrum ufo sighting 936bb5641f26  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingIn 1982, US Army Inspector General, Lt. Col. George Sarran re-interviewed all witnesses. He stated they were...</p></details>
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingIn 1982, US Army Inspector General, Lt. Col. George Sarran re-interviewed all witnesses. He stated they were...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>otor CH-47 Chinooks used by military forces worldwide...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>otor CH-47 Chinooks used by military forces worldwide...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>

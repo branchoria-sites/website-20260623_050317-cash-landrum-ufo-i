@@ -448,7 +448,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-ov
 
 ## Introduction
 
-Betty Cash’s reported hair loss is one of the most memorable parts of the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}), but it does not prove radiation injury on its own. The key dispute is not whether hair loss was claimed: it was discussed in the August 1981 Air Force interview and later case literature. The problem is interpretation. Some UFO accounts treat the hair loss as a visible sign of “[radiation sickness]({{ 'radiation-claim/' | relative_url }})”, while sceptical medical reviews point to timing, pattern, biopsy evidence, and the absence of expected blood abnormalities as reasons to be cautious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+Betty Cash’s reported hair loss is one of the most memorable parts of the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}), but it does not prove radiation injury on its own. The key dispute is not whether hair loss was claimed: it was discussed in the August 1981 Air Force interview and later case literature. The problem is interpretation. Some UFO accounts treat the hair loss as a visible sign of “[radiation sickness]({{ 'radiation-claim/' | relative_url }})”, while sceptical medical reviews point to timing, pattern, biopsy evidence, and the absence of expected blood abnormalities as reasons to be cautious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-overview.webp" | relative_url }}" alt="Overview image for Hair Loss" loading="eager" decoding="sync" fetchpriority="high">
@@ -459,40 +459,40 @@ The strongest reading is therefore narrower than the dramatic version: Cash appe
 
 ## What Symptoms Were Reported?
 
-In the witnesses’ later account, the night did not end with the object and helicopters disappearing. [Betty Cash]({{ 'betty-cash/' | relative_url }}) said she became ill quickly, describing burning, swelling, blisters, weakness, diarrhoea, headaches, and continuing gastrointestinal symptoms. In the [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, she said she was sick within 30 minutes, felt as though she had been badly blistered, and later described ongoing diarrhoea, weakness, fatigue, and severe headaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+In the witnesses’ later account, the night did not end with the object and helicopters disappearing. [Betty Cash]({{ 'betty-cash/' | relative_url }}) said she became ill quickly, describing burning, swelling, blisters, weakness, diarrhoea, headaches, and continuing gastrointestinal symptoms. In the [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, she said she was sick within 30 minutes, felt as though she had been badly blistered, and later described ongoing diarrhoea, weakness, fatigue, and severe headaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
-The hair-loss claim appears in two distinct ways. First, an Air Force interviewer noted a photograph showing “significant hair loss” along the side and crown of Cash’s head; Cash said the photographs were made later, not the following day. Second, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) also reported hair loss, but said hers began about a month to six weeks after the incident and later grew back with a different texture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+The hair-loss claim appears in two distinct ways. First, an Air Force interviewer noted a photograph showing “significant hair loss” along the side and crown of Cash’s head; Cash said the photographs were made later, not the following day. Second, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) also reported hair loss, but said hers began about a month to six weeks after the incident and later grew back with a different texture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
-That distinction matters. A symptom reported by witnesses is not automatically the same thing as a medically established cause. In Cash’s case, later summaries often compress a complicated timeline into a single image: UFO, burns, hair falling out, therefore radiation. The actual record is messier. Gary P. Posner’s review of the case notes that John Schuessler’s own presentation of hospital records has Cash first admitted on 2 January 1981 with swelling of the eyes, scalp, and face, while the admitting physician reportedly noted “little, if any, hair loss” at that time. Areas of alopecia were noted during the later readmission beginning 25 January, nearly a month after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
+That distinction matters. A symptom reported by witnesses is not automatically the same thing as a medically established cause. In Cash’s case, later summaries often compress a complicated timeline into a single image: UFO, burns, hair falling out, therefore radiation. The actual record is messier. Gary P. Posner’s review of the case notes that John Schuessler’s own presentation of hospital records has Cash first admitted on 2 January 1981 with swelling of the eyes, scalp, and face, while the admitting physician reportedly noted “little, if any, hair loss” at that time. Areas of alopecia were noted during the later readmission beginning 25 January, nearly a month after the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
 
-The reported skin symptoms are similarly complicated. Cash described blisters that broke and wept fluid, while Landrum described recurring marks, arm sensitivity, and fingernails that had come off. Those claims add to the sense that something serious happened to the witnesses, but they also widen the diagnostic problem. A mixed collection of burns, rashes, scalp swelling, gastrointestinal illness, eye irritation, nail changes, and later hair loss can point in several directions unless the timing and clinical findings line up tightly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+The reported skin symptoms are similarly complicated. Cash described blisters that broke and wept fluid, while Landrum described recurring marks, arm sensitivity, and fingernails that had come off. Those claims add to the sense that something serious happened to the witnesses, but they also widen the diagnostic problem. A mixed collection of burns, rashes, scalp swelling, gastrointestinal illness, eye irritation, nail changes, and later hair loss can point in several directions unless the timing and clinical findings line up tightly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-1-dark.svg" | relative_url }}" alt="Hair Loss illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Alopecia Versus Radiation Injury
 
-Hair loss can occur after radiation exposure, but “hair loss” is not a single medical signature. Alopecia simply means hair loss. Alopecia areata is a specific autoimmune condition in which the immune system attacks hair follicles, typically producing discrete bald patches on the scalp or other hair-bearing areas. DermNet describes it as an autoimmune condition that commonly presents as well-demarcated round or oval patches; biopsy and hair/scalp examination may help when the diagnosis is uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dermnetnz.org/topics/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dermnetnz.org">[DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dermnetnz.org</span><span class="citation-popover-title">Derm Net®Alopecia Areata: Causes, Diagnosis, and Treatment — Derm Net</span><span class="citation-popover-snippet">Derm Net®Alopecia Areata: Causes, Diagnosis, and Treatment — Derm Net</span></span></span>
+Hair loss can occur after radiation exposure, but “hair loss” is not a single medical signature. Alopecia simply means hair loss. Alopecia areata is a specific autoimmune condition in which the immune system attacks hair follicles, typically producing discrete bald patches on the scalp or other hair-bearing areas. DermNet describes it as an autoimmune condition that commonly presents as well-demarcated round or oval patches; biopsy and hair/scalp examination may help when the diagnosis is uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dermnetnz.org/topics/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dermnetnz.org">[DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dermnetnz.org</span><span class="citation-popover-title">Derm Net®Alopecia Areata: Causes, Diagnosis, and Treatment — Derm Net</span><span class="citation-popover-snippet">Derm Net®Alopecia Areata: Causes, Diagnosis, and Treatment — Derm Net</span></span></span>
 
-That is important because the Cash-Landrum dispute turns on pattern and pathology, not merely the existence of bald areas. Posner’s review says that Cash’s alopecia was noted during the second hospitalisation, that the dermatologist described round spots with black hair regrowth, and that the clinical impression was alopecia areata. He also notes that this impression was supported by a scalp biopsy, although radiologist Peter Rank disputed the pathologist’s interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
+That is important because the Cash-Landrum dispute turns on pattern and pathology, not merely the existence of bald areas. Posner’s review says that Cash’s alopecia was noted during the second hospitalisation, that the dermatologist described round spots with black hair regrowth, and that the clinical impression was alopecia areata. He also notes that this impression was supported by a scalp biopsy, although radiologist Peter Rank disputed the pathologist’s interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
 
-The radiation explanation has a different burden. The US Centers for Disease Control and Prevention explains that acute radiation syndrome requires a large, penetrating dose delivered to the whole body or a significant portion of it in a short time. It also describes a staged illness pattern involving nausea, vomiting, possible diarrhoea, a latent phase, and then syndrome-specific illness; severe gastrointestinal syndrome is associated with very high doses and extremely poor survival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
+The radiation explanation has a different burden. The US Centers for Disease Control and Prevention explains that acute radiation syndrome requires a large, penetrating dose delivered to the whole body or a significant portion of it in a short time. It also describes a staged illness pattern involving nausea, vomiting, possible diarrhoea, a latent phase, and then syndrome-specific illness; severe gastrointestinal syndrome is associated with very high doses and extremely poor survival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
 
-That dose-pattern issue is the central weakness of the “radiation sickness” claim. Posner argues that severe, persistent gastrointestinal symptoms attributed to penetrating ionising radiation would imply a dose high enough to produce other expected signs, especially blood-cell abnormalities, and potentially fatal outcomes. Yet the record he reviews describes no well-documented blood changes, later normal white cells and platelets, and bone-marrow findings not showing radiation damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
+That dose-pattern issue is the central weakness of the “radiation sickness” claim. Posner argues that severe, persistent gastrointestinal symptoms attributed to penetrating ionising radiation would imply a dose high enough to produce other expected signs, especially blood-cell abnormalities, and potentially fatal outcomes. Yet the record he reviews describes no well-documented blood changes, later normal white cells and platelets, and bone-marrow findings not showing radiation damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
 
-This does not mean Cash was not ill. It means the illness cannot responsibly be reduced to a single famous symptom. Alopecia areata can be sudden, patchy, emotionally devastating, and visually dramatic without being radiation-caused. The British Association of Dermatologists notes that alopecia areata is non-scarring, may involve coin-sized patches, can sometimes affect larger areas, and may regrow over months, although recurrence is possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bad.org.uk/pils/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bad.org.uk">[Bad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bad.org.uk</span><span class="citation-popover-title">Bad Alopecia areata</span><span class="citation-popover-snippet">Bad Alopecia areata</span></span></span>
+This does not mean Cash was not ill. It means the illness cannot responsibly be reduced to a single famous symptom. Alopecia areata can be sudden, patchy, emotionally devastating, and visually dramatic without being radiation-caused. The British Association of Dermatologists notes that alopecia areata is non-scarring, may involve coin-sized patches, can sometimes affect larger areas, and may regrow over months, although recurrence is possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bad.org.uk/pils/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bad.org.uk">[Bad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bad.org.uk</span><span class="citation-popover-title">Bad Alopecia areata</span><span class="citation-popover-snippet">Bad Alopecia areata</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
 
 ## Why the Timing Creates Doubt
 
-The timing of Cash’s hair loss is one of the most useful clues. In popular retellings, the hair loss may sound immediate, as though it began the morning after the encounter. In the Air Force interview, however, the photograph showing Cash’s scalp was discussed as a later photograph, and Posner’s review of the hospital-record summaries says little or no hair loss was noted when she was first admitted four days after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+The timing of Cash’s hair loss is one of the most useful clues. In popular retellings, the hair loss may sound immediate, as though it began the morning after the encounter. In the Air Force interview, however, the photograph showing Cash’s scalp was discussed as a later photograph, and Posner’s review of the hospital-record summaries says little or no hair loss was noted when she was first admitted four days after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
-That chronology does not rule out every possible injury from heat, light, chemicals, stress, or illness. But it weakens the most direct version of the radiation claim. Acute radiation syndrome is not diagnosed by one symptom appearing in isolation; it is assessed through dose, exposure route, timing, [blood counts]({{ 'blood-counts/' | relative_url }}), organ involvement, and clinical course. The CDC’s guidance emphasises that most radiation injuries are partial-body injuries and that local injuries seldom produce the classic signs of acute radiation syndrome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
+That chronology does not rule out every possible injury from heat, light, chemicals, stress, or illness. But it weakens the most direct version of the radiation claim. Acute radiation syndrome is not diagnosed by one symptom appearing in isolation; it is assessed through dose, exposure route, timing, [blood counts]({{ 'blood-counts/' | relative_url }}), organ involvement, and clinical course. The CDC’s guidance emphasises that most radiation injuries are partial-body injuries and that local injuries seldom produce the classic signs of acute radiation syndrome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
 
-The pattern of regrowth also matters. Posner reports that the dermatologist described black hair regrowth within the bald areas and contrasted this with the kind of post-irradiation changes often expected in radiation-related hair injury. That observation is not, by itself, a final diagnosis, but it is one reason the alopecia areata interpretation has remained a serious challenge to the radiation narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
+The pattern of regrowth also matters. Posner reports that the dermatologist described black hair regrowth within the bald areas and contrasted this with the kind of post-irradiation changes often expected in radiation-related hair injury. That observation is not, by itself, a final diagnosis, but it is one reason the alopecia areata interpretation has remained a serious challenge to the radiation narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Gary P. Posner</span></span></span>
 
-Vickie Landrum’s account complicates the picture further. She said her hair began coming out about a month to six weeks after the incident and later returned with a changed texture. That kind of delay could fit several forms of hair shedding after physical or emotional stress, illness, medication, or dermatological disease. DermNet notes that telogen effluvium, a shedding disorder, can occur two to six months after events such as illness, surgery, weight loss, haemorrhage, or psychological stress; it also distinguishes this from sudden anagen hair loss and from localised alopecia areata. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dermnetnz.org/topics/hair-loss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dermnetnz.org">[DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dermnetnz.org</span><span class="citation-popover-title">Derm Net®Hair loss, balding, hair shedding, alopecia</span><span class="citation-popover-snippet">Derm Net®Hair loss, balding, hair shedding, alopecia</span></span></span>
+Vickie Landrum’s account complicates the picture further. She said her hair began coming out about a month to six weeks after the incident and later returned with a changed texture. That kind of delay could fit several forms of hair shedding after physical or emotional stress, illness, medication, or dermatological disease. DermNet notes that telogen effluvium, a shedding disorder, can occur two to six months after events such as illness, surgery, weight loss, haemorrhage, or psychological stress; it also distinguishes this from sudden anagen hair loss and from localised alopecia areata.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dermnetnz.org/topics/hair-loss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dermnetnz.org">[DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dermnetnz.org</span><span class="citation-popover-title">Derm Net®Hair loss, balding, hair shedding, alopecia</span><span class="citation-popover-snippet">Derm Net®Hair loss, balding, hair shedding, alopecia</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-2-dark.svg" | relative_url }}" alt="Hair Loss illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -502,9 +502,9 @@ Hair loss is persuasive because it is visible. A photograph of bald patches feel
 
 Several traps make hair loss especially easy to overread:
 
-* **The symptom is not mechanism-specific.** Hair can fall out because of autoimmune disease, severe illness, stress-related shedding, drug or toxin effects, local skin disease, scarring injury, chemotherapy, or radiation. DermNet’s general hair-loss guide lists multiple categories, including autoimmune disease, medications, systemic disease, inflammatory scalp disease, and radiation as separate possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dermnetnz.org/topics/hair-loss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dermnetnz.org">[DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dermnetnz.org</span><span class="citation-popover-title">Derm Net®Hair loss, balding, hair shedding, alopecia</span><span class="citation-popover-snippet">Derm Net®Hair loss, balding, hair shedding, alopecia</span></span></span>
+* **The symptom is not mechanism-specific.** Hair can fall out because of autoimmune disease, severe illness, stress-related shedding, drug or toxin effects, local skin disease, scarring injury, chemotherapy, or radiation. DermNet’s general hair-loss guide lists multiple categories, including autoimmune disease, medications, systemic disease, inflammatory scalp disease, and radiation as separate possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dermnetnz.org/topics/hair-loss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dermnetnz.org">[DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dermnetnz.org</span><span class="citation-popover-title">Derm Net®Hair loss, balding, hair shedding, alopecia</span><span class="citation-popover-snippet">Derm Net®Hair loss, balding, hair shedding, alopecia</span></span></span>
 * **The case record is not a clean laboratory dataset.** The most dramatic claims come from witness testimony, photographs, interviews, later UFO literature, and partial medical summaries rather than a single contemporaneous independent medical report designed to test a radiation hypothesis.
-* **The symptom cluster is internally mixed.** Nausea and diarrhoea suggest one diagnostic pathway, blistering another, alopecia another, and eye irritation another. A radiation theory has to explain all of them together without conflicting with survival, blood counts, and dose expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
+* **The symptom cluster is internally mixed.** Nausea and diarrhoea suggest one diagnostic pathway, blistering another, alopecia another, and eye irritation another. A radiation theory has to explain all of them together without conflicting with survival, blood counts, and dose expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
 * **Emotional sincerity does not settle causation.** Cash and Landrum could have been truthful about suffering and still mistaken about what caused it. That is especially relevant in a frightening event followed by illness, investigation, publicity, and litigation.
 
 The fair conclusion is not that the hair loss is meaningless. It is a real part of why the case became famous and why many people still find it unsettling. The fairer conclusion is that hair loss is a weak standalone proof of radiation injury. It raises a medical question; it does not answer it.
@@ -514,9 +514,9 @@ The fair conclusion is not that the hair loss is meaningless. It is a real part 
 
 ## What the Hair Loss Claim Proves — and What It Does Not
 
-The hair loss claim proves that the Cash-Landrum case cannot be treated as a simple lights-in-the-sky story. The witnesses attached the event to bodily harm, and Cash’s reported alopecia became one of the most concrete-looking examples of that harm. The Air Force interview, later UFO investigations, and medical-record discussions all show that hair loss was not a late internet embellishment. It was part of the case’s documentary trail by 1981. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
+The hair loss claim proves that the Cash-Landrum case cannot be treated as a simple lights-in-the-sky story. The witnesses attached the event to bodily harm, and Cash’s reported alopecia became one of the most concrete-looking examples of that harm. The Air Force interview, later UFO investigations, and medical-record discussions all show that hair loss was not a late internet embellishment. It was part of the case’s documentary trail by 1981.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</span></span></span>
 
-What it does not prove is that the witnesses were exposed to ionising radiation from a UFO or secret military device. For that stronger claim, the hair loss would need to align with expected radiation biology: dose, timing, distribution, associated blood findings, organ injury, and a plausible exposure pathway. The available record instead contains tensions: reported severe symptoms without the expected radiation-dose consequences, an alopecia areata diagnosis, biopsy support disputed by one radiology consultant, and a first hospital admission in which hair loss was reportedly minimal or absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
+What it does not prove is that the witnesses were exposed to ionising radiation from a UFO or secret military device. For that stronger claim, the hair loss would need to align with expected radiation biology: dose, timing, distribution, associated blood findings, organ injury, and a plausible exposure pathway. The available record instead contains tensions: reported severe symptoms without the expected radiation-dose consequences, an alopecia areata diagnosis, biopsy support disputed by one radiology consultant, and a first hospital admission in which hair loss was reportedly minimal or absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians &#124; Radiation Emergencies &#124; CDC...</span></span></span>
 
 The most defensible reading is therefore cautious and humane. Betty Cash’s suffering should not be dismissed merely because the UFO explanation is disputed. But the hair loss should not be treated as a medical shortcut to radiation either. In the Cash-Landrum incident, alopecia is best understood as a contested symptom: dramatic, emotionally powerful, medically relevant, and insufficient on its own to prove what harmed the witnesses.
 
@@ -524,194 +524,194 @@ The most defensible reading is therefore cautious and humane. Betty Cash’s suf
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-3-dark.svg" | relative_url }}" alt="Hair Loss illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does the Hair Loss Claim Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does the Hair Loss Claim Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers assess whether symptoms and anecdotes constitute strong evidence for a particular explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess whether symptoms and anecdotes constitute strong evidence for a particular explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating UFO witness testimony and disputed physical effects claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating UFO witness testimony and disputed physical effects claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores methods of evaluating UFO reports and witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores methods of evaluating UFO reports and witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hair-loss-what-does-the-hair-loss-claim-prove-cash-landrum-ufo-incident-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -727,7 +727,7 @@ The most defensible reading is therefore cautious and humane. Betty Cash’s suf
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -747,7 +747,7 @@ The most defensible reading is therefore cautious and humane. Betty Cash’s suf
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -779,7 +779,7 @@ The most defensible reading is therefore cautious and humane. Betty Cash’s suf
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -831,7 +831,7 @@ The most defensible reading is therefore cautious and humane. Betty Cash’s suf
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -876,7 +876,7 @@ The most defensible reading is therefore cautious and humane. Betty Cash’s suf
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -917,137 +917,137 @@ The most defensible reading is therefore cautious and humane. Betty Cash’s suf
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & [Colby](&#123;&#123; 'colby/' | relative_url &#125;&#125;) Landrum, Part 1 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gpposner.com  
    Title: Gary P. Posner  
-   Link: <a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
+   Link:<a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for Clinicians | Radiation Emergencies | CDC...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for Clinicians | Radiation Emergencies | CDC...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/media/pdfs/ARS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/media/pdfs/ARS.pdf</a>  
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/media/pdfs/ARS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/media/pdfs/ARS.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cash.app  
-   Link: <a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
+   Link:<a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dermnetnz.org  
    Title: Derm Net®Alopecia Areata: Causes, Diagnosis, and Treatment — Derm Net  
-   Link: <a href="https://dermnetnz.org/topics/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/alopecia-areata</a>  
+   Link:<a href="https://dermnetnz.org/topics/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/alopecia-areata</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bad.org.uk  
    Title: Bad Alopecia areata  
-   Link: <a href="https://www.bad.org.uk/pils/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://www.bad.org.uk/pils/alopecia-areata</a>  
+   Link:<a href="https://www.bad.org.uk/pils/alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://www.bad.org.uk/pils/alopecia-areata</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dermnetnz.org  
    Title: Derm Net®Hair loss, balding, hair shedding, alopecia  
-   Link: <a href="https://dermnetnz.org/topics/hair-loss" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/hair-loss</a>  
+   Link:<a href="https://dermnetnz.org/topics/hair-loss" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/hair-loss</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CashCash is money in the tangible form of currency, such as banknotes and coins. Banknotes and coins of various currencies. In book-ke...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CashCash is money in the tangible form of currency, such as banknotes and coins. Banknotes and coins of various currencies. In book-ke...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Acute radiation syndrome  
-   Link: <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute radiation syndromeARS involves a total dose of greater than 0.7 Gy (70 rad), which generally occurs from a source outside the bo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute radiation syndromeARS involves a total dose of greater than 0.7 Gy (70 rad), which generally occurs from a source outside the bo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dermnetnz.org  
-   Link: <a href="https://dermnetnz.org/topics/alopecia-areata-in-children" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/alopecia-areata-in-children</a>  
+   Link:<a href="https://dermnetnz.org/topics/alopecia-areata-in-children" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/alopecia-areata-in-children</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dermnetnz.org  
-   Link: <a href="https://dermnetnz.org/topics/diffuse-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/diffuse-alopecia</a>  
+   Link:<a href="https://dermnetnz.org/topics/diffuse-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/diffuse-alopecia</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dermnetnz.org  
-   Link: <a href="https://dermnetnz.org/imagedetail/3286-alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/imagedetail/3286-alopecia-areata</a>  
+   Link:<a href="https://dermnetnz.org/imagedetail/3286-alopecia-areata" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/imagedetail/3286-alopecia-areata</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dermnetnz.org  
-   Link: <a href="https://dermnetnz.org/topics/frontal-fibrosing-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/frontal-fibrosing-alopecia</a>  
+   Link:<a href="https://dermnetnz.org/topics/frontal-fibrosing-alopecia" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/frontal-fibrosing-alopecia</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mayoclinic.org  
    Title: Radiation sickness  
-   Link: <a href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058</a>  
+   Link:<a href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentCash&#x27;s doctor&#x27;s notes attribute her hair loss to the autoimmune disease alopecia areata, that her other symptoms...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentCash&#x27;s doctor&#x27;s notes attribute her hair loss to the autoimmune disease alopecia areata, that her other symptoms...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident  
-   Link: <a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Encounter: A Night of Unearthly Light...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Encounter: A Night of Unearthly Light...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DM5M6GCxExb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM5M6GCxExb/</a>  
+   Link:<a href="https://www.instagram.com/reel/DM5M6GCxExb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM5M6GCxExb/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rerf.or.jp  
-   Link: <a href="https://www.rerf.or.jp/en/programs/roadmap_e/health_effects-en/early-en/early_01_en/" target="_blank" rel="noopener noreferrer nofollow">https://www.rerf.or.jp/en/programs/roadmap_e/health_effects-en/early-en/early_01_en/</a>  
+   Link:<a href="https://www.rerf.or.jp/en/programs/roadmap_e/health_effects-en/early-en/early_01_en/" target="_blank" rel="noopener noreferrer nofollow">https://www.rerf.or.jp/en/programs/roadmap_e/health_effects-en/early-en/early_01_en/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: becleverwithyourcash.com  
-   Link: <a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
+   Link:<a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  
+   Link:<a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  

@@ -274,15 +274,15 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_pa
 
 ## Introduction
 
-The most important medical evidence in the Cash–Landrum case is not what survives in public archives, but what does not. [Betty Cash]({{ 'betty-cash/' | relative_url }}) reported a lengthy admission to Parkway Hospital in Houston after the December 1980 encounter, and later accounts often treated her hospitalisation as proof that she suffered an unusual injury. Yet researchers, sceptics, and UFO investigators have all faced the same problem: the complete Parkway Hospital chart has never become widely available to the public. Instead, later discussions rely largely on secondary summaries, consultant reviews, excerpts quoted in books, and interpretations of those records by people who examined them years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+The most important medical evidence in the Cash–Landrum case is not what survives in public archives, but what does not. [Betty Cash]({{ 'betty-cash/' | relative_url }}) reported a lengthy admission to Parkway Hospital in Houston after the December 1980 encounter, and later accounts often treated her hospitalisation as proof that she suffered an unusual injury. Yet researchers, sceptics, and UFO investigators have all faced the same problem: the complete Parkway Hospital chart has never become widely available to the public. Instead, later discussions rely largely on secondary summaries, consultant reviews, excerpts quoted in books, and interpretations of those records by people who examined them years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-1-dark.svg" | relative_url }}" alt="Hospital Records illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because the [debate]({{ 'debate/' | relative_url }}) over Betty Cash's injuries often turns on details that would normally be resolved by a full medical file: exactly what doctors observed on admission, what diagnoses were recorded, how symptoms changed during treatment, and whether physicians themselves believed [radiation]({{ 'radiation/' | relative_url }}) exposure had occurred. The surviving public record provides partial answers, but not the complete documentary trail that would be expected in a case making extraordinary causation claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+That distinction matters because the [debate]({{ 'debate/' | relative_url }}) over Betty Cash's injuries often turns on details that would normally be resolved by a full medical file: exactly what doctors observed on admission, what diagnoses were recorded, how symptoms changed during treatment, and whether physicians themselves believed [radiation]({{ 'radiation/' | relative_url }}) exposure had occurred. The surviving public record provides partial answers, but not the complete documentary trail that would be expected in a case making extraordinary causation claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 ## Cash's reported Parkway Hospital treatment
 
-According to Cash's own statements, she became seriously ill within hours of the reported encounter and was eventually admitted to Parkway Hospital in Houston under the care of Dr. Shenoy. In later interviews she described extensive testing, severe weakness, swelling, skin problems, [hair loss]({{ 'hair-loss/' | relative_url }}), and a hospital stay lasting several weeks. These claims became central to the argument that her condition went beyond ordinary illness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+According to Cash's own statements, she became seriously ill within hours of the reported encounter and was eventually admitted to Parkway Hospital in Houston under the care of Dr. Shenoy. In later interviews she described extensive testing, severe weakness, swelling, skin problems, [hair loss]({{ 'hair-loss/' | relative_url }}), and a hospital stay lasting several weeks. These claims became central to the argument that her condition went beyond ordinary illness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 Public descriptions of the hospitalisation generally agree on several broad points:
 
@@ -293,11 +293,11 @@ Public descriptions of the hospitalisation generally agree on several broad poin
 * She remained hospitalised for a significant period and later returned for additional treatment.
 * Multiple specialists reportedly evaluated her condition.
 * Hair loss became one of the most publicised features of the case.
-* Investigators associated with UFO research sought access to her medical records soon after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+* Investigators associated with UFO research sought access to her medical records soon after the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 </div>
 
-However, the surviving public record does not consist of the complete admission chart, physician notes, laboratory results, nursing records, imaging studies, and discharge paperwork that would normally form a comprehensive medical [case file]({{ 'case-file/' | relative_url }}). Instead, later authors often cite selected information extracted from those records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+However, the surviving public record does not consist of the complete admission chart, physician notes, laboratory results, nursing records, imaging studies, and discharge paperwork that would normally form a comprehensive medical [case file]({{ 'case-file/' | relative_url }}). Instead, later authors often cite selected information extracted from those records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -306,11 +306,11 @@ However, the surviving public record does not consist of the complete admission 
 
 The absence of the complete Parkway Hospital file is more than a historical inconvenience. It directly affects how confidently any medical conclusion can be drawn.
 
-Claims that Cash suffered radiation injury depend on precise clinical findings. Physicians evaluating possible radiation exposure would ordinarily look for documented timelines, blood-count changes, skin findings, pathology reports, treatment decisions, and specialist assessments. Without the full chart, researchers must rely on summaries of what those records allegedly contained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+Claims that Cash suffered radiation injury depend on precise clinical findings. Physicians evaluating possible radiation exposure would ordinarily look for documented timelines, blood-count changes, skin findings, pathology reports, treatment decisions, and specialist assessments. Without the full chart, researchers must rely on summaries of what those records allegedly contained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
-This creates a recurring problem in the literature. Supporters of the case often emphasise the seriousness of Cash's illness and the fact that she required hospital care. Critics focus on details from surviving summaries suggesting that some symptoms did not match classic acute radiation syndrome. Because neither side can point to a complete publicly accessible hospital record, arguments frequently depend on selective quotations and interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+This creates a recurring problem in the literature. Supporters of the case often emphasise the seriousness of Cash's illness and the fact that she required hospital care. Critics focus on details from surviving summaries suggesting that some symptoms did not match classic acute radiation syndrome. Because neither side can point to a complete publicly accessible hospital record, arguments frequently depend on selective quotations and interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
-The issue is especially important because [radiation sickness]({{ 'radiation-claim/' | relative_url }}) follows recognised medical patterns. Determining whether Cash's symptoms fit those patterns requires access to detailed clinical observations rather than retrospective descriptions made months or years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+The issue is especially important because [radiation sickness]({{ 'radiation-claim/' | relative_url }}) follows recognised medical patterns. Determining whether Cash's symptoms fit those patterns requires access to detailed clinical observations rather than retrospective descriptions made months or years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-2-dark.svg" | relative_url }}" alt="Hospital Records illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,11 +318,11 @@ The issue is especially important because [radiation sickness]({{ 'radiation-cla
 
 Although the full Parkway Hospital chart is not publicly available, several secondary sources derived from it have circulated among investigators.
 
-One of the most frequently cited is a review prepared by radiologist Dr. Peter Rank, who examined Cash's medical records and photographs rather than personally treating her. Rank's work became influential because it functioned as a bridge between the unavailable hospital files and later UFO researchers. His summary reportedly described findings from the records and assessed whether they were consistent with radiation injury. Later writers repeatedly relied on this review when discussing Cash's condition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+One of the most frequently cited is a review prepared by radiologist Dr. Peter Rank, who examined Cash's medical records and photographs rather than personally treating her. Rank's work became influential because it functioned as a bridge between the unavailable hospital files and later UFO researchers. His summary reportedly described findings from the records and assessed whether they were consistent with radiation injury. Later writers repeatedly relied on this review when discussing Cash's condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
-Another important surviving layer consists of investigative reports produced for UFO research organisations. Allan Hendry and other investigators attempted to gather medical information while the case was still relatively fresh. These reports preserved some details that otherwise might have been lost when access to the underlying records became limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">SchuesslerThe Cash-Landrum UFO Incident. Since the mid-1980s, many American UFO researchers have been mired in endless quarreling over th...</span></span></span>
+Another important surviving layer consists of investigative reports produced for UFO research organisations. Allan Hendry and other investigators attempted to gather medical information while the case was still relatively fresh. These reports preserved some details that otherwise might have been lost when access to the underlying records became limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">SchuesslerThe Cash-Landrum UFO Incident. Since the mid-1980s, many American UFO researchers have been mired in endless quarreling over th...</span></span></span>
 
-A third category consists of quotations and paraphrases published in books and later analyses. John Schuessler's extensive work on the case included medical discussions drawn from records and consultations. Decades later, researchers re-examined those same descriptions, sometimes reaching very different conclusions about what the records actually demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">SchuesslerThe Cash-Landrum UFO Incident. Since the mid-1980s, many American UFO researchers have been mired in endless quarreling over th...</span></span></span>
+A third category consists of quotations and paraphrases published in books and later analyses. John Schuessler's extensive work on the case included medical discussions drawn from records and consultations. Decades later, researchers re-examined those same descriptions, sometimes reaching very different conclusions about what the records actually demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books The Cash-Landrum UFO Incident</span><span class="citation-popover-snippet">SchuesslerThe Cash-Landrum UFO Incident. Since the mid-1980s, many American UFO researchers have been mired in endless quarreling over th...</span></span></span>
 
 The result is a layered evidentiary chain:
 
@@ -339,7 +339,7 @@ The result is a layered evidentiary chain:
 
 </div>
 
-Each step moves readers further away from the original documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+Each step moves readers further away from the original documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -348,209 +348,209 @@ Each step moves readers further away from the original documentation. <span clas
 
 The public understanding of Betty Cash's medical condition has been shaped largely by these surviving summaries rather than by direct access to hospital records.
 
-Over time, some retellings described her illness in increasingly dramatic terms, sometimes presenting it as a near-textbook case of radiation poisoning. Yet later researchers reviewing the available medical descriptions argued that the surviving evidence was more ambiguous. Gary Posner's detailed re-examination of the case, for example, highlighted reported medical observations that differed from popular versions of the story, including questions about the timing and extent of hair loss and the diagnoses recorded during treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+Over time, some retellings described her illness in increasingly dramatic terms, sometimes presenting it as a near-textbook case of radiation poisoning. Yet later researchers reviewing the available medical descriptions argued that the surviving evidence was more ambiguous. Gary Posner's detailed re-examination of the case, for example, highlighted reported medical observations that differed from popular versions of the story, including questions about the timing and extent of hair loss and the diagnoses recorded during treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
-This does not mean the hospitalisation was fictional or insignificant. Even sceptical analyses generally accept that Cash became ill and received substantial medical care. The dispute concerns causation and diagnosis, not whether treatment occurred. The surviving public material supports the conclusion that she was genuinely unwell, but it does not provide a universally accepted medical explanation for why. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+This does not mean the hospitalisation was fictional or insignificant. Even sceptical analyses generally accept that Cash became ill and received substantial medical care. The dispute concerns causation and diagnosis, not whether treatment occurred. The surviving public material supports the conclusion that she was genuinely unwell, but it does not provide a universally accepted medical explanation for why.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
-The absence of the complete Parkway chart therefore became part of the story itself. Believers viewed the surviving summaries as evidence that something extraordinary happened. Critics argued that the missing primary documentation prevented extraordinary conclusions. Both interpretations emerged from the same underlying reality: the public record consists largely of second-hand medical evidence rather than the full hospital file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+The absence of the complete Parkway chart therefore became part of the story itself. Believers viewed the surviving summaries as evidence that something extraordinary happened. Critics argued that the missing primary documentation prevented extraordinary conclusions. Both interpretations emerged from the same underlying reality: the public record consists largely of second-hand medical evidence rather than the full hospital file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-3-dark.svg" | relative_url }}" alt="Hospital Records illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the hospital records actually show
 
-The strongest conclusion that can be drawn from the surviving public evidence is relatively narrow. The available summaries indicate that Betty Cash was hospitalised, evaluated by physicians, and treated for a serious medical condition after the reported encounter. They also show that later investigators regarded those records as important enough to review in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The strongest conclusion that can be drawn from the surviving public evidence is relatively narrow. The available summaries indicate that Betty Cash was hospitalised, evaluated by physicians, and treated for a serious medical condition after the reported encounter. They also show that later investigators regarded those records as important enough to review in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-What the surviving public material does not do is conclusively establish that Parkway Hospital physicians diagnosed radiation sickness caused by a UFO encounter. Because the complete chart remains unavailable to the public, the case continues to rely on summaries, excerpts, and later interpretations rather than on the full medical record that would ordinarily be required to settle the question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+What the surviving public material does not do is conclusively establish that Parkway Hospital physicians diagnosed radiation sickness caused by a UFO encounter. Because the complete chart remains unavailable to the public, the case continues to rely on summaries, excerpts, and later interpretations rather than on the full medical record that would ordinarily be required to settle the question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What do the hospital records actually show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What do the hospital records actually show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits the broader evidence-led UFO-investigation lane, especially claims involving official records and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the broader evidence-led UFO-investigation lane, especially claims involving official records and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for readers thinking about how UFO reports should be classified, evaluated, and separated from weak documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers thinking about how UFO reports should be classified, evaluated, and separated from weak documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Strong match for a page focused on records, summaries, missing primary documents, and evidentiary limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for a page focused on records, summaries, missing primary documents, and evidentiary limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By John F. Schuessler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+</h4>
+<p class="fr-book-author">By John F. Schuessler</p>
         
-        <p class="fr-book-desc">Directly covers the Cash-Landrum case and the medical claims that later investigators debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the Cash-Landrum case and the medical claims that later investigators debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="hospital-records-what-do-the-hospital-records-actually-show-cash-landrum-ufo-incident-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ What the surviving public material does not do is conclusively establish that Pa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ What the surviving public material does not do is conclusively establish that Pa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ What the surviving public material does not do is conclusively establish that Pa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ What the surviving public material does not do is conclusively establish that Pa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ What the surviving public material does not do is conclusively establish that Pa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,92 +756,92 @@ What the surviving public material does not do is conclusively establish that Pa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: zenodo.org  
    Title: The Legendary Cash-Landrum Case: Radiation Sickness  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</p></details>
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...May 22, 2023 — 29 Jan 2024 — This case&#x27;s notoriety revolves primarily around...</p></details>
    Published: May 22, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: books.google.com  
    Title: Books The [Cash-Landrum UFO Incident](&#123;&#123; 'cash-landrum-ufo-incident/' | relative_url &#125;&#125;)  
-   Link: <a href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SchuesslerThe Cash-Landrum UFO Incident. Since the mid-1980s, many American UFO researchers have been mired in endless quarreling over th...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Cash_Landrum_UFO_Incident.html?id=wZ-bNwAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SchuesslerThe Cash-Landrum UFO Incident. Since the mid-1980s, many American UFO researchers have been mired in endless quarreling over th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: books.google.com  
    Title: The Hospital in History  
-   Link: <a href="https://books.google.com/books/about/The_Hospital_in_History.html?id=3EEOAAAAQAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Hospital_in_History.html?id=3EEOAAAAQAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hospital in HistoryRoy Sydney Porter was born December 31, 1946. He grew up in a south London working class home. He attended Wilson&#x27;s Gr...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Hospital_in_History.html?id=3EEOAAAAQAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Hospital_in_History.html?id=3EEOAAAAQAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hospital in HistoryRoy Sydney Porter was born December 31, 1946. He grew up in a south London working class home. He attended Wilson&#x27;s Gr...</p></details>
    Published: December 31, 1946  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Dont-stop-the-clock-Parkway-event-narrative_fig1_47632374" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Dont-stop-the-clock-Parkway-event-narrative_fig1_47632374</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t stop the clock: Parkway event narrativeThis paper aims to explore the theoretical and practical management implications of a case i...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Dont-stop-the-clock-Parkway-event-narrative_fig1_47632374" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Dont-stop-the-clock-Parkway-event-narrative_fig1_47632374</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t stop the clock: Parkway event narrativeThis paper aims to explore the theoretical and practical management implications of a case i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/dr-peter-strouhal_criticisms-over-teleradiologists-quick-ct-activity-7333787328680747008-X3kl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dr-peter-strouhal_criticisms-over-teleradiologists-quick-ct-activity-7333787328680747008-X3kl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Peter Strouhal&#x27;s PostMy own experiences are that they are not able to make clinical decisions in time where radiographers ring through...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/dr-peter-strouhal_criticisms-over-teleradiologists-quick-ct-activity-7333787328680747008-X3kl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dr-peter-strouhal_criticisms-over-teleradiologists-quick-ct-activity-7333787328680747008-X3kl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Peter Strouhal&#x27;s PostMy own experiences are that they are not able to make clinical decisions in time where radiographers ring through...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LPOTL/comments/16yn9bh/ok_ufo_nerds_lets_talk_favorite_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LPOTL/comments/16yn9bh/ok_ufo_nerds_lets_talk_favorite_cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OK UFO nerds, let&#x27;s talk favorite cases: r/LPOTLCash-Landrum Incident. Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and Vickie&#x27;s grandson Colby were driv...</p></details>
+   Link:<a href="https://www.reddit.com/r/LPOTL/comments/16yn9bh/ok_ufo_nerds_lets_talk_favorite_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LPOTL/comments/16yn9bh/ok_ufo_nerds_lets_talk_favorite_cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OK UFO nerds, let&#x27;s talk favorite cases: r/LPOTLCash-Landrum Incident. Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and Vickie&#x27;s grandson Colby were driv...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — In this episode of Unexplained History, we investigate the Cash-Landru...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — In this episode of Unexplained History, we investigate the Cash-Landru...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pure.amsterdamumc.nl  
-   Link: <a href="https://pure.amsterdamumc.nl/files/186772168/Comparison-of-site-of-death-health-care-utilization-and-hospital-expenditures-for-patients-dying-with-cancer-in-7-deve.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.amsterdamumc.nl/files/186772168/Comparison-of-site-of-death-health-care-utilization-and-hospital-expenditures-for-patients-dying-with-cancer-in-7-deve.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(commercial or governmental) in each country. To report the most similar health care expenditures among...</p></details>
+   Link:<a href="https://pure.amsterdamumc.nl/files/186772168/Comparison-of-site-of-death-health-care-utilization-and-hospital-expenditures-for-patients-dying-with-cancer-in-7-deve.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.amsterdamumc.nl/files/186772168/Comparison-of-site-of-death-health-care-utilization-and-hospital-expenditures-for-patients-dying-with-cancer-in-7-deve.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(commercial or governmental) in each country. To report the most similar health care expenditures among...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.newsweek.com  
    Title: Worlds Best Hospitals 2026 extended Methodology 1  
-   Link: <a href="https://assets.newsweek.com/wp-content/uploads/2026/02/Worlds-Best-Hospitals-2026-extended-Methodology-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.newsweek.com/wp-content/uploads/2026/02/Worlds-Best-Hospitals-2026-extended-Methodology-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>newsweek.comWorld&#x27;s Best Hospitals 2026 MethodologyPatients are faced with the critical and difficult decision of choosing the right hosp...</p></details>
+   Link:<a href="https://assets.newsweek.com/wp-content/uploads/2026/02/Worlds-Best-Hospitals-2026-extended-Methodology-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.newsweek.com/wp-content/uploads/2026/02/Worlds-Best-Hospitals-2026-extended-Methodology-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>newsweek.comWorld&#x27;s Best Hospitals 2026 MethodologyPatients are faced with the critical and difficult decision of choosing the right hosp...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a warrior and heroine. She fought the US government and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a warrior and heroine. She fought the US government and...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32438980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32438980/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Tubes and Lines: A Pictorial Review for...by CK Sandstrom · 2020 · Cited by 3 — Imaging of Tubes and Lines: A Pictorial Review for Em...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32438980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32438980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Tubes and Lines: A Pictorial Review for...by CK Sandstrom · 2020 · Cited by 3 — Imaging of Tubes and Lines: A Pictorial Review for Em...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d in 1998. Her health never recovered. The...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d in 1998. Her health never recovered. The...Read more...</p></details>

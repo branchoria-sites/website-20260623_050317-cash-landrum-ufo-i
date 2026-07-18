@@ -452,30 +452,30 @@ Official denial is one of the reasons the [Cash-Landrum UFO incident]({{ 'cash-l
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-overview.webp" | relative_url }}" alt="Overview image for Denial" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters. In public memory, “the government denied it” often sounds like the beginning of a [cover-up story]({{ 'cover-up-story/' | relative_url }}). In the legal record, however, denial functioned more like a burden-of-[proof barrier]({{ 'proof-barrier/' | relative_url }}). The witnesses could believe they had encountered a military operation, and investigators could even describe them as sincere or credible, but without evidence that a government aircraft or operation caused the harm, their damages claim could not survive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+That distinction matters. In public memory, “the government denied it” often sounds like the beginning of a [cover-up story]({{ 'cover-up-story/' | relative_url }}). In the legal record, however, denial functioned more like a burden-of-[proof barrier]({{ 'proof-barrier/' | relative_url }}). The witnesses could believe they had encountered a military operation, and investigators could even describe them as sincere or credible, but without evidence that a government aircraft or operation caused the harm, their damages claim could not survive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/euP0SnHKfg8" title="The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer">The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened.</a></p><p class="youtube-embed-meta">Channel: America&#x27;s Strangest History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=euP0SnHKfg8">Open on YouTube</a></p></div></div></div>
 
 ## What the Military Denied
 
-The central official denial was not merely “we do not know what happened”. It was a denial of ownership, operation and responsibility. The reported helicopters were the hinge. Cash told Air Force personnel at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base in August 1981 that she saw twin-rotor helicopters around the object and counted 23 of them; when asked about markings, she said they bore “United States Air Force” wording. The same interview records that the meeting took place with Air Force legal and claims officers, showing that the encounter had already moved from ordinary UFO reporting into a potential claims process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The central official denial was not merely “we do not know what happened”. It was a denial of ownership, operation and responsibility. The reported helicopters were the hinge. Cash told Air Force personnel at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base in August 1981 that she saw twin-rotor helicopters around the object and counted 23 of them; when asked about markings, she said they bore “United States Air Force” wording. The same interview records that the meeting took place with Air Force legal and claims officers, showing that the encounter had already moved from ordinary UFO reporting into a potential claims process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-That claim created an obvious institutional question: if the helicopters were military, which branch operated them, where were they launched from, and what mission were they flying? The later Army Inspector General inquiry, led by Lt. Col. George Sarran, was framed around that question rather than around proving or disproving the UFO itself. Sarran’s task was to determine whether Army helicopters were involved; according to later document-based summaries, he found no evidence that Army helicopters, or helicopters from any other US government body, were involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+That claim created an obvious institutional question: if the helicopters were military, which branch operated them, where were they launched from, and what mission were they flying? The later Army Inspector General inquiry, led by Lt. Col. George Sarran, was framed around that question rather than around proving or disproving the UFO itself. Sarran’s task was to determine whether Army helicopters were involved; according to later document-based summaries, he found no evidence that Army helicopters, or helicopters from any other US government body, were involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 The denial was therefore targeted. It did not need to prove that Cash, Landrum and Colby saw nothing. It did not need to produce a conventional explanation for the object. It did not need to settle every medical question. It only had to undercut the plaintiffs’ proposed chain of responsibility: object plus helicopters equals military operation; military operation plus injuries equals government liability.
 
-That is why the case became so frustrating for UFO researchers. Sarran reportedly considered Cash and Landrum credible, and also regarded police officer L. L. Walker and his wife Marie, who reported seeing helicopters in the region, as credible. But credibility of witnesses is not the same as proof of ownership. A person can sincerely report seeing military-type helicopters and still be unable to establish, in court, that they were operated by the United States government. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+That is why the case became so frustrating for UFO researchers. Sarran reportedly considered Cash and Landrum credible, and also regarded police officer L. L. Walker and his wife Marie, who reported seeing helicopters in the region, as credible. But credibility of witnesses is not the same as proof of ownership. A person can sincerely report seeing military-type helicopters and still be unable to establish, in court, that they were operated by the United States government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-1-dark.svg" | relative_url }}" alt="Denial illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Denial Was Legally Powerful
 
-The official denial mattered because the Cash-Landrum case was not only a mystery claim; it became a damages claim. The witnesses sought compensation for alleged injuries, ultimately pursuing a $20 million claim against the federal government. That required more than showing that something frightening happened. It required a legally usable connection between the alleged harm and a government-controlled vehicle, [aircraft]({{ 'aircraft/' | relative_url }}), operation or decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The official denial mattered because the Cash-Landrum case was not only a mystery claim; it became a damages claim. The witnesses sought compensation for alleged injuries, ultimately pursuing a $20 million claim against the federal government. That required more than showing that something frightening happened. It required a legally usable connection between the alleged harm and a government-controlled vehicle, [aircraft]({{ 'aircraft/' | relative_url }}), operation or decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 The government’s position put the plaintiffs in a hard place. The object was unidentified, the helicopters were not tied to an identified unit, and the case lacked a recovered machine, flight log, official mission order, confirmed crew member or physical trace that could be linked to a specific agency. Without that bridge, denial became more than public-relations language. It became a legal shield.
 
-Judge Ross Sterling dismissed the case on 21 August 1986 before trial. Later case summaries identify two decisive factors: lack of evidence, and statements by the military that it had not operated a vehicle resembling the UFO. The broader public version is often shortened to “the government denied involvement”, but the legal point was sharper: the court was not asked to solve the UFO; it was asked whether the plaintiffs had shown enough government involvement to proceed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Judge Ross Sterling dismissed the case on 21 August 1986 before trial. Later case summaries identify two decisive factors: lack of evidence, and statements by the military that it had not operated a vehicle resembling the UFO. The broader public version is often shortened to “the government denied involvement”, but the legal point was sharper: the court was not asked to solve the UFO; it was asked whether the plaintiffs had shown enough government involvement to proceed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 This is the key distinction between historical mystery and legal liability:
 
@@ -498,11 +498,11 @@ Official denial was powerful because it shifted the case from “what did they s
 
 The strongest critique of official denial is that it settled responsibility without settling reality. The witnesses still reported heat, illness, a bright object and helicopters. The Air Force meeting did not give them a medical explanation. The Army inquiry did not identify a mundane source for the object. The case was dismissed, but dismissal is not the same as explanation.
 
-That distinction is visible in how the case continued to circulate. The [Unsolved Mysteries]({{ 'tv-injury-frame/' | relative_url }}) archive describes the Air Force position as a denial that any military or government operation occurred, while also presenting the witnesses’ continuing demand for information about what they had been exposed to. Betty Cash’s quoted concern was not simply compensation; she wanted to know what type of radiation or exposure might have harmed her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+That distinction is visible in how the case continued to circulate. The [Unsolved Mysteries]({{ 'tv-injury-frame/' | relative_url }}) archive describes the Air Force position as a denial that any military or government operation occurred, while also presenting the witnesses’ continuing demand for information about what they had been exposed to. Betty Cash’s quoted concern was not simply compensation; she wanted to know what type of radiation or exposure might have harmed her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
 
 For sceptics, the denial can be read as evidence that the military link was never established and perhaps never existed. For believers, the same denial can look evasive because it leaves the most dramatic details unanswered. This is why official denial did not close the case culturally. It removed the clearest route to government liability, but it also left behind an interpretive vacuum.
 
-That vacuum was enlarged by the limited scope of the official inquiry. Sarran’s investigation was not a full government solution to the UFO report; it was focused on whether military helicopters were involved. Later document-based summaries stress this boundary. If the inquiry’s mandate was not to identify the object, then failure to identify the object cannot be treated as a complete official explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+That vacuum was enlarged by the limited scope of the official inquiry. Sarran’s investigation was not a full government solution to the UFO report; it was focused on whether military helicopters were involved. Later document-based summaries stress this boundary. If the inquiry’s mandate was not to identify the object, then failure to identify the object cannot be treated as a complete official explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-2-dark.svg" | relative_url }}" alt="Denial illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -510,9 +510,9 @@ That vacuum was enlarged by the limited scope of the official inquiry. Sarran’
 
 Once the lawsuit failed, the denial itself became part of the Cash-Landrum story. In many retellings, the official refusal to accept responsibility is treated as almost as important as the sighting. That is partly because the case sits at the intersection of three powerful themes: physical injury, military secrecy and institutional helplessness.
 
-The incident also developed in a media environment that rewarded suspicion. Television programmes, tabloid coverage and UFO publications kept the case alive, sometimes compressing established facts with rumours and speculation. Curt Collins’s later reconstruction argues that after the legal failure, the story was absorbed into UFO lore as a parable about government cover-up, with later versions adding claims such as secret road replacement, threats and a more elaborate image of the object than the earliest testimony supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum ufo encounter of 1980</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO Encounter of 198014 Dec 2023 — The helicopters convinced them that it was some kind of military ope...</span></span></span>
+The incident also developed in a media environment that rewarded suspicion. Television programmes, tabloid coverage and UFO publications kept the case alive, sometimes compressing established facts with rumours and speculation. Curt Collins’s later reconstruction argues that after the legal failure, the story was absorbed into UFO lore as a parable about government cover-up, with later versions adding claims such as secret road replacement, threats and a more elaborate image of the object than the earliest testimony supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum ufo encounter of 1980</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO Encounter of 198014 Dec 2023 — The helicopters convinced them that it was some kind of military ope...</span></span></span>
 
-That does not mean every concern about denial was irrational. There were genuine reasons for readers to find the official position unsatisfying. The witnesses had a recorded Air Force interview. They had reported medical problems. They described helicopters of a military type. A Dayton police officer and his wife later reported seeing military-style helicopters in the region. And Sarran’s own reported assessment that several witnesses were credible made the “nothing to see here” version difficult to accept emotionally, even if the legal evidence remained insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+That does not mean every concern about denial was irrational. There were genuine reasons for readers to find the official position unsatisfying. The witnesses had a recorded Air Force interview. They had reported medical problems. They described helicopters of a military type. A Dayton police officer and his wife later reported seeing military-style helicopters in the region. And Sarran’s own reported assessment that several witnesses were credible made the “nothing to see here” version difficult to accept emotionally, even if the legal evidence remained insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
 The result was a durable ambiguity. Official denial weakened the plaintiffs’ case in court, but it also gave later UFO culture a villain-shaped absence: someone must know, yet no one admits responsibility. That structure is one reason the Cash-Landrum incident remains memorable long after the lawsuit ended.
 
@@ -531,194 +531,194 @@ The Cash-Landrum case therefore shows how official denial can be decisive and in
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-3-dark.svg" | relative_url }}" alt="Denial illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Official Denial Really Settle?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Official Denial Really Settle?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses official responses to UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses official responses to UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines official treatment of unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official treatment of unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides framework for evaluating disputed official conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides framework for evaluating disputed official conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By John F. Schuessler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+</h4>
+<p class="fr-book-author">By John F. Schuessler</p>
         
-        <p class="fr-book-desc">Covers denials, investigations, and legal disputes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers denials, investigations, and legal disputes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="denial-what-did-official-denial-really-settle-cash-landrum-ufo-incident-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -734,7 +734,7 @@ The Cash-Landrum case therefore shows how official denial can be decisive and in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -754,7 +754,7 @@ The Cash-Landrum case therefore shows how official denial can be decisive and in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -786,7 +786,7 @@ The Cash-Landrum case therefore shows how official denial can be decisive and in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -838,7 +838,7 @@ The Cash-Landrum case therefore shows how official denial can be decisive and in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -883,7 +883,7 @@ The Cash-Landrum case therefore shows how official denial can be decisive and in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -924,122 +924,122 @@ The Cash-Landrum case therefore shows how official denial can be decisive and in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & [Colby](&#123;&#123; 'colby/' | relative_url &#125;&#125;) Landrum, Part 1 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unsolved.com  
    Title: Mysteries Texas UFO  
-   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
+   Link:<a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.army.mil  
-   Link: <a href="https://history.army.mil/portals/143/Images/Publications/catalog/68-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/68-4.pdf</a>  
+   Link:<a href="https://history.army.mil/portals/143/Images/Publications/catalog/68-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/68-4.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo encounter of 1980  
-   Link: <a href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum UFO Encounter of 198014 Dec 2023 — The helicopters convinced them that it was some kind of military ope...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum UFO Encounter of 198014 Dec 2023 — The helicopters convinced them that it was some kind of military ope...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
    Title: cash landrum ufo disinformation rick  
-   Link: <a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore22 Jun 2022 — Rick Doty&#x27;s claim is that he was working for a special program taske...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Disinformation: Rick Doty &amp; Bill Moore22 Jun 2022 — Rick Doty&#x27;s claim is that he was working for a special program taske...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Case Document CollectionThe following is a list of important documents, reports, correspondence, news and magazine a...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Case Document CollectionThe following is a list of important documents, reports, correspondence, news and magazine a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo true picture  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blueblurrylines.com  
    Title: from their own lips betty cash colby  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/from-their-own-lips-betty-cash-colby.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/from-their-own-lips-betty-cash-colby.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/07/from-their-own-lips-betty-cash-colby.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/from-their-own-lips-betty-cash-colby.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Betty Cash, Vickie and Colby Landrum  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident: A UFO Burned 3 People in Texas  
-   Link: <a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Cash-Landrum&quot; military denial government The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Cash-Landrum&quot; military denial government The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5wa6D_Zm4pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5wa6D_Zm4pc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lawsuit That Never Landed: The Cash-Landrum Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5wa6D_Zm4pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5wa6D_Zm4pc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lawsuit That Never Landed: The Cash-Landrum Encounter...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The incredible story of the Cash Landrum UFO incident  
-   Link: <a href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaUxzN1dDm4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Incident (Audio Podcast) | The Night a UFO Burned Three Texans...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FaUxzN1dDm4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaUxzN1dDm4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Incident (Audio Podcast) | The Night a UFO Burned Three Texans...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo67738/pdf/GOVPUB-D114-PURL-gpo67738.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo67738/pdf/GOVPUB-D114-PURL-gpo67738.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo67738/pdf/GOVPUB-D114-PURL-gpo67738.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo67738/pdf/GOVPUB-D114-PURL-gpo67738.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: What's the REAL Truth About the Cash Landrum UFO Incident?  
-   Link: <a href="https://www.youtube.com/watch?v=dcAFxjkg2-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dcAFxjkg2-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dcAFxjkg2-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dcAFxjkg2-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Lawsuit That Never Landed: The Cash-Landrum Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=XeHaNpNlHQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XeHaNpNlHQQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the REAL Truth About the Cash Landrum UFO Incident?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XeHaNpNlHQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XeHaNpNlHQQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the REAL Truth About the Cash Landrum UFO Incident?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  

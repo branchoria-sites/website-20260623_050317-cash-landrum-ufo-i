@@ -448,7 +448,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-ov
 
 ## Introduction
 
-The 29 December 1980 timeline of the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) begins as an ordinary post-holiday evening drive and ends with three witnesses reporting heat, illness and a sky full of helicopters. The core sequence is fairly consistent in later tellings: Betty Cash, Vickie Landrum and seven-year-old Colby Landrum said they went out after an unsuccessful attempt to find bingo games, ate at a truck stop near New Caney, drove towards Dayton, saw a bright light near Farm-to-Market Road 1485, stopped when it seemed to block the road, watched a fiery object near the treetops, and then saw numerous twin-rotor helicopters around or following it. The important caution is that this timeline rests mainly on witness testimony recorded after the fact, especially the August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview and later investigative summaries, not on real-time police, air-traffic or military logs confirming the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The 29 December 1980 timeline of the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) begins as an ordinary post-holiday evening drive and ends with three witnesses reporting heat, illness and a sky full of helicopters. The core sequence is fairly consistent in later tellings: Betty Cash, Vickie Landrum and seven-year-old Colby Landrum said they went out after an unsuccessful attempt to find bingo games, ate at a truck stop near New Caney, drove towards Dayton, saw a bright light near Farm-to-Market Road 1485, stopped when it seemed to block the road, watched a fiery object near the treetops, and then saw numerous twin-rotor helicopters around or following it. The important caution is that this timeline rests mainly on witness testimony recorded after the fact, especially the August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview and later investigative summaries, not on real-time police, air-traffic or military logs confirming the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-overview.webp" | relative_url }}" alt="Overview image for Timeline" loading="eager" decoding="sync" fetchpriority="high">
@@ -456,46 +456,46 @@ The 29 December 1980 timeline of the [Cash-Landrum UFO incident]({{ 'cash-landru
 
 The Cash-Landrum incident is often retold as a single dramatic image: a diamond-shaped object, intense heat, a stopped car and military helicopters. A timeline is more useful because it separates three different questions: what the witnesses said happened on the road, what they said happened after [the object]({{ 'the-object/' | relative_url }}) rose away, and what later investigators added, questioned or tried to corroborate.
 
-The best-known time anchor comes from [Betty Cash]({{ 'betty-cash/' | relative_url }})’s later statement at Bergstrom Air Force Base: she placed the event on Farm-to-Market Road 1485 between New Caney and Huffman, “approximately between nine and nine-thirty” on the night of 29 December 1980. In the same interview, she said they had eaten at about 8 or 8.30 p.m. and then driven roughly twelve miles before spotting the object. That gives the reported encounter a narrow window: after dinner, probably around 9 p.m., before Cash said she reached home at about 9.50 p.m. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The best-known time anchor comes from [Betty Cash]({{ 'betty-cash/' | relative_url }})’s later statement at Bergstrom Air Force Base: she placed the event on Farm-to-Market Road 1485 between New Caney and Huffman, “approximately between nine and nine-thirty” on the night of 29 December 1980. In the same interview, she said they had eaten at about 8 or 8.30 p.m. and then driven roughly twelve miles before spotting the object. That gives the reported encounter a narrow window: after dinner, probably around 9 p.m., before Cash said she reached home at about 9.50 p.m.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-The date also matters because later efforts to connect the case to helicopters, other witnesses or possible military activity depend on whether those pieces can be placed on the same night and in the same area. Some related claims are much less precise. For example, the separate Jerry McDonald sighting from Dayton was described as earlier that evening and miles away; his timing shifted between “8 and 9 p.m.” and “7 and 8 p.m.” in later summaries, making it difficult to merge neatly with the Cash-Landrum road encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum mcdonald ufo incident</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</span></span></span>
+The date also matters because later efforts to connect the case to helicopters, other witnesses or possible military activity depend on whether those pieces can be placed on the same night and in the same area. Some related claims are much less precise. For example, the separate Jerry McDonald sighting from Dayton was described as earlier that evening and miles away; his timing shifted between “8 and 9 p.m.” and “7 and 8 p.m.” in later summaries, making it difficult to merge neatly with the Cash-Landrum road encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum mcdonald ufo incident</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</span></span></span>
 
 ## Before the Bright Light Appeared
 
-The reported evening did not begin as a planned trip through an isolated UFO hotspot. In the [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}), Cash said the group had forgotten it was Monday because of the holiday period. They first went to Cleveland for bingo, found no game, then tried New Caney, where there was also no bingo. They then stopped at a truck stop restaurant near the junction of US 59 and [FM 1485]({{ 'fm-1485/' | relative_url }}). When asked about the time, Cash estimated it was about 8 or 8.30 p.m. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The reported evening did not begin as a planned trip through an isolated UFO hotspot. In the [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}), Cash said the group had forgotten it was Monday because of the holiday period. They first went to Cleveland for bingo, found no game, then tried New Caney, where there was also no bingo. They then stopped at a truck stop restaurant near the junction of US 59 and [FM 1485]({{ 'fm-1485/' | relative_url }}). When asked about the time, Cash estimated it was about 8 or 8.30 p.m.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-That opening detail is useful because it explains why the party were on the road at that hour. It also gives the case one of its few ordinary chronological anchors: an evening meal, followed by a drive home in Cash’s 1980 two-door Oldsmobile Cutlass. Cash identified the people in the car as herself, Vickie Landrum and Colby Landrum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+That opening detail is useful because it explains why the party were on the road at that hour. It also gives the case one of its few ordinary chronological anchors: an evening meal, followed by a drive home in Cash’s 1980 two-door Oldsmobile Cutlass. Cash identified the people in the car as herself, Vickie Landrum and Colby Landrum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-From there, the route becomes more contested than many simplified accounts suggest. Cash placed the occurrence on FM 1485 between New Caney and Huffman, and the interviewers tried to get the witnesses to locate the area on a map. The transcript records difficulty with the map and some confusion over counties and nearby towns. That does not disprove the sighting, but it does show why later investigators and sceptics have argued over the exact roadside location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+From there, the route becomes more contested than many simplified accounts suggest. Cash placed the occurrence on FM 1485 between New Caney and Huffman, and the interviewers tried to get the witnesses to locate the area on a map. The transcript records difficulty with the map and some confusion over counties and nearby towns. That does not disprove the sighting, but it does show why later investigators and sceptics have argued over the exact roadside location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Roadside Stop and Object Encounter
 
-After leaving the restaurant, Cash said they drove about twelve miles before noticing the object. At first, according to common summaries of the witnesses’ account, the light was seen through trees and was not immediately understood as extraordinary; the Unsolved Mysteries case page quotes Vickie Landrum saying that it came through the trees and then grew close enough that she decided it was not a plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+After leaving the restaurant, Cash said they drove about twelve miles before noticing the object. At first, according to common summaries of the witnesses’ account, the light was seen through trees and was not immediately understood as extraordinary; the Unsolved Mysteries case page quotes Vickie Landrum saying that it came through the trees and then grew close enough that she decided it was not a plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
 
-The encounter then shifted from distant light to road hazard. Cash told the Air Force interviewers that the light and heat became intense and that the object seemed to come down near treetop level over the country road. She said there was no way to pass under it because of fire coming from the bottom. Later in the same interview, she described the object as diamond-shaped, while Vickie Landrum agreed with the sketch and added that fire was coming down from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The encounter then shifted from distant light to road hazard. Cash told the Air Force interviewers that the light and heat became intense and that the object seemed to come down near treetop level over the country road. She said there was no way to pass under it because of fire coming from the bottom. Later in the same interview, she described the object as diamond-shaped, while Vickie Landrum agreed with the sketch and added that fire was coming down from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-Cash estimated the object as being as large as, or larger than, a water tower, and said it was over the road, hanging down near the tall pine trees. She also claimed the trees looked browned afterwards. Those details are vivid, but they belong to witness testimony and later photographs rather than to independently verified physical evidence from the night itself. A later critical review by Curt Collins notes that Allan Hendry’s April 1981 account, based on early case material, reported no pavement marks found after the event despite descriptions of [flames]({{ 'flames/' | relative_url }}) reaching towards the road. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+Cash estimated the object as being as large as, or larger than, a water tower, and said it was over the road, hanging down near the tall pine trees. She also claimed the trees looked browned afterwards. Those details are vivid, but they belong to witness testimony and later photographs rather than to independently verified physical evidence from the night itself. A later critical review by Curt Collins notes that Allan Hendry’s April 1981 account, based on early case material, reported no pavement marks found after the event despite descriptions of [flames]({{ 'flames/' | relative_url }}) reaching towards the road.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-The car-stop sequence is one of the most important parts of the timeline. Cash said she put the car in park and did not turn off the engine, but that the vehicle “went dead”. She also said Vickie Landrum screamed for her to stop and that Landrum’s hands left prints in the softened dashboard. Cash then said she managed to restart the car and turned on the air conditioning because they were so hot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The car-stop sequence is one of the most important parts of the timeline. Cash said she put the car in park and did not turn off the engine, but that the vehicle “went dead”. She also said Vickie Landrum screamed for her to stop and that Landrum’s hands left prints in the softened dashboard. Cash then said she managed to restart the car and turned on the air conditioning because they were so hot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-The reported exposure time is another key timeline marker. Cash estimated the close encounter lasted about fifteen to seventeen minutes, though she added that it felt much longer. She reasoned backwards from her claimed arrival home at about 9.50 p.m. and an estimated twenty-minute drive from the scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The reported exposure time is another key timeline marker. Cash estimated the close encounter lasted about fifteen to seventeen minutes, though she added that it felt much longer. She reasoned backwards from her claimed arrival home at about 9.50 p.m. and an estimated twenty-minute drive from the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## The Helicopter Sequence and Aftermath
 
-The helicopters are what turned the incident from a frightening close encounter into a claim about possible government responsibility. In the Bergstrom interview, Cash said there were helicopters “completely around the object”, that they had twin rotors, and that she counted twenty-three, while Vickie Landrum gave a higher figure of twenty-six. Cash also claimed she saw “United States Air Force” markings, though the questioning immediately shows uncertainty about exactly what she saw and how the markings appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The helicopters are what turned the incident from a frightening close encounter into a claim about possible government responsibility. In the Bergstrom interview, Cash said there were helicopters “completely around the object”, that they had twin rotors, and that she counted twenty-three, while Vickie Landrum gave a higher figure of twenty-six. Cash also claimed she saw “United States Air Force” markings, though the questioning immediately shows uncertainty about exactly what she saw and how the markings appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-According to Cash, the helicopters stayed with the object as it moved away, drifting towards the Crosby and Houston Intercontinental Airport direction, with helicopters on both sides and apparently trying to get around the top. She also said that after they drove on, they could still see helicopters while travelling towards Dayton and near the First National Bank building, which was then under construction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+According to Cash, the helicopters stayed with the object as it moved away, drifting towards the Crosby and Houston Intercontinental Airport direction, with helicopters on both sides and apparently trying to get around the top. She also said that after they drove on, they could still see helicopters while travelling towards Dayton and near the First National Bank building, which was then under construction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-This part of the timeline is both central and unresolved. The witnesses’ later identification of twin-rotor helicopters became associated with CH-47 Chinooks, a type largely associated with the US Army rather than the Air Force. Curt Collins notes that the witnesses first described large helicopters with two rotors, and that investigators later showed them photographs from which they identified the CH-47 as a match. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2017/09/the-cash-landrum-ufo-prime-suspect-ch.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum UFO Prime Suspect: The CH-47, Army Chinook</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum UFO Prime Suspect: The CH-47, Army Chinook</span></span></span>
+This part of the timeline is both central and unresolved. The witnesses’ later identification of twin-rotor helicopters became associated with CH-47 Chinooks, a type largely associated with the US Army rather than the Air Force. Curt Collins notes that the witnesses first described large helicopters with two rotors, and that investigators later showed them photographs from which they identified the CH-47 as a match.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2017/09/the-cash-landrum-ufo-prime-suspect-ch.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum UFO Prime Suspect: The CH-47, Army Chinook</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum UFO Prime Suspect: The CH-47, Army Chinook</span></span></span>
 
-There were also later claimed helicopter witnesses. A commonly cited example is Dayton police officer Lamar Walker and his wife, who were interviewed in 1982 and reportedly described seeing about twelve Chinook-type helicopters that same night near the area, but not the diamond-shaped object itself. That claim supports the possibility of unusual helicopter activity in the region, but it does not by itself verify the object encounter or establish who operated the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+There were also later claimed helicopter witnesses. A commonly cited example is Dayton police officer Lamar Walker and his wife, who were interviewed in 1982 and reportedly described seeing about twelve Chinook-type helicopters that same night near the area, but not the diamond-shaped object itself. That claim supports the possibility of unusual helicopter activity in the region, but it does not by itself verify the object encounter or establish who operated the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The immediate aftermath, as told by Cash, began quickly. She said she was sick within about thirty minutes, felt as if she had been blistered all over, and was burning and thirsty by the next morning. She also reported later hair loss, blisters, diarrhoea, weakness, severe headaches and hospital treatment. These medical claims are a major part of the broader Cash-Landrum case, but for the night’s timeline their role is narrower: they mark the point at which the story moved from sighting to alleged injury. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The immediate aftermath, as told by Cash, began quickly. She said she was sick within about thirty minutes, felt as if she had been blistered all over, and was burning and thirsty by the next morning. She also reported later hair loss, blisters, diarrhoea, weakness, severe headaches and hospital treatment. These medical claims are a major part of the broader Cash-Landrum case, but for the night’s timeline their role is narrower: they mark the point at which the story moved from sighting to alleged injury.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -506,13 +506,13 @@ The strongest timeline points are the ones repeated in the witnesses’ own late
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Before 8.30 p.m.**: the group tried to find bingo in Cleveland and New Caney, then stopped at a truck stop restaurant near US 59 and FM 1485. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
-* **About 9.00 to 9.30 p.m.**: Cash placed the main event on FM 1485 between New Caney and Huffman. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
-* **During the drive home**: the witnesses said they saw a bright light, then a low object near the trees, with heat, light and fire or flame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
-* **At the roadside stop**: Cash said the car went dead, the door handle became too hot to touch bare-handed, and the object remained near them for roughly fifteen to seventeen minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
-* **After the object lifted or moved away**: Cash and Landrum said numerous twin-rotor helicopters appeared around or near it, with Cash counting twenty-three. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
-* **By about 9.50 p.m.**: Cash said she reached home, using that estimate to limit how long the encounter could have lasted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
-* **Within roughly thirty minutes, according to Cash**: she said she began feeling ill, with more severe symptoms following. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+* **Before 8.30 p.m.**: the group tried to find bingo in Cleveland and New Caney, then stopped at a truck stop restaurant near US 59 and FM 1485.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+* **About 9.00 to 9.30 p.m.**: Cash placed the main event on FM 1485 between New Caney and Huffman.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+* **During the drive home**: the witnesses said they saw a bright light, then a low object near the trees, with heat, light and fire or flame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+* **At the roadside stop**: Cash said the car went dead, the door handle became too hot to touch bare-handed, and the object remained near them for roughly fifteen to seventeen minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+* **After the object lifted or moved away**: Cash and Landrum said numerous twin-rotor helicopters appeared around or near it, with Cash counting twenty-three.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+* **By about 9.50 p.m.**: Cash said she reached home, using that estimate to limit how long the encounter could have lasted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+* **Within roughly thirty minutes, according to Cash**: she said she began feeling ill, with more severe symptoms following.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 </div>
 
@@ -523,11 +523,11 @@ The strongest timeline points are the ones repeated in the witnesses’ own late
 
 The timeline is clear enough to follow as a witness narrative, but not clear enough to function as a fully verified reconstruction. The biggest uncertainties are location precision, the exact duration of each phase, the number and identity of helicopters, and whether later supporting sightings belong to the same event.
 
-The location problem is not a minor footnote. The [Bergstrom transcript]({{ 'bergstrom-e09cc0/' | relative_url }}) shows the witnesses struggling to locate the site on a map, and later critical discussion points out that claims about physical road damage or road replacement developed after the event rather than being documented immediately. Collins argues that the “scorched road” story appears only after later repaving and that early examination reported no road damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The location problem is not a minor footnote. The [Bergstrom transcript]({{ 'bergstrom-e09cc0/' | relative_url }}) shows the witnesses struggling to locate the site on a map, and later critical discussion points out that claims about physical road damage or road replacement developed after the event rather than being documented immediately. Collins argues that the “scorched road” story appears only after later repaving and that early examination reported no road damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-The object description also sharpened over time. The August 1981 Air Force interview contains the now-famous diamond sketch, but later summaries of the early case file note that the first documented reports were less definite about the object’s shape, with Betty Cash saying the lights were too bright for her to discern it clearly and Vickie Landrum also uncertain, while Colby insisted it looked like a diamond. That matters for a timeline page because the closer one gets to the night itself, the less polished some details appear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The object description also sharpened over time. The August 1981 Air Force interview contains the now-famous diamond sketch, but later summaries of the early case file note that the first documented reports were less definite about the object’s shape, with Betty Cash saying the lights were too bright for her to discern it clearly and Vickie Landrum also uncertain, while Colby insisted it looked like a diamond. That matters for a timeline page because the closer one gets to the night itself, the less polished some details appear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-The helicopter sequence has the same problem in reverse: it is the most consequential part of the night, yet no public investigation established a matching military operation. Later summaries note that investigators could not find evidence linking the helicopters to a branch of the US military, and that the lawsuit was eventually dismissed after the court was not persuaded that any government agency possessed or operated the reported object or helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The helicopter sequence has the same problem in reverse: it is the most consequential part of the night, yet no public investigation established a matching military operation. Later summaries note that investigators could not find evidence linking the helicopters to a branch of the US military, and that the lawsuit was eventually dismissed after the court was not persuaded that any government agency possessed or operated the reported object or helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -542,194 +542,194 @@ After the object rose or moved away, they said multiple twin-rotor helicopters a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did the Night Unfold?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did the Night Unfold?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers notable UFO cases and witness testimony, matching reader interest in evaluating reported encounters and timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers notable UFO cases and witness testimony, matching reader interest in evaluating reported encounters and timelines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports are categorized and investigated, useful context for assessing the Cash-Landrum case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports are categorized and investigated, useful context for assessing the Cash-Landrum case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Explores witness-reported extraordinary encounters, appealing to readers interested in landmark UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness-reported extraordinary encounters, appealing to readers interested in landmark UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides case-based analysis and investigative approaches applicable to reports like Cash-Landrum.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides case-based analysis and investigative approaches applicable to reports like Cash-Landrum.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="timeline-how-did-the-night-unfold-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -745,7 +745,7 @@ After the object rose or moved away, they said multiple twin-rotor helicopters a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -765,7 +765,7 @@ After the object rose or moved away, they said multiple twin-rotor helicopters a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -797,7 +797,7 @@ After the object rose or moved away, they said multiple twin-rotor helicopters a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -849,7 +849,7 @@ After the object rose or moved away, they said multiple twin-rotor helicopters a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -894,7 +894,7 @@ After the object rose or moved away, they said multiple twin-rotor helicopters a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -935,173 +935,173 @@ After the object rose or moved away, they said multiple twin-rotor helicopters a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/801229huffman_report3.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/801229huffman_report3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/801229huffman_report3.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Texas UFO  
-   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
+   Link:<a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum mcdonald ufo incident  
-   Link: <a href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blueblurrylines.com  
    Title: Blue Blurry Lines: Cash-Landrum UFO Case: The Legend of the Scorched Road  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blueblurrylines.com  
    Title: Blue Blurry Lines: The Cash-Landrum UFO Prime Suspect: The CH-47, Army Chinook  
-   Link: <a href="https://www.blueblurrylines.com/2017/09/the-cash-landrum-ufo-prime-suspect-ch.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2017/09/the-cash-landrum-ufo-prime-suspect-ch.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2017/09/the-cash-landrum-ufo-prime-suspect-ch.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2017/09/the-cash-landrum-ufo-prime-suspect-ch.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blueblurrylines.com  
    Title: The Cash-Landrum UFO incident,  
-   Link: <a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...Feb 8, 2018 — The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Anal...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...Feb 8, 2018 — The Original Cash-Landrum Case File, 3/4/81: Transcript &amp; Anal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blueblurrylines.com  
    Title: 40 years and cash landrum ufo case  
-   Link: <a href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo true picture  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueblurrylines.com  
    Title: cash landrum theory analysis  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-theory-analysis.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo encounter of 1980  
-   Link: <a href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blueblurrylines.com  
    Title: cash landrum ufo disinformation rick  
-   Link: <a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blueblurrylines.com  
    Title: ufo advocate betty cash  
-   Link: <a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blueblurrylines.com  
    Title: the nsa cash landrum ufo document  
-   Link: <a href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum incident suppressed  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blueblurrylines.com  
    Title: whos who in cash landrum ufo case  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/801229huffman_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/801229huffman_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/801229huffman_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/801229huffman_dir.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cash.app  
-   Link: <a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
+   Link:<a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=euP0SnHKfg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=euP0SnHKfg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident  
-   Link: <a href="http://www.youtube.com/watch?v=3HPh6BJo004" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3HPh6BJo004</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incident: The UFO That Left Burns - Narrated Wikipedia Article...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=3HPh6BJo004" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3HPh6BJo004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incident: The UFO That Left Burns - Narrated Wikipedia Article...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Cash–Landrum incident: The UFO That Left Burns  
-   Link: <a href="http://www.youtube.com/watch?v=r6w_gEdNcvI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r6w_gEdNcvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum UFO December 29 1980 timeline The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=r6w_gEdNcvI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r6w_gEdNcvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum UFO December 29 1980 timeline The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=9x1X8-0bZAQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9x1X8-0bZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=9x1X8-0bZAQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9x1X8-0bZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO,  
-   Link: <a href="http://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UJdhk3_DurE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1980-12-29: Cash-Landrum UFO Incident...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UJdhk3_DurE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1980-12-29: Cash-Landrum UFO Incident...</p></details>
    Published: December 29, 1980  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: becleverwithyourcash.com  
-   Link: <a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
+   Link:<a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gpposner.com  
-   Link: <a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
+   Link:<a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  

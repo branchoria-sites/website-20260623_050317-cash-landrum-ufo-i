@@ -284,24 +284,24 @@ The flame reports in the Cash–Landrum incident are often treated as direct evi
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-1-dark.svg" | relative_url }}" alt="Night Glare illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The answer is that glare and night-time perceptual illusions can plausibly affect how observers judge the shape, distance, and motion of a bright object. However, these effects cannot by themselves explain every feature reported in the Cash–Landrum case, particularly the witnesses’ claims of intense heat and prolonged observation. The key issue is not whether illusion explains the entire encounter, but how much it may have shaped the interpretation of flame-like activity beneath a brilliant light source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The answer is that glare and night-time perceptual illusions can plausibly affect how observers judge the shape, distance, and motion of a bright object. However, these effects cannot by themselves explain every feature reported in the Cash–Landrum case, particularly the witnesses’ claims of intense heat and prolonged observation. The key issue is not whether illusion explains the entire encounter, but how much it may have shaped the interpretation of flame-like activity beneath a brilliant light source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 ## Could Glare Turn Light Into Fire?
 
 ### Bright Light and Damaged Night Vision
 
-One of the most striking details in the historical record is that the witnesses repeatedly emphasised the brightness of the object. Early accounts indicate that the light was so intense that discerning its exact shape was difficult. In one of the earliest documented interviews, [Betty Cash]({{ 'betty-cash/' | relative_url }}) reportedly stated that she could not get close enough and that the lights were too bright to determine the object's form clearly. [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) similarly expressed uncertainty about its shape, while her grandson was the family member most confident that it resembled a diamond. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+One of the most striking details in the historical record is that the witnesses repeatedly emphasised the brightness of the object. Early accounts indicate that the light was so intense that discerning its exact shape was difficult. In one of the earliest documented interviews, [Betty Cash]({{ 'betty-cash/' | relative_url }}) reportedly stated that she could not get close enough and that the lights were too bright to determine the object's form clearly. [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) similarly expressed uncertainty about its shape, while her grandson was the family member most confident that it resembled a diamond.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This detail matters because extremely bright lights viewed against a dark background create several well-known visual problems:
 
 * The light source can appear larger than it really is, a phenomenon often called “blooming” or glare spread.
 * Bright areas can obscure nearby details and create the impression of glowing edges or extensions.
 * Contrast between a brilliant light and a dark environment can make it difficult to distinguish where [the object]({{ 'the-object/' | relative_url }}) ends and surrounding light effects begin.
-* Distance becomes harder to estimate because normal visual reference points disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learntoflyblog.com">[Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learntoflyblog.com</span><span class="citation-popover-title">Learn To Fly Human Factors: Optical Illusions</span><span class="citation-popover-snippet">Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — The diffusion of light due to water particles on the windshi...</span></span></span>
+* Distance becomes harder to estimate because normal visual reference points disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learntoflyblog.com">[Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learntoflyblog.com</span><span class="citation-popover-title">Learn To Fly Human Factors: Optical Illusions</span><span class="citation-popover-snippet">Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — The diffusion of light due to water particles on the windshi...</span></span></span>
 
 In practical terms, a bright source surrounded by glare may appear to have luminous projections, streamers, or fluctuating extensions that resemble flames even when observers cannot clearly resolve the underlying structure. This does not prove that the reported flames were merely glare, but it demonstrates why witness descriptions of “fire” should not automatically be interpreted as precise engineering observations.
 
-The timing of the sighting also matters. Human night vision depends heavily on rod cells in the retina, which are sensitive to low light but provide poor detail and colour discrimination. Exposure to an intense light source can disrupt dark adaptation and further reduce the ability to judge form accurately. Aviation and night-operations research repeatedly notes that bright lights in darkness can distort perceived position, orientation, and size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[Boldmethod]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-title">eight things you need to consider on your next night flight</span><span class="citation-popover-snippet">8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe L...</span></span></span>
+The timing of the sighting also matters. Human night vision depends heavily on rod cells in the retina, which are sensitive to low light but provide poor detail and colour discrimination. Exposure to an intense light source can disrupt dark adaptation and further reduce the ability to judge form accurately. Aviation and night-operations research repeatedly notes that bright lights in darkness can distort perceived position, orientation, and size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[Boldmethod]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-title">eight things you need to consider on your next night flight</span><span class="citation-popover-snippet">8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe L...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -310,9 +310,9 @@ The timing of the sighting also matters. Human night vision depends heavily on r
 
 ### Autokinesis and Apparent Motion
 
-One of the most studied night-time visual effects is autokinesis, the tendency for a stationary light viewed in darkness to appear to drift, wobble, or move. The effect occurs because the eye constantly makes tiny involuntary movements. When there are no surrounding reference points, the brain may interpret those movements as motion of the light itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2SKYbrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">May 24, 2025 — The autokinetic effect is a phenomenon of visual perception in which a stationary, small point of light in an otherwise da...</span><span class="citation-popover-meta">Published: May 24, 2025</span></span></span>
+One of the most studied night-time visual effects is autokinesis, the tendency for a stationary light viewed in darkness to appear to drift, wobble, or move. The effect occurs because the eye constantly makes tiny involuntary movements. When there are no surrounding reference points, the brain may interpret those movements as motion of the light itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2SKYbrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">May 24, 2025 — The autokinetic effect is a phenomenon of visual perception in which a stationary, small point of light in an otherwise da...</span><span class="citation-popover-meta">Published: May 24, 2025</span></span></span>
 
-The phenomenon is sufficiently well established that it is taught in aviation safety training. Pilots are warned that a fixed light can appear to move after several seconds of staring, particularly in dark, featureless conditions. Aviation authorities and flight-safety organisations describe autokinesis as a source of false motion perception during night operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA+2Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Spatial D</span><span class="citation-popover-snippet">Spatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</span></span></span>
+The phenomenon is sufficiently well established that it is taught in aviation safety training. Pilots are warned that a fixed light can appear to move after several seconds of staring, particularly in dark, featureless conditions. Aviation authorities and flight-safety organisations describe autokinesis as a source of false motion perception during night operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA+2Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Spatial D</span><span class="citation-popover-snippet">Spatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</span></span></span>
 
 This is relevant because later Cash–Landrum accounts describe a repeated sequence in which:
 
@@ -329,7 +329,7 @@ This is relevant because later Cash–Landrum accounts describe a repeated seque
 
 </div>
 
-Those observations were interpreted as evidence of thrust-like behaviour. Yet if observers were fixating on a brilliant object in darkness, apparent motion could be exaggerated or partially reconstructed from changing brightness levels. A brighter object often appears visually larger and can seem nearer or higher than a dimmer version of the same object. As luminosity fluctuates, observers may perceive movement even when the physical displacement is smaller than it appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine+2SKYbrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</span></span></span>
+Those observations were interpreted as evidence of thrust-like behaviour. Yet if observers were fixating on a brilliant object in darkness, apparent motion could be exaggerated or partially reconstructed from changing brightness levels. A brighter object often appears visually larger and can seem nearer or higher than a dimmer version of the same object. As luminosity fluctuates, observers may perceive movement even when the physical displacement is smaller than it appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine+2SKYbrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</span></span></span>
 
 Importantly, autokinesis does not require deception or faulty memory. The motion genuinely appears real to the observer at the time.
 
@@ -337,7 +337,7 @@ Importantly, autokinesis does not require deception or faulty memory. The motion
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-2-dark.svg" | relative_url }}" alt="Night Glare illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Brightness Changes Can Mimic Mechanical Behaviour
 
-The most intriguing aspect of the flame reports is not merely that flames were seen, but that the flames appeared linked to the object's movement. Witnesses later described a pattern resembling a machine using intermittent thrust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The most intriguing aspect of the flame reports is not merely that flames were seen, but that the flames appeared linked to the object's movement. Witnesses later described a pattern resembling a machine using intermittent thrust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 Night-time perception research shows why such a sequence can become convincing. Humans naturally seek causal relationships. If a bright object appears to brighten, flare, and then shift position, the brain tends to connect those events into a coherent mechanical story.
 
@@ -349,7 +349,7 @@ Several visual factors can reinforce that interpretation:
 * **Brightness expansion:** Increasing intensity can make a light source seem larger or closer.
 * **Loss of reference points:** Dark roads, trees, and sky provide few stable markers for judging movement.
 * **Contrast effects:** A sudden flare beneath an object can draw attention downward and create the impression of downward-directed energy.
-* **Motion expectation:** Once observers interpret a flare as propulsion, subsequent changes may be viewed through that framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD653518.xhtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrl.ntis.gov">[NTRL+2Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrl.ntis.gov</span><span class="citation-popover-snippet">arch is outlined; and recommendations are given for minimizing...Read more...</span></span></span>
+* **Motion expectation:** Once observers interpret a flare as propulsion, subsequent changes may be viewed through that framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD653518.xhtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrl.ntis.gov">[NTRL+2Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrl.ntis.gov</span><span class="citation-popover-snippet">arch is outlined; and recommendations are given for minimizing...Read more...</span></span></span>
 
 </div>
 
@@ -371,7 +371,7 @@ Illusions can reasonably account for:
 * Inconsistent descriptions of colour and flame appearance.
 * Apparently erratic or exaggerated motion.
 * Perceptions that brightness changes corresponded to movement.
-* Differences between early and later descriptions as memories became organised into a narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+* Differences between early and later descriptions as memories became organised into a narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 </div>
 
@@ -385,204 +385,204 @@ They do not directly account for:
 * The witnesses' claims of intense heat.
 * Reports of physical discomfort during the encounter.
 * The lengthy duration of observation compared with many brief misidentifications.
-* Accounts involving accompanying helicopters, whether accurate or mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+* Accounts involving accompanying helicopters, whether accurate or mistaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 </div>
 
-As a result, sceptical and sympathetic interpretations alike tend to treat glare and night-time perception as partial explanations rather than complete solutions. The strongest conclusion supported by the evidence is modest: the conditions under which the Cash–Landrum witnesses observed the object were exactly the kind of conditions known to make bright lights appear larger, stranger, and more mobile than they might seem in daylight. That does not eliminate the flame reports, but it cautions against reading them as precise descriptions of a propulsion system. Instead, they are observations filtered through the difficult visual environment of a dark road, a brilliant light source, and the limitations of human night vision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[NTRL+3Wikipedia+3FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As a result, sceptical and sympathetic interpretations alike tend to treat glare and night-time perception as partial explanations rather than complete solutions. The strongest conclusion supported by the evidence is modest: the conditions under which the Cash–Landrum witnesses observed the object were exactly the kind of conditions known to make bright lights appear larger, stranger, and more mobile than they might seem in daylight. That does not eliminate the flame reports, but it cautions against reading them as precise descriptions of a propulsion system. Instead, they are observations filtered through the difficult visual environment of a dark road, a brilliant light source, and the limitations of human night vision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[NTRL+3Wikipedia+3FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-3-dark.svg" | relative_url }}" alt="Night Glare illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Glare Turn Light Into Fire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Glare Turn Light Into Fire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains perceptual limitations and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perceptual limitations and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Discusses how unusual observations can be misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how unusual observations can be misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Useful for understanding interpretation and memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding interpretation and memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for night-time sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for night-time sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="night-glare-could-glare-turn-light-into-fire-cash-landrum-ufo-incident-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ As a result, sceptical and sympathetic interpretations alike tend to treat glare
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ As a result, sceptical and sympathetic interpretations alike tend to treat glare
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ As a result, sceptical and sympathetic interpretations alike tend to treat glare
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ As a result, sceptical and sympathetic interpretations alike tend to treat glare
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ As a result, sceptical and sympathetic interpretations alike tend to treat glare
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,131 +788,131 @@ As a result, sceptical and sympathetic interpretations alike tend to treat glare
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
    Title: Spatial D  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntrl.ntis.gov  
    Title: Frequently reported illusions were misjudgements of drift, clearance, height  
-   Link: <a href="https://ntrl.ntis.gov/NTRL/[dashboard" target="_blank" rel="noopener noreferrer nofollow">https://ntrl.ntis.gov/NTRL/[dashboard</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Factors of Night Vision Devices: Anecdotes from the...Contributing factors included inexperience, division of attention, and f...</p></details>
+   Link:<a href="https://ntrl.ntis.gov/NTRL/[dashboard" target="_blank" rel="noopener noreferrer nofollow">https://ntrl.ntis.gov/NTRL/[dashboard</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Factors of Night Vision Devices: Anecdotes from the...Contributing factors included inexperience, division of attention, and f...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: boldmethod.com  
    Title: eight things you need to consider on your next night flight  
-   Link: <a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe L...</p></details>
+   Link:<a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe L...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2025 — The autokinetic effect is a phenomenon of visual perception in which a stationary, small point of light in an otherwise da...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2025 — The autokinetic effect is a phenomenon of visual perception in which a stationary, small point of light in an otherwise da...</p></details>
    Published: May 24, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic Effect | SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual perceptio...</p></details>
+   Link:<a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic Effect | SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual perceptio...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ntrl.ntis.gov  
-   Link: <a href="https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD653518.xhtml" target="_blank" rel="noopener noreferrer nofollow">https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD653518.xhtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arch is outlined; and recommendations are given for minimizing...Read more...</p></details>
+   Link:<a href="https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD653518.xhtml" target="_blank" rel="noopener noreferrer nofollow">https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD653518.xhtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arch is outlined; and recommendations are given for minimizing...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: learntoflyblog.com  
    Title: Learn To Fly Human Factors: Optical Illusions  
-   Link: <a href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://learntoflyblog.com/human-factors-optical-illusions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — The diffusion of light due to water particles on the windshi...</p></details>
+   Link:<a href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://learntoflyblog.com/human-factors-optical-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — The diffusion of light due to water particles on the windshi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pilotinstitute.com  
    Title: types of spatial disorientation  
-   Link: <a href="https://pilotinstitute.com/types-of-spatial-disorientation/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/types-of-spatial-disorientation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteThe Different Types of Spatial Disorientation30 Nov 2024 — Autokinetic Illusion Staring at a stationary light in the dark...</p></details>
+   Link:<a href="https://pilotinstitute.com/types-of-spatial-disorientation/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/types-of-spatial-disorientation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteThe Different Types of Spatial Disorientation30 Nov 2024 — Autokinetic Illusion Staring at a stationary light in the dark...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: indjaerospacemed.com  
    Title: autokinesis illusion in fighter flying revisited  
-   Link: <a href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</p></details>
+   Link:<a href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pilotinstitute.com  
    Title: The 8 Types of Illusions Explained  
-   Link: <a href="https://pilotinstitute.com/illusions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/illusions-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICEFLAGS13 Oct 2024 — ICEFLAGS helps pilots remember the 8 common illusions: Inversion, Coriolis, Elevator, False Horizon, Leans, Autokin...</p></details>
+   Link:<a href="https://pilotinstitute.com/illusions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/illusions-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICEFLAGS13 Oct 2024 — ICEFLAGS helps pilots remember the 8 common illusions: Inversion, Coriolis, Elevator, False Horizon, Leans, Autokin...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) encountered a diamond-shaped UFO em...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) encountered a diamond-shaped UFO em...</p></details>
    Published: December 29, 1980  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsThe following are some of the most common illusions affecting pilots of fixed-wing aircraft that can result in spatia...</p></details>
+   Link:<a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsThe following are some of the most common illusions affecting pilots of fixed-wing aircraft that can result in spatia...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability and Psychology of Eyewitness-Centered...8 May 2024 — “The Cash-Landrum UFO Encounter of 1980.” Blue Blurry Lines (blog)...</p></details>
+   Link:<a href="https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability and Psychology of Eyewitness-Centered...8 May 2024 — “The Cash-Landrum UFO Encounter of 1980.” Blue Blurry Lines (blog)...</p></details>
    Published: May 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: autokinesis is a visual phenomenon observed in aviation especially during night  
-   Link: <a href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</p></details>
+   Link:<a href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: migflug.com  
    Title: your first night flight why everything changes after sunset  
-   Link: <a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Black hole approach: caused by lack of reference terrain during descent · Autokin...</p></details>
+   Link:<a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Black hole approach: caused by lack of reference terrain during descent · Autokin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eazypilot.com  
    Title: [night illusions](&#123;&#123; 'night-illusions/' | relative_url &#125;&#125;) while flying what every pilot should know  
-   Link: <a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinesis. What happens: A stationary light in the distance appears to move after you stare at it for a few seconds. Why it happens...</p></details>
+   Link:<a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinesis. What happens: A stationary light in the distance appears to move after you stare at it for a few seconds. Why it happens...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thalia.de  
    Title: "Zeugen von UFO verstrahlt, Cash-Landrum-Fall (29.12  
-   Link: <a href="https://www.thalia.de/shop/home/artikeldetails/A1071585190" target="_blank" rel="noopener noreferrer nofollow">https://www.thalia.de/shop/home/artikeldetails/A1071585190</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Am 29.12.1980 hatten Betty Cash, Vickie Landrum und ihr Enkel Colby eine Nahbegegnung mit einem unbekannten Flugobjekt auf einem abgelege...</p></details>
+   Link:<a href="https://www.thalia.de/shop/home/artikeldetails/A1071585190" target="_blank" rel="noopener noreferrer nofollow">https://www.thalia.de/shop/home/artikeldetails/A1071585190</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Am 29.12.1980 hatten Betty Cash, Vickie Landrum und ihr Enkel Colby eine Nahbegegnung mit einem unbekannten Flugobjekt auf einem abgelege...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pilotmall.com  
    Title: night flying illusions explained in detail  
-   Link: <a href="https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOortA2eAxGKAn3O4q2jPM6rmq6lWt1oqjnya8LtZUTG6qBx17tEI" target="_blank" rel="noopener noreferrer nofollow">https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOortA2eAxGKAn3O4q2jPM6rmq6lWt1oqjnya8LtZUTG6qBx17tEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Flying Illusions Explained (In Detail)28 Jul 2023 — Night flying illusions: Understand how sensory perceptions can mislead pilots d...</p></details>
+   Link:<a href="https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOortA2eAxGKAn3O4q2jPM6rmq6lWt1oqjnya8LtZUTG6qBx17tEI" target="_blank" rel="noopener noreferrer nofollow">https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOortA2eAxGKAn3O4q2jPM6rmq6lWt1oqjnya8LtZUTG6qBx17tEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Flying Illusions Explained (In Detail)28 Jul 2023 — Night flying illusions: Understand how sensory perceptions can mislead pilots d...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t on the right end. The bulk of the object appeared to be dark...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t on the right end. The bulk of the object appeared to be dark...</p></details>

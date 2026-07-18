@@ -280,17 +280,17 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_ra
 
 ## Introduction
 
-The most famous medical claim in the Cash–Landrum incident is that [Betty Cash]({{ 'betty-cash/' | relative_url }}) suffered radiation sickness after exposure to the reported UFO. At first glance, the comparison seems understandable. Cash reported intense heat, nausea, vomiting, diarrhoea, blistering skin changes and later substantial [hair loss—symptoms]({{ 'hair-loss/' | relative_url }}) often associated in popular culture with radiation exposure. Yet when physicians, radiation specialists and later investigators examined the case through the lens of dose-response biology, significant problems emerged. The central question is not whether Cash became ill; it is whether the pattern of illness matches what is known about acute radiation injury. The answer remains disputed, but many researchers—including some who accepted that she was genuinely sick—argued that the reported symptoms do not fit a straightforward radiation-sickness model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+The most famous medical claim in the Cash–Landrum incident is that [Betty Cash]({{ 'betty-cash/' | relative_url }}) suffered radiation sickness after exposure to the reported UFO. At first glance, the comparison seems understandable. Cash reported intense heat, nausea, vomiting, diarrhoea, blistering skin changes and later substantial [hair loss—symptoms]({{ 'hair-loss/' | relative_url }}) often associated in popular culture with radiation exposure. Yet when physicians, radiation specialists and later investigators examined the case through the lens of dose-response biology, significant problems emerged. The central question is not whether Cash became ill; it is whether the pattern of illness matches what is known about acute radiation injury. The answer remains disputed, but many researchers—including some who accepted that she was genuinely sick—argued that the reported symptoms do not fit a straightforward radiation-sickness model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-1-dark.svg" | relative_url }}" alt="Radiation Claim illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why radiation became the popular explanation
 
-[Radiation]({{ 'radiation/' | relative_url }}) entered the story because several reported symptoms superficially resembled acute radiation syndrome (ARS). Cash described severe nausea, weakness, skin problems and hair loss after the encounter, and later accounts often characterised these as radiation burns or radiation poisoning. UFO investigator John Schuessler promoted the possibility in articles and presentations, helping make radiation exposure the dominant explanation within UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 1983</span></span></span>
+[Radiation]({{ 'radiation/' | relative_url }}) entered the story because several reported symptoms superficially resembled acute radiation syndrome (ARS). Cash described severe nausea, weakness, skin problems and hair loss after the encounter, and later accounts often characterised these as radiation burns or radiation poisoning. UFO investigator John Schuessler promoted the possibility in articles and presentations, helping make radiation exposure the dominant explanation within UFO literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 1983</span></span></span>
 
-The appeal of the radiation theory is easy to understand. Radiation accidents are among the few known events that can produce combinations of gastrointestinal illness, skin injury and hair loss. In addition, the witnesses described an intensely bright object that allegedly emitted extreme heat, encouraging comparisons with an exotic energy source rather than a conventional burn injury. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident Following the encounter, all three suffered severe health issues resembling radiation poiso</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</span></span></span>
+The appeal of the radiation theory is easy to understand. Radiation accidents are among the few known events that can produce combinations of gastrointestinal illness, skin injury and hair loss. In addition, the witnesses described an intensely bright object that allegedly emitted extreme heat, encouraging comparisons with an exotic energy source rather than a conventional burn injury.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident Following the encounter, all three suffered severe health issues resembling radiation poiso</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</span></span></span>
 
-However, medical diagnosis is driven by dose patterns rather than symptom lists. Many illnesses can produce nausea, weakness or hair loss. The critical issue is whether the timing, severity, distribution and long-term outcome are consistent with known radiation biology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medlineplus.gov/ency/article/000026.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medlineplus.gov">[MedlinePlus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medlineplus.gov</span><span class="citation-popover-snippet">Radiation sickness: MedlinePlus Medical Encyclopedia1 Jul 2025 — On average, Americans receive a radiation dose of about 0.62...</span></span></span>
+However, medical diagnosis is driven by dose patterns rather than symptom lists. Many illnesses can produce nausea, weakness or hair loss. The critical issue is whether the timing, severity, distribution and long-term outcome are consistent with known radiation biology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medlineplus.gov/ency/article/000026.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medlineplus.gov">[MedlinePlus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medlineplus.gov</span><span class="citation-popover-snippet">Radiation sickness: MedlinePlus Medical Encyclopedia1 Jul 2025 — On average, Americans receive a radiation dose of about 0.62...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
@@ -299,27 +299,27 @@ However, medical diagnosis is driven by dose patterns rather than symptom lists.
 
 The strongest challenge to the radiation explanation comes from the amount of radiation that would likely have been required to produce the reported symptoms.
 
-Acute radiation syndrome is generally associated with a large whole-body dose delivered over a short period. When vomiting and severe gastrointestinal symptoms appear very quickly after exposure, radiation medicine typically interprets that as evidence of an extremely high dose. Such doses often cause profound damage to the bone marrow and digestive tract and can be fatal without extensive medical intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medlineplus.gov/ency/article/000026.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medlineplus.gov">[MedlinePlus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medlineplus.gov</span><span class="citation-popover-snippet">Radiation sickness: MedlinePlus Medical Encyclopedia1 Jul 2025 — On average, Americans receive a radiation dose of about 0.62...</span></span></span>
+Acute radiation syndrome is generally associated with a large whole-body dose delivered over a short period. When vomiting and severe gastrointestinal symptoms appear very quickly after exposure, radiation medicine typically interprets that as evidence of an extremely high dose. Such doses often cause profound damage to the bone marrow and digestive tract and can be fatal without extensive medical intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medlineplus.gov/ency/article/000026.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medlineplus.gov">[MedlinePlus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medlineplus.gov</span><span class="citation-popover-snippet">Radiation sickness: MedlinePlus Medical Encyclopedia1 Jul 2025 — On average, Americans receive a radiation dose of about 0.62...</span></span></span>
 
-Several analysts of the Cash–Landrum case therefore pointed to a basic contradiction. If Cash's nausea and other symptoms began as rapidly as reported and were caused by ionising radiation, the implied dose would likely have been extraordinarily high. Yet she survived for nearly eighteen years after the incident. Brad Sparks argued that the onset described by the witnesses would imply a radiation exposure severe enough to cause death within days rather than long-term survival. Later reviews by Gary Posner reached a similar conclusion, arguing that the reported symptom chronology and outcome do not align well with known radiation effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Several analysts of the Cash–Landrum case therefore pointed to a basic contradiction. If Cash's nausea and other symptoms began as rapidly as reported and were caused by ionising radiation, the implied dose would likely have been extraordinarily high. Yet she survived for nearly eighteen years after the incident. Brad Sparks argued that the onset described by the witnesses would imply a radiation exposure severe enough to cause death within days rather than long-term survival. Later reviews by Gary Posner reached a similar conclusion, arguing that the reported symptom chronology and outcome do not align well with known radiation effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Hair loss creates another difficulty. Radiation-induced alopecia is a recognised phenomenon, but it generally occurs after a sufficiently large dose to hair follicles and often appears alongside other expected biological markers of substantial radiation exposure. Critics noted that the public descriptions of Cash's medical records did not present the kind of clear, documented radiation syndrome that would normally accompany a dose high enough to produce dramatic hair loss and rapid systemic illness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+Hair loss creates another difficulty. Radiation-induced alopecia is a recognised phenomenon, but it generally occurs after a sufficiently large dose to hair follicles and often appears alongside other expected biological markers of substantial radiation exposure. Critics noted that the public descriptions of Cash's medical records did not present the kind of clear, documented radiation syndrome that would normally accompany a dose high enough to produce dramatic hair loss and rapid systemic illness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-A further problem involves the other witnesses. If a powerful source of penetrating radiation had irradiated the group, one might expect a more predictable relationship between proximity and injury. Instead, the severity and distribution of symptoms were uneven. Cash reportedly suffered the most serious effects, while [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and [Colby]({{ 'colby/' | relative_url }}) Landrum experienced substantially milder complaints. Although different exposures are possible, the disparity complicates any simple whole-body radiation scenario. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+A further problem involves the other witnesses. If a powerful source of penetrating radiation had irradiated the group, one might expect a more predictable relationship between proximity and injury. Instead, the severity and distribution of symptoms were uneven. Cash reportedly suffered the most serious effects, while [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and [Colby]({{ 'colby/' | relative_url }}) Landrum experienced substantially milder complaints. Although different exposures are possible, the disparity complicates any simple whole-body radiation scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-2-dark.svg" | relative_url }}" alt="Radiation Claim illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What non-uniform exposure can and cannot rescue
 
-Supporters of the radiation hypothesis often respond that the exposure may not have been uniform. Cash reportedly spent more time outside the vehicle and closer to [the object]({{ 'the-object/' | relative_url }}) than the others. If a highly directional or localised source existed, she could theoretically have received a much larger dose than her companions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Supporters of the radiation hypothesis often respond that the exposure may not have been uniform. Cash reportedly spent more time outside the vehicle and closer to [the object]({{ 'the-object/' | relative_url }}) than the others. If a highly directional or localised source existed, she could theoretically have received a much larger dose than her companions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This argument solves part of the problem but not all of it.
 
-A non-uniform exposure can explain why one witness became sicker than another. It can also help explain why skin symptoms might appear in some body regions more than others. Radiation medicine recognises local radiation injuries that do not necessarily involve catastrophic whole-body exposure. Historical radiation accidents include cases where local tissue damage was severe while survival remained possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/295733424_Early_medical_consequences_of_radiation_incidents_in_the_former_USSR_territory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">399 victims were affected by local...Read more...</span></span></span>
+A non-uniform exposure can explain why one witness became sicker than another. It can also help explain why skin symptoms might appear in some body regions more than others. Radiation medicine recognises local radiation injuries that do not necessarily involve catastrophic whole-body exposure. Historical radiation accidents include cases where local tissue damage was severe while survival remained possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/295733424_Early_medical_consequences_of_radiation_incidents_in_the_former_USSR_territory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">399 victims were affected by local...Read more...</span></span></span>
 
-What non-uniform exposure does not automatically explain is the combination of reported rapid gastrointestinal illness, alleged severe radiation-type injury and long-term survival without the unmistakable medical profile expected from a massive penetrating dose. To preserve the radiation hypothesis, one must assume a very unusual exposure geometry: strong enough to create dramatic symptoms, yet somehow avoiding the full-body consequences typically associated with those symptoms. Critics argue that this increasingly requires a specialised and undocumented radiation mechanism rather than any known radiation accident pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+What non-uniform exposure does not automatically explain is the combination of reported rapid gastrointestinal illness, alleged severe radiation-type injury and long-term survival without the unmistakable medical profile expected from a massive penetrating dose. To preserve the radiation hypothesis, one must assume a very unusual exposure geometry: strong enough to create dramatic symptoms, yet somehow avoiding the full-body consequences typically associated with those symptoms. Critics argue that this increasingly requires a specialised and undocumented radiation mechanism rather than any known radiation accident pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-The result is a narrowing path. Radiation exposure cannot be ruled out merely because the symptoms were unusual. But the more closely the case is compared with documented radiation injuries, the more the dose-response logic becomes problematic. The [debate]({{ 'debate/' | relative_url }}) therefore shifted from “Did the symptoms resemble radiation sickness?” to a more demanding question: “What specific radiation exposure could produce this exact pattern of illness without producing the outcomes normally expected from such a dose?” No widely accepted answer has emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+The result is a narrowing path. Radiation exposure cannot be ruled out merely because the symptoms were unusual. But the more closely the case is compared with documented radiation injuries, the more the dose-response logic becomes problematic. The [debate]({{ 'debate/' | relative_url }}) therefore shifted from “Did the symptoms resemble radiation sickness?” to a more demanding question: “What specific radiation exposure could produce this exact pattern of illness without producing the outcomes normally expected from such a dose?” No widely accepted answer has emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0rtq94uxG_w" title="The Cash-Landrum UFO Incident: Secret Nuclear Missile or Alien Encounter?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0rtq94uxG_w" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Incident: Secret Nuclear Missile or Alien Encounter?</a></p><p class="youtube-embed-meta">Channel: BUREAU OF THE UNEXPLAINED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0rtq94uxG_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0rtq94uxG_w">Open on YouTube</a></p></div></div></div>
@@ -329,202 +329,202 @@ The result is a narrowing path. Radiation exposure cannot be ruled out merely be
 
 ## Why the radiation argument remains controversial
 
-The enduring significance of the issue is that both sides rely on real observations. Proponents point to Cash's reported illness, hospitalisation and later hair loss. Skeptics point to the absence of a coherent radiation-dose model that comfortably fits the reported timeline, medical findings and survival history. Neither side disputes that Cash became ill; the dispute concerns mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The enduring significance of the issue is that both sides rely on real observations. Proponents point to Cash's reported illness, hospitalisation and later hair loss. Skeptics point to the absence of a coherent radiation-dose model that comfortably fits the reported timeline, medical findings and survival history. Neither side disputes that Cash became ill; the dispute concerns mechanism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-For that reason, the radiation explanation remains one of the most debated aspects of the Cash–Landrum case. The symptoms helped make the incident famous, but the underlying dose logic is precisely what prevents the radiation claim from achieving broad medical acceptance. The closer the case is examined through established radiation biology, the more difficult it becomes to reconcile all reported features within a single conventional radiation-sickness framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+For that reason, the radiation explanation remains one of the most debated aspects of the Cash–Landrum case. The symptoms helped make the incident famous, but the underlying dose logic is precisely what prevents the radiation claim from achieving broad medical acceptance. The closer the case is examined through established radiation biology, the more difficult it becomes to reconcile all reported features within a single conventional radiation-sickness framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-3-dark.svg" | relative_url }}" alt="Radiation Claim illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the injuries fit radiation sickness?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the injuries fit radiation sickness?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers scientific reasoning and evidence-evaluation tools relevant to assessing radiation-sickness explanations and UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers scientific reasoning and evidence-evaluation tools relevant to assessing radiation-sickness explanations and UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO-case context for readers interested in claims such as the Cash–Landrum incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO-case context for readers interested in claims such as the Cash–Landrum incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The radium girls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10667235-M.jpg" alt="Cover for The radium girls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The radium girls">The radium girls</a>
-        </h4>
-        <p class="fr-book-author">By Kate Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The radium girls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10667235-M.jpg" alt="Cover for The radium girls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The radium girls">The radium girls</a>
+</h4>
+<p class="fr-book-author">By Kate Moore</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: World War, 1914-1918, Diseases, Watch dial painters, Toxicology, War work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: World War, 1914-1918, Diseases, Watch dial painters, Toxicology, War work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation and human health on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4222766-M.jpg" alt="Cover for Radiation and human health" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation and human health">Radiation and human health</a>
-        </h4>
-        <p class="fr-book-author">By John W. Gofman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation and human health on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4222766-M.jpg" alt="Cover for Radiation and human health" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation and human health">Radiation and human health</a>
+</h4>
+<p class="fr-book-author">By John W. Gofman</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: Dosage, Ionizing radiation, Neoplasms, Radiation-Induced, Radiation, Radiation carcinogenesis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: Dosage, Ionizing radiation, Neoplasms, Radiation-Induced, Radiation, Radiation carcinogenesis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+radium+girls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The radium girls</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+radium+girls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The radium girls</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radiation-claim-did-the-injuries-fit-radiation-sickness-cash-landrum-ufo-incident-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,95 +730,95 @@ For that reason, the radiation explanation remains one of the most debated aspec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schuessler, M.S.. MUFON UFO Journal January 1983 pg 14,15. [http://www.ignaciodarnaude.com/ufologia...Read](http://www.ignaciodarnaude.com/ufologia...Read) more...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schuessler, M.S.. MUFON UFO Journal January 1983 pg 14,15. [http://www.ignaciodarnaude.com/ufologia...Read](http://www.ignaciodarnaude.com/ufologia...Read) more...</p></details>
    Published: January 1983  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medlineplus.gov  
-   Link: <a href="https://medlineplus.gov/ency/article/000026.htm" target="_blank" rel="noopener noreferrer nofollow">https://medlineplus.gov/ency/article/000026.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation sickness: MedlinePlus Medical Encyclopedia1 Jul 2025 — On average, Americans receive a radiation dose of about 0.62...</p></details>
+   Link:<a href="https://medlineplus.gov/ency/article/000026.htm" target="_blank" rel="noopener noreferrer nofollow">https://medlineplus.gov/ency/article/000026.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation sickness: MedlinePlus Medical Encyclopedia1 Jul 2025 — On average, Americans receive a radiation dose of about 0.62...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/295733424_Early_medical_consequences_of_radiation_incidents_in_the_former_USSR_territory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295733424_Early_medical_consequences_of_radiation_incidents_in_the_former_USSR_territory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>399 victims were affected by local...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/295733424_Early_medical_consequences_of_radiation_incidents_in_the_former_USSR_territory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295733424_Early_medical_consequences_of_radiation_incidents_in_the_former_USSR_territory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>399 victims were affected by local...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe &#x27;Classic&#x27; Cash-Landrum Case UnravelsIf radiation were involved, according to Posner, the reported symptoms would ha...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe &#x27;Classic&#x27; Cash-Landrum Case UnravelsIf radiation were involved, according to Posner, the reported symptoms would ha...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: music.amazon.co.uk  
-   Link: <a href="https://music.amazon.co.uk/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.co.uk/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?These witnesses later suffered unexplained sunburn, vomiting, hair loss, and a range of physi...</p></details>
+   Link:<a href="https://music.amazon.co.uk/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.co.uk/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?These witnesses later suffered unexplained sunburn, vomiting, hair loss, and a range of physi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?These witnesses later suffered unexplained sunburn, vomiting, hair loss, and a range of physi...</p></details>
+   Link:<a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?These witnesses later suffered unexplained sunburn, vomiting, hair loss, and a range of physi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, near Dayton, Texas, involving two women, Betty Cash and Vickie Landrum, and Landrum&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, near Dayton, Texas, involving two women, Betty Cash and Vickie Landrum, and Landrum&#x27;s...Read more...</p></details>
    Published: December 29, 1980  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Cash-Landrum UFO Incident: Secret Nuclear Missile or Alien Encounter?  
-   Link: <a href="https://www.youtube.com/watch?v=0rtq94uxG_w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0rtq94uxG_w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash landrum radiation sickness ufo incident The Mysterious Cash-Landrum Close Encounter Incident in 1980 - FindingUFO FindingUFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0rtq94uxG_w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0rtq94uxG_w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash landrum radiation sickness ufo incident The Mysterious Cash-Landrum Close Encounter Incident in 1980 - FindingUFO FindingUFO...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing a battle with breast cancer, before succumbing to her...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing a battle with breast cancer, before succumbing to her...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation burns and lo...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation burns and lo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bleav.com  
-   Link: <a href="https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/" target="_blank" rel="noopener noreferrer nofollow">https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The TTT Podcast: The Cash-Landrum Incident – Physical...4 days ago — Documented medical symptoms resembling radiation exposure tied to a...</p></details>
+   Link:<a href="https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/" target="_blank" rel="noopener noreferrer nofollow">https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TTT Podcast: The Cash-Landrum Incident – Physical...4 days ago — Documented medical symptoms resembling radiation exposure tied to a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medical professionals could not diagnose but which a radiation specialist suggested resembled radiation poisoning. The episode explores t...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medical professionals could not diagnose but which a radiation specialist suggested resembled radiation poisoning. The episode explores t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentAlmost immediately after Betty parks her Old Mobile in her driveway, she starts feeling th...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentAlmost immediately after Betty parks her Old Mobile in her driveway, she starts feeling th...</p></details>

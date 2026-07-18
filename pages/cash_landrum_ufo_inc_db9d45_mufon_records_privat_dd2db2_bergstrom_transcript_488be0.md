@@ -274,22 +274,22 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_be
 
 ## Introduction
 
-The [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview transcript occupies a distinctive place in the Cash-Landrum record because it captures the witnesses' accounts at a transitional moment. Conducted on 17 August 1981 by Air Force claims personnel, the interview took place roughly eight months after the reported encounter, after MUFON investigator John F. Schuessler had already gathered substantial material but before the later lawsuit and years of public retellings came to dominate discussion of the case. The recording was preserved, circulated among researchers, and eventually transcribed, making it one of the few lengthy question-and-answer documents that allows direct comparison between witness statements and later narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview transcript occupies a distinctive place in the Cash-Landrum record because it captures the witnesses' accounts at a transitional moment. Conducted on 17 August 1981 by Air Force claims personnel, the interview took place roughly eight months after the reported encounter, after MUFON investigator John F. Schuessler had already gathered substantial material but before the later lawsuit and years of public retellings came to dominate discussion of the case. The recording was preserved, circulated among researchers, and eventually transcribed, making it one of the few lengthy question-and-answer documents that allows direct comparison between witness statements and later narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-1-dark.svg" | relative_url }}" alt="Bergstrom illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers examining MUFON records and private investigation files, the transcript is valuable not because it proves what happened, but because it provides a relatively fixed benchmark against which other interviews, reports, and recollections can be measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+For researchers examining MUFON records and private investigation files, the transcript is valuable not because it proves what happened, but because it provides a relatively fixed benchmark against which other interviews, reports, and recollections can be measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UJdhk3_DurE" title="Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer">Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UJdhk3_DurE">Open on YouTube</a></p></div></div></div>
 
 ## What the August 1981 Interview Captured
 
-The Bergstrom session was not a UFO investigation interview in the usual civilian sense. It was conducted by representatives of the United States Air Force claims system after the witnesses sought government assistance and compensation for their alleged injuries. Participants included [Betty Cash]({{ 'betty-cash/' | relative_url }}), [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum, along with Air Force legal and claims personnel. The discussion covered the sighting itself, the reported helicopters, the witnesses' medical complaints, employment histories, and their efforts to identify possible military involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The Bergstrom session was not a UFO investigation interview in the usual civilian sense. It was conducted by representatives of the United States Air Force claims system after the witnesses sought government assistance and compensation for their alleged injuries. Participants included [Betty Cash]({{ 'betty-cash/' | relative_url }}), [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum, along with Air Force legal and claims personnel. The discussion covered the sighting itself, the reported helicopters, the witnesses' medical complaints, employment histories, and their efforts to identify possible military involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-What makes the transcript especially useful is its conversational format. Unlike polished summaries, the document preserves hesitation, uncertainty, interruptions, and follow-up questions. Readers can see where witnesses expressed confidence and where they struggled to provide precise details. The interviewers repeatedly sought clarification on [the object]({{ 'the-object/' | relative_url }})'s appearance, the number and behaviour of helicopters, distances, timings, and the sequence of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+What makes the transcript especially useful is its conversational format. Unlike polished summaries, the document preserves hesitation, uncertainty, interruptions, and follow-up questions. Readers can see where witnesses expressed confidence and where they struggled to provide precise details. The interviewers repeatedly sought clarification on [the object]({{ 'the-object/' | relative_url }})'s appearance, the number and behaviour of helicopters, distances, timings, and the sequence of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-The transcript also includes an important visual element. During the interview, the witnesses were asked to sketch the object if it had a discernible shape. The resulting drawing became one of the best-known images associated with the case and is frequently reproduced in later discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The transcript also includes an important visual element. During the interview, the witnesses were asked to sketch the object if it had a discernible shape. The resulting drawing became one of the best-known images associated with the case and is frequently reproduced in later discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -298,13 +298,13 @@ The transcript also includes an important visual element. During the interview, 
 
 The Bergstrom transcript differs from MUFON and other private-investigator records in several important ways.
 
-First, the questioning came from officials concerned with a potential government claim rather than from UFO researchers seeking evidence of an unusual aerial phenomenon. As a result, the interview often focused on practical issues such as injuries, identification of military assets, and factual chronology rather than broader theories about UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+First, the questioning came from officials concerned with a potential government claim rather than from UFO researchers seeking evidence of an unusual aerial phenomenon. As a result, the interview often focused on practical issues such as injuries, identification of military assets, and factual chronology rather than broader theories about UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-Second, the tone is more adversarial and evidentiary. Air Force personnel repeatedly pressed for details that could establish or exclude military responsibility. This contrasts with many private UFO interviews, which tended to emphasise the unusual aspects of the reported encounter itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+Second, the tone is more adversarial and evidentiary. Air Force personnel repeatedly pressed for details that could establish or exclude military responsibility. This contrasts with many private UFO interviews, which tended to emphasise the unusual aspects of the reported encounter itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-Third, the transcript provides a useful comparison point because some details differ from statements found in earlier or later sources. Researchers have noted that descriptions of the object's shape evolved over time. In early post-incident interviews recorded through the Schuessler investigation, witnesses sometimes expressed uncertainty about the craft's exact form because of its brightness. During the [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}), however, a signed sketch depicting a diamond-shaped object was produced and endorsed by the adult witnesses. The contrast does not automatically indicate deception or error, but it gives investigators a concrete example of how witness descriptions can change as memories are revisited and discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Third, the transcript provides a useful comparison point because some details differ from statements found in earlier or later sources. Researchers have noted that descriptions of the object's shape evolved over time. In early post-incident interviews recorded through the Schuessler investigation, witnesses sometimes expressed uncertainty about the craft's exact form because of its brightness. During the [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}), however, a signed sketch depicting a diamond-shaped object was produced and endorsed by the adult witnesses. The contrast does not automatically indicate deception or error, but it gives investigators a concrete example of how witness descriptions can change as memories are revisited and discussed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The transcript also preserves remarks that are often omitted from shorter retellings. Because the discussion wandered into employment, health, finances, and previous conversations with officials, it allows researchers to compare later published narratives with what was actually said in a lengthy contemporaneous interview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The transcript also preserves remarks that are often omitted from shorter retellings. Because the discussion wandered into employment, health, finances, and previous conversations with officials, it allows researchers to compare later published narratives with what was actually said in a lengthy contemporaneous interview.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-2-dark.svg" | relative_url }}" alt="Bergstrom illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,217 +312,217 @@ The transcript also preserves remarks that are often omitted from shorter retell
 
 Within the broader Cash-Landrum archive, the Bergstrom transcript functions much like a control document.
 
-When later books, documentaries, legal filings, and sceptical critiques disagree about what the witnesses claimed, researchers can return to the transcript and examine the statements directly. This is particularly important because many later accounts rely on summaries rather than full recordings. The Bergstrom document therefore serves as a relatively stable reference point amid decades of retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+When later books, documentaries, legal filings, and sceptical critiques disagree about what the witnesses claimed, researchers can return to the transcript and examine the statements directly. This is particularly important because many later accounts rely on summaries rather than full recordings. The Bergstrom document therefore serves as a relatively stable reference point amid decades of retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-The transcript is also valuable because it captures all three principal witnesses in the same session. Their responses can be compared against one another in real time rather than through separate interviews conducted months or years apart. Researchers interested in witness consistency often examine where their accounts align closely and where differences emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The transcript is also valuable because it captures all three principal witnesses in the same session. Their responses can be compared against one another in real time rather than through separate interviews conducted months or years apart. Researchers interested in witness consistency often examine where their accounts align closely and where differences emerge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-Another reason the transcript remains important is preservation. The original recording became part of the broader private UFO archive through circulation among researchers and later transcription projects, particularly through organisations such as CUFON that collected historical UFO documents. Without that preservation effort, the interview would likely survive only as references in secondary sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFON &quot;Other Files&quot; DirectoryCASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview held at Bergstom Air Force Ba...</span></span></span>
+Another reason the transcript remains important is preservation. The original recording became part of the broader private UFO archive through circulation among researchers and later transcription projects, particularly through organisations such as CUFON that collected historical UFO documents. Without that preservation effort, the interview would likely survive only as references in secondary sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFON &quot;Other Files&quot; DirectoryCASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview held at Bergstom Air Force Ba...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TyV-FFU1BQg" title="Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer">Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel &middot; Views: 121.9K &middot; Uploaded: July 2022 &middot; Length: 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TyV-FFU1BQg">Open on YouTube</a></p></div></div></div>
 
 ## What a Transcript Can and Cannot Prove
 
-The Bergstrom transcript provides direct evidence of what the witnesses said in August 1981. It documents their recollections, the questions they were asked, and the answers they gave. In that sense, it is a primary historical source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The Bergstrom transcript provides direct evidence of what the witnesses said in August 1981. It documents their recollections, the questions they were asked, and the answers they gave. In that sense, it is a primary historical source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-What it cannot do is independently verify the truth of those recollections. A transcript records testimony, not events. It cannot establish whether the reported object existed, whether the helicopters were military [aircraft]({{ 'aircraft/' | relative_url }}), or whether the witnesses' medical problems were caused by the encounter. Those questions require corroborating evidence beyond the interview itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+What it cannot do is independently verify the truth of those recollections. A transcript records testimony, not events. It cannot establish whether the reported object existed, whether the helicopters were military [aircraft]({{ 'aircraft/' | relative_url }}), or whether the witnesses' medical problems were caused by the encounter. Those questions require corroborating evidence beyond the interview itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-The document is also limited by timing. Although it predates the major legal proceedings that later defined public discussion of the case, it was still conducted many months after the incident. By then the witnesses had spoken with family members, investigators, journalists, and government officials. The transcript therefore reflects memories that had already undergone repetition and interpretation rather than a first-day account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the original cash landrum case file</span><span class="citation-popover-snippet">Blue Blurry LinesThe Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...8 Feb 2018 — 1) Bergstrom Air Force Base interview of Betty...</span></span></span>
+The document is also limited by timing. Although it predates the major legal proceedings that later defined public discussion of the case, it was still conducted many months after the incident. By then the witnesses had spoken with family members, investigators, journalists, and government officials. The transcript therefore reflects memories that had already undergone repetition and interpretation rather than a first-day account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the original cash landrum case file</span><span class="citation-popover-snippet">Blue Blurry LinesThe Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...8 Feb 2018 — 1) Bergstrom Air Force Base interview of Betty...</span></span></span>
 
-For that reason, the Bergstrom interview is best understood as a comparison record rather than a final authority. Its value lies in allowing readers to trace how the Cash-Landrum story was being told at a specific point in 1981 and to compare that version with both earlier MUFON materials and later public narratives. In a case marked by disputed facts and evolving recollections, that role alone makes the transcript one of the most significant surviving documents in the private-investigation archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+For that reason, the Bergstrom interview is best understood as a comparison record rather than a final authority. Its value lies in allowing readers to trace how the Cash-Landrum story was being told at a specific point in 1981 and to compare that version with both earlier MUFON materials and later public narratives. In a case marked by disputed facts and evolving recollections, that role alone makes the transcript one of the most significant surviving documents in the private-investigation archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[CUFON+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-3-dark.svg" | relative_url }}" alt="Bergstrom illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Bergstrom Transcript Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Bergstrom Transcript Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly addresses government involvement, investigations, records, and evidentiary questions central to the Bergstrom transcript context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses government involvement, investigations, records, and evidentiary questions central to the Bergstrom transcript context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating witness testimony, reports, and investigative records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating witness testimony, reports, and investigative records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explores military investigations and the interpretation of UFO case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military investigations and the interpretation of UFO case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines how physical claims, testimony, and documentation should be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how physical claims, testimony, and documentation should be assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="bergstrom-e09cc0-why-the-bergstrom-transcript-still-matters-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ For that reason, the Bergstrom interview is best understood as a comparison reco
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ For that reason, the Bergstrom interview is best understood as a comparison reco
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ For that reason, the Bergstrom interview is best understood as a comparison reco
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ For that reason, the Bergstrom interview is best understood as a comparison reco
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ For that reason, the Bergstrom interview is best understood as a comparison reco
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,106 +728,106 @@ For that reason, the Bergstrom interview is best understood as a comparison reco
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</p></details>
    Published: August 1981  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cufon.org  
    Title: "Other Files" Directory CASH  
-   Link: <a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CUFON &quot;Other Files&quot; DirectoryCASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview held at Bergstom Air Force Ba...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CUFON &quot;Other Files&quot; DirectoryCASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview held at Bergstom Air Force Ba...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cufon.org  
    Title: Transcript, Cash-Landrum Interview  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1981 held at Bergstrom Air Force Base Law Library Building 2102, 17 August 1981, between Betty. Cash...Read more...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 1981 held at Bergstrom Air Force Base Law Library Building 2102, 17 August 1981, between Betty. Cash...Read more...</p></details>
    Published: August 1981  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cufon.org  
    Title: cashlan L  
-   Link: <a href="https://www.cufon.org/cufon/cashlanL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlanL.pdf</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlanL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlanL.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The links below are to a transcript made of that tape. CUFON: Bergstrom Air Force...Read more...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The links below are to a transcript made of that tape. CUFON: Bergstrom Air Force...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blueblurrylines.com  
    Title: the original cash landrum [case file](&#123;&#123; 'case-file/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...8 Feb 2018 — 1) Bergstrom Air Force Base interview of Betty...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Original Cash-Landrum Case File, 3/4/81: Transcript &amp;...8 Feb 2018 — 1) Bergstrom Air Force Base interview of Betty...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hjkc.de  
-   Link: <a href="https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentThis isn&#x27;t unreasonable, and there were some red flags in the transcript of their interview at Bergstrom AFB...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/11467-ufo-forschung-the-cash-landrum-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentThis isn&#x27;t unreasonable, and there were some red flags in the transcript of their interview at Bergstrom AFB...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash (aged 51), Vickie Landrum (57), and Vickie&#x27;s grandson, Colby Landrum (7), were driving home to Dayton, Texas, in Cash&#x27;s Oldsmo...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash (aged 51), Vickie Landrum (57), and Vickie&#x27;s grandson, Colby Landrum (7), were driving home to Dayton, Texas, in Cash&#x27;s Oldsmo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/801229huffman_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/801229huffman_dir.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportPlease read the reports below. Betty Cash and Vicki &amp; Colby Landrum suffered apparent [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) illness after watching flame-sp...</p></details>
+   Link:<a href="https://www.nicap.org/801229huffman_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/801229huffman_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportPlease read the reports below. Betty Cash and Vicki &amp; Colby Landrum suffered apparent [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) illness after watching flame-sp...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: the cash landrum incident a night of fire and mysterydecember 29 1980 betty cash  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Force Base. Th...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Force Base. Th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom Cash Landrum Air Force interview The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom Cash Landrum Air Force interview The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: grunge.com  
    Title: the terrifying true story of the cash landrum ufo incident  
-   Link: <a href="https://www.grunge.com/299546/the-terrifying-true-story-of-the-cash-landrum-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/299546/the-terrifying-true-story-of-the-cash-landrum-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Terrifying True Story Of The Cash-Landrum UFO Incident21 Dec 2020 — As recounted in the transcript of an interview conducted by offic...</p></details>
+   Link:<a href="https://www.grunge.com/299546/the-terrifying-true-story-of-the-cash-landrum-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/299546/the-terrifying-true-story-of-the-cash-landrum-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Terrifying True Story Of The Cash-Landrum UFO Incident21 Dec 2020 — As recounted in the transcript of an interview conducted by offic...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO,  
-   Link: <a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJdhk3_DurE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJdhk3_DurE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
    Published: December 29, 1980  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...In August of 1981 Betty Cash, Vickie Landrum and Colby Landrum were interviewed...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...In August of 1981 Betty Cash, Vickie Landrum and Colby Landrum were interviewed...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_JPmA78VuXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_JPmA78VuXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_JPmA78VuXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_JPmA78VuXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980...</p></details>
    Published: December 29, 1980  

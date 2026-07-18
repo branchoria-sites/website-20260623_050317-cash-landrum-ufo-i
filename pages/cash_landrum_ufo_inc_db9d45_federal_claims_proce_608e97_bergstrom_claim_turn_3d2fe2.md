@@ -280,26 +280,26 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_be
 
 ## Introduction
 
-The interview conducted at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base on 17 August 1981 marked the moment when the Cash–Landrum incident shifted from a UFO report into a formal government-liability claim. Up to that point, Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) had been trying to obtain answers about a frightening encounter and the illnesses they believed followed it. At Bergstrom, however, Air Force legal personnel approached the matter differently. Their questions were not primarily about whether a UFO existed. They focused on whether identifiable military aircraft were present, whether those aircraft could be linked to the United States government, and whether the witnesses could provide evidence strong enough to support a compensation claim. The surviving transcript shows the transition in real time: a mystery story became an evidentiary inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The interview conducted at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base on 17 August 1981 marked the moment when the Cash–Landrum incident shifted from a UFO report into a formal government-liability claim. Up to that point, Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) had been trying to obtain answers about a frightening encounter and the illnesses they believed followed it. At Bergstrom, however, Air Force legal personnel approached the matter differently. Their questions were not primarily about whether a UFO existed. They focused on whether identifiable military aircraft were present, whether those aircraft could be linked to the United States government, and whether the witnesses could provide evidence strong enough to support a compensation claim. The surviving transcript shows the transition in real time: a mystery story became an evidentiary inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-1-dark.svg" | relative_url }}" alt="Bergstrom illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Cash and Landrum Went to Bergstrom
 
-The witnesses did not arrive at Bergstrom Air Force Base as participants in a UFO investigation. They came because they believed government-operated helicopters had been involved in the incident and that those [aircraft]({{ 'aircraft/' | relative_url }}) might explain both the event and their reported injuries. By mid-1981 they had sought official assistance through political and military channels, eventually reaching Air Force claims personnel. The interview was held in the base law library rather than an intelligence or scientific office, signalling that the matter was being handled as a potential claims case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The witnesses did not arrive at Bergstrom Air Force Base as participants in a UFO investigation. They came because they believed government-operated helicopters had been involved in the incident and that those [aircraft]({{ 'aircraft/' | relative_url }}) might explain both the event and their reported injuries. By mid-1981 they had sought official assistance through political and military channels, eventually reaching Air Force claims personnel. The interview was held in the base law library rather than an intelligence or scientific office, signalling that the matter was being handled as a potential claims case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-The transcript identifies the Air Force participants as Captain John Camp, Acting Staff Judge Advocate; Captain Terry Davis, Claims Officer; and Pat Wolf, Assistant Claims Officer. Their presence is significant because all three occupied positions associated with legal review and claims administration. The interview therefore began from the assumption that the central question was responsibility rather than unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The transcript identifies the Air Force participants as Captain John Camp, Acting Staff Judge Advocate; Captain Terry Davis, Claims Officer; and Pat Wolf, Assistant Claims Officer. Their presence is significant because all three occupied positions associated with legal review and claims administration. The interview therefore began from the assumption that the central question was responsibility rather than unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-For the witnesses, Bergstrom offered a possible route to accountability. If military aircraft could be identified and connected to the event, there was at least a theoretical pathway toward a federal claim. Without that connection, the allegations would remain outside any practical compensation process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+For the witnesses, Bergstrom offered a possible route to accountability. If military aircraft could be identified and connected to the event, there was at least a theoretical pathway toward a federal claim. Without that connection, the allegations would remain outside any practical compensation process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## What the Officers Asked About the Helicopters
 
-One of the most revealing features of the Bergstrom interview is how quickly the discussion centred on the helicopters. The officers repeatedly asked the witnesses to describe the aircraft, their numbers, their appearance, and any markings that might identify them. The questioning was precise because the helicopters represented the only plausible bridge between an extraordinary sighting and a legally accountable government actor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+One of the most revealing features of the Bergstrom interview is how quickly the discussion centred on the helicopters. The officers repeatedly asked the witnesses to describe the aircraft, their numbers, their appearance, and any markings that might identify them. The questioning was precise because the helicopters represented the only plausible bridge between an extraordinary sighting and a legally accountable government actor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-The witnesses described numerous helicopters accompanying or surrounding the object. [Betty Cash]({{ 'betty-cash/' | relative_url }}) stated that she observed twin-rotor helicopters and reported seeing markings she associated with the United States Air Force. Air Force interviewers pressed for specifics rather than accepting the statement at face value. They sought clarification about exactly what was written, where it appeared, and how clearly it had been observed. The transcript shows a sustained effort to determine whether the identification rested on direct observation or later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The witnesses described numerous helicopters accompanying or surrounding the object. [Betty Cash]({{ 'betty-cash/' | relative_url }}) stated that she observed twin-rotor helicopters and reported seeing markings she associated with the United States Air Force. Air Force interviewers pressed for specifics rather than accepting the statement at face value. They sought clarification about exactly what was written, where it appeared, and how clearly it had been observed. The transcript shows a sustained effort to determine whether the identification rested on direct observation or later interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 The officers also explored details that might permit independent verification:
 
@@ -310,21 +310,21 @@ The officers also explored details that might permit independent verification:
 * Their formation and relationship to the reported object.
 * The witnesses' viewing conditions.
 * Distinguishing characteristics such as rotor configuration.
-* Whether any markings were read completely or only partially. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+* Whether any markings were read completely or only partially.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 </div>
 
-These questions resemble the evidentiary groundwork of a claims investigation. Rather than debating the nature of the object itself, the interviewers focused on facts that could potentially be matched against military records, flight operations, or aircraft inventories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+These questions resemble the evidentiary groundwork of a claims investigation. Rather than debating the nature of the object itself, the interviewers focused on facts that could potentially be matched against military records, flight operations, or aircraft inventories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-2-dark.svg" | relative_url }}" alt="Bergstrom illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Interview Narrowed the Legal Question
 
-The most important outcome of the Bergstrom meeting was the narrowing of the dispute. Before the interview, the witnesses' story involved a large unidentified object, reported health effects, and numerous helicopters. After the interview, the practical issue became much more specific: could the helicopters be proven to belong to the federal government? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The most important outcome of the Bergstrom meeting was the narrowing of the dispute. Before the interview, the witnesses' story involved a large unidentified object, reported health effects, and numerous helicopters. After the interview, the practical issue became much more specific: could the helicopters be proven to belong to the federal government?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-That distinction mattered because compensation claims against the United States require identification of a responsible federal agency or employee. The existence of an unexplained object, by itself, would not establish [liability]({{ 'liability/' | relative_url }}). The helicopters therefore became the critical evidentiary link. If they were military aircraft operating under government authority, the claim had a foundation. If they could not be connected to the government, the claim faced a fundamental obstacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+That distinction mattered because compensation claims against the United States require identification of a responsible federal agency or employee. The existence of an unexplained object, by itself, would not establish [liability]({{ 'liability/' | relative_url }}). The helicopters therefore became the critical evidentiary link. If they were military aircraft operating under government authority, the claim had a foundation. If they could not be connected to the government, the claim faced a fundamental obstacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
-The transcript repeatedly reflects this narrowing process. Air Force personnel did not spend the interview trying to determine the origin of the object. Instead, they attempted to extract details that could support or undermine identification of the aircraft. In effect, the interview transformed a broad allegation—“something happened and we were harmed”—into a much narrower legal proposition: “government-operated helicopters were involved in an event that caused injury.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The transcript repeatedly reflects this narrowing process. Air Force personnel did not spend the interview trying to determine the origin of the object. Instead, they attempted to extract details that could support or undermine identification of the aircraft. In effect, the interview transformed a broad allegation—“something happened and we were harmed”—into a much narrower legal proposition: “government-operated helicopters were involved in an event that caused injury.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzoOTCOUMKA" title="SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer">SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |</a></p><p class="youtube-embed-meta">Channel: Amaze World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzoOTCOUMKA">Open on YouTube</a></p></div></div></div>
@@ -334,204 +334,204 @@ The transcript repeatedly reflects this narrowing process. Air Force personnel d
 
 ## Why the Bergstrom Record Remains Important
 
-The Bergstrom interview remains one of the most valuable primary documents in the Cash–Landrum case because it captures the witnesses before years of retelling, litigation, and public debate reshaped the narrative. The recording and transcript preserve direct exchanges between the witnesses and officials whose job was to evaluate a potential claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+The Bergstrom interview remains one of the most valuable primary documents in the Cash–Landrum case because it captures the witnesses before years of retelling, litigation, and public debate reshaped the narrative. The recording and transcript preserve direct exchanges between the witnesses and officials whose job was to evaluate a potential claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-For researchers interested in official accountability rather than UFO speculation, the document is important for another reason: it shows exactly where the burden of proof fell. The Air Force representatives did not need to explain the reported object before examining the claim. They first needed evidence connecting identifiable government assets to the incident. The helicopters became the decisive issue because they were the only element that could potentially establish federal responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+For researchers interested in official accountability rather than UFO speculation, the document is important for another reason: it shows exactly where the burden of proof fell. The Air Force representatives did not need to explain the reported object before examining the claim. They first needed evidence connecting identifiable government assets to the incident. The helicopters became the decisive issue because they were the only element that could potentially establish federal responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
-In that sense, the Bergstrom meeting was the turning point of the entire claims process. It converted an extraordinary sighting into a question of evidence, identification, and accountability. From then on, the central challenge was no longer describing what the witnesses believed they had seen. It was proving who, if anyone, could legally be held responsible for it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
+In that sense, the Bergstrom meeting was the turning point of the entire claims process. It converted an extraordinary sighting into a question of evidence, identification, and accountability. From then on, the central challenge was no longer describing what the witnesses believed they had seen. It was proving who, if anyone, could legally be held responsible for it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie</span><span class="citation-popover-snippet">TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</span><span class="citation-popover-meta">Published: August 1981</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-3-dark.svg" | relative_url }}" alt="Bergstrom illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the UFO Report Became a Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the UFO Report Became a Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses government channels and evidence gathering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses government channels and evidence gathering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes witness testimony and official inquiries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes witness testimony and official inquiries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how reports become formal investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reports become formal investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handling Federal Tort Claims on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handling Federal Tort Claims">Handling Federal Tort Claims</a>
-        </h4>
-        <p class="fr-book-author">By Lester S. Jayson and Robert C. Longstret</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handling Federal Tort Claims on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handling Federal Tort Claims">Handling Federal Tort Claims</a>
+</h4>
+<p class="fr-book-author">By Lester S. Jayson and Robert C. Longstret</p>
         
-        <p class="fr-book-desc">First published 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Handling+Federal+Tort+Claims+Lester+S.+Jayson+and+Robert+C.+Longstret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock"><img src="{{ '/assets/images/marketplace-covers/7183677a66858fb97015.jpg' | relative_url }}" alt="Listing image for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock"><img src="{{ '/assets/images/marketplace-covers/7183677a66858fb97015.jpg' | relative_url }}" alt="Listing image for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami UFO series - Interceptor, sealed"><img src="{{ '/assets/images/marketplace-covers/cc932aad77368234dca3.jpg' | relative_url }}" alt="Listing image for Konami UFO series - Interceptor, sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Konami UFO series - Interceptor, sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami UFO series - Interceptor, sealed"><img src="{{ '/assets/images/marketplace-covers/cc932aad77368234dca3.jpg' | relative_url }}" alt="Listing image for Konami UFO series - Interceptor, sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Konami UFO series - Interceptor, sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKY ONE - UFO SHADO Konami collection"><img src="{{ '/assets/images/marketplace-covers/d6f8fcae581b37f681aa.jpg' | relative_url }}" alt="Listing image for SKY ONE - UFO SHADO Konami collection" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SKY ONE - UFO SHADO Konami collection</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKY ONE - UFO SHADO Konami collection"><img src="{{ '/assets/images/marketplace-covers/d6f8fcae581b37f681aa.jpg' | relative_url }}" alt="Listing image for SKY ONE - UFO SHADO Konami collection" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SKY ONE - UFO SHADO Konami collection</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="bergstrom-1f2c14-when-the-ufo-report-became-a-claim-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ In that sense, the Bergstrom meeting was the turning point of the entire claims 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ In that sense, the Bergstrom meeting was the turning point of the entire claims 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ In that sense, the Bergstrom meeting was the turning point of the entire claims 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ In that sense, the Bergstrom meeting was the turning point of the entire claims 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ In that sense, the Bergstrom meeting was the turning point of the entire claims 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,110 +737,110 @@ In that sense, the Bergstrom meeting was the turning point of the entire claims 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; [COLBY](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; [COLBY](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) LANDRUM August 1981. Part 1 of 2. TRANSCRIPT. of taped interview...</p></details>
    Published: August 1981  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/cashlandrumint01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/cashlandrumint01.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terry Davis, Claims Officer, and Miss Pat Wolf, Assistant Claims Officer.... John Camp, Capt. USAF, PW...</p></details>
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/cashlandrumint01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/cashlandrumint01.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terry Davis, Claims Officer, and Miss Pat Wolf, Assistant Claims Officer.... John Camp, Capt. USAF, PW...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufon.org  
    Title: Transcript, Cash-Landrum Interview  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Camp, Acting Staff Judge Advocate, Captain Terry Davis, Claims. Officer, and Miss Pat Wolf, Assistant Claims Officer. Conventions us...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Camp, Acting Staff Judge Advocate, Captain Terry Davis, Claims. Officer, and Miss Pat Wolf, Assistant Claims Officer. Conventions us...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</p></details>
    Published: April 3, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM Augu...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM Augu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cufon.org  
    Title: CUFO N "Other Files" Directory CASH  
-   Link: <a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CUFON &quot;Other Files&quot; DirectoryCASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview held at Bergstom Air Force Base La...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CUFON &quot;Other Files&quot; DirectoryCASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview held at Bergstom Air Force Base La...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The links below are to a transcript made of that tape. CUFON: Bergstrom Air Force...Read more...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The links below are to a transcript made of that tape. CUFON: Bergstrom Air Force...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
    Title: the us governments cash landrum ufo  
-   Link: <a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Government&#x27;s Cash-Landrum UFO Investigations7 Mar 2019 — They were interviewed by Captain John Camp, Acting Staff Judge Advocate...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US Government&#x27;s Cash-Landrum UFO Investigations7 Mar 2019 — They were interviewed by Captain John Camp, Acting Staff Judge Advocate...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ojp.gov  
-   Link: <a href="https://ojp.gov/pdffiles1/Digitization/61719NCJRS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ojp.gov/pdffiles1/Digitization/61719NCJRS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law onConscientious prison officials, with limited funds and outdated facilities, have had to defend themselves from frivolous claims for...</p></details>
+   Link:<a href="https://ojp.gov/pdffiles1/Digitization/61719NCJRS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ojp.gov/pdffiles1/Digitization/61719NCJRS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law onConscientious prison officials, with limited funds and outdated facilities, have had to defend themselves from frivolous claims for...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hjkc.de  
-   Link: <a href="https://www.hjkc.de/_blog/11467-ufo-forschung-the-[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/11467-ufo-forschung-the-[cash-landrum-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentThis isn&#x27;t unreasonable, and there were some red flags in the transcript of their interview at Bergstrom AFB...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/11467-ufo-forschung-the-[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/11467-ufo-forschung-the-[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentThis isn&#x27;t unreasonable, and there were some red flags in the transcript of their interview at Bergstrom AFB...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingThe Cash-Landrum UFO Sighting Multiple witnesses saw aircraft that has never been credibly explained On Dece...</p></details>
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingThe Cash-Landrum UFO Sighting Multiple witnesses saw aircraft that has never been credibly explained On Dece...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: freerepublic.com  
-   Link: <a href="https://freerepublic.com/focus/f-chat/2206772/posts" target="_blank" rel="noopener noreferrer nofollow">https://freerepublic.com/focus/f-chat/2206772/posts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil UFO flap: Flying saucer sizzles car DVD player, good photosConventions used in the transcription: Betty Cash CTD Terry Davis, Capt...</p></details>
+   Link:<a href="https://freerepublic.com/focus/f-chat/2206772/posts" target="_blank" rel="noopener noreferrer nofollow">https://freerepublic.com/focus/f-chat/2206772/posts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil UFO flap: Flying saucer sizzles car DVD player, good photosConventions used in the transcription: Betty Cash CTD Terry Davis, Capt...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentBetty and Vicky are told to report to the Bergstrom Air Force Base in Austin, Texas...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentBetty and Vicky are told to report to the Bergstrom Air Force Base in Austin, Texas...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) poisoning after witnessing military heli...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Cash and Landrum contacted Lloyd Bentsen and John Tower, their Texas senators...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Cash and Landrum contacted Lloyd Bentsen and John Tower, their Texas senators...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor helicopters, an...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor helicopters, an...</p></details>

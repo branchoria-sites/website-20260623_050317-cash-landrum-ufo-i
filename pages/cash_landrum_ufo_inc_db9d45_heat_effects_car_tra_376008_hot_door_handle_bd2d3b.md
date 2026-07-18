@@ -280,7 +280,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_ho
 
 ## Introduction
 
-The hot door handle is one of the most memorable details in the [Cash–Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) because it converts a strange sighting into a physical heat claim. According to [Betty Cash]({{ 'betty-cash/' | relative_url }}), the object emitted such intense heat that she could not grasp her car’s metal door handle with her bare hand and instead used part of her leather jacket as protection when getting back into the vehicle. If accurate, this would imply a substantial transfer of thermal energy into the car itself, not merely a bright light in the sky. The question is not whether a metal handle can become painfully hot—it certainly can—but whether the level of heating described is consistent with the condition of the vehicle that was later examined. The door-handle story therefore serves as a useful test of the broader heat narrative surrounding the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The hot door handle is one of the most memorable details in the [Cash–Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) because it converts a strange sighting into a physical heat claim. According to [Betty Cash]({{ 'betty-cash/' | relative_url }}), the object emitted such intense heat that she could not grasp her car’s metal door handle with her bare hand and instead used part of her leather jacket as protection when getting back into the vehicle. If accurate, this would imply a substantial transfer of thermal energy into the car itself, not merely a bright light in the sky. The question is not whether a metal handle can become painfully hot—it certainly can—but whether the level of heating described is consistent with the condition of the vehicle that was later examined. The door-handle story therefore serves as a useful test of the broader heat narrative surrounding the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-1-dark.svg" | relative_url }}" alt="Hot Handle illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ The hot door handle is one of the most memorable details in the [Cash–Landrum 
 
 ### What Cash said about touching the door handle
 
-In later accounts and in the witnesses' interview at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base, Cash stated that the heat from [the object]({{ 'the-object/' | relative_url }}) was so intense that the car’s metal surfaces became painful to touch. She specifically reported using her coat or leather jacket to open the door because the handle felt hot enough to burn her hand. The same body of testimony also included claims that the vehicle interior became extremely hot and that the dashboard softened sufficiently to retain an impression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+In later accounts and in the witnesses' interview at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base, Cash stated that the heat from [the object]({{ 'the-object/' | relative_url }}) was so intense that the car’s metal surfaces became painful to touch. She specifically reported using her coat or leather jacket to open the door because the handle felt hot enough to burn her hand. The same body of testimony also included claims that the vehicle interior became extremely hot and that the dashboard softened sufficiently to retain an impression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Taken by itself, the door-handle claim is not physically impossible. Metal conducts heat efficiently and can become uncomfortable or even dangerous to touch after exposure to a strong heat source. Ordinary motorists in very hot climates sometimes report door handles becoming painfully hot after prolonged exposure to direct sunlight, precisely because metal absorbs and conducts heat effectively. Tired of Hot Door Handles? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thehandlewondercover.com/blog?srsltid=AfmBOopbIOYHN5fX1syXOowcQysEw3ih-9XNFgJ2VKrDDQZh7fIVrc6G" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehandlewondercover.com">[thehandlewondercover.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehandlewondercover.com</span><span class="citation-popover-title">Tired of Hot Door Handles?Blog — Tired of Hot Door Handles?</span><span class="citation-popover-snippet">The Handle Wonder Cover24 Jul 2024 — Metal is a great conductor of heat, which means it can absorb a lot of warmth from the sun and hold...</span></span></span>
+Taken by itself, the door-handle claim is not physically impossible. Metal conducts heat efficiently and can become uncomfortable or even dangerous to touch after exposure to a strong heat source. Ordinary motorists in very hot climates sometimes report door handles becoming painfully hot after prolonged exposure to direct sunlight, precisely because metal absorbs and conducts heat effectively. Tired of Hot Door Handles?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thehandlewondercover.com/blog?srsltid=AfmBOopbIOYHN5fX1syXOowcQysEw3ih-9XNFgJ2VKrDDQZh7fIVrc6G" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehandlewondercover.com">[thehandlewondercover.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehandlewondercover.com</span><span class="citation-popover-title">Tired of Hot Door Handles?Blog — Tired of Hot Door Handles?</span><span class="citation-popover-snippet">The Handle Wonder Cover24 Jul 2024 — Metal is a great conductor of heat, which means it can absorb a lot of warmth from the sun and hold...</span></span></span>
 
 The issue is not whether a handle could become hot. The issue is the amount of heat required to produce the wider effects described in the Cash–Landrum narrative and whether those effects should have left additional evidence.
 
@@ -307,11 +307,11 @@ That does not mean every part of the car would be equally hot. Different materia
 * Vinyl and plastics soften when sufficiently heated.
 * Paint systems can discolour, blister or degrade under severe thermal stress.
 * Rubber seals and trim can warp or harden.
-* Lenses and plastic exterior fittings may show deformation before heavy steel components show obvious damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europeanmotorcarsinc.com/blog/why-do-door-handles-sheer-off-and-how-to-prevent-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanmotorcarsinc.com">[European Motor Cars, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanmotorcarsinc.com</span><span class="citation-popover-snippet">European Motor Cars, Inc.Why Do Door Handles Sheer Off and How to Prevent ItJanuary 24, 2025 — 24 Jan 2025 — Extreme Temperatures: Both f...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+* Lenses and plastic exterior fittings may show deformation before heavy steel components show obvious damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europeanmotorcarsinc.com/blog/why-do-door-handles-sheer-off-and-how-to-prevent-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanmotorcarsinc.com">[European Motor Cars, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanmotorcarsinc.com</span><span class="citation-popover-snippet">European Motor Cars, Inc.Why Do Door Handles Sheer Off and How to Prevent ItJanuary 24, 2025 — 24 Jan 2025 — Extreme Temperatures: Both f...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
 This is why the door-handle claim matters. It is a specific mechanical prediction. If a nearby airborne object delivered enough radiant heat to make a metal handle nearly untouchable and soften interior materials, investigators would reasonably expect a pattern of heat effects extending beyond a single contact point.
 
-A brief pulse of intense heat could, in principle, create less damage than prolonged exposure. However, the witnesses described a sustained encounter lasting several minutes rather than a split-second flash. Under those conditions, heat would have had more opportunity to spread through the vehicle structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+A brief pulse of intense heat could, in principle, create less damage than prolonged exposure. However, the witnesses described a sustained encounter lasting several minutes rather than a split-second flash. Under those conditions, heat would have had more opportunity to spread through the vehicle structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-2-dark.svg" | relative_url }}" alt="Hot Handle illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,7 +319,7 @@ A brief pulse of intense heat could, in principle, create less damage than prolo
 
 The strongest challenge to the hot-handle story comes not from theoretical physics but from the later condition of the vehicle.
 
-Accounts of the vehicle inspection conducted after the incident describe the car as generally being in good condition. Reports associated with investigator John Schuessler stated that the exterior paint, tyres and plastic components appeared normal. The most frequently cited anomaly was the alleged hand-shaped impression in the [dashboard]({{ 'dashboard/' | relative_url }}). Claims of major exterior heat damage were not documented in the same way. As a result, the physical evidence preserved from the car was much narrower than the heat narrative itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketing.dev.enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketing.dev.enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingCash-Landrum CaseThe Cash-Landrum incident was an alleged UAP sighting and experience that resulted in...</span></span></span>
+Accounts of the vehicle inspection conducted after the incident describe the car as generally being in good condition. Reports associated with investigator John Schuessler stated that the exterior paint, tyres and plastic components appeared normal. The most frequently cited anomaly was the alleged hand-shaped impression in the [dashboard]({{ 'dashboard/' | relative_url }}). Claims of major exterior heat damage were not documented in the same way. As a result, the physical evidence preserved from the car was much narrower than the heat narrative itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketing.dev.enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketing.dev.enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingCash-Landrum CaseThe Cash-Landrum incident was an alleged UAP sighting and experience that resulted in...</span></span></span>
 
 This creates an evidential tension:
 
@@ -332,7 +332,7 @@ This creates an evidential tension:
 
 </div>
 
-Critics have long pointed to this mismatch. If the handle became hot because the entire vehicle was being subjected to exceptional radiant energy, one might expect clearer signs on paint, trim, rubber parts or other exposed surfaces. Yet the commonly cited inspection findings do not show a vehicle that had obviously experienced catastrophic external heating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Critics have long pointed to this mismatch. If the handle became hot because the entire vehicle was being subjected to exceptional radiant energy, one might expect clearer signs on paint, trim, rubber parts or other exposed surfaces. Yet the commonly cited inspection findings do not show a vehicle that had obviously experienced catastrophic external heating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 That does not prove the witnesses fabricated the experience. Human recollection of frightening events can emphasise particularly vivid sensations, and a localised heating effect could theoretically affect some components more than others. Nevertheless, the physical record available to later investigators does not match what many readers would expect from the most extreme interpretation of the testimony.
 
@@ -348,200 +348,200 @@ The door handle occupies an important place in discussions of the Cash–Landrum
 
 Viewed in isolation, the claim is plausible. Metal handles can indeed become extremely hot. Viewed within the larger story, however, it raises a harder question. If enough heat reached the handle to make protective clothing necessary, and if the dashboard also softened, why did the documented condition of the vehicle not show a broader pattern of thermal damage?
 
-That unresolved gap between the reported heat and the surviving physical evidence is one of the reasons the hot door handle remains a debated element of the Cash–Landrum incident. It is not the weakest part of the story, but neither is it the decisive proof that proponents sometimes suggest. Instead, it highlights the central problem of the case: vivid witness testimony describing extreme heat alongside a vehicle record that appears less dramatically affected than the testimony would lead many observers to expect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+That unresolved gap between the reported heat and the surviving physical evidence is one of the reasons the hot door handle remains a debated element of the Cash–Landrum incident. It is not the weakest part of the story, but neither is it the decisive proof that proponents sometimes suggest. Instead, it highlights the central problem of the case: vivid witness testimony describing extreme heat alongside a vehicle record that appears less dramatically affected than the testimony would lead many observers to expect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-3-dark.svg" | relative_url }}" alt="Hot Handle illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the Door Handle Really Get That Hot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the Door Handle Really Get That Hot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers UFO cases and evidence evaluation, matching readers interested in physical claims and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers UFO cases and evidence evaluation, matching readers interested in physical claims and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on analyzing reports and physical-effect claims using a more systematic approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on analyzing reports and physical-effect claims using a more systematic approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims, including alleged physical evidence and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims, including alleged physical evidence and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places famous UFO incidents within a broader evidentiary and historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places famous UFO incidents within a broader evidentiary and historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hot-handle-could-the-door-handle-really-get-that-hot-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ That unresolved gap between the reported heat and the surviving physical evidenc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ That unresolved gap between the reported heat and the surviving physical evidenc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ That unresolved gap between the reported heat and the surviving physical evidenc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ That unresolved gap between the reported heat and the surviving physical evidenc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ That unresolved gap between the reported heat and the surviving physical evidenc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,104 +747,104 @@ That unresolved gap between the reported heat and the surviving physical evidenc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — Cash also stated that the plastic inside the car became soft and pliable, and i...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — Cash also stated that the plastic inside the car became soft and pliable, and i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The metal is that hot. She shoves her hand in the pocket of her leather jacket it and uses that to pride...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The metal is that hot. She shoves her hand in the pocket of her leather jacket it and uses that to pride...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: marketing.dev.enigmalabs.io  
-   Link: <a href="https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingCash-Landrum CaseThe Cash-Landrum incident was an alleged UAP sighting and experience that resulted in...</p></details>
+   Link:<a href="https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingCash-Landrum CaseThe Cash-Landrum incident was an alleged UAP sighting and experience that resulted in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident - The Unexplained [Episode 4]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident - The Unexplained [Episode 4]...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thehandlewondercover.com  
    Title: Tired of Hot Door Handles?Blog — Tired of Hot Door Handles?  
-   Link: <a href="https://www.thehandlewondercover.com/blog?srsltid=AfmBOopbIOYHN5fX1syXOowcQysEw3ih-9XNFgJ2VKrDDQZh7fIVrc6G" target="_blank" rel="noopener noreferrer nofollow">https://www.thehandlewondercover.com/blog?srsltid=AfmBOopbIOYHN5fX1syXOowcQysEw3ih-9XNFgJ2VKrDDQZh7fIVrc6G</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Handle Wonder Cover24 Jul 2024 — Metal is a great conductor of heat, which means it can absorb a lot of warmth from the sun and hold...</p></details>
+   Link:<a href="https://www.thehandlewondercover.com/blog?srsltid=AfmBOopbIOYHN5fX1syXOowcQysEw3ih-9XNFgJ2VKrDDQZh7fIVrc6G" target="_blank" rel="noopener noreferrer nofollow">https://www.thehandlewondercover.com/blog?srsltid=AfmBOopbIOYHN5fX1syXOowcQysEw3ih-9XNFgJ2VKrDDQZh7fIVrc6G</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Handle Wonder Cover24 Jul 2024 — Metal is a great conductor of heat, which means it can absorb a lot of warmth from the sun and hold...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: europeanmotorcarsinc.com  
-   Link: <a href="https://europeanmotorcarsinc.com/blog/why-do-door-handles-sheer-off-and-how-to-prevent-it" target="_blank" rel="noopener noreferrer nofollow">https://europeanmotorcarsinc.com/blog/why-do-door-handles-sheer-off-and-how-to-prevent-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European Motor Cars, Inc.Why Do Door Handles Sheer Off and How to Prevent ItJanuary 24, 2025 — 24 Jan 2025 — Extreme Temperatures: Both f...</p></details>
+   Link:<a href="https://europeanmotorcarsinc.com/blog/why-do-door-handles-sheer-off-and-how-to-prevent-it" target="_blank" rel="noopener noreferrer nofollow">https://europeanmotorcarsinc.com/blog/why-do-door-handles-sheer-off-and-how-to-prevent-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Motor Cars, Inc.Why Do Door Handles Sheer Off and How to Prevent ItJanuary 24, 2025 — 24 Jan 2025 — Extreme Temperatures: Both f...</p></details>
    Published: January 24, 2025  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: funkmotorsport.com  
-   Link: <a href="https://funkmotorsport.com/news/is-heat-damaging-your-paintwork/" target="_blank" rel="noopener noreferrer nofollow">https://funkmotorsport.com/news/is-heat-damaging-your-paintwork/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is heat damaging your paintwork?As well as an aesthetic or structural integrity nightmare, paint damage or bubbling paint can indicate th...</p></details>
+   Link:<a href="https://funkmotorsport.com/news/is-heat-damaging-your-paintwork/" target="_blank" rel="noopener noreferrer nofollow">https://funkmotorsport.com/news/is-heat-damaging-your-paintwork/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is heat damaging your paintwork?As well as an aesthetic or structural integrity nightmare, paint damage or bubbling paint can indicate th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/kiaevownersusa/posts/1466238804358431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/kiaevownersusa/posts/1466238804358431/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kia door handle solutions for hot climatesAny solutions for super hot door handles? I live in the Phoenix area and the handles are scaldi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/kiaevownersusa/posts/1466238804358431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/kiaevownersusa/posts/1466238804358431/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kia door handle solutions for hot climatesAny solutions for super hot door handles? I live in the Phoenix area and the handles are scaldi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>door handle was so hot she could hardly open the front door.... Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Force Base...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>door handle was so hot she could hardly open the front door.... Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Force Base...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: commons.wikimedia.org  
    Title: File:Cash Landrum UFO illustration by Kathy Schuessler.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Cash-Landrum UFO illustration by Kathy Schuessler.jpg3 Jul 2023 — Detail from the illustration used for the cover of th...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Cash-Landrum UFO illustration by Kathy Schuessler.jpg3 Jul 2023 — Detail from the illustration used for the cover of th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instructables.com  
-   Link: <a href="https://www.instructables.com/Powder-Coated-Car-Door-Handle-made-at-Tech-Shop/" target="_blank" rel="noopener noreferrer nofollow">https://www.instructables.com/Powder-Coated-Car-Door-Handle-made-at-Tech-Shop/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Part · Step 4: Preheat the Part · Step 5: Spray the Powder · Step 6:...Read more...</p></details>
+   Link:<a href="https://www.instructables.com/Powder-Coated-Car-Door-Handle-made-at-Tech-Shop/" target="_blank" rel="noopener noreferrer nofollow">https://www.instructables.com/Powder-Coated-Car-Door-Handle-made-at-Tech-Shop/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Part · Step 4: Preheat the Part · Step 5: Spray the Powder · Step 6:...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2020 — In August of 1981 Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;) and [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) Landrum were interviewed by personnel at Bergst...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2020 — In August of 1981 Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;) and [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) Landrum were interviewed by personnel at Bergst...</p></details>
    Published: December 16, 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>om the United States in 1980, which witnesses insist was...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>om the United States in 1980, which witnesses insist was...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/work/quotes/53928399" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/quotes/53928399</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sler, The Cash-Landrum UFO Incident by John F. Schuessler.”Read more...</p></details>
+   Link:<a href="https://www.goodreads.com/work/quotes/53928399" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/quotes/53928399</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sler, The Cash-Landrum UFO Incident by John F. Schuessler.”Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
    Title: The story of Cash-Landrum is a mysterious and unexplained UFO  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The heat was so intense, Betty had to use her coat to touch the car door handle. 23 military helicopters...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The heat was so intense, Betty had to use her coat to touch the car door handle. 23 military helicopters...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: teslamotorsclub.com  
    Title: body colored handles instead off chrome.58915  
-   Link: <a href="https://teslamotorsclub.com/tmc/threads/body-colored-handles-instead-off-chrome.58915/" target="_blank" rel="noopener noreferrer nofollow">https://teslamotorsclub.com/tmc/threads/body-colored-handles-instead-off-chrome.58915/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If they are exposed to intense sun and high air temps for hours, that mass of metal can absorb a lot of heat...Read more...</p></details>
+   Link:<a href="https://teslamotorsclub.com/tmc/threads/body-colored-handles-instead-off-chrome.58915/" target="_blank" rel="noopener noreferrer nofollow">https://teslamotorsclub.com/tmc/threads/body-colored-handles-instead-off-chrome.58915/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If they are exposed to intense sun and high air temps for hours, that mass of metal can absorb a lot of heat...Read more...</p></details>

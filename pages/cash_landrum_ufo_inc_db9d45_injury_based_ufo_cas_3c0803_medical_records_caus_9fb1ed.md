@@ -284,11 +284,11 @@ The medical records associated with the Cash-Landrum incident are often cited as
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-1-dark.svg" | relative_url }}" alt="Medical Cause illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters. Medical records can establish that a patient experienced symptoms, received diagnoses, underwent hospitalisation, or required follow-up care. They do not automatically establish what produced those symptoms. In the Cash-Landrum case, the existence of a medical [paper trail]({{ 'paper-trail/' | relative_url }}) is far less disputed than the claim that an unidentified aerial object caused the reported injuries. That gap between documented illness and demonstrated cause remains one of the most important unresolved issues in the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting witnesses claimed was responsible for causing health...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+This distinction matters. Medical records can establish that a patient experienced symptoms, received diagnoses, underwent hospitalisation, or required follow-up care. They do not automatically establish what produced those symptoms. In the Cash-Landrum case, the existence of a medical [paper trail]({{ 'paper-trail/' | relative_url }}) is far less disputed than the claim that an unidentified aerial object caused the reported injuries. That gap between documented illness and demonstrated cause remains one of the most important unresolved issues in the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting witnesses claimed was responsible for causing health...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 ## How records can confirm symptoms and treatment
 
-The available accounts consistently indicate that Betty Cash sought medical attention soon after the December 1980 event and that she later reported a range of symptoms including skin problems, nausea, weakness, eye irritation, blistering, and [hair loss]({{ 'hair-loss/' | relative_url }}). [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and Colby Landrum also reported health complaints, although most accounts describe Cash as the most severely affected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks+2stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident Following the encounter, all three suffered severe health issues resembling radiation poiso</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</span></span></span>
+The available accounts consistently indicate that Betty Cash sought medical attention soon after the December 1980 event and that she later reported a range of symptoms including skin problems, nausea, weakness, eye irritation, blistering, and [hair loss]({{ 'hair-loss/' | relative_url }}). [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and Colby Landrum also reported health complaints, although most accounts describe Cash as the most severely affected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks+2stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident Following the encounter, all three suffered severe health issues resembling radiation poiso</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</span></span></span>
 
 From an evidential standpoint, medical documentation is valuable because it can show:
 
@@ -303,9 +303,9 @@ From an evidential standpoint, medical documentation is valuable because it can 
 
 </div>
 
-Those records therefore provide evidence that suffering was reported and medically addressed. In legal and medical investigations, such documentation is often treated as more reliable than memories recorded years later because it was created during the course of treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical records and issues in negligence</span><span class="citation-popover-snippet">It is important for the doctors and medical establishments to properly maintain the...Read more...</span></span></span>
+Those records therefore provide evidence that suffering was reported and medically addressed. In legal and medical investigations, such documentation is often treated as more reliable than memories recorded years later because it was created during the course of treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical records and issues in negligence</span><span class="citation-popover-snippet">It is important for the doctors and medical establishments to properly maintain the...Read more...</span></span></span>
 
-For supporters of the Cash-Landrum claim, the significance of the records is that they move the case beyond a simple sighting report. The witnesses did not merely say they felt unwell; they generated a medical history that investigators could examine. That paper trail became one reason the case attracted unusual attention within UFO research and later became the basis for litigation against the US government. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">District Judge Ross Sterling said Tuesday he would consider arguments filed by Betty Cash and Vickie Landrum in response to a government...</span></span></span>
+For supporters of the Cash-Landrum claim, the significance of the records is that they move the case beyond a simple sighting report. The witnesses did not merely say they felt unwell; they generated a medical history that investigators could examine. That paper trail became one reason the case attracted unusual attention within UFO research and later became the basis for litigation against the US government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">District Judge Ross Sterling said Tuesday he would consider arguments filed by Betty Cash and Vickie Landrum in response to a government...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -314,7 +314,7 @@ For supporters of the Cash-Landrum claim, the significance of the records is tha
 
 The major dispute begins when medical findings are used to argue for a specific cause.
 
-Many retellings describe the witnesses' symptoms as "radiation-like" or resembling [radiation sickness]({{ 'radiation-claim/' | relative_url }}). Yet a resemblance is not the same thing as a confirmed diagnosis of radiation injury. Symptoms such as nausea, fatigue, skin irritation, hair loss, and weakness can arise from multiple medical conditions and environmental exposures. The fact that a symptom appears consistent with one mechanism does not prove that mechanism was responsible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The suggestion that the witnesses&#x27; symptoms resembled rad...</span></span></span>
+Many retellings describe the witnesses' symptoms as "radiation-like" or resembling [radiation sickness]({{ 'radiation-claim/' | relative_url }}). Yet a resemblance is not the same thing as a confirmed diagnosis of radiation injury. Symptoms such as nausea, fatigue, skin irritation, hair loss, and weakness can arise from multiple medical conditions and environmental exposures. The fact that a symptom appears consistent with one mechanism does not prove that mechanism was responsible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The suggestion that the witnesses&#x27; symptoms resembled rad...</span></span></span>
 
 In medicine, establishing causation usually requires additional evidence beyond symptoms alone, such as:
 
@@ -329,19 +329,19 @@ In medicine, establishing causation usually requires additional evidence beyond 
 
 </div>
 
-The Cash-Landrum records largely address the condition of the patients after the event rather than independently verifying the source of the alleged exposure. Even investigators who considered the symptoms unusual faced the separate question of whether an external agent, let alone an unidentified craft, had produced them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical records and issues in negligence</span><span class="citation-popover-snippet">It is important for the doctors and medical establishments to properly maintain the...Read more...</span></span></span>
+The Cash-Landrum records largely address the condition of the patients after the event rather than independently verifying the source of the alleged exposure. Even investigators who considered the symptoms unusual faced the separate question of whether an external agent, let alone an unidentified craft, had produced them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical records and issues in negligence</span><span class="citation-popover-snippet">It is important for the doctors and medical establishments to properly maintain the...Read more...</span></span></span>
 
-This distinction also appeared in the legal arena. The federal lawsuit did not fail because the witnesses lacked medical complaints. It failed because the court found insufficient evidence connecting the alleged source of the exposure to the US government and insufficient proof linking the claimed injuries to a government-operated craft. The existence of illness alone was not enough to establish liability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">District Judge Ross Sterling said Tuesday he would consider arguments filed by Betty Cash and Vickie Landrum in response to a government...</span></span></span>
+This distinction also appeared in the legal arena. The federal lawsuit did not fail because the witnesses lacked medical complaints. It failed because the court found insufficient evidence connecting the alleged source of the exposure to the US government and insufficient proof linking the claimed injuries to a government-operated craft. The existence of illness alone was not enough to establish liability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">District Judge Ross Sterling said Tuesday he would consider arguments filed by Betty Cash and Vickie Landrum in response to a government...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-2-dark.svg" | relative_url }}" alt="Medical Cause illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the radiation interpretation remains controversial
 
-One of the most enduring claims in the case is that the symptoms resembled acute radiation exposure. This interpretation gained influence because some reported effects appeared superficially similar to known radiation injuries. Supporters have therefore treated the medical record as indirect evidence that a powerful energy source was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident Following the encounter, all three suffered severe health issues resembling radiation poiso</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</span></span></span>
+One of the most enduring claims in the case is that the symptoms resembled acute radiation exposure. This interpretation gained influence because some reported effects appeared superficially similar to known radiation injuries. Supporters have therefore treated the medical record as indirect evidence that a powerful energy source was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident Following the encounter, all three suffered severe health issues resembling radiation poiso</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</span></span></span>
 
-Critics have responded that symptom similarity is not a substitute for demonstrated radiation exposure. Skeptical analyses have argued that some reported effects do not fit cleanly with known radiation injury patterns or would normally require exposure levels that should have produced additional measurable consequences. They contend that the medical evidence does not conclusively establish ionising radiation as the mechanism involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</span></span></span>
+Critics have responded that symptom similarity is not a substitute for demonstrated radiation exposure. Skeptical analyses have argued that some reported effects do not fit cleanly with known radiation injury patterns or would normally require exposure levels that should have produced additional measurable consequences. They contend that the medical evidence does not conclusively establish ionising radiation as the mechanism involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</span></span></span>
 
-The [debate]({{ 'debate/' | relative_url }}) is therefore not merely about whether the witnesses became ill. It concerns whether the medical findings are specific enough to identify a cause. The same records that supporters view as corroboration are viewed by sceptics as evidence of illness without a proven mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</span></span></span>
+The [debate]({{ 'debate/' | relative_url }}) is therefore not merely about whether the witnesses became ill. It concerns whether the medical findings are specific enough to identify a cause. The same records that supporters view as corroboration are viewed by sceptics as evidence of illness without a proven mechanism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
@@ -350,211 +350,211 @@ The [debate]({{ 'debate/' | relative_url }}) is therefore not merely about wheth
 
 The paper trail itself became part of the controversy. Investigators, UFO researchers, government agencies, and sceptics often disagreed not only about what the records showed but also about how completely they were available for independent review.
 
-A Texas Department of Health investigation reportedly found no residual radiation along the roadway associated with the encounter. At the same time, officials expressed interest in examining medical records more closely rather than treating environmental measurements alone as a final answer. That illustrates the dual nature of the evidence: environmental testing addressed one question, while medical documentation addressed another. Neither automatically resolved the issue of causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</span></span></span>
+A Texas Department of Health investigation reportedly found no residual radiation along the roadway associated with the encounter. At the same time, officials expressed interest in examining medical records more closely rather than treating environmental measurements alone as a final answer. That illustrates the dual nature of the evidence: environmental testing addressed one question, while medical documentation addressed another. Neither automatically resolved the issue of causation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</span></span></span>
 
-Later commentators reached sharply different conclusions from the same general body of material. Some argued that the medical history supported the possibility of an unusual exposure event. Others claimed the records weakened the radiation hypothesis or raised alternative interpretations. Because the complete medical evidence has not produced broad medical consensus, the records continue to function more as contested evidence than as a definitive proof of what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</span></span></span>
+Later commentators reached sharply different conclusions from the same general body of material. Some argued that the medical history supported the possibility of an unusual exposure event. Others claimed the records weakened the radiation hypothesis or raised alternative interpretations. Because the complete medical evidence has not produced broad medical consensus, the records continue to function more as contested evidence than as a definitive proof of what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-3-dark.svg" | relative_url }}" alt="Medical Cause illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the records ultimately prove—and what they do not
 
-The strongest defensible conclusion is relatively narrow. The Cash-Landrum medical records can support the claim that the witnesses, particularly Betty Cash, reported significant health problems and sought medical treatment after the alleged encounter. They help establish chronology, symptom reporting, and medical response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stateoftheunknown.com">[stateoftheunknown.com+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stateoftheunknown.com</span><span class="citation-popover-snippet">The Cash–Landrum Incident &#124; The Night the Sky Burned...24 Mar 2026 — Betty Cash sought medical treatment soon after the encounter, and d...</span></span></span>
+The strongest defensible conclusion is relatively narrow. The Cash-Landrum medical records can support the claim that the witnesses, particularly Betty Cash, reported significant health problems and sought medical treatment after the alleged encounter. They help establish chronology, symptom reporting, and medical response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stateoftheunknown.com">[stateoftheunknown.com+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stateoftheunknown.com</span><span class="citation-popover-snippet">The Cash–Landrum Incident &#124; The Night the Sky Burned...24 Mar 2026 — Betty Cash sought medical treatment soon after the encounter, and d...</span></span></span>
 
-What those records cannot do by themselves is prove that a UFO, a military craft, radiation exposure, or any other specific source caused the illnesses. Demonstrating causation requires evidence beyond the existence of symptoms and treatment. That evidential gap explains why the case remains one of the most debated injury-based UFO reports: the medical documentation is substantial enough to raise questions, yet not definitive enough to settle them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical records and issues in negligence</span><span class="citation-popover-snippet">It is important for the doctors and medical establishments to properly maintain the...Read more...</span></span></span>
+What those records cannot do by themselves is prove that a UFO, a military craft, radiation exposure, or any other specific source caused the illnesses. Demonstrating causation requires evidence beyond the existence of symptoms and treatment. That evidential gap explains why the case remains one of the most debated injury-based UFO reports: the medical documentation is substantial enough to raise questions, yet not definitive enough to settle them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical records and issues in negligence</span><span class="citation-popover-snippet">It is important for the doctors and medical establishments to properly maintain the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xbljJzr_Sag" title="The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath</a></p><p class="youtube-embed-meta">Channel: Randomness Reloaded &middot; Views: 50 &middot; Uploaded: April 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xbljJzr_Sag">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What medical records could and could not prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What medical records could and could not prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly relevant to causation versus correlation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to causation versus correlation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains why diagnosis does not automatically prove cause.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why diagnosis does not automatically prove cause.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful context for physical-effect reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful context for physical-effect reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Addresses interpretation of evidence and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses interpretation of evidence and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKY ONE - UFO SHADO Konami collection"><img src="{{ '/assets/images/marketplace-covers/d6f8fcae581b37f681aa.jpg' | relative_url }}" alt="Listing image for SKY ONE - UFO SHADO Konami collection" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SKY ONE - UFO SHADO Konami collection</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKY ONE - UFO SHADO Konami collection"><img src="{{ '/assets/images/marketplace-covers/d6f8fcae581b37f681aa.jpg' | relative_url }}" alt="Listing image for SKY ONE - UFO SHADO Konami collection" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SKY ONE - UFO SHADO Konami collection</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock"><img src="{{ '/assets/images/marketplace-covers/7183677a66858fb97015.jpg' | relative_url }}" alt="Listing image for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock"><img src="{{ '/assets/images/marketplace-covers/7183677a66858fb97015.jpg' | relative_url }}" alt="Listing image for SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Interceptor Konami Mini Figure SF Movie Selection Detailed In Stock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami UFO series - Interceptor, sealed"><img src="{{ '/assets/images/marketplace-covers/cc932aad77368234dca3.jpg' | relative_url }}" alt="Listing image for Konami UFO series - Interceptor, sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Konami UFO series - Interceptor, sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Konami UFO series - Interceptor, sealed"><img src="{{ '/assets/images/marketplace-covers/cc932aad77368234dca3.jpg' | relative_url }}" alt="Listing image for Konami UFO series - Interceptor, sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Konami UFO series - Interceptor, sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="medical-cause-what-medical-records-could-and-could-not-prove-cash-landrum-ufo-incident-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ What those records cannot do by themselves is prove that a UFO, a military craft
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ What those records cannot do by themselves is prove that a UFO, a military craft
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ What those records cannot do by themselves is prove that a UFO, a military craft
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ What those records cannot do by themselves is prove that a UFO, a military craft
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ What those records cannot do by themselves is prove that a UFO, a military craft
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,109 +760,109 @@ What those records cannot do by themselves is prove that a UFO, a military craft
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting witnesses claimed was responsible for causing health...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting witnesses claimed was responsible for causing health...</p></details>
    Published: April 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMedical records and issues in negligence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is important for the doctors and medical establishments to properly maintain the...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2779965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is important for the doctors and medical establishments to properly maintain the...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stateoftheunknown.com  
-   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned...24 Mar 2026 — Betty Cash sought medical treatment soon after the encounter, and d...</p></details>
+   Link:<a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned...24 Mar 2026 — Betty Cash sought medical treatment soon after the encounter, and d...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upi.com  
    Title: Three suing government over UFO radiation  
-   Link: <a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>District Judge Ross Sterling said Tuesday he would consider arguments filed by Betty Cash and Vickie Landrum in response to a government...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>District Judge Ross Sterling said Tuesday he would consider arguments filed by Betty Cash and Vickie Landrum in response to a government...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The suggestion that the witnesses&#x27; symptoms resembled rad...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — The suggestion that the witnesses&#x27; symptoms resembled rad...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</p></details>
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s after...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It would destroy all vestiges of credibility that this case ever had. □. 30 Volume...Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It would destroy all vestiges of credibility that this case ever had. □. 30 Volume...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: marketing.dev.enigmalabs.io  
-   Link: <a href="https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>enigmalabs.ioCash-Landrum CaseThe Cash-Landrum incident was an alleged UAP sighting and experience that resulted in health problems for t...</p></details>
+   Link:<a href="https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://marketing.dev.enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enigmalabs.ioCash-Landrum CaseThe Cash-Landrum incident was an alleged UAP sighting and experience that resulted in health problems for t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?These witnesses later suffered unexplained sunburn, vomiting, hair loss, and a range of physi...</p></details>
+   Link:<a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?These witnesses later suffered unexplained sunburn, vomiting, hair loss, and a range of physi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Further, we find that the victims had reported health problems shortly...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Further, we find that the victims had reported health problems shortly...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40cash" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40cash</a>  
+   Link:<a href="https://www.youtube.com/%40cash" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40cash</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: etamu.edu  
    Title: and the mystery above a history of ufos on campus and beyond  
-   Link: <a href="https://www.etamu.edu/news/etamu-and-the-mystery-above-a-history-of-ufos-on-campus-and-beyond/" target="_blank" rel="noopener noreferrer nofollow">https://www.etamu.edu/news/etamu-and-the-mystery-above-a-history-of-ufos-on-campus-and-beyond/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ETAMU and the Mystery Above: A History of UFOs on...17 Oct 2025 — Cash-Landrum Incident (1980) – Near Huffman, three witnesses (Betty Ca...</p></details>
+   Link:<a href="https://www.etamu.edu/news/etamu-and-the-mystery-above-a-history-of-ufos-on-campus-and-beyond/" target="_blank" rel="noopener noreferrer nofollow">https://www.etamu.edu/news/etamu-and-the-mystery-above-a-history-of-ufos-on-campus-and-beyond/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ETAMU and the Mystery Above: A History of UFOs on...17 Oct 2025 — Cash-Landrum Incident (1980) – Near Huffman, three witnesses (Betty Ca...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash, Vickie Landrum, and seven-year-old [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) were returning home after dinner.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash, Vickie Landrum, and seven-year-old [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;) were returning home after dinner.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Cash–Landrum incident: The UFO That Left Burns  
-   Link: <a href="http://www.youtube.com/watch?v=r6w_gEdNcvI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r6w_gEdNcvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO incident medical analysis symptoms Scorched Earth: The 1980 Cash-Landrum UFO Mystery (SC) The Future Past...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=r6w_gEdNcvI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r6w_gEdNcvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO incident medical analysis symptoms Scorched Earth: The 1980 Cash-Landrum UFO Mystery (SC) The Future Past...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation burns and lo...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation burns and lo...</p></details>

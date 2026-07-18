@@ -280,17 +280,17 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_law
 
 ## Introduction
 
-The Cash–Landrum incident might have remained a regional UFO story had it not been transformed into a major damages lawsuit. What made the case unusually durable in the national [media]({{ 'media/' | relative_url }}) was not simply the claim that an unidentified object had been seen over a Texas road, but the decision by the witnesses to seek $20 million from the United States government. That legal move gave journalists a familiar framework: alleged injuries, a demand for compensation, questions of official responsibility, and a courtroom process capable of producing winners, losers, evidence, and public records. In media terms, the lawsuit converted an extraordinary sighting into a government-accountability story. The result was years of coverage that outlasted the initial event and helped secure the case's place in public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The Cash–Landrum incident might have remained a regional UFO story had it not been transformed into a major damages lawsuit. What made the case unusually durable in the national [media]({{ 'media/' | relative_url }}) was not simply the claim that an unidentified object had been seen over a Texas road, but the decision by the witnesses to seek $20 million from the United States government. That legal move gave journalists a familiar framework: alleged injuries, a demand for compensation, questions of official responsibility, and a courtroom process capable of producing winners, losers, evidence, and public records. In media terms, the lawsuit converted an extraordinary sighting into a government-accountability story. The result was years of coverage that outlasted the initial event and helped secure the case's place in public memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-1-dark.svg" | relative_url }}" alt="Lawsuit Hook illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From Strange Sighting to Federal Claim
 
-Most UFO reports struggle to gain sustained mainstream attention because they offer little beyond witness testimony and speculation. The Cash–Landrum case acquired a different trajectory when [Betty Cash]({{ 'betty-cash/' | relative_url }}) and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) pursued legal action against the federal government under the Federal Tort Claims Act, a law that permits citizens to seek compensation for injuries allegedly caused by federal employees or operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stateoftheunknown.com">[stateoftheunknown.com+2biotech.law.lsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stateoftheunknown.com</span><span class="citation-popover-title">helicopters belonged to the federal government, the court dismissed the case</span><span class="citation-popover-snippet">The Cash–Landrum Incident &#124; The Night the Sky Burned Over...24 Mar 2026 — In 1982, they filed a lawsuit under the Federal Tort Claims Act...</span></span></span>
+Most UFO reports struggle to gain sustained mainstream attention because they offer little beyond witness testimony and speculation. The Cash–Landrum case acquired a different trajectory when [Betty Cash]({{ 'betty-cash/' | relative_url }}) and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) pursued legal action against the federal government under the Federal Tort Claims Act, a law that permits citizens to seek compensation for injuries allegedly caused by federal employees or operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stateoftheunknown.com">[stateoftheunknown.com+2biotech.law.lsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stateoftheunknown.com</span><span class="citation-popover-title">helicopters belonged to the federal government, the court dismissed the case</span><span class="citation-popover-snippet">The Cash–Landrum Incident &#124; The Night the Sky Burned Over...24 Mar 2026 — In 1982, they filed a lawsuit under the Federal Tort Claims Act...</span></span></span>
 
-For journalists, that shift mattered enormously. A lawsuit creates clear narrative questions: Who is being accused? What evidence exists? Can responsibility be proven? Is the government concealing information? These questions are easier to explain to a broad audience than debates over unidentified aerial phenomena. Instead of asking readers to decide whether a UFO existed, reporters could focus on whether citizens had been harmed and whether a government agency bore responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+For journalists, that shift mattered enormously. A lawsuit creates clear narrative questions: Who is being accused? What evidence exists? Can responsibility be proven? Is the government concealing information? These questions are easier to explain to a broad audience than debates over unidentified aerial phenomena. Instead of asking readers to decide whether a UFO existed, reporters could focus on whether citizens had been harmed and whether a government agency bore responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The size of the claim also helped. A demand for $20 million was large enough to attract attention from wire services and newspapers beyond Texas. Coverage increasingly described the matter not merely as a UFO encounter but as a federal damages case involving alleged injuries, military helicopters, and government denials. The lawsuit supplied a news hook that could be revisited repeatedly as hearings, filings, testimony, and judicial decisions emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">UPI Archives3 Sept 1985 — A judge will review written arguments before deciding whether to dismiss a $20 million lawsuit filed by two wom...</span></span></span>
+The size of the claim also helped. A demand for $20 million was large enough to attract attention from wire services and newspapers beyond Texas. Coverage increasingly described the matter not merely as a UFO encounter but as a federal damages case involving alleged injuries, military helicopters, and government denials. The lawsuit supplied a news hook that could be revisited repeatedly as hearings, filings, testimony, and judicial decisions emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">UPI Archives3 Sept 1985 — A judge will review written arguments before deciding whether to dismiss a $20 million lawsuit filed by two wom...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -299,11 +299,11 @@ The size of the claim also helped. A demand for $20 million was large enough to 
 
 The legal claim generated a combination that news organisations have historically found compelling: personal suffering paired with institutional denial.
 
-The plaintiffs argued that they had suffered significant physical effects after the encounter and sought compensation on that basis. Whether those medical claims were accepted or disputed, they gave the story human stakes. Readers could understand illness, hospitalisation, and financial loss far more readily than abstract debates about unidentified objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident On</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson Colby encountered a diam...</span></span></span>
+The plaintiffs argued that they had suffered significant physical effects after the encounter and sought compensation on that basis. Whether those medical claims were accepted or disputed, they gave the story human stakes. Readers could understand illness, hospitalisation, and financial loss far more readily than abstract debates about unidentified objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident On</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson Colby encountered a diam...</span></span></span>
 
-At the same time, government agencies denied possessing the alleged craft and disputed any connection between federal operations and the reported event. Court proceedings included testimony from officials representing agencies such as the Air Force, NASA, and military services. The resulting contrast—citizens alleging harm versus institutions denying involvement—created a durable conflict that journalists could revisit over several years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+At the same time, government agencies denied possessing the alleged craft and disputed any connection between federal operations and the reported event. Court proceedings included testimony from officials representing agencies such as the Air Force, NASA, and military services. The resulting contrast—citizens alleging harm versus institutions denying involvement—created a durable conflict that journalists could revisit over several years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This dynamic also reflected a broader Cold War-era media environment. Stories involving secret military technology, government transparency, and possible official misconduct often attracted attention even when evidence remained contested. The [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) allowed reporters to place the incident within those familiar themes. Readers did not have to accept the UFO explanation to find the legal dispute interesting. The central question became whether the government was accountable for something unusual that had allegedly happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This dynamic also reflected a broader Cold War-era media environment. Stories involving secret military technology, government transparency, and possible official misconduct often attracted attention even when evidence remained contested. The [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) allowed reporters to place the incident within those familiar themes. Readers did not have to accept the UFO explanation to find the legal dispute interesting. The central question became whether the government was accountable for something unusual that had allegedly happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iZ3siEPUpA8" title="The Cash–Landrum Incident | The Night the Sky Burned Over Texas — And What It Did to Them — Ep. 47" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer">The Cash–Landrum Incident | The Night the Sky Burned Over Texas — And What It Did to Them — Ep. 47</a></p><p class="youtube-embed-meta">Channel: State of the Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iZ3siEPUpA8">Open on YouTube</a></p></div></div></div>
@@ -319,7 +319,7 @@ The lawsuit supplied several elements that kept generating news:
 * Named plaintiffs whose injuries could be discussed and evaluated.
 * Allegations involving military helicopters, creating a potential federal connection.
 * Official investigations and testimony.
-* A court system capable of issuing authoritative decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+* A court system capable of issuing authoritative decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 </div>
 
@@ -331,9 +331,9 @@ Each development provided a fresh reason for coverage, extending the story well 
 
 The legal process reshaped how the incident was remembered. Many UFO reports are recalled primarily for what witnesses claimed to have seen. The Cash–Landrum case became remembered equally for what happened afterwards in court.
 
-As the case moved through the judicial system, public discussion increasingly centred on evidence, burden of proof, military records, and government responsibility. The courtroom effectively became another stage of the story. The question was no longer just "What was in the sky?" but also "Can the government be held liable?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As the case moved through the judicial system, public discussion increasingly centred on evidence, burden of proof, military records, and government responsibility. The courtroom effectively became another stage of the story. The question was no longer just "What was in the sky?" but also "Can the government be held liable?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This shift had an important consequence for long-term media attention. Legal records, motions, testimony, and rulings created a documentary trail that later writers, television programmes, and UFO researchers could revisit. Unlike many sighting reports that fade after initial publication, the lawsuit generated an archive that kept the incident accessible to future audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This shift had an important consequence for long-term media attention. Legal records, motions, testimony, and rulings created a documentary trail that later writers, television programmes, and UFO researchers could revisit. Unlike many sighting reports that fade after initial publication, the lawsuit generated an archive that kept the incident accessible to future audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -342,9 +342,9 @@ This shift had an important consequence for long-term media attention. Legal rec
 
 The eventual dismissal of the lawsuit did not end the story. Instead, it gave competing interpretations a new focal point.
 
-For sceptics, the court's decision demonstrated that the plaintiffs had failed to establish a crucial element of their case: proof that the helicopters or alleged craft belonged to the federal government. The dismissal was therefore cited as evidence that the allegations could not meet legal standards of proof. Federal officials testified that no agency possessed the described vehicle, and the court concluded that responsibility had not been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Shortform+3Wikipedia+3stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+For sceptics, the court's decision demonstrated that the plaintiffs had failed to establish a crucial element of their case: proof that the helicopters or alleged craft belonged to the federal government. The dismissal was therefore cited as evidence that the allegations could not meet legal standards of proof. Federal officials testified that no agency possessed the described vehicle, and the court concluded that responsibility had not been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Shortform+3Wikipedia+3stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-For believers, however, the dismissal often acquired a different meaning. Rather than viewing it as a rejection of the witnesses' account, many interpreted it as proof that the government's involvement could not be established despite extensive inquiry. In this reading, the unresolved questions became part of the mystery itself. Discussions frequently focused on what had not been explained rather than on what had been legally proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Anyone new to the UAP/UFO topic welcome</span><span class="citation-popover-snippet">The Cash-...December 12, 2025 — While the lawsuit was dismissed, the interesting part is that the defense was not disputing the damage s...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+For believers, however, the dismissal often acquired a different meaning. Rather than viewing it as a rejection of the witnesses' account, many interpreted it as proof that the government's involvement could not be established despite extensive inquiry. In this reading, the unresolved questions became part of the mystery itself. Discussions frequently focused on what had not been explained rather than on what had been legally proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Anyone new to the UAP/UFO topic welcome</span><span class="citation-popover-snippet">The Cash-...December 12, 2025 — While the lawsuit was dismissed, the interesting part is that the defense was not disputing the damage s...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
 The lawsuit therefore produced a rare outcome: both supporters and critics of the case could use the same court proceedings to reinforce their preferred interpretation. That helped preserve public interest long after the legal defeat.
 
@@ -352,183 +352,183 @@ The lawsuit therefore produced a rare outcome: both supporters and critics of th
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-3-dark.svg" | relative_url }}" alt="Lawsuit Hook illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Lawsuit Kept the Story Alive
 
-The enduring significance of the Cash–Landrum lawsuit lies less in its legal outcome than in its media function. The case supplied a framework that transformed an unusual UFO report into a national story about accountability, evidence, and government responsibility. The $20 million claim provided a clear narrative, the courtroom supplied continuing developments, and the eventual dismissal created a lasting [debate]({{ 'debate/' | relative_url }}) rather than a definitive resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The enduring significance of the Cash–Landrum lawsuit lies less in its legal outcome than in its media function. The case supplied a framework that transformed an unusual UFO report into a national story about accountability, evidence, and government responsibility. The $20 million claim provided a clear narrative, the courtroom supplied continuing developments, and the eventual dismissal created a lasting [debate]({{ 'debate/' | relative_url }}) rather than a definitive resolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-As a result, public memory of the Cash–Landrum incident became inseparable from the lawsuit itself. The legal battle did not merely follow the reported encounter; it became the mechanism through which the encounter reached and remained in the national conversation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As a result, public memory of the Cash–Landrum incident became inseparable from the lawsuit itself. The legal battle did not merely follow the reported encounter; it became the mechanism through which the encounter reached and remained in the national conversation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Lawsuit Kept the Story Alive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Lawsuit Kept the Story Alive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
-        </h4>
-        <p class="fr-book-author">By Neil Postman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
+</h4>
+<p class="fr-book-author">By Neil Postman</p>
         
-        <p class="fr-book-desc">Explains how media narratives gain staying power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how media narratives gain staying power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses public controversies and evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses public controversies and evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how official involvement boosts attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official involvement boosts attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Documents famous cases and their public reception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents famous cases and their public reception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="lawsuit-hook-why-the-lawsuit-kept-the-story-alive-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ As a result, public memory of the Cash–Landrum incident became inseparable fro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ As a result, public memory of the Cash–Landrum incident became inseparable fro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ As a result, public memory of the Cash–Landrum incident became inseparable fro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ As a result, public memory of the Cash–Landrum incident became inseparable fro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ As a result, public memory of the Cash–Landrum incident became inseparable fro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,115 +734,115 @@ As a result, public memory of the Cash–Landrum incident became inseparable fro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upi.com  
    Title: Three suing government over UFO radiation  
-   Link: <a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI Archives3 Sept 1985 — A judge will review written arguments before deciding whether to dismiss a $20 million lawsuit filed by two wom...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPI Archives3 Sept 1985 — A judge will review written arguments before deciding whether to dismiss a $20 million lawsuit filed by two wom...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: stateoftheunknown.com  
    Title: helicopters belonged to the federal government, the court dismissed the case  
-   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over...24 Mar 2026 — In 1982, they filed a lawsuit under the Federal Tort Claims Act...</p></details>
+   Link:<a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over...24 Mar 2026 — In 1982, they filed a lawsuit under the Federal Tort Claims Act...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: biotech.law.lsu.edu  
-   Link: <a href="https://biotech.law.lsu.edu/map/FederalTortClaimsActs%28FTCA%29.html" target="_blank" rel="noopener noreferrer nofollow">https://biotech.law.lsu.edu/map/FederalTortClaimsActs%28FTCA%29.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e federal official would be dismissed from the suit...</p></details>
+   Link:<a href="https://biotech.law.lsu.edu/map/FederalTortClaimsActs%28FTCA%29.html" target="_blank" rel="noopener noreferrer nofollow">https://biotech.law.lsu.edu/map/FederalTortClaimsActs%28FTCA%29.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e federal official would be dismissed from the suit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson Colby encountered a diam...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson Colby encountered a diam...</p></details>
    Published: December 29, 1980  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government or any of...Read more...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government or any of...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: Anyone new to the UAP/UFO topic welcome  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-...December 12, 2025 — While the lawsuit was dismissed, the interesting part is that the defense was not disputing the damage s...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-...December 12, 2025 — While the lawsuit was dismissed, the interesting part is that the defense was not disputing the damage s...</p></details>
    Published: December 12, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FO cases in history, as it resulted in civil court proceedings...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FO cases in history, as it resulted in civil court proceedings...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: biotech.law.lsu.edu  
-   Link: <a href="https://biotech.law.lsu.edu/cases/immunity/ftca.htm" target="_blank" rel="noopener noreferrer nofollow">https://biotech.law.lsu.edu/cases/immunity/ftca.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tort Claims Act (FTCA)The deemed denied claim was dismissed, and the plaintiff did not refile until more than six months after the real d...</p></details>
+   Link:<a href="https://biotech.law.lsu.edu/cases/immunity/ftca.htm" target="_blank" rel="noopener noreferrer nofollow">https://biotech.law.lsu.edu/cases/immunity/ftca.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tort Claims Act (FTCA)The deemed denied claim was dismissed, and the plaintiff did not refile until more than six months after the real d...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3siEPUpA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident &amp; UFO Injuries, Part 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3siEPUpA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident &amp; UFO Injuries, Part 2...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesThey sued the U.S. government, alleging a [secret craft](&amp;#123;&amp;#123; &#x27;secret-craft/&#x27; | relative_url &amp;#125;&amp;#125;), but lost in 1986 due to lack of evidence. T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesThey sued the U.S. government, alleging a [secret craft](&amp;#123;&amp;#123; &#x27;secret-craft/&#x27; | relative_url &amp;#125;&amp;#125;), but lost in 1986 due to lack of evidence. T...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bartlit-beck.com  
-   Link: <a href="https://www.bartlit-beck.com/False_Claims_Act_and_Government_Contracts_Cases" target="_blank" rel="noopener noreferrer nofollow">https://www.bartlit-beck.com/False_Claims_Act_and_Government_Contracts_Cases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Contracts and False Claims ActThe government alleged that Sikorsky overcharged for military aircraft and parts in violation of...</p></details>
+   Link:<a href="https://www.bartlit-beck.com/False_Claims_Act_and_Government_Contracts_Cases" target="_blank" rel="noopener noreferrer nofollow">https://www.bartlit-beck.com/False_Claims_Act_and_Government_Contracts_Cases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Contracts and False Claims ActThe government alleged that Sikorsky overcharged for military aircraft and parts in violation of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: globalinvestigationsreview.com  
-   Link: <a href="https://globalinvestigationsreview.com/news" target="_blank" rel="noopener noreferrer nofollow">https://globalinvestigationsreview.com/news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsA court in Australia has ordered HSBC&#x27;s local subsidiary to pay $24.6m after the bank admitted to serious failures in protecting cust...</p></details>
+   Link:<a href="https://globalinvestigationsreview.com/news" target="_blank" rel="noopener noreferrer nofollow">https://globalinvestigationsreview.com/news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NewsA court in Australia has ordered HSBC&#x27;s local subsidiary to pay $24.6m after the bank admitted to serious failures in protecting cust...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.ncac.mn  
-   Link: <a href="https://news.ncac.mn/uploads/bookSubject/2022-02/62183dc70225e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://news.ncac.mn/uploads/bookSubject/2022-02/62183dc70225e.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning &amp; ManagementUnder no circumstances shall McGraw-Hill and/or its licensors be liable for any indirect, incidental, special, punit...</p></details>
+   Link:<a href="https://news.ncac.mn/uploads/bookSubject/2022-02/62183dc70225e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://news.ncac.mn/uploads/bookSubject/2022-02/62183dc70225e.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning &amp; ManagementUnder no circumstances shall McGraw-Hill and/or its licensors be liable for any indirect, incidental, special, punit...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: harvardlawreview.org  
-   Link: <a href="https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recovering the Lost Meaning of the Federal Tort Claims...11 Dec 2024 — Federal Tort Claims Act 1 (FTCA) has waived the government&#x27;s sove...</p></details>
+   Link:<a href="https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recovering the Lost Meaning of the Federal Tort Claims...11 Dec 2024 — Federal Tort Claims Act 1 (FTCA) has waived the government&#x27;s sove...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: opencasebook.org  
-   Link: <a href="https://opencasebook.org/casebooks/808-conflict-of-laws-textbook/as-printable-html/8/" target="_blank" rel="noopener noreferrer nofollow">https://opencasebook.org/casebooks/808-conflict-of-laws-textbook/as-printable-html/8/</a>  
+   Link:<a href="https://opencasebook.org/casebooks/808-conflict-of-laws-textbook/as-printable-html/8/" target="_blank" rel="noopener noreferrer nofollow">https://opencasebook.org/casebooks/808-conflict-of-laws-textbook/as-printable-html/8/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — The U.S. government denied any involvement, but the witnesses...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — The U.S. government denied any involvement, but the witnesses...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
+   Link:<a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iclg.com  
    Title: 23379 us government admits [liability](&#123;&#123; 'liability/' | relative_url &#125;&#125;) for fatal mid air collision  
-   Link: <a href="https://iclg.com/news/23379-us-government-admits-liability-for-fatal-mid-air-collision/" target="_blank" rel="noopener noreferrer nofollow">https://iclg.com/news/23379-us-government-admits-liability-for-fatal-mid-air-collision/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US government admits liability for fatal mid-air collision18 Dec 2025 — The United States has formally accepted liability under the Feder...</p></details>
+   Link:<a href="https://iclg.com/news/23379-us-government-admits-liability-for-fatal-mid-air-collision/" target="_blank" rel="noopener noreferrer nofollow">https://iclg.com/news/23379-us-government-admits-liability-for-fatal-mid-air-collision/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US government admits liability for fatal mid-air collision18 Dec 2025 — The United States has formally accepted liability under the Feder...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-4-5000-tort-litigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeJustice Manual | 4-5.000 - Tort LitigationThe Federal Tort Claims Act Staff handles all other tort claims, including...</p></details>
+   Link:<a href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-4-5000-tort-litigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeJustice Manual | 4-5.000 - Tort LitigationThe Federal Tort Claims Act Staff handles all other tort claims, including...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: courthousenews.com  
-   Link: <a href="https://courthousenews.com/" target="_blank" rel="noopener noreferrer nofollow">https://courthousenews.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ad-faith conduct in connection with years of lawsuits against an Alabama coal company.Read more...</p></details>
+   Link:<a href="https://courthousenews.com/" target="_blank" rel="noopener noreferrer nofollow">https://courthousenews.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ad-faith conduct in connection with years of lawsuits against an Alabama coal company.Read more...</p></details>

@@ -280,38 +280,38 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sp
 
 ## Sprinkle's UFO Regression Background
 
-Before becoming associated with the Cash-Landrum witnesses, Sprinkle had already established himself as a major figure in UFO and abduction research. His own writings describe how he began studying UFO experiencers during the 1960s and started providing hypnotic sessions to people reporting UFO encounters in 1967. He later stated that he had assisted more than 175 individuals in exploring UFO-related memories through hypnosis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regressionjournal.org">[Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regressionjournal.org</span><span class="citation-popover-snippet">Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</span></span></span>
+Before becoming associated with the Cash-Landrum witnesses, Sprinkle had already established himself as a major figure in UFO and abduction research. His own writings describe how he began studying UFO experiencers during the 1960s and started providing hypnotic sessions to people reporting UFO encounters in 1967. He later stated that he had assisted more than 175 individuals in exploring UFO-related memories through hypnosis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regressionjournal.org">[Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regressionjournal.org</span><span class="citation-popover-snippet">Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-1-dark.svg" | relative_url }}" alt="Sprinkle illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-His interests extended well beyond conventional counselling. Archival descriptions of his papers identify counselling, hypnosis, the psychological aspects of UFO research, and parapsychology as central themes throughout his career. He published extensively on UFO subjects, organised UFO conferences, advised television productions, and became widely known within the UFO community as a specialist in regression hypnosis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveswest.orbiscascade.org">[Archives West+2American Heritage Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveswest.orbiscascade.org</span><span class="citation-popover-title">Archives West R</span><span class="citation-popover-snippet">Leo Sprinkle papers, 1961-2020 - Archives WestSprinkle&#x27;s major professional interests were counseling and hypnosis, the psychological asp...</span></span></span>
+His interests extended well beyond conventional counselling. Archival descriptions of his papers identify counselling, hypnosis, the psychological aspects of UFO research, and parapsychology as central themes throughout his career. He published extensively on UFO subjects, organised UFO conferences, advised television productions, and became widely known within the UFO community as a specialist in regression hypnosis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveswest.orbiscascade.org">[Archives West+2American Heritage Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveswest.orbiscascade.org</span><span class="citation-popover-title">Archives West R</span><span class="citation-popover-snippet">Leo Sprinkle papers, 1961-2020 - Archives WestSprinkle&#x27;s major professional interests were counseling and hypnosis, the psychological asp...</span></span></span>
 
-By the 1970s and 1980s, hypnotic regression had become a common tool among UFO investigators. Historical reviews of the abduction movement identify Sprinkle as one of the earliest practitioners to use hypnosis in an attempt to recover hidden memories of UFO encounters. The technique was viewed by supporters as a way to uncover forgotten experiences, but critics argued that it could also create narratives influenced by suggestion, expectation, or the interviewer's assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the short dramatic history of alien abduction in the us</span><span class="citation-popover-snippet">R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</span></span></span>
+By the 1970s and 1980s, hypnotic regression had become a common tool among UFO investigators. Historical reviews of the abduction movement identify Sprinkle as one of the earliest practitioners to use hypnosis in an attempt to recover hidden memories of UFO encounters. The technique was viewed by supporters as a way to uncover forgotten experiences, but critics argued that it could also create narratives influenced by suggestion, expectation, or the interviewer's assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the short dramatic history of alien abduction in the us</span><span class="citation-popover-snippet">R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-3-dark.svg" | relative_url }}" alt="Sprinkle illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## National Enquirer and Television Context
 
-Sprinkle's involvement with the Cash-Landrum witnesses did not occur in a purely clinical or research setting. The hypnosis sessions took place while the case was receiving growing [media]({{ 'media/' | relative_url }}) attention. Contemporary case documentation places his work within a network that included UFO investigators, journalists, television producers, and tabloid coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO Case Document CollectionAlleged Medical Injuries from a UFO by Richard C, Niemetzow, M.D.. MUFON UF...</span></span></span>
+Sprinkle's involvement with the Cash-Landrum witnesses did not occur in a purely clinical or research setting. The hypnosis sessions took place while the case was receiving growing [media]({{ 'media/' | relative_url }}) attention. Contemporary case documentation places his work within a network that included UFO investigators, journalists, television producers, and tabloid coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO Case Document CollectionAlleged Medical Injuries from a UFO by Richard C, Niemetzow, M.D.. MUFON UF...</span></span></span>
 
-Accounts from later reviews of the case indicate that Sprinkle hypnotised [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) in July 1981 in connection with National Enquirer coverage and later participated in material connected to ABC's *That's Incredible!*. The television programme eventually featured Vickie Landrum recounting the event under hypnosis before a national audience. The show helped popularise the case and preserved a public record of the regression session. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum ufo true picture</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO: The True Picture16 Apr 2020 — There were, however, a few UFO reports in Texas and other areas both...</span></span></span>
+Accounts from later reviews of the case indicate that Sprinkle hypnotised [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) in July 1981 in connection with National Enquirer coverage and later participated in material connected to ABC's *That's Incredible!*. The television programme eventually featured Vickie Landrum recounting the event under hypnosis before a national audience. The show helped popularise the case and preserved a public record of the regression session.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum ufo true picture</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO: The True Picture16 Apr 2020 — There were, however, a few UFO reports in Texas and other areas both...</span></span></span>
 
-This media setting matters because it created incentives very different from those found in modern evidence-gathering interviews. The goal was not merely documentation of an existing account. Investigators and producers were interested in recovering additional details, presenting a compelling story, and exploring aspects of the event that witnesses might not have consciously recalled. That atmosphere increased the possibility that hypnosis would function as a narrative-expansion tool rather than a neutral fact-finding method. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This media setting matters because it created incentives very different from those found in modern evidence-gathering interviews. The goal was not merely documentation of an existing account. Investigators and producers were interested in recovering additional details, presenting a compelling story, and exploring aspects of the event that witnesses might not have consciously recalled. That atmosphere increased the possibility that hypnosis would function as a narrative-expansion tool rather than a neutral fact-finding method.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Interviewer Role Matters for Evidence
 
-The key question is not whether Sprinkle acted in good faith. Most evidence suggests that he sincerely believed hypnosis could help witnesses recover meaningful memories. The more important issue is whether his background and methods affected the evidential value of what emerged during those sessions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regressionjournal.org">[Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regressionjournal.org</span><span class="citation-popover-snippet">Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</span></span></span>
+The key question is not whether Sprinkle acted in good faith. Most evidence suggests that he sincerely believed hypnosis could help witnesses recover meaningful memories. The more important issue is whether his background and methods affected the evidential value of what emerged during those sessions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regressionjournal.org">[Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regressionjournal.org</span><span class="citation-popover-snippet">Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</span></span></span>
 
 Several factors make his role significant:
 
-* **He was an advocate of regression hypnosis rather than a detached evaluator.** His published work shows a longstanding commitment to using hypnosis with UFO experiencers and an expectation that meaningful information could emerge through the process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regressionjournal.org">[Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regressionjournal.org</span><span class="citation-popover-snippet">Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</span></span></span>
-* **He worked within a UFO-investigation culture that generally regarded hypnosis as a discovery tool.** During the period, many researchers believed regression could reveal hidden aspects of encounters rather than simply test already known memories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the short dramatic history of alien abduction in the us</span><span class="citation-popover-snippet">R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</span></span></span>
-* **The sessions occurred after extensive discussion of the case.** By the time hypnosis was used, the witnesses had already spoken with investigators, journalists, and other interested parties, making it difficult to separate original recollections from later influences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO Case Document CollectionAlleged Medical Injuries from a UFO by Richard C, Niemetzow, M.D.. MUFON UF...</span></span></span>
+* **He was an advocate of regression hypnosis rather than a detached evaluator.** His published work shows a longstanding commitment to using hypnosis with UFO experiencers and an expectation that meaningful information could emerge through the process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regressionjournal.org">[Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regressionjournal.org</span><span class="citation-popover-snippet">Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</span></span></span>
+* **He worked within a UFO-investigation culture that generally regarded hypnosis as a discovery tool.** During the period, many researchers believed regression could reveal hidden aspects of encounters rather than simply test already known memories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the short dramatic history of alien abduction in the us</span><span class="citation-popover-snippet">R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</span></span></span>
+* **The sessions occurred after extensive discussion of the case.** By the time hypnosis was used, the witnesses had already spoken with investigators, journalists, and other interested parties, making it difficult to separate original recollections from later influences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO Case Document CollectionAlleged Medical Injuries from a UFO by Richard C, Niemetzow, M.D.. MUFON UF...</span></span></span>
 
-Modern memory researchers often highlight precisely these conditions as risk factors for memory contamination. Hypnosis can make recollections feel more vivid and convincing without guaranteeing that the [added details]({{ 'added-details/' | relative_url }}) are historically accurate. Because of that, claims first appearing during regression sessions generally require independent corroboration before they can be treated as strong evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Narrative of the abduction phenomenonKlass jokingly recommends those considering hypnotic regression to uncover abduction memories to vis...</span></span></span>
+Modern memory researchers often highlight precisely these conditions as risk factors for memory contamination. Hypnosis can make recollections feel more vivid and convincing without guaranteeing that the [added details]({{ 'added-details/' | relative_url }}) are historically accurate. Because of that, claims first appearing during regression sessions generally require independent corroboration before they can be treated as strong evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Narrative of the abduction phenomenonKlass jokingly recommends those considering hypnotic regression to uncover abduction memories to vis...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -320,205 +320,205 @@ Modern memory researchers often highlight precisely these conditions as risk fac
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-2-dark.svg" | relative_url }}" alt="Sprinkle illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Sprinkle's Involvement Changed in the Cash-Landrum Record
 
-Within the Cash-Landrum case, Sprinkle's importance lies less in the basic sighting narrative than in the additional details associated with hypnotic recall. Later analyses of the case have pointed to features that became more prominent after hypnosis sessions, including references to blue lights and certain sensory impressions. Whether those details reflected forgotten observations or products of the regression process remains disputed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum ufo true picture</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO: The True Picture16 Apr 2020 — There were, however, a few UFO reports in Texas and other areas both...</span></span></span>
+Within the Cash-Landrum case, Sprinkle's importance lies less in the basic sighting narrative than in the additional details associated with hypnotic recall. Later analyses of the case have pointed to features that became more prominent after hypnosis sessions, including references to blue lights and certain sensory impressions. Whether those details reflected forgotten observations or products of the regression process remains disputed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum ufo true picture</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum UFO: The True Picture16 Apr 2020 — There were, however, a few UFO reports in Texas and other areas both...</span></span></span>
 
-As a result, historians of the case often treat the hypnosis material differently from contemporaneous witness statements. The original sighting claims, medical complaints, legal filings, and early interviews can be examined as independent records. Material emerging through regression is generally viewed through an additional layer of caution because it passed through a method that later research identified as vulnerable to suggestion and memory distortion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As a result, historians of the case often treat the hypnosis material differently from contemporaneous witness statements. The original sighting claims, medical complaints, legal filings, and early interviews can be examined as independent records. Material emerging through regression is generally viewed through an additional layer of caution because it passed through a method that later research identified as vulnerable to suggestion and memory distortion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's role serves as a useful example of a transitional period in UFO investigation. He represented a generation of researchers who believed hypnosis could uncover hidden truths about unusual experiences. The later controversy surrounding hypnotically recovered memories illustrates why modern investigators, historians, and psychologists often separate regression-derived details from independently documented evidence when assessing cases such as Cash-Landrum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon+2Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the short dramatic history of alien abduction in the us</span><span class="citation-popover-snippet">R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</span></span></span>
+For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's role serves as a useful example of a transitional period in UFO investigation. He represented a generation of researchers who believed hypnosis could uncover hidden truths about unusual experiences. The later controversy surrounding hypnotically recovered memories illustrates why modern investigators, historians, and psychologists often separate regression-derived details from independently documented evidence when assessing cases such as Cash-Landrum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon+2Int&#x27;l Journal of Regression Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the short dramatic history of alien abduction in the us</span><span class="citation-popover-snippet">R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Sprinkle a Neutral Memory Interviewer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Sprinkle a Neutral Memory Interviewer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MOn-kp9jIQsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Elizabeth Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MOn-kp9jIQsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Dr. Elizabeth Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Useful for evaluating interviewer influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating interviewer influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
-        </h4>
-        <p class="fr-book-author">By Daniel L. Schacter</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains mechanisms behind memory distortion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
+</h4>
+<p class="fr-book-author">By Daniel L. Schacter</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains mechanisms behind memory distortion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Adds broader investigative UFO context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds broader investigative UFO context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208300-M.jpg" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208300-M.jpg" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
+</h4>
+<p class="fr-book-author">By John E. Mack</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Alien abduction, Unidentified flying objects, Sightings and encounters, Objetos voladores no identificado...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Alien abduction, Unidentified flying objects, Sightings and encounters, Objetos voladores no identificado...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sprinkle-was-sprinkle-a-neutral-memory-interviewer-cash-landrum-ufo-incident-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,155 +724,155 @@ For the broader topic of hypnosis files and memory recovery concerns, Sprinkle's
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aeon.co  
    Title: the short dramatic history of alien abduction in the us  
-   Link: <a href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</p></details>
+   Link:<a href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>R Leo Sprinkle, a counsellor at the University of Wyoming, became the first experts to rely on hypnosis to aid alleged victims of alien...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Narrative of the abduction phenomenonKlass jokingly recommends those considering hypnotic regression to uncover abduction memories to vis...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Narrative of the abduction phenomenonKlass jokingly recommends those considering hypnotic regression to uncover abduction memories to vis...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abductionR. Leo Sprinkle, a University of Wyoming psychologist, became interested in the abduction phenomenon in the 1960s. Spri...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abductionR. Leo Sprinkle, a University of Wyoming psychologist, became interested in the abduction phenomenon in the 1960s. Spri...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Cash-Landrum UFO Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: regressionjournal.org  
-   Link: <a href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow">https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</p></details>
+   Link:<a href="https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/" target="_blank" rel="noopener noreferrer nofollow">https://regressionjournal.org/jrt_article/psychotherapeutic-services-for-persons-who-claim-ufo-experiences-leo-sprinkle-is-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Int&#x27;l Journal of Regression TherapyPsychotherapeutic Services for Persons Who Claim UFO...by RL Sprinkle — In 1967, I began to provide h...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archiveswest.orbiscascade.org  
    Title: Archives West R  
-   Link: <a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv805708</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle papers, 1961-2020 - Archives WestSprinkle&#x27;s major professional interests were counseling and hypnosis, the psychological asp...</p></details>
+   Link:<a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv805708</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle papers, 1961-2020 - Archives WestSprinkle&#x27;s major professional interests were counseling and hypnosis, the psychological asp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ahcwyo.org  
    Title: when ufos met earth maybe  
-   Link: <a href="https://ahcwyo.org/2013/07/08/when-ufos-met-earth-maybe/" target="_blank" rel="noopener noreferrer nofollow">https://ahcwyo.org/2013/07/08/when-ufos-met-earth-maybe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Heritage CenterWhen UFOs Met Earth (Maybe?)8 Jul 2013 — Sprinkle resigned in 1989 to become a professor emeritus and a counselin...</p></details>
+   Link:<a href="https://ahcwyo.org/2013/07/08/when-ufos-met-earth-maybe/" target="_blank" rel="noopener noreferrer nofollow">https://ahcwyo.org/2013/07/08/when-ufos-met-earth-maybe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Heritage CenterWhen UFOs Met Earth (Maybe?)8 Jul 2013 — Sprinkle resigned in 1989 to become a professor emeritus and a counselin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1981/04/22165433/p18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1981/04/22165433/p18.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>R. Leo Sprinkle, an APRO consultant, who is the leading practitioner of hypnosis in UFO-abduction cases. (Sprinkle, a...Read more...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1981/04/22165433/p18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1981/04/22165433/p18.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>R. Leo Sprinkle, an APRO consultant, who is the leading practitioner of hypnosis in UFO-abduction cases. (Sprinkle, a...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum UFO Case Document CollectionAlleged Medical Injuries from a UFO by Richard C, Niemetzow, M.D.. MUFON UF...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum UFO Case Document CollectionAlleged Medical Injuries from a UFO by Richard C, Niemetzow, M.D.. MUFON UF...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo true picture  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum UFO: The True Picture16 Apr 2020 — There were, however, a few UFO reports in Texas and other areas both...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum UFO: The True Picture16 Apr 2020 — There were, however, a few UFO reports in Texas and other areas both...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm. Includes bibliographic references and index. ISBN 1-57859-029...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm. Includes bibliographic references and index. ISBN 1-57859-029...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archiveswest.orbiscascade.org  
-   Link: <a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle papers, 1961-2020 - Archives WestMost mate r ials a r e about UFOs and the psychology of UFO contactees. Othe r subjects inc...</p></details>
+   Link:<a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle papers, 1961-2020 - Archives WestMost mate r ials a r e about UFOs and the psychology of UFO contactees. Othe r subjects inc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wearethedisclosure.com  
    Title: Leo Sprinkle  
-   Link: <a href="https://wearethedisclosure.com/leo-sprinkle/" target="_blank" rel="noopener noreferrer nofollow">https://wearethedisclosure.com/leo-sprinkle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Are the DisclosureAs a professor at the University of Wyoming and a therapist, Dr Sprinkle conducted over 500 hypnotic regression sess...</p></details>
+   Link:<a href="https://wearethedisclosure.com/leo-sprinkle/" target="_blank" rel="noopener noreferrer nofollow">https://wearethedisclosure.com/leo-sprinkle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Are the DisclosureAs a professor at the University of Wyoming and a therapist, Dr Sprinkle conducted over 500 hypnotic regression sess...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: regressionjournal.org  
-   Link: <a href="https://regressionjournal.org/jrt_author/leo-sprinkle/" target="_blank" rel="noopener noreferrer nofollow">https://regressionjournal.org/jrt_author/leo-sprinkle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leo SprinkleSprinkle has regressed/hypnotized thousands of clients with unusual memories, UFO sightings and abduction experiences. He par...</p></details>
+   Link:<a href="https://regressionjournal.org/jrt_author/leo-sprinkle/" target="_blank" rel="noopener noreferrer nofollow">https://regressionjournal.org/jrt_author/leo-sprinkle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leo SprinkleSprinkle has regressed/hypnotized thousands of clients with unusual memories, UFO sightings and abduction experiences. He par...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.ph  
-   Link: <a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Case Document Collection13 Feb 2023 — [Radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) UFO Injuries by Richard C. Niemtzow, M.D. also published in Flying S...</p></details>
+   Link:<a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Case Document Collection13 Feb 2023 — [Radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) UFO Injuries by Richard C. Niemtzow, M.D. also published in Flying S...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/217391592/Ufo-Dictionary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/217391592/Ufo-Dictionary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It includes definitions of terms like abduction, abduction experiences classification, ACCET...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/217391592/Ufo-Dictionary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/217391592/Ufo-Dictionary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It includes definitions of terms like abduction, abduction experiences classification, ACCET...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uwyo.edu  
    Title: uw ahc awards graduate student research prize for innovative podcast project  
-   Link: <a href="https://www.uwyo.edu/news/2024/07/uw-ahc-awards-graduate-student-research-prize-for-innovative-podcast-project.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uwyo.edu/news/2024/07/uw-ahc-awards-graduate-student-research-prize-for-innovative-podcast-project.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sprinkle papers contain materials related to UFOs, the psychology of UFO contactees, paranormal activity...Read more...</p></details>
+   Link:<a href="https://www.uwyo.edu/news/2024/07/uw-ahc-awards-graduate-student-research-prize-for-innovative-podcast-project.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uwyo.edu/news/2024/07/uw-ahc-awards-graduate-student-research-prize-for-innovative-podcast-project.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sprinkle papers contain materials related to UFOs, the psychology of UFO contactees, paranormal activity...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wyomingpublicmedia.org  
    Title: archives on the air 73 ufo psychology leo sprinkle papers  
-   Link: <a href="https://www.wyomingpublicmedia.org/show/archives-on-the-air/2018-10-24/archives-on-the-air-73-ufo-psychology-leo-sprinkle-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.wyomingpublicmedia.org/show/archives-on-the-air/2018-10-24/archives-on-the-air-73-ufo-psychology-leo-sprinkle-papers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle was a Professor of Psychology at the University of Wyoming. In the 1970s he did research into explaining who UFO spotters ar...</p></details>
+   Link:<a href="https://www.wyomingpublicmedia.org/show/archives-on-the-air/2018-10-24/archives-on-the-air-73-ufo-psychology-leo-sprinkle-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.wyomingpublicmedia.org/show/archives-on-the-air/2018-10-24/archives-on-the-air-73-ufo-psychology-leo-sprinkle-papers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle was a Professor of Psychology at the University of Wyoming. In the 1970s he did research into explaining who UFO spotters ar...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academia.edu  
    Title: The Mammoth Encyclopedia of Extraterrestrial Encounters  
-   Link: <a href="https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Journal of American Folklore, Magonia, International UFO Reporter, and the Journal of UFO Studies. Under sponsorship of the Fund for...</p></details>
+   Link:<a href="https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Journal of American Folklore, Magonia, International UFO Reporter, and the Journal of UFO Studies. Under sponsorship of the Fund for...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentThat night, 51-year-old [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;) picks up her friend, 57-year-old Vicky Landrum...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentThat night, 51-year-old [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;) picks up her friend, 57-year-old Vicky Landrum...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t Christian, she had never believed in UFOs or extraterrestrials...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t Christian, she had never believed in UFOs or extraterrestrials...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: coloradohistoricnewspapers.org  
    Title: The otherworldly obsession of Professor R  
-   Link: <a href="https://www.coloradohistoricnewspapers.org/?a=d&amp;d=RMD19880807-01.2.309" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradohistoricnewspapers.org/?a=d&amp;d=RMD19880807-01.2.309</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle7 Aug 1988 — “There&#x27;s some pressure to separate my UFO, ESP, reincarnation interests from my university work.” Sprinkle laugh...</p></details>
+   Link:<a href="https://www.coloradohistoricnewspapers.org/?a=d&amp;d=RMD19880807-01.2.309" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradohistoricnewspapers.org/?a=d&amp;d=RMD19880807-01.2.309</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leo Sprinkle7 Aug 1988 — “There&#x27;s some pressure to separate my UFO, ESP, reincarnation interests from my university work.” Sprinkle laugh...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>occurred on the evening of December 29, 1980...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>occurred on the evening of December 29, 1980...</p></details>
    Published: December 29, 1980  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufology-news.com  
    Title: The Cash Landrum Incident J.Schuessler  
-   Link: <a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>142. Page 78. THE [CASH-LANDRUM UFO INCIDENT](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;)... Office because of r:ny personal interest in UFOs and that NASA...Read more...</p></details>
+   Link:<a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>142. Page 78. THE [CASH-LANDRUM UFO INCIDENT](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;)... Office because of r:ny personal interest in UFOs and that NASA...Read more...</p></details>

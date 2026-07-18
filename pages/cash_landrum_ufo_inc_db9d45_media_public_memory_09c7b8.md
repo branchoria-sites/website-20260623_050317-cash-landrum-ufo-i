@@ -448,54 +448,54 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-ove
 
 ## Introduction
 
-The [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) became famous less through immediate official confirmation than through a chain of retellings: local reporting, UFO investigators, tabloid amplification, a high-value lawsuit, television re-enactments, sceptical reassessments, and later online archives. The public memory of the case has therefore never been just “three witnesses saw a UFO”. It is a story about how a disputed rural Texas incident was repeatedly reframed as an injury case, a government-accountability case, a radiation mystery, and finally one of the landmark UFO stories of the late Cold War period. The strongest media hook was always the same: Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum said they were harmed by a heat-emitting object that appeared to be accompanied by military-style helicopters, yet no responsible government agency accepted blame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) became famous less through immediate official confirmation than through a chain of retellings: local reporting, UFO investigators, tabloid amplification, a high-value lawsuit, television re-enactments, sceptical reassessments, and later online archives. The public memory of the case has therefore never been just “three witnesses saw a UFO”. It is a story about how a disputed rural Texas incident was repeatedly reframed as an injury case, a government-accountability case, a radiation mystery, and finally one of the landmark UFO stories of the late Cold War period. The strongest media hook was always the same: Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum said they were harmed by a heat-emitting object that appeared to be accompanied by military-style helicopters, yet no responsible government agency accepted blame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-overview.webp" | relative_url }}" alt="Overview image for Media" loading="eager" decoding="sync" fetchpriority="high">
 ## How the story first entered public view
 
-The case did not become public on the night of 29 December 1980. According to later [case-file]({{ 'case-file/' | relative_url }}) reconstructions, several weeks passed before UFO investigators and newspapers became involved. Vickie Landrum’s early calls for help included a 2 February 1981 report to the National UFO Reporting Center, and the story then moved through UFO organisations before reaching wider public circulation. This delay matters because the case’s public identity was formed after medical distress, phone calls, investigator notes, and local press interest had already begun to shape what counted as the “case”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The case did not become public on the night of 29 December 1980. According to later [case-file]({{ 'case-file/' | relative_url }}) reconstructions, several weeks passed before UFO investigators and newspapers became involved. Vickie Landrum’s early calls for help included a 2 February 1981 report to the National UFO Reporting Center, and the story then moved through UFO organisations before reaching wider public circulation. This delay matters because the case’s public identity was formed after medical distress, phone calls, investigator notes, and local press interest had already begun to shape what counted as the “case”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The first mainstream newspaper coverage appears to have come from Cathy Gordon’s two-part story in *The Conroe Courier*: “Two women share terror of mysterious encounter” on 22 February 1981 and “Investigators eye ‘close encounter’” on 23 February 1981. Blue Blurry Lines’ document index also notes that Gordon’s call to John Schuessler on 20 February 1981 was logged as the first MUFON-related contact about the case, which is an important reminder that local journalism was not merely reporting an already-famous UFO story; it helped activate the investigative network that would preserve and promote it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The first mainstream newspaper coverage appears to have come from Cathy Gordon’s two-part story in *The Conroe Courier*: “Two women share terror of mysterious encounter” on 22 February 1981 and “Investigators eye ‘close encounter’” on 23 February 1981. Blue Blurry Lines’ document index also notes that Gordon’s call to John Schuessler on 20 February 1981 was logged as the first MUFON-related contact about the case, which is an important reminder that local journalism was not merely reporting an already-famous UFO story; it helped activate the investigative network that would preserve and promote it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-Early publicity also moved quickly into the tabloid ecosystem. The same document collection lists a *Weekly World News* story published in March 1981 under the headline “3 SURVIVE UFO ATTACK”, while later commentary notes that tabloid versions could contain details or emphases that were not always stable across earlier accounts. That [tabloid phase]({{ 'tabloid-phase/' | relative_url }}) helped make the story memorable, but it also complicated public memory by mixing reported witness testimony, medical claims, dramatic headlines, and evolving folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Early publicity also moved quickly into the tabloid ecosystem. The same document collection lists a *Weekly World News* story published in March 1981 under the headline “3 SURVIVE UFO ATTACK”, while later commentary notes that tabloid versions could contain details or emphases that were not always stable across earlier accounts. That [tabloid phase]({{ 'tabloid-phase/' | relative_url }}) helped make the story memorable, but it also complicated public memory by mixing reported witness testimony, medical claims, dramatic headlines, and evolving folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-1-dark.svg" | relative_url }}" alt="Media illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the lawsuit became the media hook
 
-The lawsuit gave the Cash-Landrum story something most UFO reports lacked: a conventional news frame. Instead of being only a strange-light account, it became a claim against the United States government, with damages, lawyers, [military denials]({{ 'military-denials/' | relative_url }}), and court proceedings. A 2008 *Chron* retrospective states that the notice of the suit in Federal District Court in Houston made national headlines, with UPI versions appearing in newspapers as far away as Philadelphia and Miami. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
+The lawsuit gave the Cash-Landrum story something most UFO reports lacked: a conventional news frame. Instead of being only a strange-light account, it became a claim against the United States government, with damages, lawyers, [military denials]({{ 'military-denials/' | relative_url }}), and court proceedings. A 2008 *Chron* retrospective states that the notice of the suit in Federal District Court in Houston made national headlines, with UPI versions appearing in newspapers as far away as Philadelphia and Miami.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
 
-That legal hook also made the case easier to summarise for general audiences. The core question became not simply “Was it a UFO?” but “Did a government operation injure civilians and then refuse responsibility?” Cash and Landrum reportedly sought $20 million in damages, and the case wound through the Justice Department before being dismissed for lack of evidence. The *Chron* account says the judgement turned on the witnesses’ inability to prove that the helicopters belonged to the US military, while Air Force officers testified that they did not possess a diamond-shaped craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
+That legal hook also made the case easier to summarise for general audiences. The core question became not simply “Was it a UFO?” but “Did a government operation injure civilians and then refuse responsibility?” Cash and Landrum reportedly sought $20 million in damages, and the case wound through the Justice Department before being dismissed for lack of evidence. The *Chron* account says the judgement turned on the witnesses’ inability to prove that the helicopters belonged to the US military, while Air Force officers testified that they did not possess a diamond-shaped craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
 
-The lawsuit’s media power lay partly in suspense. UFO researcher Curt Collins, summarising the publicity history, describes a first wave of attention in 1981 and a second wave from 1983 after the damages claim was filed. He also quotes attorney Peter Gersten later describing the lawsuit as a pressure tactic intended to make the government quietly cover medical expenses rather than fight publicly. Whether one reads that as strategy, desperation, or weak legal footing, it helps explain why the case stayed alive in the press even without decisive physical proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2016/03/the-20-million-cash-landrum-ufo-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The lawsuit’s media power lay partly in suspense. UFO researcher Curt Collins, summarising the publicity history, describes a first wave of attention in 1981 and a second wave from 1983 after the damages claim was filed. He also quotes attorney Peter Gersten later describing the lawsuit as a pressure tactic intended to make the government quietly cover medical expenses rather than fight publicly. Whether one reads that as strategy, desperation, or weak legal footing, it helps explain why the case stayed alive in the press even without decisive physical proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2016/03/the-20-million-cash-landrum-ufo-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The dismissal in 1986 changed the public arc. For believers, it fed the sense that the witnesses had been denied accountability. For sceptics, it underscored the evidentiary gap between a dramatic story and a legally actionable claim. For television producers, however, it created a ready-made structure: ordinary people, frightening encounter, official [denial]({{ 'denial/' | relative_url }}), failed lawsuit, lingering illness. That structure proved durable long after the courtroom phase ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
+The dismissal in 1986 changed the public arc. For believers, it fed the sense that the witnesses had been denied accountability. For sceptics, it underscored the evidentiary gap between a dramatic story and a legally actionable claim. For television producers, however, it created a ready-made structure: ordinary people, frightening encounter, official [denial]({{ 'denial/' | relative_url }}), failed lawsuit, lingering illness. That structure proved durable long after the courtroom phase ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
 
 ## How television fixed the case in public memory
 
-Television did more than repeat the Cash-Landrum story; it gave it images. The case appeared in formats built around re-enactment, witness testimony, and unresolved mystery, including *That’s Incredible!*, *UFO Cover-Up? Live*, *[Unsolved Mysteries]({{ 'tv-injury-frame/' | relative_url }})*, *Sightings*, and later *UFO Hunters*. Sceptical writer Robert Sheaffer’s 2014 discussion noted the case’s extensive media exposure across these programmes, while the *Unsolved Mysteries* archive preserves the story in the familiar style of dramatic narration, witness quotation, and unanswered questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+Television did more than repeat the Cash-Landrum story; it gave it images. The case appeared in formats built around re-enactment, witness testimony, and unresolved mystery, including *That’s Incredible!*, *UFO Cover-Up? Live*, *[Unsolved Mysteries]({{ 'tv-injury-frame/' | relative_url }})*, *Sightings*, and later *UFO Hunters*. Sceptical writer Robert Sheaffer’s 2014 discussion noted the case’s extensive media exposure across these programmes, while the *Unsolved Mysteries* archive preserves the story in the familiar style of dramatic narration, witness quotation, and unanswered questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
-*Unsolved Mysteries* was especially important because it presented the case as a human injury mystery rather than just a UFO sighting. Its archive frames the episode around alleged radiation burns, [Betty Cash]({{ 'betty-cash/' | relative_url }})’s hospitalisation, John Schuessler’s investigation, and the witnesses’ search for medical answers. It also preserves the programme’s most memorable public framing: Cash did not merely want vindication; she wanted to know what exposure she had suffered so doctors could treat her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+*Unsolved Mysteries* was especially important because it presented the case as a human injury mystery rather than just a UFO sighting. Its archive frames the episode around alleged radiation burns, [Betty Cash]({{ 'betty-cash/' | relative_url }})’s hospitalisation, John Schuessler’s investigation, and the witnesses’ search for medical answers. It also preserves the programme’s most memorable public framing: Cash did not merely want vindication; she wanted to know what exposure she had suffered so doctors could treat her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
 
-That kind of retelling sharpened the emotional stakes. Vickie Landrum is quoted in the *Unsolved Mysteries* archive rejecting the “little green men” image and suggesting instead that the object could have been something the government was carrying. This is central to the case’s public memory: the story’s most enduring version is not a simple extraterrestrial tale, but a hybrid of UFO lore, military secrecy, medical harm, and a demand for information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+That kind of retelling sharpened the emotional stakes. Vickie Landrum is quoted in the *Unsolved Mysteries* archive rejecting the “little green men” image and suggesting instead that the object could have been something the government was carrying. This is central to the case’s public memory: the story’s most enduring version is not a simple extraterrestrial tale, but a hybrid of UFO lore, military secrecy, medical harm, and a demand for information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
 
-Later television revived the case for new audiences. A Blue Blurry Lines video guide notes that *Mysterious Worlds: UFO Secrets* aired in the United States in 2002 and included the last known filmed interview with Vickie Landrum, archival footage of Betty Cash, re-enactments, and interviews with Schuessler and Dr Bryan McClelland. The same guide records that *UFO Hunters: Alien Fallout*, broadcast on 14 January 2009, interviewed Colby Landrum, Betty Cash’s daughter Mickey Geisinger, Dr McClelland, and Colonel George Sarran, while focusing on a government-conspiracy angle and the legend of a burned road. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Later television revived the case for new audiences. A Blue Blurry Lines video guide notes that *Mysterious Worlds: UFO Secrets* aired in the United States in 2002 and included the last known filmed interview with Vickie Landrum, archival footage of Betty Cash, re-enactments, and interviews with Schuessler and Dr Bryan McClelland. The same guide records that *UFO Hunters: Alien Fallout*, broadcast on 14 January 2009, interviewed Colby Landrum, Betty Cash’s daughter Mickey Geisinger, Dr McClelland, and Colonel George Sarran, while focusing on a government-conspiracy angle and the legend of a burned road.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-2-dark.svg" | relative_url }}" alt="Media illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How retellings shaped the legend
 
-The Cash-Landrum case is remembered through a few vivid motifs: the diamond-shaped object, the heat, the helicopters, the illnesses, the lawsuit, and the denied official responsibility. Media retellings reinforced those motifs because they were narratively clear. They also tended to compress uncertainty. A legal dismissal for lack of proof could become, in popular memory, “the government got away with it”; medical ambiguity could become “radiation poisoning”; an unverified road trace could become a physical scar on the landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
+The Cash-Landrum case is remembered through a few vivid motifs: the diamond-shaped object, the heat, the helicopters, the illnesses, the lawsuit, and the denied official responsibility. Media retellings reinforced those motifs because they were narratively clear. They also tended to compress uncertainty. A legal dismissal for lack of proof could become, in popular memory, “the government got away with it”; medical ambiguity could become “radiation poisoning”; an unverified road trace could become a physical scar on the landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chron.com">[Chron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chron.com</span><span class="citation-popover-title">UFO Hunters TV show seeks to reopen Cash-Landrum case</span><span class="citation-popover-snippet">UFO Hunters TV show seeks to reopen Cash-Landrum case...</span></span></span>
 
-One example is the alleged corroborating witness Jerry McDonald. In later UFO literature and television, McDonald’s separate sighting was often folded into the Cash-Landrum story as support for the main event. But archival comparison shows how retellings can alter emphasis. Blue Blurry Lines notes that the earliest *Houston Chronicle* report from 25 September 1981 described McDonald’s object as “triangular or diamond-shaped”, while a 1982 retelling edited the quotation to remove the triangular description, making it fit the Cash-Landrum object more neatly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum mcdonald ufo incident</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</span></span></span>
+One example is the alleged corroborating witness Jerry McDonald. In later UFO literature and television, McDonald’s separate sighting was often folded into the Cash-Landrum story as support for the main event. But archival comparison shows how retellings can alter emphasis. Blue Blurry Lines notes that the earliest *Houston Chronicle* report from 25 September 1981 described McDonald’s object as “triangular or diamond-shaped”, while a 1982 retelling edited the quotation to remove the triangular description, making it fit the Cash-Landrum object more neatly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum mcdonald ufo incident</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</span></span></span>
 
-The 1990s brought another shift. According to Collins, renewed media interest in UFOs during the *X-Files* era helped bring the Cash-Landrum case back into print, including Marty Racine’s 1996 *Houston Chronicle* Texas Magazine cover story on UFO sightings. That article revisited McDonald’s account and his later belief that he may have seen a stealth aircraft or military prototype. By then, the case had become a flexible cultural object: it could be told as an alien encounter, a secret aircraft incident, a radiation-injury case, or a cover-up story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum mcdonald ufo incident</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</span></span></span>
+The 1990s brought another shift. According to Collins, renewed media interest in UFOs during the *X-Files* era helped bring the Cash-Landrum case back into print, including Marty Racine’s 1996 *Houston Chronicle* Texas Magazine cover story on UFO sightings. That article revisited McDonald’s account and his later belief that he may have seen a stealth aircraft or military prototype. By then, the case had become a flexible cultural object: it could be told as an alien encounter, a secret aircraft incident, a radiation-injury case, or a cover-up story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the cash landrum mcdonald ufo incident</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</span></span></span>
 
-Sceptical reassessments shaped public memory too, though in a different way. Sheaffer argued in *Skeptical Inquirer* that the case had long been treated as a classic because, if the reported events happened as described, ordinary explanations seemed inadequate; yet he also stressed the lack of solid independent evidence after years of searching. His critique highlighted problems that popular retellings often underplayed, including uncertainty about the exact site, lack of photographs for alleged road marks, and unresolved medical documentation issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+Sceptical reassessments shaped public memory too, though in a different way. Sheaffer argued in *Skeptical Inquirer* that the case had long been treated as a classic because, if the reported events happened as described, ordinary explanations seemed inadequate; yet he also stressed the lack of solid independent evidence after years of searching. His critique highlighted problems that popular retellings often underplayed, including uncertainty about the exact site, lack of photographs for alleged road marks, and unresolved medical documentation issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -505,11 +505,11 @@ Sceptical reassessments shaped public memory too, though in a different way. She
 
 ## Why the case still survives online
 
-The case survives because it now exists in two overlapping forms. The first is the popular memory: a frightening roadside encounter, apparent radiation injury, helicopters, and a failed fight for answers. The second is the archival memory: scans, transcripts, case files, TV guides, sceptical articles, blog reconstructions, and re-examinations of old claims. The Blue Blurry Lines document collection is a major example of the second form, gathering reports, correspondence, legal documents, news clippings, medical-record discussions, and programme references into a public research trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The case survives because it now exists in two overlapping forms. The first is the popular memory: a frightening roadside encounter, apparent radiation injury, helicopters, and a failed fight for answers. The second is the archival memory: scans, transcripts, case files, TV guides, sceptical articles, blog reconstructions, and re-examinations of old claims. The Blue Blurry Lines document collection is a major example of the second form, gathering reports, correspondence, legal documents, news clippings, medical-record discussions, and programme references into a public research trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-Online archives have also made the case more contestable. The Bergstrom Air Force Base interview transcript, now available through CUFON, gives readers access to extended witness statements rather than only edited television clips. That does not resolve the case, but it changes the reader’s relationship to it: the public can compare early testimony, later retellings, and sceptical objections rather than relying on one dramatic summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Online archives have also made the case more contestable. The Bergstrom Air Force Base interview transcript, now available through CUFON, gives readers access to extended witness statements rather than only edited television clips. That does not resolve the case, but it changes the reader’s relationship to it: the public can compare early testimony, later retellings, and sceptical objections rather than relying on one dramatic summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-At the same time, online memory can amplify folklore. Comment sections, podcasts, documentaries, and list articles often preserve the most dramatic version of the story, while the evidentiary complications require more effort to find. Even the *Unsolved Mysteries* archive, valuable as a cultural record, presents the case through the emotional logic of unresolved harm and official silence, which is precisely why the story remains powerful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+At the same time, online memory can amplify folklore. Comment sections, podcasts, documentaries, and list articles often preserve the most dramatic version of the story, while the evidentiary complications require more effort to find. Even the *Unsolved Mysteries* archive, valuable as a cultural record, presents the case through the emotional logic of unresolved harm and official silence, which is precisely why the story remains powerful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
 
 The result is a case whose fame rests on unresolved tension. Media coverage made Cash, Landrum, and Colby more than local witnesses; it turned them into symbols of a larger question about what citizens can prove when they believe they have been harmed by something secret. Later retellings kept that question alive, but they also hardened selected details into legend. That is why the Cash-Landrum incident remains prominent in UFO culture: not because the media settled what happened, but because media retellings gave the uncertainty a durable public shape.
 
@@ -517,178 +517,178 @@ The result is a case whose fame rests on unresolved tension. Media coverage made
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-3-dark.svg" | relative_url }}" alt="Media illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did the Case Become Famous?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did the Case Become Famous?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how UFO cases enter public discussion and gain credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO cases enter public discussion and gain credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for how UFO reports become famous cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how UFO reports become famous cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how narratives, communities, and media shape UFO memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how narratives, communities, and media shape UFO memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses how stories spread, persist, and are evaluated by the public.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how stories spread, persist, and are evaluated by the public.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="media-how-did-the-case-become-famous-cash-landrum-ufo-incident-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -704,7 +704,7 @@ The result is a case whose fame rests on unresolved tension. Media coverage made
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -724,7 +724,7 @@ The result is a case whose fame rests on unresolved tension. Media coverage made
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -756,7 +756,7 @@ The result is a case whose fame rests on unresolved tension. Media coverage made
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -808,7 +808,7 @@ The result is a case whose fame rests on unresolved tension. Media coverage made
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -853,7 +853,7 @@ The result is a case whose fame rests on unresolved tension. Media coverage made
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -894,184 +894,184 @@ The result is a case whose fame rests on unresolved tension. Media coverage made
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: chron.com  
    Title: UFO Hunters TV show seeks to reopen Cash-Landrum case  
-   Link: <a href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow">https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters TV show seeks to reopen Cash-Landrum case...</p></details>
+   Link:<a href="https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php" target="_blank" rel="noopener noreferrer nofollow">https://www.chron.com/neighborhood/eastex/news/article/UFO-Hunters-TV-show-seeks-to-reopen-Cash-Landrum-9393577.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters TV show seeks to reopen Cash-Landrum case...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Texas UFO  
-   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
+   Link:<a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & Colby Landrum, Part 1 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
+   Link:<a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: upi.com  
    Title: Three suing government over UFO radiation  
-   Link: <a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
+   Link:<a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.ph  
-   Link: <a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
+   Link:<a href="https://archive.ph/prxvp" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/prxvp</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2016/03/the-20-million-cash-landrum-ufo-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2016/03/the-20-million-cash-landrum-ufo-story.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2016/03/the-20-million-cash-landrum-ufo-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2016/03/the-20-million-cash-landrum-ufo-story.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2012/07/cash-landrum-video-documentary.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum mcdonald ufo incident  
-   Link: <a href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry Lines Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry Lines Blue Blurry Lines: The Cash-Landrum-McDonald UFO Incident of 1980...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blueblurrylines.com  
    Title: cash landrum ufo questions  
-   Link: <a href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blueblurrylines.com  
    Title: cash landrum ufo disinformation rick  
-   Link: <a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blueblurrylines.com  
    Title: ufo advocate betty cash  
-   Link: <a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum incident suppressed  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blueblurrylines.com  
    Title: skeptoid challenges cash landrum ufo  
-   Link: <a href="https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo true picture  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blueblurrylines.com  
    Title: the nsa cash landrum ufo document  
-   Link: <a href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
+   Link:<a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/01/p09.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-10.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-10.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Betty Cash, Vickie and Colby Landrum  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: podscan.fm  
    Title: The Cash-Landrum Incident  
-   Link: <a href="https://podscan.fm/podcasts/conspiracy-theories/episodes/the-cash-landrum-incident-1" target="_blank" rel="noopener noreferrer nofollow">https://podscan.fm/podcasts/conspiracy-theories/episodes/the-cash-landrum-incident-1</a>  
+   Link:<a href="https://podscan.fm/podcasts/conspiracy-theories/episodes/the-cash-landrum-incident-1" target="_blank" rel="noopener noreferrer nofollow">https://podscan.fm/podcasts/conspiracy-theories/episodes/the-cash-landrum-incident-1</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentIn 1981, Landrum appeared on That&#x27;s Incredible!, a popular ABC television program. · Landrum and Cash both appear...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentIn 1981, Landrum appeared on That&#x27;s Incredible!, a popular ABC television program. · Landrum and Cash both appear...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident  
-   Link: <a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files #8: A Radioactive UFO? The Cash-Landrum Case - 1980...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files #8: A Radioactive UFO? The Cash-Landrum Case - 1980...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Terrifying Texas UFO Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVeOy9W8EUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVeOy9W8EUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/pdffiles1/nij/grants/215795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/grants/215795.pdf</a>  
+   Link:<a href="https://www.ojp.gov/pdffiles1/nij/grants/215795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/grants/215795.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pacodeandbulletin.gov  
-   Link: <a href="https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf</a>  
+   Link:<a href="https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ezsyqw/case_28_the_cashlandrum_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ezsyqw/case_28_the_cashlandrum_incident/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ezsyqw/case_28_the_cashlandrum_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ezsyqw/case_28_the_cashlandrum_incident/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/uncannyfan/posts/2202718066871479/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uncannyfan/posts/2202718066871479/</a>  
+   Link:<a href="https://www.facebook.com/groups/uncannyfan/posts/2202718066871479/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uncannyfan/posts/2202718066871479/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  

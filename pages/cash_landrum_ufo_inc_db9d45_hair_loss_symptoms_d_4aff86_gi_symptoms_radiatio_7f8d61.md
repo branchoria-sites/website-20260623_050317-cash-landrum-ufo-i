@@ -280,15 +280,15 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi
 
 ## Introduction
 
-The gastrointestinal symptoms reported after the Cash–Landrum incident are often presented as some of the strongest evidence that [Betty Cash]({{ 'betty-cash/' | relative_url }}) suffered radiation injury. Cash described nausea, diarrhoea, weakness, headaches and severe illness in the hours and days following the encounter, and these complaints are repeatedly cited in UFO literature as signs of “[radiation sickness]({{ 'radiation-claim/' | relative_url }})”. Yet gastrointestinal symptoms are among the least specific features of acute radiation syndrome. The central question is not whether Cash became ill, but whether the pattern of illness matched what physicians would expect after a radiation dose large enough to damage the gastrointestinal tract. When the reported symptoms are compared with established radiation medicine, a significant tension emerges: severe radiation-related gastrointestinal injury generally implies doses high enough to produce characteristic blood abnormalities and, at the highest levels, a poor chance of survival. Those supporting findings are either disputed, absent, or insufficiently documented in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
+The gastrointestinal symptoms reported after the Cash–Landrum incident are often presented as some of the strongest evidence that [Betty Cash]({{ 'betty-cash/' | relative_url }}) suffered radiation injury. Cash described nausea, diarrhoea, weakness, headaches and severe illness in the hours and days following the encounter, and these complaints are repeatedly cited in UFO literature as signs of “[radiation sickness]({{ 'radiation-claim/' | relative_url }})”. Yet gastrointestinal symptoms are among the least specific features of acute radiation syndrome. The central question is not whether Cash became ill, but whether the pattern of illness matched what physicians would expect after a radiation dose large enough to damage the gastrointestinal tract. When the reported symptoms are compared with established radiation medicine, a significant tension emerges: severe radiation-related gastrointestinal injury generally implies doses high enough to produce characteristic blood abnormalities and, at the highest levels, a poor chance of survival. Those supporting findings are either disputed, absent, or insufficiently documented in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-1-dark.svg" | relative_url }}" alt="GI Symptoms illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Cash Reported After the Encounter
 
-Accounts of the case consistently describe Betty Cash becoming ill shortly after the reported sighting. Symptoms attributed to her include nausea, diarrhoea, weakness, headaches, eye irritation, skin problems and later [hair loss]({{ 'hair-loss/' | relative_url }}). Some retellings describe her condition as resembling [radiation]({{ 'radiation/' | relative_url }}) sickness, and the gastrointestinal complaints form part of that narrative because nausea and diarrhoea are well-known early symptoms of acute radiation exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks+2stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident She suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</span></span></span>
+Accounts of the case consistently describe Betty Cash becoming ill shortly after the reported sighting. Symptoms attributed to her include nausea, diarrhoea, weakness, headaches, eye irritation, skin problems and later [hair loss]({{ 'hair-loss/' | relative_url }}). Some retellings describe her condition as resembling [radiation]({{ 'radiation/' | relative_url }}) sickness, and the gastrointestinal complaints form part of that narrative because nausea and diarrhoea are well-known early symptoms of acute radiation exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks+2stateoftheunknown.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident She suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</span></span></span>
 
-Viewed in isolation, these symptoms can appear suggestive. Acute radiation syndrome can indeed begin with nausea, vomiting, diarrhoea, fatigue and malaise. However, these same symptoms are also common in viral illness, food-borne disease, stress reactions, medication effects and numerous non-radiation medical conditions. Radiation specialists therefore do not diagnose radiation injury from gastrointestinal complaints alone. They look for a broader pattern involving symptom timing, dose estimates, laboratory findings and subsequent clinical progression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical management of the acute radiation syndrome</span><span class="citation-popover-snippet">by M López · 2011 · Cited by 206 — These early symptoms include anorexia, apathy, nausea, vomiting, diarrhea, fever, tachycardia and h...</span></span></span>
+Viewed in isolation, these symptoms can appear suggestive. Acute radiation syndrome can indeed begin with nausea, vomiting, diarrhoea, fatigue and malaise. However, these same symptoms are also common in viral illness, food-borne disease, stress reactions, medication effects and numerous non-radiation medical conditions. Radiation specialists therefore do not diagnose radiation injury from gastrointestinal complaints alone. They look for a broader pattern involving symptom timing, dose estimates, laboratory findings and subsequent clinical progression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical management of the acute radiation syndrome</span><span class="citation-popover-snippet">by M López · 2011 · Cited by 206 — These early symptoms include anorexia, apathy, nausea, vomiting, diarrhea, fever, tachycardia and h...</span></span></span>
 
 This distinction matters because many later discussions of the Cash–Landrum case move directly from “she had nausea and diarrhoea” to “therefore she had radiation sickness”. In medical practice, that leap would not be considered sufficient evidence.
 
@@ -299,11 +299,11 @@ This distinction matters because many later discussions of the Cash–Landrum ca
 
 The strongest challenge to the radiation explanation comes from what gastrointestinal radiation injury actually means.
 
-Radiation medicine distinguishes between mild prodromal symptoms and true gastrointestinal acute radiation syndrome (GI-ARS). Nausea and diarrhoea can occur after substantial exposure, but the severe gastrointestinal syndrome associated with radiation damage to the intestinal lining generally appears only after very large whole-body doses. Modern clinical guidance places the gastrointestinal syndrome in a range typically beginning around 6–10 grays (Gy), with increasingly poor survival as dose rises. At around 10 Gy or more, death commonly occurs within days to weeks despite medical treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[Nature+3CDC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
+Radiation medicine distinguishes between mild prodromal symptoms and true gastrointestinal acute radiation syndrome (GI-ARS). Nausea and diarrhoea can occur after substantial exposure, but the severe gastrointestinal syndrome associated with radiation damage to the intestinal lining generally appears only after very large whole-body doses. Modern clinical guidance places the gastrointestinal syndrome in a range typically beginning around 6–10 grays (Gy), with increasingly poor survival as dose rises. At around 10 Gy or more, death commonly occurs within days to weeks despite medical treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[Nature+3CDC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
 
-The reason is biological. Cells lining the intestine divide rapidly and are highly sensitive to radiation. When enough of these cells are destroyed, patients develop severe diarrhoea, dehydration, electrolyte disturbances, infection and systemic collapse. This is not usually an isolated problem. The same radiation levels that devastate the gut also heavily damage bone marrow and blood-forming tissues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MSD Manuals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRadiobiology of the acute radiation syndrome</span><span class="citation-popover-snippet">NIHby MM i Garau · 2011 · Cited by 194 — Acute radiation syndrome or acute radiation sickness is classically subdivided into three...</span></span></span>
+The reason is biological. Cells lining the intestine divide rapidly and are highly sensitive to radiation. When enough of these cells are destroyed, patients develop severe diarrhoea, dehydration, electrolyte disturbances, infection and systemic collapse. This is not usually an isolated problem. The same radiation levels that devastate the gut also heavily damage bone marrow and blood-forming tissues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MSD Manuals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRadiobiology of the acute radiation syndrome</span><span class="citation-popover-snippet">NIHby MM i Garau · 2011 · Cited by 194 — Acute radiation syndrome or acute radiation sickness is classically subdivided into three...</span></span></span>
 
-That creates a dilemma for interpretations of the Cash–Landrum case. If Cash's gastrointestinal illness is taken as evidence of a radiation dose high enough to injure the gut significantly, then one would also expect accompanying signs of major whole-body radiation exposure. If the dose was much lower, then gastrointestinal complaints become less distinctive because they overlap with many ordinary illnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
+That creates a dilemma for interpretations of the Cash–Landrum case. If Cash's gastrointestinal illness is taken as evidence of a radiation dose high enough to injure the gut significantly, then one would also expect accompanying signs of major whole-body radiation exposure. If the dose was much lower, then gastrointestinal complaints become less distinctive because they overlap with many ordinary illnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-2-dark.svg" | relative_url }}" alt="GI Symptoms illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,11 +311,11 @@ That creates a dilemma for interpretations of the Cash–Landrum case. If Cash's
 
 One of the most important indicators of acute radiation syndrome is not nausea or diarrhoea but what happens to blood cells.
 
-Radiation damages bone marrow, where blood cells are produced. As a result, physicians evaluating possible radiation exposure closely monitor white blood cell counts, lymphocyte levels and platelets. Changes in these values are among the most useful objective markers of significant whole-body exposure. Modern clinical guidance specifically identifies falling blood-cell counts as a hallmark of the haematopoietic form of acute radiation syndrome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
+Radiation damages bone marrow, where blood cells are produced. As a result, physicians evaluating possible radiation exposure closely monitor white blood cell counts, lymphocyte levels and platelets. Changes in these values are among the most useful objective markers of significant whole-body exposure. Modern clinical guidance specifically identifies falling blood-cell counts as a hallmark of the haematopoietic form of acute radiation syndrome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</span></span></span>
 
-Critics of the radiation interpretation have repeatedly pointed to the absence of convincing publicly documented blood-count evidence. Reviews of the medical record have argued that the expected haematological findings for severe radiation injury were not demonstrated. This objection carries particular weight because gastrointestinal radiation injury and bone marrow injury normally occur together at the dose levels relevant to the case. A patient with serious radiation-induced diarrhoea would generally be expected to show measurable effects on blood-forming tissues as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+Critics of the radiation interpretation have repeatedly pointed to the absence of convincing publicly documented blood-count evidence. Reviews of the medical record have argued that the expected haematological findings for severe radiation injury were not demonstrated. This objection carries particular weight because gastrointestinal radiation injury and bone marrow injury normally occur together at the dose levels relevant to the case. A patient with serious radiation-induced diarrhoea would generally be expected to show measurable effects on blood-forming tissues as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-Some later retellings claim dramatic reductions in white blood cells, but such statements often trace back to secondary or anecdotal accounts rather than clearly documented medical records. The evidential problem is therefore not merely disagreement about interpretation; it is the lack of publicly available laboratory evidence that would strongly support the radiation hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+Some later retellings claim dramatic reductions in white blood cells, but such statements often trace back to secondary or anecdotal accounts rather than clearly documented medical records. The evidential problem is therefore not merely disagreement about interpretation; it is the lack of publicly available laboratory evidence that would strongly support the radiation hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzoOTCOUMKA" title="SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer">SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |</a></p><p class="youtube-embed-meta">Channel: Amaze World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzoOTCOUMKA">Open on YouTube</a></p></div></div></div>
@@ -327,202 +327,202 @@ Some later retellings claim dramatic reductions in white blood cells, but such s
 
 The gastrointestinal complaints remain one of the more compelling aspects of the Cash–Landrum narrative because they fit popular expectations of radiation sickness. Yet they are also among the most medically ambiguous symptoms in the case.
 
-Radiation exposure can cause nausea, weakness and diarrhoea, especially after substantial doses. But these symptoms are nonspecific and gain diagnostic value only when accompanied by the broader syndrome expected from radiation injury. The reported illness therefore creates a paradox: if the symptoms were mild, they are not distinctive enough to identify radiation as the cause; if they were severe enough to imply genuine gastrointestinal radiation syndrome, then stronger corroborating findings would normally be expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[MSD Manuals+3PMC+3CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical management of the acute radiation syndrome</span><span class="citation-popover-snippet">by M López · 2011 · Cited by 206 — These early symptoms include anorexia, apathy, nausea, vomiting, diarrhea, fever, tachycardia and h...</span></span></span>
+Radiation exposure can cause nausea, weakness and diarrhoea, especially after substantial doses. But these symptoms are nonspecific and gain diagnostic value only when accompanied by the broader syndrome expected from radiation injury. The reported illness therefore creates a paradox: if the symptoms were mild, they are not distinctive enough to identify radiation as the cause; if they were severe enough to imply genuine gastrointestinal radiation syndrome, then stronger corroborating findings would normally be expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[MSD Manuals+3PMC+3CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedical management of the acute radiation syndrome</span><span class="citation-popover-snippet">by M López · 2011 · Cited by 206 — These early symptoms include anorexia, apathy, nausea, vomiting, diarrhea, fever, tachycardia and h...</span></span></span>
 
-For that reason, gastrointestinal illness in the Cash–Landrum case is best viewed as a clue rather than proof. It is part of the pattern that led some investigators to suspect radiation exposure, but by itself it does not resolve the case. The missing objective support—particularly the lack of clearly documented blood-count abnormalities consistent with major radiation injury—remains one of the strongest reasons many medical critics regard the radiation explanation as unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+For that reason, gastrointestinal illness in the Cash–Landrum case is best viewed as a clue rather than proof. It is part of the pattern that led some investigators to suspect radiation exposure, but by itself it does not resolve the case. The missing objective support—particularly the lack of clearly documented blood-count abnormalities consistent with major radiation injury—remains one of the strongest reasons many medical critics regard the radiation explanation as unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-3-dark.svg" | relative_url }}" alt="GI Symptoms illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Sickness Match Radiation Exposure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Sickness Match Radiation Exposure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
-        </h4>
-        <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
+</h4>
+<p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Ebola virus disease, Molecular virology, Primates as laboratory animals, Epidemias, Ebolavirus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Ebola virus disease, Molecular virology, Primates as laboratory animals, Epidemias, Ebolavirus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The radium girls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10667235-M.jpg" alt="Cover for The radium girls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The radium girls">The radium girls</a>
-        </h4>
-        <p class="fr-book-author">By Kate Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The radium girls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10667235-M.jpg" alt="Cover for The radium girls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The radium girls">The radium girls</a>
+</h4>
+<p class="fr-book-author">By Kate Moore</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: World War, 1914-1918, Diseases, Watch dial painters, Toxicology, War work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: World War, 1914-1918, Diseases, Watch dial painters, Toxicology, War work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation detection and measurement on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1251141-M.jpg" alt="Cover for Radiation detection and measurement" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation detection and measurement">Radiation detection and measurement</a>
-        </h4>
-        <p class="fr-book-author">By Glenn F. Knoll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation detection and measurement on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1251141-M.jpg" alt="Cover for Radiation detection and measurement" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation detection and measurement">Radiation detection and measurement</a>
+</h4>
+<p class="fr-book-author">By Glenn F. Knoll</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Radiation, Nuclear counters, Measurement, Radiation, measurement, Radiation--measurement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Radiation, Nuclear counters, Measurement, Radiation, measurement, Radiation--measurement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+radium+girls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The radium girls</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+radium+girls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The radium girls</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="gi-symptoms-did-the-sickness-match-radiation-exposure-cash-landrum-ufo-incident-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ For that reason, gastrointestinal illness in the Cash–Landrum case is best vie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ For that reason, gastrointestinal illness in the Cash–Landrum case is best vie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ For that reason, gastrointestinal illness in the Cash–Landrum case is best vie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ For that reason, gastrointestinal illness in the Cash–Landrum case is best vie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ For that reason, gastrointestinal illness in the Cash–Landrum case is best vie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,158 +728,158 @@ For that reason, gastrointestinal illness in the Cash–Landrum case is best vie
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for CliniciansApr 23, 2024 — Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRadiobiology of the acute radiation syndrome  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863296/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3863296/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MM i Garau · 2011 · Cited by 194 — Acute radiation syndrome or acute radiation sickness is classically subdivided into three...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863296/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3863296/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MM i Garau · 2011 · Cited by 194 — Acute radiation syndrome or acute radiation sickness is classically subdivided into three...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: stateoftheunknown.com  
-   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned...24 Mar 2026 — Betty Cash sought medical treatment soon after the encounter, and d...</p></details>
+   Link:<a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned...24 Mar 2026 — Betty Cash sought medical treatment soon after the encounter, and d...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome | Radiation EmergenciesApr 10, 2024 — Some symptoms of Acute Radiation Syndrome (ARS) include nausea, vomitin...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome | Radiation EmergenciesApr 10, 2024 — Some symptoms of Acute Radiation Syndrome (ARS) include nausea, vomitin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMedical management of the acute radiation syndrome  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M López · 2011 · Cited by 206 — These early symptoms include anorexia, apathy, nausea, vomiting, diarrhea, fever, tachycardia and h...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M López · 2011 · Cited by 206 — These early symptoms include anorexia, apathy, nausea, vomiting, diarrhea, fever, tachycardia and h...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12078527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12078527/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gastrointestinal acute radiation syndrome - PMC - NIHby ML Freeman · 2025 · Cited by 11 — In humans, GI-ARS occurs at radiation doses...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12078527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12078527/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gastrointestinal acute radiation syndrome - PMC - NIHby ML Freeman · 2025 · Cited by 11 — In humans, GI-ARS occurs at radiation doses...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41420-025-02525-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41420-025-02525-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gastrointestinal acute radiation syndrome: current...by ML Freeman · 2025 · Cited by 12 — Acute radiation gastrointestinal syndrome (GI...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41420-025-02525-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41420-025-02525-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gastrointestinal acute radiation syndrome: current...by ML Freeman · 2025 · Cited by 12 — Acute radiation gastrointestinal syndrome (GI...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1422-0067/25/13/6973" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1422-0067/25/13/6973</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cell Therapies for Acute Radiation Syndromeby BA Christy · 2024 · Cited by 13 — Bone marrow damage to precursor and stem cells blocks...</p></details>
+   Link:<a href="https://www.mdpi.com/1422-0067/25/13/6973" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1422-0067/25/13/6973</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cell Therapies for Acute Radiation Syndromeby BA Christy · 2024 · Cited by 13 — Bone marrow damage to precursor and stem cells blocks...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentHe found that Cash&#x27;s doctor&#x27;s notes attribute her hair loss to the autoimmune disease [alopecia areata](&amp;#123;&amp;#123; &#x27;alopecia-areata/&#x27; | relative_url &amp;#125;&amp;#125;), that her o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentHe found that Cash&#x27;s doctor&#x27;s notes attribute her hair loss to the autoimmune disease [alopecia areata](&amp;#123;&amp;#123; &#x27;alopecia-areata/&#x27; | relative_url &amp;#125;&amp;#125;), that her o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Acute radiation syndrome  
-   Link: <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute radiation syndromeSymptoms can start within an hour of exposure, and can last for several months.... Early symptoms are usually...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute radiation syndromeSymptoms can start within an hour of exposure, and can last for several months.... Early symptoms are usually...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: msdmanuals.com  
    Title: MSD Manuals Radiation Exposure and Contamination  
-   Link: <a href="https://www.msdmanuals.com/professional/injuries-poisoning/radiation-exposure-and-contamination/radiation-exposure-and-contamination" target="_blank" rel="noopener noreferrer nofollow">https://www.msdmanuals.com/professional/injuries-poisoning/radiation-exposure-and-contamination/radiation-exposure-and-contamination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cell death is followed by intractable nausea, vomiting, and diarrhea, which lead to severe...Read more...</p></details>
+   Link:<a href="https://www.msdmanuals.com/professional/injuries-poisoning/radiation-exposure-and-contamination/radiation-exposure-and-contamination" target="_blank" rel="noopener noreferrer nofollow">https://www.msdmanuals.com/professional/injuries-poisoning/radiation-exposure-and-contamination/radiation-exposure-and-contamination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cell death is followed by intractable nausea, vomiting, and diarrhea, which lead to severe...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations after Ionizing Radiation Exposure - PMCby L Bennardo · 2021 · Cited by 66 — This systematic review describes the various s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations after Ionizing Radiation Exposure - PMCby L Bennardo · 2021 · Cited by 66 — This systematic review describes the various s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: radiopaedia.org  
    Title: acute radiation syndrome  
-   Link: <a href="https://radiopaedia.org/articles/acute-radiation-syndrome?lang=gb" target="_blank" rel="noopener noreferrer nofollow">https://radiopaedia.org/articles/acute-radiation-syndrome?lang=gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiology Reference Article29 Sept 2018 — gastrointestinal symptoms (5-20 Gy): diarrhea, electrolyte and fluid disturbances, gastrointest...</p></details>
+   Link:<a href="https://radiopaedia.org/articles/acute-radiation-syndrome?lang=gb" target="_blank" rel="noopener noreferrer nofollow">https://radiopaedia.org/articles/acute-radiation-syndrome?lang=gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiology Reference Article29 Sept 2018 — gastrointestinal symptoms (5-20 Gy): diarrhea, electrolyte and fluid disturbances, gastrointest...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vejthani.com  
    Title: Radiation Sickness  
-   Link: <a href="https://www.vejthani.com/diseases-conditions/radiation-sickness/" target="_blank" rel="noopener noreferrer nofollow">https://www.vejthani.com/diseases-conditions/radiation-sickness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Causes, Symptoms, and PreventionLearn about radiation sickness or acute radiation syndrome (ARS) symptoms, including GI and cerebrovascul...</p></details>
+   Link:<a href="https://www.vejthani.com/diseases-conditions/radiation-sickness/" target="_blank" rel="noopener noreferrer nofollow">https://www.vejthani.com/diseases-conditions/radiation-sickness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causes, Symptoms, and PreventionLearn about radiation sickness or acute radiation syndrome (ARS) symptoms, including GI and cerebrovascul...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: restoredcdc.org  
    Title: acute radiation syndrome  
-   Link: <a href="https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These symptoms start within minutes to days after the exposure. They can last for minutes up to several days and may come and go.Read more...</p></details>
+   Link:<a href="https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These symptoms start within minutes to days after the exposure. They can last for minutes up to several days and may come and go.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unboundmedicine.com  
-   Link: <a href="https://www.unboundmedicine.com/5minute/view/5-Minute-Clinical-Consult/1688608/3.3/Radiation_Sickness" target="_blank" rel="noopener noreferrer nofollow">https://www.unboundmedicine.com/5minute/view/5-Minute-Clinical-Consult/1688608/3.3/Radiation_Sickness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Sickness | 5-Minute Clinical ConsultRadiation sickness, or acute radiation syndrome (ARS), is defined as an acute illness cause...</p></details>
+   Link:<a href="https://www.unboundmedicine.com/5minute/view/5-Minute-Clinical-Consult/1688608/3.3/Radiation_Sickness" target="_blank" rel="noopener noreferrer nofollow">https://www.unboundmedicine.com/5minute/view/5-Minute-Clinical-Consult/1688608/3.3/Radiation_Sickness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Sickness | 5-Minute Clinical ConsultRadiation sickness, or acute radiation syndrome (ARS), is defined as an acute illness cause...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: usz.ch  
-   Link: <a href="https://www.usz.ch/app/uploads/2021/06/Acute-Radiation-Syndrome-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usz.ch/app/uploads/2021/06/Acute-Radiation-Syndrome-final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation SyndromeSome of these symptoms are apathy, confusion, a decrease in the number of red and white blood cells and platelets...</p></details>
+   Link:<a href="https://www.usz.ch/app/uploads/2021/06/Acute-Radiation-Syndrome-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usz.ch/app/uploads/2021/06/Acute-Radiation-Syndrome-final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation SyndromeSome of these symptoms are apathy, confusion, a decrease in the number of red and white blood cells and platelets...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/199c3fo/the_haunting_light_of_texas_revisiting_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/199c3fo/the_haunting_light_of_texas_revisiting_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Cash-Landrum UFO EncounterAll three witnesses experienced a range of debilitating symptoms, including nausea, vomiting, ha...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/199c3fo/the_haunting_light_of_texas_revisiting_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/199c3fo/the_haunting_light_of_texas_revisiting_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Cash-Landrum UFO EncounterAll three witnesses experienced a range of debilitating symptoms, including nausea, vomiting, ha...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/acute" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/acute</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/acute" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/acute</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, weeping skin lesions, and dangerously plummeting white blood...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, weeping skin lesions, and dangerously plummeting white blood...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dia.mil  
    Title: Schuessler, "Cash-Landrum Radiation Case," MUFON UFO Jour. 165, p.Read more  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — malaise, diarrhea, loss of hair and alopecia, skin eruptions/boils...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — malaise, diarrhea, loss of hair and alopecia, skin eruptions/boils...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/811436468938998/posts/1778298425586126/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/811436468938998/posts/1778298425586126/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ting and diarrhea that can lead to severe dehydration...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/811436468938998/posts/1778298425586126/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/811436468938998/posts/1778298425586126/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ting and diarrhea that can lead to severe dehydration...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentShe seems to be suffering from radiation poisoning, the open sores, the skin burns, the ha...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentShe seems to be suffering from radiation poisoning, the open sores, the skin burns, the ha...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary with Carter...25 Mar 2026 — Betty Cash experienced a range of severe symptoms following a UFO encounter, including hair loss, bu...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary with Carter...25 Mar 2026 — Betty Cash experienced a range of severe symptoms following a UFO encounter, including hair loss, bu...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ucs.org  
    Title: health impacts radiation exposure  
-   Link: <a href="https://www.ucs.org/resources/health-impacts-radiation-exposure" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/resources/health-impacts-radiation-exposure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Union of Concerned ScientistsHealth Impacts of Radiation ExposureOct 4, 2024 — This is also commonly referred to as “radiation sickne...</p></details>
+   Link:<a href="https://www.ucs.org/resources/health-impacts-radiation-exposure" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/resources/health-impacts-radiation-exposure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Union of Concerned ScientistsHealth Impacts of Radiation ExposureOct 4, 2024 — This is also commonly referred to as “radiation sickne...</p></details>

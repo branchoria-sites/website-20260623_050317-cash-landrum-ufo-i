@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-army/
 description: Focused pages that expand on Army Inquiry.
-date: '2026-06-23'
+date: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f
 parent_title: Army Inquiry
@@ -16,7 +16,7 @@ parent_permalink: /army-inquiry/
 
 # Explore Topics in Army Inquiry
 
-The following pages expand on the main **[Army Inquiry]({{ '/army-inquiry/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Army Inquiry]({{ '/army-inquiry/' | relative_url }})** page and cover its key branches in.
 
 - [Other Sources]({{ '/other-sources/' | relative_url }})
 - [Blue Book Gap]({{ '/blue-book-gap/' | relative_url }})

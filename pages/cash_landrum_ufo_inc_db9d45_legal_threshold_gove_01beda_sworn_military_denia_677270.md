@@ -280,17 +280,17 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sw
 
 ## Introduction
 
-In the [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}), the most legally significant evidence was not evidence explaining the unidentified object. It was evidence denying government involvement. Judge Ross Sterling did not have to determine what Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum encountered in December 1980. Instead, he had to decide whether there was sufficient proof that the object or the accompanying helicopters belonged to, or were operated by, the United States government. Sworn statements and testimony from military and government officials became central because they directly addressed that question. When those declarations stated that no military branch knew of the craft and that investigators could not connect the reported helicopters to government operations, the plaintiffs' path to federal liability largely collapsed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+In the [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}), the most legally significant evidence was not evidence explaining the unidentified object. It was evidence denying government involvement. Judge Ross Sterling did not have to determine what Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum encountered in December 1980. Instead, he had to decide whether there was sufficient proof that the object or the accompanying helicopters belonged to, or were operated by, the United States government. Sworn statements and testimony from military and government officials became central because they directly addressed that question. When those declarations stated that no military branch knew of the craft and that investigators could not connect the reported helicopters to government operations, the plaintiffs' path to federal liability largely collapsed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-1-dark.svg" | relative_url }}" alt="Military Denials illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sworn Denials Carried Legal Weight
 
-The witnesses' theory of government responsibility depended heavily on the reported helicopters. [The object]({{ 'the-object/' | relative_url }}) itself was unidentified, but the presence of numerous tandem-rotor helicopters suggested to the plaintiffs that a military operation was involved. That inference was crucial because a lawsuit against the federal government required proof of federal ownership, control, or operation. Mere suspicion was not enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The witnesses' theory of government responsibility depended heavily on the reported helicopters. [The object]({{ 'the-object/' | relative_url }}) itself was unidentified, but the presence of numerous tandem-rotor helicopters suggested to the plaintiffs that a military operation was involved. That inference was crucial because a lawsuit against the federal government required proof of federal ownership, control, or operation. Mere suspicion was not enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Courts routinely give substantial weight to affidavits, declarations, and official testimony submitted by government agencies when deciding jurisdictional and liability questions. In the Cash–Landrum litigation, officials from the Army, Air Force, Navy, NASA, and other agencies provided evidence that no agency possessed the described craft and that investigators could not identify any military unit operating the helicopters alleged by the witnesses. According to multiple accounts of the case, Judge Sterling accepted that evidence as sufficient to defeat the claim that the United States was responsible for the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Courts routinely give substantial weight to affidavits, declarations, and official testimony submitted by government agencies when deciding jurisdictional and liability questions. In the Cash–Landrum litigation, officials from the Army, Air Force, Navy, NASA, and other agencies provided evidence that no agency possessed the described craft and that investigators could not identify any military unit operating the helicopters alleged by the witnesses. According to multiple accounts of the case, Judge Sterling accepted that evidence as sufficient to defeat the claim that the United States was responsible for the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The legal significance of these denials lay not in proving an alternative explanation but in negating a required element of the plaintiffs' case. If government ownership or operation could not be shown, the claim could not proceed regardless of how unusual the underlying event appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — $20 million lawsuit against the U.S. government, due to i...</span></span></span>
+The legal significance of these denials lay not in proving an alternative explanation but in negating a required element of the plaintiffs' case. If government ownership or operation could not be shown, the claim could not proceed regardless of how unusual the underlying event appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — $20 million lawsuit against the U.S. government, due to i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -299,11 +299,11 @@ The legal significance of these denials lay not in proving an alternative explan
 
 The denials addressed two distinct issues.
 
-First, military and government agencies denied possessing or operating a craft matching the witnesses' description. Accounts of the litigation note that officials testified that no known government programme, [aircraft]({{ 'aircraft/' | relative_url }}) inventory, or agency operation corresponded to the diamond-shaped object described by the plaintiffs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+First, military and government agencies denied possessing or operating a craft matching the witnesses' description. Accounts of the litigation note that officials testified that no known government programme, [aircraft]({{ 'aircraft/' | relative_url }}) inventory, or agency operation corresponded to the diamond-shaped object described by the plaintiffs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Second, investigators challenged the alleged military connection created by the helicopters. Witnesses reported seeing numerous helicopters, some identified as Chinook-type aircraft. However, military investigations failed to establish that the helicopters belonged to the United States armed forces. Lieutenant Colonel George Sarran's investigation for the Army Inspector General reportedly found no evidence linking the helicopters to military operations, despite concluding that the principal witnesses appeared sincere and credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Second, investigators challenged the alleged military connection created by the helicopters. Witnesses reported seeing numerous helicopters, some identified as Chinook-type aircraft. However, military investigations failed to establish that the helicopters belonged to the United States armed forces. Lieutenant Colonel George Sarran's investigation for the Army Inspector General reportedly found no evidence linking the helicopters to military operations, despite concluding that the principal witnesses appeared sincere and credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This distinction is important. The military was not necessarily asserting that nothing unusual occurred. Rather, it was asserting that available records and investigations did not connect the reported vehicles to military ownership or activity. From a legal perspective, that narrower denial was enough to challenge the basis of the lawsuit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This distinction is important. The military was not necessarily asserting that nothing unusual occurred. Rather, it was asserting that available records and investigations did not connect the reported vehicles to military ownership or activity. From a legal perspective, that narrower denial was enough to challenge the basis of the lawsuit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-2-dark.svg" | relative_url }}" alt="Military Denials illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,9 +311,9 @@ This distinction is important. The military was not necessarily asserting that n
 
 A common misunderstanding is that the government won because it provided a complete explanation of the event. The procedural reality was different.
 
-When a defendant seeks dismissal in a case involving federal liability, sworn declarations can be used to contest factual allegations that are necessary to establish jurisdiction or responsibility. If those declarations show that a key element lacks evidentiary support, the burden shifts back to the plaintiff to produce contrary evidence. Unsupported belief or inference is usually insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — $20 million lawsuit against the U.S. government, due to i...</span></span></span>
+When a defendant seeks dismissal in a case involving federal liability, sworn declarations can be used to contest factual allegations that are necessary to establish jurisdiction or responsibility. If those declarations show that a key element lacks evidentiary support, the burden shifts back to the plaintiff to produce contrary evidence. Unsupported belief or inference is usually insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-title">The Cash-Landrum Incident Podcast</span><span class="citation-popover-snippet">The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — $20 million lawsuit against the U.S. government, due to i...</span></span></span>
 
-In Cash–Landrum, the plaintiffs faced a difficult evidentiary problem. Even if witnesses genuinely observed helicopters, they still had to demonstrate that those helicopters were federal aircraft engaged in a federal operation. The government's declarations directly targeted that point. Once agencies stated under oath that they had no record of such operations and no knowledge of the alleged craft, the plaintiffs needed affirmative evidence overcoming those denials. The court ultimately concluded that they had not done so. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+In Cash–Landrum, the plaintiffs faced a difficult evidentiary problem. Even if witnesses genuinely observed helicopters, they still had to demonstrate that those helicopters were federal aircraft engaged in a federal operation. The government's declarations directly targeted that point. Once agencies stated under oath that they had no record of such operations and no knowledge of the alleged craft, the plaintiffs needed affirmative evidence overcoming those denials. The court ultimately concluded that they had not done so.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 The result illustrates a broader legal principle: a plaintiff's inability to identify the responsible government actor can be fatal to a claim, even when the underlying incident remains unresolved.
 
@@ -324,211 +324,211 @@ The result illustrates a broader legal principle: a plaintiff's inability to ide
 
 The military denials are sometimes interpreted as proof that the incident never occurred. That goes beyond what the court actually decided.
 
-Judge Sterling's dismissal did not establish what the object was, whether the witnesses were mistaken, or whether they experienced the medical problems they reported. Nor did it resolve debates about the helicopters. The ruling addressed a narrower question: whether the evidence connected the event to the United States government strongly enough to support liability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Judge Sterling's dismissal did not establish what the object was, whether the witnesses were mistaken, or whether they experienced the medical problems they reported. Nor did it resolve debates about the helicopters. The ruling addressed a narrower question: whether the evidence connected the event to the United States government strongly enough to support liability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This is why the case remains discussed in UFO literature despite its legal failure. The court's acceptance of military denials answered the attribution question for purposes of the lawsuit, but it did not produce a definitive account of the object itself. In practical terms, the government prevailed because it successfully denied responsibility, not because it conclusively explained the mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This is why the case remains discussed in UFO literature despite its legal failure. The court's acceptance of military denials answered the attribution question for purposes of the lawsuit, but it did not produce a definitive account of the object itself. In practical terms, the government prevailed because it successfully denied responsibility, not because it conclusively explained the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-3-dark.svg" | relative_url }}" alt="Military Denials illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Practical Effect on the Case
 
-The sworn denials transformed the litigation from a [debate]({{ 'debate/' | relative_url }}) about an extraordinary encounter into a dispute about proof. Once government agencies formally stated that they had no knowledge of the craft and no evidence linking the reported helicopters to federal operations, the burden rested on the plaintiffs to establish the missing connection. They could not do so to the court's satisfaction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The sworn denials transformed the litigation from a [debate]({{ 'debate/' | relative_url }}) about an extraordinary encounter into a dispute about proof. Once government agencies formally stated that they had no knowledge of the craft and no evidence linking the reported helicopters to federal operations, the burden rested on the plaintiffs to establish the missing connection. They could not do so to the court's satisfaction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-As a result, the lawsuit failed at the threshold issue identified by Judge Ross Sterling. The witnesses' account could remain unexplained, their reported injuries could remain contested, and public curiosity could continue for decades. None of those factors altered the decisive legal point: without proof that the object or helicopters were operated by the federal government, there was no viable claim against the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As a result, the lawsuit failed at the threshold issue identified by Judge Ross Sterling. The witnesses' account could remain unexplained, their reported injuries could remain contested, and public curiosity could continue for decades. None of those factors altered the decisive legal point: without proof that the object or helicopters were operated by the federal government, there was no viable claim against the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0r5par-v67w" title="The Cash-Landrum Incident: 23 Helicopters and a Deadly UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer">The Cash-Landrum Incident: 23 Helicopters and a Deadly UFO</a></p><p class="youtube-embed-meta">Channel: Declassified Skies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0r5par-v67w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sworn Denials Carried Legal Weight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sworn Denials Carried Legal Weight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A civil action on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14431514-M.jpg" alt="Cover for A civil action" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A civil action">A civil action</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Harr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A civil action on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14431514-M.jpg" alt="Cover for A civil action" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A civil action">A civil action</a>
+</h4>
+<p class="fr-book-author">By Jonathan Harr</p>
         
-        <p class="fr-book-desc">Demonstrates how courts evaluate competing evidence and expert testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how courts evaluate competing evidence and expert testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores secrecy, official statements, and public skepticism regarding military programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores secrecy, official statements, and public skepticism regarding military programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides insight into how military investigations and official explanations are developed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how military investigations and official explanations are developed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Discusses official investigations, denials, and government records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses official investigations, denials, and government records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+civil+action&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A civil action</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+civil+action&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A civil action</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35"><img src="{{ '/assets/images/marketplace-covers/9b45e560f09b87a1280b.jpg' | relative_url }}" alt="Listing image for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35"><img src="{{ '/assets/images/marketplace-covers/9b45e560f09b87a1280b.jpg' | relative_url }}" alt="Listing image for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jmbricklayer Military Helicopter Set, 1800-Piece Model For Collectors"><img src="{{ '/assets/images/marketplace-covers/4f41c9e54b05e8314348.jpg' | relative_url }}" alt="Listing image for Jmbricklayer Military Helicopter Set, 1800-Piece Model For Collectors" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Jmbricklayer Military Helicopter Set, 1800-Piece Model For Collectors</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jmbricklayer Military Helicopter Set, 1800-Piece Model For Collectors"><img src="{{ '/assets/images/marketplace-covers/4f41c9e54b05e8314348.jpg' | relative_url }}" alt="Listing image for Jmbricklayer Military Helicopter Set, 1800-Piece Model For Collectors" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Jmbricklayer Military Helicopter Set, 1800-Piece Model For Collectors</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto"><img src="{{ '/assets/images/marketplace-covers/821441e24e83f54eca2f.jpg' | relative_url }}" alt="Listing image for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto"><img src="{{ '/assets/images/marketplace-covers/821441e24e83f54eca2f.jpg' | relative_url }}" alt="Listing image for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell NH90 NFH Navy 1:72 Scale Helicopter Model Kit 03784"><img src="{{ '/assets/images/marketplace-covers/0f5d78bfbec2b329869c.jpg' | relative_url }}" alt="Listing image for Revell NH90 NFH Navy 1:72 Scale Helicopter Model Kit 03784" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Revell NH90 NFH Navy 1:72 Scale Helicopter Model Kit 03784</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell NH90 NFH Navy 1:72 Scale Helicopter Model Kit 03784"><img src="{{ '/assets/images/marketplace-covers/0f5d78bfbec2b329869c.jpg' | relative_url }}" alt="Listing image for Revell NH90 NFH Navy 1:72 Scale Helicopter Model Kit 03784" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Revell NH90 NFH Navy 1:72 Scale Helicopter Model Kit 03784</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="military-denials-why-sworn-denials-carried-legal-weight-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ As a result, the lawsuit failed at the threshold issue identified by Judge Ross 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ As a result, the lawsuit failed at the threshold issue identified by Judge Ross 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ As a result, the lawsuit failed at the threshold issue identified by Judge Ross 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ As a result, the lawsuit failed at the threshold issue identified by Judge Ross 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ As a result, the lawsuit failed at the threshold issue identified by Judge Ross 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,87 +734,87 @@ As a result, the lawsuit failed at the threshold issue identified by Judge Ross 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: conspiracy of silence and the ufo problem 1stnbsped  
-   Link: <a href="https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He considered... The Cash/Landrum incident was centred about ten miles (16 kilometres) north...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He considered... The Cash/Landrum incident was centred about ten miles (16 kilometres) north...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — $20 million lawsuit against the U.S. government, due to i...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — $20 million lawsuit against the U.S. government, due to i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentDespite pursuing legal avenues and documenting the incident, official agencies have denied any knowledge of the...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentDespite pursuing legal avenues and documenting the incident, official agencies have denied any knowledge of the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesThey sued the U.S. government, alleging a secret craft, but lost in 1986 due to lack of evidence. T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesThey sued the U.S. government, alleging a secret craft, but lost in 1986 due to lack of evidence. T...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — The U.S. government denied any involvement, but the witnesses were con...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — The U.S. government denied any involvement, but the witnesses were con...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/35/Federal_Register_1965-02-20-_Vol_30_Iss_35_%28IA_sim_federal-register-find_1965-02-20_30_35%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/35/Federal_Register_1965-02-20-_Vol_30_Iss_35_%28IA_sim_federal-register-find_1965-02-20_30_35%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Register 1965-02-20: Vol 30 Iss 35Proof in the form of affidavits or sworn statements that the hardship or dependency has ended...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/35/Federal_Register_1965-02-20-_Vol_30_Iss_35_%28IA_sim_federal-register-find_1965-02-20_30_35%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/35/Federal_Register_1965-02-20-_Vol_30_Iss_35_%28IA_sim_federal-register-find_1965-02-20_30_35%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Register 1965-02-20: Vol 30 Iss 35Proof in the form of affidavits or sworn statements that the hardship or dependency has ended...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military—the Army, Marines, and Air Force—issued statements denying any CH-47 helicopters were airborne in Texas on the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military—the Army, Marines, and Air Force—issued statements denying any CH-47 helicopters were airborne in Texas on the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialCash-Landrum CE2 • Air Force-concocted term &quot;unidentified fly¬ ing objects&quot; It conducted l...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialCash-Landrum CE2 • Air Force-concocted term &quot;unidentified fly¬ ing objects&quot; It conducted l...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — The US Air Force allegedly used disinformation against a UFO buff in the pas...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — The US Air Force allegedly used disinformation against a UFO buff in the pas...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y unit admitted operating helicopters in the area that night No...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y unit admitted operating helicopters in the area that night No...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: armed-services.senate.gov  
-   Link: <a href="https://www.armed-services.senate.gov/imo/media/doc/13-07%20-%203-5-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/imo/media/doc/13-07%20-%203-5-13.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to receive testimony on us5 Mar 2013 — This goes back over the last year, even in the aftermath of the Salala incident where we accidenta...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/imo/media/doc/13-07%20-%203-5-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/imo/media/doc/13-07%20-%203-5-13.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to receive testimony on us5 Mar 2013 — This goes back over the last year, even in the aftermath of the Salala incident where we accidenta...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident: 23 Helicopters and a Deadly UFO  
-   Link: <a href="https://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0r5par-v67w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum incident lawsuit military denials The Lawsuit That Never Landed: The Cash-Landrum Encounter Down the Crooked Path...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0r5par-v67w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum incident lawsuit military denials The Lawsuit That Never Landed: The Cash-Landrum Encounter Down the Crooked Path...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: podcasts.happyscribe.com  
    Title: alien the cash landrum incident  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find any evidence those helicopters Betty...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find any evidence those helicopters Betty...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Cash–Landrum incident: The UFO That Left Burns  
-   Link: <a href="https://www.youtube.com/watch?v=r6w_gEdNcvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r6w_gEdNcvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r6w_gEdNcvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r6w_gEdNcvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>

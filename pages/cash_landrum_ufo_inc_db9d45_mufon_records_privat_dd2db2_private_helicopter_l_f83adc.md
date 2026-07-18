@@ -280,25 +280,25 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_pr
 
 ## Introduction
 
-[The helicopter reports]({{ 'the-helicopter-reports/' | relative_url }}) in the Cash–Landrum case were supposed to provide the clearest route to an answer. If dozens of military helicopters really accompanied the object seen by Betty Cash, Vickie Landrum and Colby Landrum, then investigators could potentially identify the units involved, trace flight operations and establish government responsibility. Instead, the helicopter trail became the most frustrating part of the private investigation. Witnesses consistently described large numbers of helicopters, private investigators collected additional reports from other people in East Texas, and yet neither MUFON investigators nor later government inquiries could conclusively tie those aircraft to any military organisation. The result was a paradox: the helicopter evidence was the strongest reason to suspect a military connection and the strongest reason to question why no official record could be found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+[The helicopter reports]({{ 'the-helicopter-reports/' | relative_url }}) in the Cash–Landrum case were supposed to provide the clearest route to an answer. If dozens of military helicopters really accompanied the object seen by Betty Cash, Vickie Landrum and Colby Landrum, then investigators could potentially identify the units involved, trace flight operations and establish government responsibility. Instead, the helicopter trail became the most frustrating part of the private investigation. Witnesses consistently described large numbers of helicopters, private investigators collected additional reports from other people in East Texas, and yet neither MUFON investigators nor later government inquiries could conclusively tie those aircraft to any military organisation. The result was a paradox: the helicopter evidence was the strongest reason to suspect a military connection and the strongest reason to question why no official record could be found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-1-dark.svg" | relative_url }}" alt="Helicopter Leads illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Helicopter Leads Became the Hardest Clue
 
-From the earliest accounts, the helicopters were not a minor detail. Cash and the Landrums reported that after the fiery object rose above the roadway, numerous helicopters appeared around it. The witnesses later estimated roughly twenty-three aircraft and believed some resembled military tandem-rotor Boeing CH-47 Chinook helicopters. According to their accounts, the helicopters seemed to accompany, surround or escort the object rather than merely pass through the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+From the earliest accounts, the helicopters were not a minor detail. Cash and the Landrums reported that after the fiery object rose above the roadway, numerous helicopters appeared around it. The witnesses later estimated roughly twenty-three aircraft and believed some resembled military tandem-rotor Boeing CH-47 Chinook helicopters. According to their accounts, the helicopters seemed to accompany, surround or escort the object rather than merely pass through the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 For private investigators, this transformed the case. A strange light in the sky might be impossible to identify, but helicopters are physical machines belonging to specific operators. John F. Schuessler and other UFO researchers therefore treated helicopter identification as a practical investigative path rather than a speculative exercise. The question became straightforward: if military helicopters were present, who flew them and from where?
 
-That approach distinguished the Cash–Landrum investigation from many UFO cases. Instead of focusing solely on witness descriptions of the object, investigators pursued conventional aviation leads in the hope that the helicopter component could be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+That approach distinguished the Cash–Landrum investigation from many UFO cases. Instead of focusing solely on witness descriptions of the object, investigators pursued conventional aviation leads in the hope that the helicopter component could be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 ## How Investigators Collected Helicopter Reports
 
-Private investigators attempted to build a broader map of helicopter activity by looking beyond the three principal witnesses. They searched for people who had seen unusual aircraft movements in East Texas around the same time and collected statements from individuals who reported helicopters in the region on the night of the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Private investigators attempted to build a broader map of helicopter activity by looking beyond the three principal witnesses. They searched for people who had seen unusual aircraft movements in East Texas around the same time and collected statements from individuals who reported helicopters in the region on the night of the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-One of the most frequently cited supporting accounts came from Dayton police officer Lamar Walker and his wife, Marie. Interviewed later by UFO investigators, they reported seeing a group of [Chinook-type]({{ 'chinook-type/' | relative_url }}) helicopters in the area that same evening. Importantly, they did not report seeing the UFO itself, but they did describe multiple helicopters and unusual lighting associated with one or more of the aircraft. Their account became significant because it appeared to provide an independent observation of the helicopter component without relying on the testimony of Cash or the Landrums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+One of the most frequently cited supporting accounts came from Dayton police officer Lamar Walker and his wife, Marie. Interviewed later by UFO investigators, they reported seeing a group of [Chinook-type]({{ 'chinook-type/' | relative_url }}) helicopters in the area that same evening. Importantly, they did not report seeing the UFO itself, but they did describe multiple helicopters and unusual lighting associated with one or more of the aircraft. Their account became significant because it appeared to provide an independent observation of the helicopter component without relying on the testimony of Cash or the Landrums.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Investigators also followed numerous smaller leads, reports from local residents, inquiries to military installations and attempts to identify flight operations that might explain the sightings. Schuessler's original case materials included dedicated helicopter-investigation work, showing that this issue was treated as a separate evidential track rather than merely an appendix to the UFO report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Investigators also followed numerous smaller leads, reports from local residents, inquiries to military installations and attempts to identify flight operations that might explain the sightings. Schuessler's original case materials included dedicated helicopter-investigation work, showing that this issue was treated as a separate evidential track rather than merely an appendix to the UFO report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 The logic was cumulative. A single witness might misidentify an aircraft, but multiple reports from different locations could suggest a real and unusual concentration of helicopters moving through the area.
 
@@ -307,11 +307,11 @@ The logic was cumulative. A single witness might misidentify an aircraft, but mu
 
 ## Why Military-Source Claims Depended on the Helicopters
 
-The military-source theory rested heavily on the helicopters because the object itself offered no obvious institutional link. Witnesses could not identify the luminous object, but they believed they recognised the helicopters as military aircraft. If that identification was correct, then at least part of the event involved known government equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The military-source theory rested heavily on the helicopters because the object itself offered no obvious institutional link. Witnesses could not identify the luminous object, but they believed they recognised the helicopters as military aircraft. If that identification was correct, then at least part of the event involved known government equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This assumption shaped both private investigations and later legal action. Cash and Landrum eventually pursued a lawsuit against the United States government, arguing that government-operated aircraft were involved in the incident. The presence of helicopters was central to that argument because a fleet of military aircraft would imply command structures, [flight logs]({{ 'flight-logs/' | relative_url }}), maintenance records and accountable personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This assumption shaped both private investigations and later legal action. Cash and Landrum eventually pursued a lawsuit against the United States government, arguing that government-operated aircraft were involved in the incident. The presence of helicopters was central to that argument because a fleet of military aircraft would imply command structures, [flight logs]({{ 'flight-logs/' | relative_url }}), maintenance records and accountable personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The difficulty was scale. Witnesses described not one or two helicopters but a large formation. Private investigators reasoned that such an operation should have left traces. A mission involving many helicopters, especially heavy-lift aircraft such as Chinooks, would normally require planning, fuel, crews and support infrastructure. The larger the reported formation became, the more investigators expected documentation to exist somewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The difficulty was scale. Witnesses described not one or two helicopters but a large formation. Private investigators reasoned that such an operation should have left traces. A mission involving many helicopters, especially heavy-lift aircraft such as Chinooks, would normally require planning, fuel, crews and support infrastructure. The larger the reported formation became, the more investigators expected documentation to exist somewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 Ironically, this same reasoning created a problem. A formation large enough to support the military hypothesis was also large enough that its complete absence from discoverable records became increasingly difficult to explain.
 
@@ -319,13 +319,13 @@ Ironically, this same reasoning created a problem. A formation large enough to s
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-2-dark.svg" | relative_url }}" alt="Helicopter Leads illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Search for Records and the Government Response
 
-As the case grew, investigators and government agencies attempted to determine whether any branch of the armed forces had operated the reported helicopters. The witnesses, private researchers and later attorneys all pursued variations of the same question. Military installations, federal agencies and aviation authorities were contacted in an effort to identify matching operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As the case grew, investigators and government agencies attempted to determine whether any branch of the armed forces had operated the reported helicopters. The witnesses, private researchers and later attorneys all pursued variations of the same question. Military installations, federal agencies and aviation authorities were contacted in an effort to identify matching operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The most significant official inquiry came through Army Inspector General channels. Lieutenant Colonel George [Sarran]({{ 'sarran/' | relative_url }}) conducted an extensive investigation into the helicopter claims. Despite interviewing witnesses and reviewing available information, he reported that no evidence could be found showing that the helicopters belonged to the U.S. Armed Forces. At the same time, he reportedly considered several witnesses credible and did not conclude that they were deliberately fabricating their accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The most significant official inquiry came through Army Inspector General channels. Lieutenant Colonel George [Sarran]({{ 'sarran/' | relative_url }}) conducted an extensive investigation into the helicopter claims. Despite interviewing witnesses and reviewing available information, he reported that no evidence could be found showing that the helicopters belonged to the U.S. Armed Forces. At the same time, he reportedly considered several witnesses credible and did not conclude that they were deliberately fabricating their accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This finding became one of the case's most enduring tensions. The investigation did not validate the military-source theory, but neither did it simply dismiss the witnesses as dishonest. Instead, it left a gap between credible testimony and the absence of corroborating military documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This finding became one of the case's most enduring tensions. The investigation did not validate the military-source theory, but neither did it simply dismiss the witnesses as dishonest. Instead, it left a gap between credible testimony and the absence of corroborating military documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The same issue later appeared in court. Government testimony and records searches failed to establish that military personnel operated the helicopters described by the witnesses. The federal lawsuit ultimately failed in part because the plaintiffs could not prove government responsibility for the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The same issue later appeared in court. Government testimony and records searches failed to establish that military personnel operated the helicopters described by the witnesses. The federal lawsuit ultimately failed in part because the plaintiffs could not prove government responsibility for the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -343,13 +343,13 @@ Several critical questions remained unanswered:
 * No military unit has been conclusively identified as operating the reported aircraft.
 * No pilot or crew member has been verified as participating in such an operation.
 * Independent helicopter reports existed, but they did not establish a direct connection to the reported object.
-* The number of helicopters reported by witnesses varied across accounts and remained difficult to confirm independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+* The number of helicopters reported by witnesses varied across accounts and remained difficult to confirm independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 </div>
 
-Private investigators also encountered a recurring problem common in long-running UFO cases: every new lead generated additional questions. Reports that seemed to support helicopter activity did not necessarily support the larger claim that helicopters escorted a mysterious craft. Conversely, official denials did not explain why multiple people reported unusual helicopter movements in the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Private investigators also encountered a recurring problem common in long-running UFO cases: every new lead generated additional questions. Reports that seemed to support helicopter activity did not necessarily support the larger claim that helicopters escorted a mysterious craft. Conversely, official denials did not explain why multiple people reported unusual helicopter movements in the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-As years passed, researchers split into different interpretations. Some argued that the missing records suggested a classified operation. Others concluded that witness perception, memory, aircraft misidentification or later embellishment could account for at least part of the helicopter story. Skeptical investigators pointed out that extraordinary claims involving large military formations should normally produce a stronger documentary footprint than the Cash–Landrum case has yielded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As years passed, researchers split into different interpretations. Some argued that the missing records suggested a classified operation. Others concluded that witness perception, memory, aircraft misidentification or later embellishment could account for at least part of the helicopter story. Skeptical investigators pointed out that extraordinary claims involving large military formations should normally produce a stronger documentary footprint than the Cash–Landrum case has yielded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-3-dark.svg" | relative_url }}" alt="Helicopter Leads illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,201 +357,201 @@ As years passed, researchers split into different interpretations. Some argued t
 
 Among all the disputed elements of the Cash–Landrum incident, the helicopters remain uniquely important because they represent the point where an alleged UFO encounter intersects with ordinary, traceable aviation activity. The object itself may be impossible to identify, but helicopters should belong to someone.
 
-That is why the helicopter trail continues to occupy a central place in discussions of the case. Private investigators gathered enough testimony to keep the military-source question alive, yet not enough evidence to answer it. The resulting contradiction has endured for decades: the helicopters are the feature that most strongly suggests a conventional explanation involving identifiable operators, and at the same time the feature that investigators were never able to verify through records, units or personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+That is why the helicopter trail continues to occupy a central place in discussions of the case. Private investigators gathered enough testimony to keep the military-source question alive, yet not enough evidence to answer it. The resulting contradiction has endured for decades: the helicopters are the feature that most strongly suggests a conventional explanation involving identifiable operators, and at the same time the feature that investigators were never able to verify through records, units or personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/izTljlO2Css" title="Rare interview with researcher John F. Schuessler on the 1980 Cash-Landrum UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=izTljlO2Css" target="_blank" rel="noopener noreferrer">Rare interview with researcher John F. Schuessler on the 1980 Cash-Landrum UFO incident</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=izTljlO2Css" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=izTljlO2Css">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Helicopter Leads Became the Hardest Clue. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Helicopter Leads Became the Hardest Clue. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witness testimony, military involvement claims, and investigation of unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witness testimony, military involvement claims, and investigation of unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines UFO case evidence, witness reports, and the challenges of official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO case evidence, witness reports, and the challenges of official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating sightings, testimony, and investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating sightings, testimony, and investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Good</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
+</h4>
+<p class="fr-book-author">By Timothy Good</p>
         
-        <p class="fr-book-desc">Explores allegations of official knowledge, military connections, and difficult-to-verify evidence trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores allegations of official knowledge, military connections, and difficult-to-verify evidence trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5"><img src="{{ '/assets/images/marketplace-covers/5097baa53345921f27cc.jpg' | relative_url }}" alt="Listing image for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5"><img src="{{ '/assets/images/marketplace-covers/5097baa53345921f27cc.jpg' | relative_url }}" alt="Listing image for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Westland Helicopters EH101 Commemorative Framed Picture"><img src="{{ '/assets/images/marketplace-covers/99ad88c98b540e894382.jpg' | relative_url }}" alt="Listing image for Westland Helicopters EH101 Commemorative Framed Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">Westland Helicopters EH101 Commemorative Framed Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Westland Helicopters EH101 Commemorative Framed Picture"><img src="{{ '/assets/images/marketplace-covers/99ad88c98b540e894382.jpg' | relative_url }}" alt="Listing image for Westland Helicopters EH101 Commemorative Framed Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">Westland Helicopters EH101 Commemorative Framed Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mahogany Desk Model Helicopter"><img src="{{ '/assets/images/marketplace-covers/f0e90c1d5298aaa4c190.jpg' | relative_url }}" alt="Listing image for Mahogany Desk Model Helicopter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">Mahogany Desk Model Helicopter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mahogany Desk Model Helicopter"><img src="{{ '/assets/images/marketplace-covers/f0e90c1d5298aaa4c190.jpg' | relative_url }}" alt="Listing image for Mahogany Desk Model Helicopter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">Mahogany Desk Model Helicopter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD"><img src="{{ '/assets/images/marketplace-covers/0b43e6d44854a9655ec3.jpg' | relative_url }}" alt="Listing image for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD"><img src="{{ '/assets/images/marketplace-covers/0b43e6d44854a9655ec3.jpg' | relative_url }}" alt="Listing image for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="helicopter-leads-when-helicopter-leads-became-the-hardest-clue-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ That is why the helicopter trail continues to occupy a central place in discussi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ That is why the helicopter trail continues to occupy a central place in discussi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ That is why the helicopter trail continues to occupy a central place in discussi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ That is why the helicopter trail continues to occupy a central place in discussi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ That is why the helicopter trail continues to occupy a central place in discussi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,69 +757,69 @@ That is why the helicopter trail continues to occupy a central place in discussi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesOn Dec. 29, 1980, been black “military choppers” that appear in association with UAP&#x27;s. morph into...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesOn Dec. 29, 1980, been black “military choppers” that appear in association with UAP&#x27;s. morph into...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
    Published: December 29, 1980  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d-shaped UFO surrounded by military helicopters near Dayton...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d-shaped UFO surrounded by military helicopters near Dayton...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=izTljlO2Css" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=izTljlO2Css</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=izTljlO2Css" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=izTljlO2Css</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extremely Strange - The UFO Incident That Left Witnesses Burned: The Cash–Landrum Case...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extremely Strange - The UFO Incident That Left Witnesses Burned: The Cash–Landrum Case...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>✔ Physical injuries ✔ Corroborating helicopter activity ✔...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>✔ Physical injuries ✔ Corroborating helicopter activity ✔...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Cash–Landrum UFO Incident (3 Texans Suffered Radiation Burns)  
-   Link: <a href="https://www.youtube.com/watch?v=MXfqHk6Yur8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MXfqHk6Yur8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum UFO incident helicopters military The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MXfqHk6Yur8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MXfqHk6Yur8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash Landrum UFO incident helicopters military The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to gain and some lost their lives.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to gain and some lost their lives.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Attack | Dark Mysteries21 Nov 2025 —... UFO hovering over a Texas road, spewing [flames](&amp;#123;&amp;#123; &#x27;flames/&#x27; | relative_url &amp;#125;&amp;#125;) and intense heat. Surrounded by...</p></details>
+   Link:<a href="https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Attack | Dark Mysteries21 Nov 2025 —... UFO hovering over a Texas road, spewing [flames](&amp;#123;&amp;#123; &#x27;flames/&#x27; | relative_url &amp;#125;&amp;#125;) and intense heat. Surrounded by...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ysMrONm-vl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ysMrONm-vl4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ar Lindeman Island in the Whitsundays in July 2023 has heard...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ysMrONm-vl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ysMrONm-vl4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ar Lindeman Island in the Whitsundays in July 2023 has heard...</p></details>
    Published: July 2023  

@@ -448,7 +448,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-ov
 
 ## Introduction
 
-The location problem in the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) is not a minor map detail. The core claim places Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum on a rural road near Dayton, Texas, on 29 December 1980, but the most important point on that road — where the object allegedly hovered low enough to heat the car, trees, road surface, and witnesses — was never firmly established. The usual shorthand says the encounter happened on Farm-to-Market Road 1485 between New Caney and Huffman, while later summaries often narrow it to a stretch near Inland Road. Yet key records also show uncertainty, failed map identification, and a later dispute over whether investigators ever had a reliable scene to test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The location problem in the [Cash-Landrum UFO incident]({{ 'cash-landrum-ufo-incident/' | relative_url }}) is not a minor map detail. The core claim places Betty Cash, [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum on a rural road near Dayton, Texas, on 29 December 1980, but the most important point on that road — where the object allegedly hovered low enough to heat the car, trees, road surface, and witnesses — was never firmly established. The usual shorthand says the encounter happened on Farm-to-Market Road 1485 between New Caney and Huffman, while later summaries often narrow it to a stretch near Inland Road. Yet key records also show uncertainty, failed map identification, and a later dispute over whether investigators ever had a reliable scene to test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-overview.webp" | relative_url }}" alt="Overview image for Location" loading="eager" decoding="sync" fetchpriority="high">
@@ -456,13 +456,13 @@ That matters because the Cash-Landrum case depends heavily on physical claims: h
 
 ## The Reported Route Towards Dayton
 
-The most direct witness-route statement comes from the 17 August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview. Betty Cash said the incident happened on “Farm Market Road 1485 between New Caney and Huffman” at roughly 9:00 to 9:30 p.m. on 29 December 1980. She then described the evening as a failed bingo outing: the group went to Cleveland, found no game, went to New Caney, again found no bingo, stopped at a truck-stop restaurant near US 59 and FM 1485, and then started home. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The most direct witness-route statement comes from the 17 August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview. Betty Cash said the incident happened on “Farm Market Road 1485 between New Caney and Huffman” at roughly 9:00 to 9:30 p.m. on 29 December 1980. She then described the evening as a failed bingo outing: the group went to Cleveland, found no game, went to New Caney, again found no bingo, stopped at a truck-stop restaurant near US 59 and FM 1485, and then started home.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-That route matters because Dayton lies east of the New Caney/Huffman area, while the reported encounter is usually framed as occurring on the way home. The witnesses were not describing a sighting in Dayton itself, but a drive through a rural corridor in the larger north-east Houston region. Popular retellings sometimes compress this into “near Dayton”, which is understandable as a home-base label but less useful for investigation. The route statement points investigators towards FM 1485, New Caney, Huffman, the transition towards FM 2100, and onward roads that could connect back towards Dayton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+That route matters because Dayton lies east of the New Caney/Huffman area, while the reported encounter is usually framed as occurring on the way home. The witnesses were not describing a sighting in Dayton itself, but a drive through a rural corridor in the larger north-east Houston region. Popular retellings sometimes compress this into “near Dayton”, which is understandable as a home-base label but less useful for investigation. The route statement points investigators towards FM 1485, New Caney, Huffman, the transition towards FM 2100, and onward roads that could connect back towards Dayton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-The road context also fits part of the witness description. Cash described a country road with tall pine trees and said the object came down near treetop level over the road. She added that she believed they had driven about twelve miles after leaving the restaurant before spotting the object. In the same interview, she said the object was “over the road” and that the surrounding pines were “very brown” afterwards, though the evidential value of this claim depends on whether the exact spot can be found and documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The road context also fits part of the witness description. Cash described a country road with tall pine trees and said the object came down near treetop level over the road. She added that she believed they had driven about twelve miles after leaving the restaurant before spotting the object. In the same interview, she said the object was “over the road” and that the surrounding pines were “very brown” afterwards, though the evidential value of this claim depends on whether the exact spot can be found and documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-Modern road information gives a useful caution about retrofitting today’s map onto a 1980 account. TxDOT describes FM 1485 in Montgomery County as a north-south corridor that has changed with growth, traffic pressure, and planned widening; one current project notes sections of FM 1485 that remain or recently remained two-lane roadway, while another describes proposed widening from a two-lane undivided road to a four-lane divided road. That does not prove what the road looked like at the exact alleged encounter site in 1980, but it shows why a present-day drive-through is not the same as reconstructing the road as the witnesses experienced it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.txdot.gov/projects/projects-studies/houston/fm1485-access-management-study.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txdot.gov">[Texas Department of Transportation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txdot.gov</span><span class="citation-popover-title">fm1485 access management study</span><span class="citation-popover-snippet">Texas Department of TransportationFM 1485 access management study...</span></span></span>
+Modern road information gives a useful caution about retrofitting today’s map onto a 1980 account. TxDOT describes FM 1485 in Montgomery County as a north-south corridor that has changed with growth, traffic pressure, and planned widening; one current project notes sections of FM 1485 that remain or recently remained two-lane roadway, while another describes proposed widening from a two-lane undivided road to a four-lane divided road. That does not prove what the road looked like at the exact alleged encounter site in 1980, but it shows why a present-day drive-through is not the same as reconstructing the road as the witnesses experienced it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.txdot.gov/projects/projects-studies/houston/fm1485-access-management-study.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txdot.gov">[Texas Department of Transportation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txdot.gov</span><span class="citation-popover-title">fm1485 access management study</span><span class="citation-popover-snippet">Texas Department of TransportationFM 1485 access management study...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-1-dark.svg" | relative_url }}" alt="Location illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -473,9 +473,9 @@ The Cash-Landrum case is often treated as stronger than a typical UFO story beca
 A precise location would affect at least five kinds of evidence:
 
 * **Road-surface claims.** Some versions of the case say the object left visible marks or heat effects on the road. Those claims require a known patch of pavement, photographs, dates, and ideally samples.
-* **Tree and vegetation claims.** Cash referred to browned pine trees, but a general wooded corridor cannot be treated as evidence. Investigators would need the same trees, photographed and inspected soon after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
-* **[Radiation]({{ 'radiation/' | relative_url }}) or contamination testing.** The Texas Department of Health’s Bureau of Radiation Control later became involved, and its work is only as strong as the ability to inspect the relevant area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
-* **Witness correlation.** Other people reportedly saw lights or helicopters, but “near the same area” has limited value unless their positions can be plotted against a specific route and time window. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+* **Tree and vegetation claims.** Cash referred to browned pine trees, but a general wooded corridor cannot be treated as evidence. Investigators would need the same trees, photographed and inspected soon after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+* **[Radiation]({{ 'radiation/' | relative_url }}) or contamination testing.** The Texas Department of Health’s Bureau of Radiation Control later became involved, and its work is only as strong as the ability to inspect the relevant area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
+* **Witness correlation.** Other people reportedly saw lights or helicopters, but “near the same area” has limited value unless their positions can be plotted against a specific route and time window.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
 * **Alternative explanations.** A road-aligned light, aircraft approach, traffic, power infrastructure, or astronomical explanation can be tested only against a clear orientation and stopping point.
 
 This is why the dispute is more damaging than it may first appear. In a case built around exposure, heat and traces, the scene is not background scenery. It is the laboratory.
@@ -485,50 +485,50 @@ This is why the dispute is more damaging than it may first appear. In a case bui
 
 ## The Map Problem in the Bergstrom Interview
 
-The Bergstrom transcript is important because it catches the witnesses before later media retellings had fully hardened the geography. When Air Force personnel placed a Texas map in front of Cash and asked her to locate the area, the transcript says there was a pause and a break in recording while she tried to find it. After the break, Captain John Camp stated that, because of the map’s lack of detail, Cash had been unable to find the location. The group then discussed nearby towns and counties, with some confusion over Liberty County, Montgomery County, and Dayton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The Bergstrom transcript is important because it catches the witnesses before later media retellings had fully hardened the geography. When Air Force personnel placed a Texas map in front of Cash and asked her to locate the area, the transcript says there was a pause and a break in recording while she tried to find it. After the break, Captain John Camp stated that, because of the map’s lack of detail, Cash had been unable to find the location. The group then discussed nearby towns and counties, with some confusion over Liberty County, Montgomery County, and Dayton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-That exchange does not prove the witnesses were inventing the route. A broad state map may have been a poor tool for locating a rural spot on FM 1485, especially if the witness was unwell or visually impaired. Cash even mentioned that her eyesight had worsened and that she had gone through several pairs of glasses since the event. But the exchange does show a limit: eight months after the incident, in a formal claims setting, the location had not been cleanly pinned down from the map in front of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+That exchange does not prove the witnesses were inventing the route. A broad state map may have been a poor tool for locating a rural spot on FM 1485, especially if the witness was unwell or visually impaired. Cash even mentioned that her eyesight had worsened and that she had gone through several pairs of glasses since the event. But the exchange does show a limit: eight months after the incident, in a formal claims setting, the location had not been cleanly pinned down from the map in front of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-The CUFON transcript introduction adds a further wrinkle. It notes that a later *Unsolved Mysteries* recreation showed a map with a pin already marking the incident location, but the tape transcript does not support that presentation; the pin is not mentioned when Betty and Vickie are asked to locate the site. This is a useful example of how television reconstructions can make an uncertain investigative step look neater than it was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The CUFON transcript introduction adds a further wrinkle. It notes that a later *Unsolved Mysteries* recreation showed a map with a pin already marking the incident location, but the tape transcript does not support that presentation; the pin is not mentioned when Betty and Vickie are asked to locate the site. This is a useful example of how television reconstructions can make an uncertain investigative step look neater than it was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
 ## The “Precise Location” Claim Versus the TDH Record
 
-The sharpest location dispute comes from the difference between John Schuessler’s later confidence and the Texas Department of Health material discussed by researcher Curt Collins and then Robert Sheaffer. Schuessler, the main civilian UFO investigator in the case, was later quoted as saying that Betty and Vickie independently took investigators to nearly the same location, verifying the incident site. In television accounts, he also spoke of a spot on the road heated to an extreme level and of marks that showed where the craft had been. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
+The sharpest location dispute comes from the difference between John Schuessler’s later confidence and the Texas Department of Health material discussed by researcher Curt Collins and then Robert Sheaffer. Schuessler, the main civilian UFO investigator in the case, was later quoted as saying that Betty and Vickie independently took investigators to nearly the same location, verifying the incident site. In television accounts, he also spoke of a spot on the road heated to an extreme level and of marks that showed where the craft had been.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
 
-The TDH-related account points in the opposite direction. Collins reports that Charles Russ Meyer of the Texas Department of Health asked Schuessler whether he had pinpointed the sighting location. According to Meyer’s report, Schuessler said that because of the late hour and the women’s emotional state, they could only say they believed they saw the object on a straight portion of FM 1485 between a beer joint and some kind of highway warning sign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
+The TDH-related account points in the opposite direction. Collins reports that Charles Russ Meyer of the Texas Department of Health asked Schuessler whether he had pinpointed the sighting location. According to Meyer’s report, Schuessler said that because of the late hour and the women’s emotional state, they could only say they believed they saw the object on a straight portion of FM 1485 between a beer joint and some kind of highway warning sign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
 
-That is a much weaker description than a verified scene. It gives a corridor and landmarks, not a forensic site. Sheaffer’s Skeptical Inquirer article made this contradiction central, arguing that if the location was not known, the case’s claimed physical traces lose much of their force. He also noted that no photographs or other evidence were produced to show the alleged [road marks]({{ 'road-marks/' | relative_url }}), despite their importance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+That is a much weaker description than a verified scene. It gives a corridor and landmarks, not a forensic site. Sheaffer’s Skeptical Inquirer article made this contradiction central, arguing that if the location was not known, the case’s claimed physical traces lose much of their force. He also noted that no photographs or other evidence were produced to show the alleged [road marks]({{ 'road-marks/' | relative_url }}), despite their importance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
-Collins’s critique is narrower but, in some ways, more important: the problem is not that every witness-route statement is useless, but that later case presentations may have overstated how precisely the scene had been identified. He argues that the Meyer report helps explain why no strong package of road photographs, scorched-tree images, soil samples, or pavement samples became central evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
+Collins’s critique is narrower but, in some ways, more important: the problem is not that every witness-route statement is useless, but that later case presentations may have overstated how precisely the scene had been identified. He argues that the Meyer report helps explain why no strong package of road photographs, scorched-tree images, soil samples, or pavement samples became central evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-2-dark.svg" | relative_url }}" alt="Location illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Inland Road Candidate
 
-Many modern summaries give a more specific candidate: FM 1485/2100, southbound, with the initial object location placed just south of Inland Road, sometimes using approximate coordinates near 30.0926°N, 95.1109°W. The old MUFON summary presents this as an inference from descriptions in Schuessler’s book, not as a universally settled fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oldmufon.weebly.com/cash-landrum-case---1980.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oldmufon.weebly.com">[Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oldmufon.weebly.com</span><span class="citation-popover-title">cash landrum case 1980</span><span class="citation-popover-snippet">Mufon1980 Cash Landrum UFO Case - MufonRead more about the 1980 Cash Landrum UFO case, where witnesses claimed their health was damaged b...</span></span></span>
+Many modern summaries give a more specific candidate: FM 1485/2100, southbound, with the initial object location placed just south of Inland Road, sometimes using approximate coordinates near 30.0926°N, 95.1109°W. The old MUFON summary presents this as an inference from descriptions in Schuessler’s book, not as a universally settled fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oldmufon.weebly.com/cash-landrum-case---1980.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oldmufon.weebly.com">[Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oldmufon.weebly.com</span><span class="citation-popover-title">cash landrum case 1980</span><span class="citation-popover-snippet">Mufon1980 Cash Landrum UFO Case - MufonRead more about the 1980 Cash Landrum UFO case, where witnesses claimed their health was damaged b...</span></span></span>
 
 That wording is important. “Based on descriptions” is not the same as a contemporaneous, documented pinpoint. The Inland Road candidate may be useful for readers trying to understand the likely corridor, and it may be the best-known proposed site. But it should be treated as a reconstruction, not as a proven encounter point. Once that distinction is kept clear, the apparent contradiction softens: the case can have a plausible general route while still lacking a secure exact location.
 
-The FM 1485/Inland Road framing also creates a practical research risk. Once a coordinate appears in online summaries, later writers may cite each other until the coordinate looks more authoritative than the underlying evidence. In the Cash-Landrum case, the safer formulation is that the incident was reported on FM 1485 between New Caney and Huffman, with one commonly repeated reconstruction placing it near Inland Road, while sceptical and archival work disputes whether the precise site was ever established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The FM 1485/Inland Road framing also creates a practical research risk. Once a coordinate appears in online summaries, later writers may cite each other until the coordinate looks more authoritative than the underlying evidence. In the Cash-Landrum case, the safer formulation is that the incident was reported on FM 1485 between New Caney and Huffman, with one commonly repeated reconstruction placing it near Inland Road, while sceptical and archival work disputes whether the precise site was ever established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-3-dark.svg" | relative_url }}" alt="Location illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Location Uncertainty Affects Evidence
 
-The location dispute does not automatically disprove the witnesses’ experience. People can be frightened, ill, travelling at night, and still give an imprecise location. Rural roads in darkness are difficult to reconstruct, and even sincere witnesses can confuse distances, bends, county lines, and sequence after a stressful event. The Bergstrom transcript itself shows that the witnesses gave a meaningful route description, even if they struggled to pinpoint it on the available map. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The location dispute does not automatically disprove the witnesses’ experience. People can be frightened, ill, travelling at night, and still give an imprecise location. Rural roads in darkness are difficult to reconstruct, and even sincere witnesses can confuse distances, bends, county lines, and sequence after a stressful event. The Bergstrom transcript itself shows that the witnesses gave a meaningful route description, even if they struggled to pinpoint it on the available map.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-But the uncertainty does lower the evidential ceiling of the case. The more a claim depends on physical traces, the more it needs a recoverable site. If the strongest location statement is “between New Caney and Huffman” or “a straight portion of FM 1485 between a beer joint and a warning sign”, then later claims about exact road burns or tree damage need independent documentation that has not been convincingly produced in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
+But the uncertainty does lower the evidential ceiling of the case. The more a claim depends on physical traces, the more it needs a recoverable site. If the strongest location statement is “between New Caney and Huffman” or “a straight portion of FM 1485 between a beer joint and a warning sign”, then later claims about exact road burns or tree damage need independent documentation that has not been convincingly produced in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
 
-This also affects the value of later testing. The Texas Department of Health reportedly found no residual radiation along the road, but Collins notes that the department did not simply dismiss the matter and was interested in examining medical records as part of continuing inquiry. That means a negative roadside finding should not be exaggerated into a complete explanation. At the same time, if investigators lacked the precise exposure site, a negative or ambiguous environmental survey becomes even less decisive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
+This also affects the value of later testing. The Texas Department of Health reportedly found no residual radiation along the road, but Collins notes that the department did not simply dismiss the matter and was interested in examining medical records as part of continuing inquiry. That means a negative roadside finding should not be exaggerated into a complete explanation. At the same time, if investigators lacked the precise exposure site, a negative or ambiguous environmental survey becomes even less decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
 
-The same caution applies to other witnesses. *Unsolved Mysteries* preserves claims that additional people saw the object or helicopters, including police officer L.L. Walker and his wife seeing low-flying military-style helicopters with search beams. These accounts may support the idea that something unusual was reported in the wider area, but they do not by themselves establish the exact Cash-Landrum stopping point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
+The same caution applies to other witnesses. *Unsolved Mysteries* preserves claims that additional people saw the object or helicopters, including police officer L.L. Walker and his wife seeing low-flying military-style helicopters with search beams. These accounts may support the idea that something unusual was reported in the wider area, but they do not by themselves establish the exact Cash-Landrum stopping point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved Mysteries...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zaWgXHWaxg8" title="The Mysterious Cash-Landrum Close Encounter Incident in 1980 - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer">The Mysterious Cash-Landrum Close Encounter Incident in 1980 - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zaWgXHWaxg8">Open on YouTube</a></p></div></div></div>
 
 ## What the Dispute Leaves Standing
 
-The strongest defensible map statement is modest: the Cash-Landrum encounter was reported on FM 1485 between New Caney and Huffman during a return trip towards Dayton after a stop near US 59 and FM 1485. A more specific site near Inland Road is a later reconstruction, not a fully settled location. The public record also contains a direct conflict between confident later claims that the site was verified and a Texas Department of Health-related account saying the location was only roughly described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The strongest defensible map statement is modest: the Cash-Landrum encounter was reported on FM 1485 between New Caney and Huffman during a return trip towards Dayton after a stop near US 59 and FM 1485. A more specific site near Inland Road is a later reconstruction, not a fully settled location. The public record also contains a direct conflict between confident later claims that the site was verified and a Texas Department of Health-related account saying the location was only roughly described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org+2Mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
 That leaves the route dispute as one of the case’s central credibility tests. It does not answer what Cash, Landrum, and [Colby]({{ 'colby/' | relative_url }}) saw. It does clarify why the case remains so difficult to evaluate: the story asks readers to weigh intense witness testimony and alleged physical effects, but the scene where those effects should have been most testable was never nailed down in a way that ends the argument.
 
@@ -537,194 +537,194 @@ That leaves the route dispute as one of the case’s central credibility tests. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did the Encounter Actually Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did the Encounter Actually Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidence, witness testimony, and investigative standards relevant to disputes over encounter locations and corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence, witness testimony, and investigative standards relevant to disputes over encounter locations and corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating witness reports, physical evidence claims, and location-based investigations central to the Cash-Land...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating witness reports, physical evidence claims, and location-based investigations central to the Cash-Land...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Focuses on reconstructing a disputed encounter scene and assessing physical traces, paralleling location questions in Cash-Landrum.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on reconstructing a disputed encounter scene and assessing physical traces, paralleling location questions in Cash-Landrum.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines notable cases and investigative challenges, including witness reliability and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable cases and investigative challenges, including witness reliability and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="location-where-did-the-encounter-actually-happen-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -740,7 +740,7 @@ That leaves the route dispute as one of the case’s central credibility tests. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -760,7 +760,7 @@ That leaves the route dispute as one of the case’s central credibility tests. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -792,7 +792,7 @@ That leaves the route dispute as one of the case’s central credibility tests. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -844,7 +844,7 @@ That leaves the route dispute as one of the case’s central credibility tests. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -889,7 +889,7 @@ That leaves the route dispute as one of the case’s central credibility tests. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -930,120 +930,120 @@ That leaves the route dispute as one of the case’s central credibility tests. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & Colby Landrum, Part 1 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: blueblurrylines.com  
    Title: Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unsolved.com  
    Title: Mysteries Texas UFO  
-   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
+   Link:<a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved Mysteries...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: txdot.gov  
    Title: fm1485 access management study  
-   Link: <a href="https://www.txdot.gov/projects/projects-studies/houston/fm1485-access-management-study.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txdot.gov/projects/projects-studies/houston/fm1485-access-management-study.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Department of TransportationFM 1485 access management study...</p></details>
+   Link:<a href="https://www.txdot.gov/projects/projects-studies/houston/fm1485-access-management-study.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txdot.gov/projects/projects-studies/houston/fm1485-access-management-study.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Department of TransportationFM 1485 access management study...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: txdot.gov  
    Title: fm1485 sh242 to kidd cemetery road  
-   Link: <a href="https://www.txdot.gov/projects/projects-studies/houston/fm1485-sh242-to-kidd-cemetery-road.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txdot.gov/projects/projects-studies/houston/fm1485-sh242-to-kidd-cemetery-road.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Department of TransportationFM 1485 (SH 242 to Kidd Cemetery Road)...</p></details>
+   Link:<a href="https://www.txdot.gov/projects/projects-studies/houston/fm1485-sh242-to-kidd-cemetery-road.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txdot.gov/projects/projects-studies/houston/fm1485-sh242-to-kidd-cemetery-road.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Department of TransportationFM 1485 (SH 242 to Kidd Cemetery Road)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: txdot.gov  
    Title: fm1485 111023  
-   Link: <a href="https://www.txdot.gov/projects/hearings-meetings/houston/2023/fm1485-111023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txdot.gov/projects/hearings-meetings/houston/2023/fm1485-111023.html</a>  
+   Link:<a href="https://www.txdot.gov/projects/hearings-meetings/houston/2023/fm1485-111023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txdot.gov/projects/hearings-meetings/houston/2023/fm1485-111023.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oldmufon.weebly.com  
    Title: cash landrum case 1980  
-   Link: <a href="https://oldmufon.weebly.com/cash-landrum-case---1980.html" target="_blank" rel="noopener noreferrer nofollow">https://oldmufon.weebly.com/cash-landrum-case---1980.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon1980 Cash Landrum UFO Case - MufonRead more about the 1980 Cash Landrum UFO case, where witnesses claimed their health was damaged b...</p></details>
+   Link:<a href="https://oldmufon.weebly.com/cash-landrum-case---1980.html" target="_blank" rel="noopener noreferrer nofollow">https://oldmufon.weebly.com/cash-landrum-case---1980.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon1980 Cash Landrum UFO Case - MufonRead more about the 1980 Cash Landrum UFO case, where witnesses claimed their health was damaged b...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RobertThe name Robert is an ancient Germanic given name, from Proto-Germanic *Hrōþi- &quot;fame&quot; and *berhta- &quot;bright&quot; (Hrōþiberhtaz).Read...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Robert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RobertThe name Robert is an ancient Germanic given name, from Proto-Germanic *Hrōþi- &quot;fame&quot; and *berhta- &quot;bright&quot; (Hrōþiberhtaz).Read...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Betty Cash, Vickie and Colby Landrum  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Betty_Cash%2C_Vickie_and_Colby_Landrum</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newcaneyisd.org  
-   Link: <a href="https://www.newcaneyisd.org/departments/operations/transportation" target="_blank" rel="noopener noreferrer nofollow">https://www.newcaneyisd.org/departments/operations/transportation</a>  
+   Link:<a href="https://www.newcaneyisd.org/departments/operations/transportation" target="_blank" rel="noopener noreferrer nofollow">https://www.newcaneyisd.org/departments/operations/transportation</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentUncharacteristically for such UFO reports, this resulted in civil court proceedings, though the case ended in a d...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentUncharacteristically for such UFO reports, this resulted in civil court proceedings, though the case ended in a d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=GjByxf7XOU0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GjByxf7XOU0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum location route FM 1485 The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GjByxf7XOU0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GjByxf7XOU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum location route FM 1485 The incredible story of the Cash Landrum UFO incident RED STONE...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zaWgXHWaxg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zaWgXHWaxg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident: A UFO Burned 3 People in Texas  
-   Link: <a href="http://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=euP0SnHKfg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Cash-Landrum Close Encounter Incident in 1980...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=euP0SnHKfg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Cash-Landrum Close Encounter Incident in 1980...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO Burned Them? The Cash-Landrum Case With 23 Helicopters  
-   Link: <a href="http://www.youtube.com/watch?v=MvdGRpAZbAA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MvdGRpAZbAA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MvdGRpAZbAA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MvdGRpAZbAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Terrifying Texas UFO Encounter  
-   Link: <a href="http://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RVeOy9W8EUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum 1980, Close Encounter UFO Incident...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RVeOy9W8EUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum 1980, Close Encounter UFO Incident...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sosupernaturalpodcast.com  
-   Link: <a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
+   Link:<a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/blue" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/blue</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/blue" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/blue</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  
+   Link:<a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  

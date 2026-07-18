@@ -274,31 +274,31 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_wa
 
 ## Introduction
 
-One of the most revealing details in Lamar Walker’s account of the Cash–Landrum incident is not the number of helicopters he reported seeing, but what their searchlights appeared to be doing. According to Walker, the first helicopter he noticed was directing a bright spotlight towards the ground. Combined with the presence of multiple low-flying military-style helicopters, that detail immediately suggested an ordinary explanation: a search operation for a crashed [aircraft]({{ 'aircraft/' | relative_url }}). What makes the observation noteworthy is that Walker’s interpretation began as a conventional emergency scenario rather than anything connected with UFOs. Only after watching the helicopters continue moving did that explanation begin to break down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+One of the most revealing details in Lamar Walker’s account of the Cash–Landrum incident is not the number of helicopters he reported seeing, but what their searchlights appeared to be doing. According to Walker, the first helicopter he noticed was directing a bright spotlight towards the ground. Combined with the presence of multiple low-flying military-style helicopters, that detail immediately suggested an ordinary explanation: a search operation for a crashed [aircraft]({{ 'aircraft/' | relative_url }}). What makes the observation noteworthy is that Walker’s interpretation began as a conventional emergency scenario rather than anything connected with UFOs. Only after watching the helicopters continue moving did that explanation begin to break down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-1-dark.svg" | relative_url }}" alt="Searchlights illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader Cash–Landrum controversy, this aspect of Walker’s testimony is important because it shows how an apparently mundane observation evolved into a puzzling one. His account offers a glimpse into how an experienced observer initially tried to fit what he saw into a familiar framework before concluding that the helicopter activity did not resemble a typical crash search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+Within the broader Cash–Landrum controversy, this aspect of Walker’s testimony is important because it shows how an apparently mundane observation evolved into a puzzling one. His account offers a glimpse into how an experienced observer initially tried to fit what he saw into a familiar framework before concluding that the helicopter activity did not resemble a typical crash search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
 
 ## The Spotlight Directed Towards the Ground
 
-Walker’s description consistently begins with a helicopter using a powerful light aimed at the terrain below. In the version later presented through *[Unsolved Mysteries]({{ 'tv-injury-frame/' | relative_url }})*, he recalled emerging from a tree-lined section of road and seeing a helicopter “shining a spotlight at the ground.” He then became aware of additional helicopters behind it, all flying relatively low and reportedly using search beams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+Walker’s description consistently begins with a helicopter using a powerful light aimed at the terrain below. In the version later presented through *[Unsolved Mysteries]({{ 'tv-injury-frame/' | relative_url }})*, he recalled emerging from a tree-lined section of road and seeing a helicopter “shining a spotlight at the ground.” He then became aware of additional helicopters behind it, all flying relatively low and reportedly using search beams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
-This detail matters because searchlights naturally imply a search function. In aviation and emergency-response contexts, helicopters often use downward-directed lights when locating people, vehicles, wreckage, or [landmarks]({{ 'landmarks/' | relative_url }}) during night operations. A bright beam sweeping the ground is therefore one of the least exotic elements in the entire Cash–Landrum narrative. Viewed in isolation, it points towards a routine operational explanation rather than a mysterious one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+This detail matters because searchlights naturally imply a search function. In aviation and emergency-response contexts, helicopters often use downward-directed lights when locating people, vehicles, wreckage, or [landmarks]({{ 'landmarks/' | relative_url }}) during night operations. A bright beam sweeping the ground is therefore one of the least exotic elements in the entire Cash–Landrum narrative. Viewed in isolation, it points towards a routine operational explanation rather than a mysterious one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
-Other retellings of the Walker account preserve the same core feature: helicopters moving at night with lights directed downward as though they were looking for something on the ground. Although secondary sources vary in wording, the central observation remains consistent across summaries of his testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-title">had their spotlights pointed towards the ground,</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Dayton Police Sergeant Lamar Wal...</span><span class="citation-popover-meta">Published: September 6, 2024</span></span></span>
+Other retellings of the Walker account preserve the same core feature: helicopters moving at night with lights directed downward as though they were looking for something on the ground. Although secondary sources vary in wording, the central observation remains consistent across summaries of his testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-title">had their spotlights pointed towards the ground,</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Dayton Police Sergeant Lamar Wal...</span><span class="citation-popover-meta">Published: September 6, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## The Downed-Aircraft Assumption
 
-Walker reportedly interpreted the scene through the lens of ordinary emergency logic. Seeing multiple military-style helicopters with searchlights, he concluded that an aircraft might have gone down nearby. In his recollection, his immediate thought was that “maybe there was an airplane down.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+Walker reportedly interpreted the scene through the lens of ordinary emergency logic. Seeing multiple military-style helicopters with searchlights, he concluded that an aircraft might have gone down nearby. In his recollection, his immediate thought was that “maybe there was an airplane down.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
-That reaction is significant because it was not an interpretation imposed later by UFO investigators. Instead, it appears to have been Walker’s spontaneous explanation at the time of observation. As a police officer, he was accustomed to assessing unusual situations in practical terms. A search-and-rescue mission, accident response, or military recovery effort would have been a far more natural conclusion than a UFO-related explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+That reaction is significant because it was not an interpretation imposed later by UFO investigators. Instead, it appears to have been Walker’s spontaneous explanation at the time of observation. As a police officer, he was accustomed to assessing unusual situations in practical terms. A search-and-rescue mission, accident response, or military recovery effort would have been a far more natural conclusion than a UFO-related explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
 The assumption also fits the visual cues he described:
 
@@ -312,219 +312,219 @@ The assumption also fits the visual cues he described:
 
 </div>
 
-Taken together, those features resemble the beginning of a coordinated search operation more than an aerial escort mission or routine transit flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+Taken together, those features resemble the beginning of a coordinated search operation more than an aerial escort mission or routine transit flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-2-dark.svg" | relative_url }}" alt="Searchlights illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Helicopters Moving On Matters
 
-The key turning point in Walker’s account is what happened next. He stated that the helicopters did not stop, circle a fixed [location]({{ 'location/' | relative_url }}), or concentrate their attention on one area. Instead, they continued moving. In the *Unsolved Mysteries* version, Walker specifically noted that although he initially thought an aircraft might have crashed, the helicopters “didn't hesitate.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+The key turning point in Walker’s account is what happened next. He stated that the helicopters did not stop, circle a fixed [location]({{ 'location/' | relative_url }}), or concentrate their attention on one area. Instead, they continued moving. In the *Unsolved Mysteries* version, Walker specifically noted that although he initially thought an aircraft might have crashed, the helicopters “didn't hesitate.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
-That observation is the reason the downed-aircraft explanation became less convincing to him. If a search team had located wreckage or was conducting a focused rescue operation, observers would generally expect helicopters to slow, hover, circle, or converge on a specific point. Continued forward movement suggested that the aircraft were travelling somewhere rather than searching a fixed site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+That observation is the reason the downed-aircraft explanation became less convincing to him. If a search team had located wreckage or was conducting a focused rescue operation, observers would generally expect helicopters to slow, hover, circle, or converge on a specific point. Continued forward movement suggested that the aircraft were travelling somewhere rather than searching a fixed site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
-Importantly, Walker did not replace his abandoned crash hypothesis with a detailed alternative theory. His testimony is often cited precisely because it remains relatively restrained. He reported helicopters, searchlights, and unusual activity, but he did not claim to have witnessed the diamond-shaped object reported by [Betty Cash]({{ 'betty-cash/' | relative_url }}) and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}). As a result, his account occupies a middle ground: the searchlight behaviour appeared unusual enough to undermine his initial explanation, yet not enough to provide a clear answer for what the helicopters were actually doing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Importantly, Walker did not replace his abandoned crash hypothesis with a detailed alternative theory. His testimony is often cited precisely because it remains relatively restrained. He reported helicopters, searchlights, and unusual activity, but he did not claim to have witnessed the diamond-shaped object reported by [Betty Cash]({{ 'betty-cash/' | relative_url }}) and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}). As a result, his account occupies a middle ground: the searchlight behaviour appeared unusual enough to undermine his initial explanation, yet not enough to provide a clear answer for what the helicopters were actually doing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzoOTCOUMKA" title="SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer">SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |</a></p><p class="youtube-embed-meta">Channel: Amaze World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzoOTCOUMKA">Open on YouTube</a></p></div></div></div>
 
 ## What This Detail Adds to the Walker Testimony
 
-The searchlight episode gives Walker’s account a distinctive character within the Cash–Landrum case. Rather than beginning with an extraordinary claim, it begins with an ordinary interpretation. The helicopters looked like they were searching for something. The searchlights pointed downwards. The scene suggested an accident response. Only when the aircraft continued onward did the situation stop matching that expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+The searchlight episode gives Walker’s account a distinctive character within the Cash–Landrum case. Rather than beginning with an extraordinary claim, it begins with an ordinary interpretation. The helicopters looked like they were searching for something. The searchlights pointed downwards. The scene suggested an accident response. Only when the aircraft continued onward did the situation stop matching that expectation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
-For supporters of the Cash–Landrum narrative, this sequence is valuable because it portrays Walker as a witness attempting to explain what he saw in conventional terms before concluding that the activity did not fit those terms. For sceptics, the same sequence demonstrates that his observations were limited to helicopters and lights rather than direct evidence of a UFO. Either way, the searchlight behaviour and the abandoned downed-aircraft assumption remain one of the most concrete and specific elements of Walker’s reported experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
+For supporters of the Cash–Landrum narrative, this sequence is valuable because it portrays Walker as a witness attempting to explain what he saw in conventional terms before concluding that the activity did not fit those terms. For sceptics, the same sequence demonstrates that his observations were limited to helicopters and lights rather than direct evidence of a UFO. Either way, the searchlight behaviour and the abandoned downed-aircraft assumption remain one of the most concrete and specific elements of Walker’s reported experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-3-dark.svg" | relative_url }}" alt="Searchlights illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Walker Think Something Had Crashed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Walker Think Something Had Crashed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating eyewitness testimony, military aircraft reports, and competing explanations in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating eyewitness testimony, military aircraft reports, and competing explanations in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how observers interpret unusual aerial events and how conventional explanations are weighed against anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how observers interpret unusual aerial events and how conventional explanations are weighed against anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses investigative approaches to aerial sightings and the challenge of distinguishing ordinary events from unexplained ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses investigative approaches to aerial sightings and the challenge of distinguishing ordinary events from unexplained ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Examines how crash interpretations, search activity, and witness recollections develop in a famous UFO-related case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how crash interpretations, search activity, and witness recollections develop in a famous UFO-related case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CH-47 Chinook Wooden Helicopter Model | Mahogany"><img src="{{ '/assets/images/marketplace-covers/6392cb992fce972b4351.jpg' | relative_url }}" alt="Listing image for CH-47 Chinook Wooden Helicopter Model | Mahogany" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">CH-47 Chinook Wooden Helicopter Model | Mahogany</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CH-47 Chinook Wooden Helicopter Model | Mahogany"><img src="{{ '/assets/images/marketplace-covers/6392cb992fce972b4351.jpg' | relative_url }}" alt="Listing image for CH-47 Chinook Wooden Helicopter Model | Mahogany" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">CH-47 Chinook Wooden Helicopter Model | Mahogany</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Westland Helicopters EH101 Commemorative Framed Picture"><img src="{{ '/assets/images/marketplace-covers/99ad88c98b540e894382.jpg' | relative_url }}" alt="Listing image for Westland Helicopters EH101 Commemorative Framed Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">Westland Helicopters EH101 Commemorative Framed Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Westland Helicopters EH101 Commemorative Framed Picture"><img src="{{ '/assets/images/marketplace-covers/99ad88c98b540e894382.jpg' | relative_url }}" alt="Listing image for Westland Helicopters EH101 Commemorative Framed Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">Westland Helicopters EH101 Commemorative Framed Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD"><img src="{{ '/assets/images/marketplace-covers/0b43e6d44854a9655ec3.jpg' | relative_url }}" alt="Listing image for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD"><img src="{{ '/assets/images/marketplace-covers/0b43e6d44854a9655ec3.jpg' | relative_url }}" alt="Listing image for PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">PUMA HELICOPTER AIRCRAFT 50TH ANNIVERSARY CHALLENGE COIN ROYAL AIR FORCE RAF MOD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5"><img src="{{ '/assets/images/marketplace-covers/5097baa53345921f27cc.jpg' | relative_url }}" alt="Listing image for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5"><img src="{{ '/assets/images/marketplace-covers/5097baa53345921f27cc.jpg' | relative_url }}" alt="Listing image for BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">BRAVO DELTA MODELS WESTLAND SEA KING HELICOPTER MK5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter collectible" data-ebay-reference="searchlights-why-did-walker-think-something-had-crashed-cash-landrum-ufo-incident-helicopter-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For supporters of the Cash–Landrum narrative, this sequence is valuable becaus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For supporters of the Cash–Landrum narrative, this sequence is valuable becaus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For supporters of the Cash–Landrum narrative, this sequence is valuable becaus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For supporters of the Cash–Landrum narrative, this sequence is valuable becaus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For supporters of the Cash–Landrum narrative, this sequence is valuable becaus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,96 +730,96 @@ For supporters of the Cash–Landrum narrative, this sequence is valuable becaus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Texas UFO  
-   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</p></details>
+   Link:<a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved MysteriesAs we were coming out of some tree lines, I saw a helicopter. It was shining a spotlight...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: podcasts.happyscribe.com  
    Title: had their spotlights pointed towards the ground,  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Dayton Police Sergeant Lamar Wal...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Dayton Police Sergeant Lamar Wal...</p></details>
    Published: September 6, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=3yJUBUF0s0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yJUBUF0s0U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3yJUBUF0s0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yJUBUF0s0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Texas UFO Encounter - The Cash Landrum Incident...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingDetective Lamar Walker, and his wife also reported seeing a dozen Chinook helicopters on the same night as t...</p></details>
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingDetective Lamar Walker, and his wife also reported seeing a dozen Chinook helicopters on the same night as t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Cash and Landrum said they recalled counting 23 of the helicopters; ho...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Cash and Landrum said they recalled counting 23 of the helicopters; ho...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kennethnwalker.org  
-   Link: <a href="https://www.kennethnwalker.org/pdf/air-power-history-walker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kennethnwalker.org/pdf/air-power-history-walker.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ground search when the remote sensing equipment indicates a potential target.Read more...</p></details>
+   Link:<a href="https://www.kennethnwalker.org/pdf/air-power-history-walker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kennethnwalker.org/pdf/air-power-history-walker.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ground search when the remote sensing equipment indicates a potential target.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: asasi.org  
    Title: ISASI 2014 Chopin Walker ATSB VFR into dark night  
-   Link: <a href="https://asasi.org/wp-content/uploads/2021/05/ISASI-2014-Chopin-Walker-ATSB-VFR-into-dark-night.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asasi.org/wp-content/uploads/2021/05/ISASI-2014-Chopin-Walker-ATSB-VFR-into-dark-night.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VFR into dark night: Nothing to see but much to changeOn 18 August 2011, an Aérospatiale AS355F2 helicopter was being operated on a chart...</p></details>
+   Link:<a href="https://asasi.org/wp-content/uploads/2021/05/ISASI-2014-Chopin-Walker-ATSB-VFR-into-dark-night.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asasi.org/wp-content/uploads/2021/05/ISASI-2014-Chopin-Walker-ATSB-VFR-into-dark-night.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VFR into dark night: Nothing to see but much to changeOn 18 August 2011, an Aérospatiale AS355F2 helicopter was being operated on a chart...</p></details>
    Published: August 2011  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>helicopter [the object](&amp;#123;&amp;#123; &#x27;the-object/&#x27; | relative_url &amp;#125;&amp;#125;) would shoot down a stream of reddish- or...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>helicopter [the object](&amp;#123;&amp;#123; &#x27;the-object/&#x27; | relative_url &amp;#125;&amp;#125;) would shoot down a stream of reddish- or...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at really happened in the Cash-Landrum incident?...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.howstuffworks.com  
    Title: cash landrum ufo incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentA Dayton police officer, Detective Lamar Walker, and his wife also claimed to have seen helicopters near the sam...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentA Dayton police officer, Detective Lamar Walker, and his wife also claimed to have seen helicopters near the sam...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>

@@ -280,36 +280,36 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_sk
 
 ## Introduction
 
-The reported blisters and hair loss in the Cash–Landrum incident became some of the strongest reasons supporters cited for a [radiation]({{ 'radiation/' | relative_url }}) explanation. On the surface, the symptoms sound persuasive: severe skin injury, patches of missing hair, and illness appearing after an encounter with a brilliantly luminous object. Yet radiation burns are not diagnosed simply because blistering and hair loss occurred. Radiation injury follows characteristic dose patterns, affects tissues in recognisable ways, and often develops on a timeline that specialists use to estimate exposure severity. The central question is not whether [Betty Cash]({{ 'betty-cash/' | relative_url }}) and the others reported serious symptoms, but whether those symptoms behaved like documented radiation burns rather than another form of injury. The answer remains disputed because the publicly available evidence is incomplete and some reported features fit radiation injury better than others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
+The reported blisters and hair loss in the Cash–Landrum incident became some of the strongest reasons supporters cited for a [radiation]({{ 'radiation/' | relative_url }}) explanation. On the surface, the symptoms sound persuasive: severe skin injury, patches of missing hair, and illness appearing after an encounter with a brilliantly luminous object. Yet radiation burns are not diagnosed simply because blistering and hair loss occurred. Radiation injury follows characteristic dose patterns, affects tissues in recognisable ways, and often develops on a timeline that specialists use to estimate exposure severity. The central question is not whether [Betty Cash]({{ 'betty-cash/' | relative_url }}) and the others reported serious symptoms, but whether those symptoms behaved like documented radiation burns rather than another form of injury. The answer remains disputed because the publicly available evidence is incomplete and some reported features fit radiation injury better than others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-1-dark.svg" | relative_url }}" alt="Skin Claims illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Blistering and Hair Loss Were Reported?
 
-Accounts of the case consistently state that Betty Cash experienced the most severe physical effects. Reports describe painful blisters, reddened skin, eye irritation, and substantial hair loss developing in the days following the encounter. Later retellings frequently compare her condition to [radiation sickness]({{ 'radiation-claim/' | relative_url }}) or severe radiation burns. [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and Colby Landrum reportedly experienced milder symptoms, though some accounts also mention skin problems and hair loss among them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks+2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident She suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</span></span></span>
+Accounts of the case consistently state that Betty Cash experienced the most severe physical effects. Reports describe painful blisters, reddened skin, eye irritation, and substantial hair loss developing in the days following the encounter. Later retellings frequently compare her condition to [radiation sickness]({{ 'radiation-claim/' | relative_url }}) or severe radiation burns. [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and Colby Landrum reportedly experienced milder symptoms, though some accounts also mention skin problems and hair loss among them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howstuffworks.com">[HowStuffWorks+2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The Cash-Landrum UFO Incident She suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes</span><span class="citation-popover-snippet">HowStuffWorksThe Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</span></span></span>
 
-The difficulty is that most public descriptions rely on secondary summaries rather than a complete set of contemporaneous medical records. Over time, the story's medical claims became increasingly compressed into a simple narrative: exposure, burns, then hair loss. That shorthand obscures important details such as exactly when symptoms appeared, how widely they were distributed on the body, whether the hair loss was patchy or diffuse, and how physicians documented the injuries. These details matter because radiation-induced skin damage is often distinguished from [other injuries]({{ 'other-injuries/' | relative_url }}) by its timing and distribution rather than by the mere presence of blisters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+The difficulty is that most public descriptions rely on secondary summaries rather than a complete set of contemporaneous medical records. Over time, the story's medical claims became increasingly compressed into a simple narrative: exposure, burns, then hair loss. That shorthand obscures important details such as exactly when symptoms appeared, how widely they were distributed on the body, whether the hair loss was patchy or diffuse, and how physicians documented the injuries. These details matter because radiation-induced skin damage is often distinguished from [other injuries]({{ 'other-injuries/' | relative_url }}) by its timing and distribution rather than by the mere presence of blisters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
 
 ## How Radiation Skin Injury Usually Develops
 
-Radiation burns, more formally called cutaneous radiation injuries, have a characteristic biological progression. Medical guidance from the US Centers for Disease Control and Prevention notes that early skin changes often begin with redness, tingling, itching, or swelling. More severe effects such as dry peeling, moist skin breakdown, ulceration, and tissue loss generally appear days or weeks later depending on dose. Hair loss, known as epilation, is itself a recognised radiation effect, but it usually develops after a delay rather than immediately. The CDC places the typical onset of radiation-induced hair loss at roughly 14–21 days after exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
+Radiation burns, more formally called cutaneous radiation injuries, have a characteristic biological progression. Medical guidance from the US Centers for Disease Control and Prevention notes that early skin changes often begin with redness, tingling, itching, or swelling. More severe effects such as dry peeling, moist skin breakdown, ulceration, and tissue loss generally appear days or weeks later depending on dose. Hair loss, known as epilation, is itself a recognised radiation effect, but it usually develops after a delay rather than immediately. The CDC places the typical onset of radiation-induced hair loss at roughly 14–21 days after exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
 
-This delayed development is one of the most important clues physicians use when evaluating suspected radiation injury. Radiation damages dividing cells in hair follicles and skin layers. The injury may begin at exposure, but visible consequences emerge only after affected cells fail to regenerate normally. Reviews of radiation skin injury similarly describe a sequence beginning with erythema and swelling, followed by epilation and skin breakdown as damaged tissues lose their ability to repair themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8504211/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Review of the Terminology Describing Ionizing Radiation...by LR Burnett · 2021 · Cited by 31 — The early phase of the injury process...</span></span></span>
+This delayed development is one of the most important clues physicians use when evaluating suspected radiation injury. Radiation damages dividing cells in hair follicles and skin layers. The injury may begin at exposure, but visible consequences emerge only after affected cells fail to regenerate normally. Reviews of radiation skin injury similarly describe a sequence beginning with erythema and swelling, followed by epilation and skin breakdown as damaged tissues lose their ability to repair themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8504211/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Review of the Terminology Describing Ionizing Radiation...by LR Burnett · 2021 · Cited by 31 — The early phase of the injury process...</span></span></span>
 
-Another important point is dose. Published medical guidance indicates that temporary hair loss generally requires radiation levels around several grays, while more severe blistering and ulceration require substantially higher local doses. The greater the skin damage, the greater the implied radiation exposure. At sufficiently high doses, physicians would also expect concern about broader radiation effects elsewhere in the body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
+Another important point is dose. Published medical guidance indicates that temporary hair loss generally requires radiation levels around several grays, while more severe blistering and ulceration require substantially higher local doses. The greater the skin damage, the greater the implied radiation exposure. At sufficiently high doses, physicians would also expect concern about broader radiation effects elsewhere in the body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-2-dark.svg" | relative_url }}" alt="Skin Claims illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Do the Reported Symptoms Match Radiation Burns?
 
-Some aspects of the Cash–Landrum reports resemble recognised radiation effects. Hair loss after a delay can occur after radiation exposure, and severe skin injury can produce blistering. Those similarities explain why investigators and commentators repeatedly raised radiation as a possible mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
+Some aspects of the Cash–Landrum reports resemble recognised radiation effects. Hair loss after a delay can occur after radiation exposure, and severe skin injury can produce blistering. Those similarities explain why investigators and commentators repeatedly raised radiation as a possible mechanism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
 
-However, critics argue that the reported severity creates its own problem. If the blisters, hair loss, nausea and other symptoms all resulted from a single episode of intense ionising radiation, the exposure required could have been extremely large. Acute radiation syndrome is generally associated with substantial whole-body doses, and some sceptical analyses have argued that the symptoms often attributed to Cash would imply radiation levels difficult to reconcile with the long-term survival of all three witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — The radiation dose must be large (i.e., greater than 0.7 Gray (Gy)A...</span></span></span>
+However, critics argue that the reported severity creates its own problem. If the blisters, hair loss, nausea and other symptoms all resulted from a single episode of intense ionising radiation, the exposure required could have been extremely large. Acute radiation syndrome is generally associated with substantial whole-body doses, and some sceptical analyses have argued that the symptoms often attributed to Cash would imply radiation levels difficult to reconcile with the long-term survival of all three witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — The radiation dose must be large (i.e., greater than 0.7 Gray (Gy)A...</span></span></span>
 
-The timing issue is equally important. Public retellings sometimes imply that skin injury and hair loss appeared very rapidly. Yet radiation-induced epilation typically follows a delay measured in weeks, not hours. Without complete clinical records documenting exactly when the hair loss occurred and how it progressed, it is difficult to determine whether the reported pattern aligns with classic radiation injury or merely resembles it in retrospect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
+The timing issue is equally important. Public retellings sometimes imply that skin injury and hair loss appeared very rapidly. Yet radiation-induced epilation typically follows a delay measured in weeks, not hours. Without complete clinical records documenting exactly when the hair loss occurred and how it progressed, it is difficult to determine whether the reported pattern aligns with classic radiation injury or merely resembles it in retrospect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2DermNet®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adwxmGCIJuI" title="Cutaneous Radiation Injury" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adwxmGCIJuI" target="_blank" rel="noopener noreferrer">Cutaneous Radiation Injury</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adwxmGCIJuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adwxmGCIJuI">Open on YouTube</a></p></div></div></div>
@@ -318,213 +318,213 @@ The timing issue is equally important. Public retellings sometimes imply that sk
 
 One reason the [debate]({{ 'debate/' | relative_url }}) remains unresolved is that blistering and hair loss are not unique to radiation exposure.
 
-**Thermal injury** can produce redness, blistering, pain and subsequent skin peeling. Witnesses reported intense heat from the object, making a heat-related mechanism an obvious alternative explanation for at least some skin symptoms. Radiation burns are often distinguished from thermal burns because radiation damage continues to evolve beneath the skin after exposure, whereas ordinary heat burns usually reflect direct tissue heating at the time of injury. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">Cutaneous Radiation SyndromeMedical literature provides wide ranges of minimal threshold radiation doses necessary to produce ionizing ra...</span></span></span>
+**Thermal injury** can produce redness, blistering, pain and subsequent skin peeling. Witnesses reported intense heat from the object, making a heat-related mechanism an obvious alternative explanation for at least some skin symptoms. Radiation burns are often distinguished from thermal burns because radiation damage continues to evolve beneath the skin after exposure, whereas ordinary heat burns usually reflect direct tissue heating at the time of injury.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">Cutaneous Radiation SyndromeMedical literature provides wide ranges of minimal threshold radiation doses necessary to produce ionizing ra...</span></span></span>
 
-**Medical conditions causing alopecia** can complicate interpretation of hair loss. Investigations conducted decades later noted reports that Betty Cash's medical records attributed her hair loss to alopecia areata, an autoimmune disorder that can cause sudden patchy hair loss without any radiation exposure. That does not automatically disprove other symptoms, but it illustrates why hair loss alone cannot serve as definitive evidence of radiation injury. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">loss to the autoimmune disease alopecia...Read more...</span></span></span>
+**Medical conditions causing alopecia** can complicate interpretation of hair loss. Investigations conducted decades later noted reports that Betty Cash's medical records attributed her hair loss to alopecia areata, an autoimmune disorder that can cause sudden patchy hair loss without any radiation exposure. That does not automatically disprove other symptoms, but it illustrates why hair loss alone cannot serve as definitive evidence of radiation injury.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">loss to the autoimmune disease alopecia...Read more...</span></span></span>
 
-**Chemical or environmental exposure** can also produce combinations of skin irritation, redness, blistering and later hair loss. Determining which mechanism is responsible normally requires exposure measurements, laboratory testing and detailed clinical documentation—evidence that is largely unavailable in the public record of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">Cutaneous Radiation SyndromeMedical literature provides wide ranges of minimal threshold radiation doses necessary to produce ionizing ra...</span></span></span>
+**Chemical or environmental exposure** can also produce combinations of skin irritation, redness, blistering and later hair loss. Determining which mechanism is responsible normally requires exposure measurements, laboratory testing and detailed clinical documentation—evidence that is largely unavailable in the public record of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">Cutaneous Radiation SyndromeMedical literature provides wide ranges of minimal threshold radiation doses necessary to produce ionizing ra...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-3-dark.svg" | relative_url }}" alt="Skin Claims illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Skin Claims Remain Contested
 
-The enduring controversy is not whether symptoms were reported but whether those symptoms uniquely indicate radiation burns. Radiation injury has known dose thresholds, characteristic timelines and recognisable patterns of tissue damage. The Cash–Landrum case contains some features that appear consistent with such injuries, particularly the reports of blistering and hair loss. Yet the available documentation leaves uncertainty about timing, severity, diagnosis and alternative medical explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
+The enduring controversy is not whether symptoms were reported but whether those symptoms uniquely indicate radiation burns. Radiation injury has known dose thresholds, characteristic timelines and recognisable patterns of tissue damage. The Cash–Landrum case contains some features that appear consistent with such injuries, particularly the reports of blistering and hair loss. Yet the available documentation leaves uncertainty about timing, severity, diagnosis and alternative medical explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</span></span></span>
 
-As a result, the skin claims occupy an unusual position in the broader debate. They are among the strongest reasons advocates cite for a radiation interpretation, but they are also among the most medically difficult claims to verify. The question is not whether blistering and hair loss occurred; it is whether they followed the specific biological pattern expected from radiation burns. On the public evidence currently available, that question remains unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+As a result, the skin claims occupy an unusual position in the broader debate. They are among the strongest reasons advocates cite for a radiation interpretation, but they are also among the most medically difficult claims to verify. The question is not whether blistering and hair loss occurred; it is whether they followed the specific biological pattern expected from radiation burns. On the public evidence currently available, that question remains unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Burns Really Radiation Burns?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Burns Really Radiation Burns?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing unusual reports and competing explanations for claimed radiation injuries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing unusual reports and competing explanations for claimed radiation injuries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives readers broader context for major UFO cases and debates about physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers broader context for major UFO cases and debates about physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines claims of physical effects and evidence in UFO reports, fitting the broader Cash–Landrum discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines claims of physical effects and evidence in UFO reports, fitting the broader Cash–Landrum discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+Robert+Peter+Gale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9632846-M.jpg" alt="Cover for Radiation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radiation+Robert+Peter+Gale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation">Radiation</a>
-        </h4>
-        <p class="fr-book-author">By Robert Peter Gale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+Robert+Peter+Gale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9632846-M.jpg" alt="Cover for Radiation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Radiation+Robert+Peter+Gale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation">Radiation</a>
+</h4>
+<p class="fr-book-author">By Robert Peter Gale</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Environmental health, Radiation, SCIENCE / History, SCIENCE / Nuclear Physics, SCIENCE / Radiation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radiation+Robert+Peter+Gale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Environmental health, Radiation, SCIENCE / History, SCIENCE / Nuclear Physics, SCIENCE / Radiation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Radiation+Robert+Peter+Gale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="skin-claims-were-the-burns-really-radiation-burns-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ As a result, the skin claims occupy an unusual position in the broader debate. T
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ As a result, the skin claims occupy an unusual position in the broader debate. T
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ As a result, the skin claims occupy an unusual position in the broader debate. T
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ As a result, the skin claims occupy an unusual position in the broader debate. T
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ As a result, the skin claims occupy an unusual position in the broader debate. T
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,152 +730,152 @@ As a result, the skin claims occupy an unusual position in the broader debate. T
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Late erythema (time of onset: 8–20 weeks postexposure; thres...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: remm.hhs.gov  
-   Link: <a href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/cutaneoussyndrome.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation SyndromeMedical literature provides wide ranges of minimal threshold radiation doses necessary to produce ionizing ra...</p></details>
+   Link:<a href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/cutaneoussyndrome.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation SyndromeMedical literature provides wide ranges of minimal threshold radiation doses necessary to produce ionizing ra...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentShe suffered blisters, nausea, headaches, diarrhea, loss of hair, and reddening of the eyes. On...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case86.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case86.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Case - Huffman, Texas, United States29 Dec 1980 — Her hair began to fall out and her eyes became so swollen that she was...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case86.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case86.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Case - Huffman, Texas, United States29 Dec 1980 — Her hair began to fall out and her eyes became so swollen that she was...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>loss to the autoimmune disease alopecia...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>loss to the autoimmune disease alopecia...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdc.gov  
    Title: cutaneous radiation injury  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/cutaneous-radiation-injury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/cutaneous-radiation-injury.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injuries10 Apr 2024 — Cutaneous Radiation Injury (CRI) happens when exposure to a large dose of radiation causes inju...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/cutaneous-radiation-injury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/cutaneous-radiation-injury.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injuries10 Apr 2024 — Cutaneous Radiation Injury (CRI) happens when exposure to a large dose of radiation causes inju...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8504211/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8504211/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of the Terminology Describing Ionizing Radiation...by LR Burnett · 2021 · Cited by 31 — The early phase of the injury process...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8504211/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8504211/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of the Terminology Describing Ionizing Radiation...by LR Burnett · 2021 · Cited by 31 — The early phase of the injury process...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSkin Manifestations after Ionizing Radiation Exposure  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations after Ionizing Radiation Exposure - PMCby L Bennardo · 2021 · Cited by 66 — Acute radiation dermatitis occurs within 90 da...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8614920/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations after Ionizing Radiation Exposure - PMCby L Bennardo · 2021 · Cited by 66 — Acute radiation dermatitis occurs within 90 da...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — The radiation dose must be large (i.e., greater than 0.7 Gray (Gy)A...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — The radiation dose must be large (i.e., greater than 0.7 Gray (Gy)A...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRadiation-Induced Skin Injuries to Patients  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5489635/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5489635/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govRadiation-Induced Skin Injuries to Patients - PMCby W Jaschke · 2017 · Cited by 148 — The most common prompt skin reaction is an e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5489635/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5489635/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govRadiation-Induced Skin Injuries to Patients - PMCby W Jaschke · 2017 · Cited by 148 — The most common prompt skin reaction is an e...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
+   Link:<a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/[media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brochure for Physicians: Cutaneous Radiation InjuryCRI can occur with radiation doses as low as 2 Gray (Gy) or 200 rads 2 and the sever...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/[media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brochure for Physicians: Cutaneous Radiation InjuryCRI can occur with radiation doses as low as 2 Gray (Gy) or 200 rads 2 and the sever...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Centers for Disease Control and Prevention  
-   Link: <a href="https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionThe agency&#x27;s main goal is the protection of public health and safety through the control and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionThe agency&#x27;s main goal is the protection of public health and safety through the control and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Encounter or Something Scarier?...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/15330338211039681" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15330338211039681</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReview of the Terminology Describing Ionizing Radiation...The early phase of the injury process is characterized by erythem...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/15330338211039681" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15330338211039681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReview of the Terminology Describing Ionizing Radiation...The early phase of the injury process is characterized by erythem...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dermnetnz.org  
-   Link: <a href="https://dermnetnz.org/topics/radiation-dermatitis" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/radiation-dermatitis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation dermatitisRadiation dermatitis generally manifests within a few days to weeks after the start of radiotherapy. Its onset varies...</p></details>
+   Link:<a href="https://dermnetnz.org/topics/radiation-dermatitis" target="_blank" rel="noopener noreferrer nofollow">https://dermnetnz.org/topics/radiation-dermatitis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation dermatitisRadiation dermatitis generally manifests within a few days to weeks after the start of radiotherapy. Its onset varies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>management of the acute radiation syndrome - PMCby M López · 2011 · Cited by 214 — Acute changes, which are seen within the first 2 month...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3863169/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>management of the acute radiation syndrome - PMCby M López · 2011 · Cited by 214 — Acute changes, which are seen within the first 2 month...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdcfoundation.org  
-   Link: <a href="https://www.cdcfoundation.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdcfoundation.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC FoundationThe CDC Foundation is a global nonprofit, managing public health programs that impact chronic and infectious diseases and e...</p></details>
+   Link:<a href="https://www.cdcfoundation.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdcfoundation.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CDC FoundationThe CDC Foundation is a global nonprofit, managing public health programs that impact chronic and infectious diseases and e...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medbox.org  
-   Link: <a href="https://medbox.org/document/cutaneous-radiation-injury-a-brochure-for-physicians" target="_blank" rel="noopener noreferrer nofollow">https://medbox.org/document/cutaneous-radiation-injury-a-brochure-for-physicians</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injury: A Brochure for PhysiciansAcute radiation syndrome (ARS) 1 will usually be accompanied by some skin damage; ho...</p></details>
+   Link:<a href="https://medbox.org/document/cutaneous-radiation-injury-a-brochure-for-physicians" target="_blank" rel="noopener noreferrer nofollow">https://medbox.org/document/cutaneous-radiation-injury-a-brochure-for-physicians</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injury: A Brochure for PhysiciansAcute radiation syndrome (ARS) 1 will usually be accompanied by some skin damage; ho...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/centers-for-disease-control-and-prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/centers-for-disease-control-and-prevention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s health protection agency - saving lives, protecting people from health thre...</p></details>
+   Link:<a href="https://www.linkedin.com/company/centers-for-disease-control-and-prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/centers-for-disease-control-and-prevention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s health protection agency - saving lives, protecting people from health thre...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gpposner.com  
-   Link: <a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cident, continuing issues with upset stomach, diarrhea, fatigue, and severe...Read more...</p></details>
+   Link:<a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cident, continuing issues with upset stomach, diarrhea, fatigue, and severe...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, weeping skin lesions, and dangerously plummeting white blood...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, weeping skin lesions, and dangerously plummeting white blood...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Vickie and her Grandson continued to suffer from weakness and had skin sores and...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Vickie and her Grandson continued to suffer from weakness and had skin sores and...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: my.clevelandclinic.org  
-   Link: <a href="https://my.clevelandclinic.org/health/diseases/21995-radiation-burns" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/diseases/21995-radiation-burns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burn (Dermatitis): Symptoms &amp; Treatment24 Sept 2024 — Reddening of white skin or darkening of black or brown skin...</p></details>
+   Link:<a href="https://my.clevelandclinic.org/health/diseases/21995-radiation-burns" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/diseases/21995-radiation-burns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burn (Dermatitis): Symptoms &amp; Treatment24 Sept 2024 — Reddening of white skin or darkening of black or brown skin...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufology-news.com  
    Title: The Cash Landrum Incident J.Schuessler  
-   Link: <a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Her condition was as follows; eyes set back and dark rings under her...</p></details>
+   Link:<a href="https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/The_Cash-Landrum_Incident_-_J.Schuessler.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH-LANDRUM UFO INCIDENTby JF Schuessler · 1998 · Cited by 5 — Her condition was as follows; eyes set back and dark rings under her...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: radiationready.org  
-   Link: <a href="https://www.radiationready.org/wp-content/uploads/2012/02/Radiation-Injury-Fact-Sheets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.radiationready.org/wp-content/uploads/2012/02/Radiation-Injury-Fact-Sheets.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injury: Fact Sheet for Physicians29 Jun 2005 — Late erythema (time of onset: 8–20 weeks postexposure; threshold dose...</p></details>
+   Link:<a href="https://www.radiationready.org/wp-content/uploads/2012/02/Radiation-Injury-Fact-Sheets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.radiationready.org/wp-content/uploads/2012/02/Radiation-Injury-Fact-Sheets.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injury: Fact Sheet for Physicians29 Jun 2005 — Late erythema (time of onset: 8–20 weeks postexposure; threshold dose...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wikidoc.org  
    Title: Radiation injury classification  
-   Link: <a href="https://www.wikidoc.org/index.php/Radiation_injury_classification" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Radiation_injury_classification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Mar 2013 — Injury to the skin and underlying tissues from acute exposure to a large external dose of radiation is referred to as cutane...</p></details>
+   Link:<a href="https://www.wikidoc.org/index.php/Radiation_injury_classification" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Radiation_injury_classification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Mar 2013 — Injury to the skin and underlying tissues from acute exposure to a large external dose of radiation is referred to as cutane...</p></details>

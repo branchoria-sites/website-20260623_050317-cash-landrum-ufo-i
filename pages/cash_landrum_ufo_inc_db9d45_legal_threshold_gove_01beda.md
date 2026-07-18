@@ -456,9 +456,9 @@ That distinction matters because “unexplained” is not the same thing as “l
 
 ## The Court Was Not Asked to Identify the UFO
 
-The Cash-Landrum incident entered court as a personal-injury claim, not as a public inquiry into unidentified aerial phenomena. Betty Cash, Vickie Landrum, and Colby Landrum alleged that they had been harmed after encountering a heat-emitting object near Dayton, Texas, on 29 December 1980, and that military-style helicopters seen with or near it showed government responsibility. By 1985, UPI reported that Judge Ross Sterling was considering written arguments on a government motion to dismiss their $20 million lawsuit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">Three suing government over UFO radiation - UPI Archives3 Sept 1985 — U.S. District Judge Ross Sterling said Tuesday he would consider...</span></span></span>
+The Cash-Landrum incident entered court as a personal-injury claim, not as a public inquiry into unidentified aerial phenomena. Betty Cash, Vickie Landrum, and Colby Landrum alleged that they had been harmed after encountering a heat-emitting object near Dayton, Texas, on 29 December 1980, and that military-style helicopters seen with or near it showed government responsibility. By 1985, UPI reported that Judge Ross Sterling was considering written arguments on a government motion to dismiss their $20 million lawsuit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Three suing government over UFO radiation</span><span class="citation-popover-snippet">Three suing government over UFO radiation - UPI Archives3 Sept 1985 — U.S. District Judge Ross Sterling said Tuesday he would consider...</span></span></span>
 
-The courtroom issue was therefore not “did something unexplained happen?” It was whether the plaintiffs could move from reported experience to legal attribution. A later case guide summarises the dismissal as resting on the absence of evidence that the craft was a United States government vehicle, with the Army and Air Force denying knowledge of such a craft or the accompanying helicopters in sworn statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nowdeclassified.com/guides/cash-landrum-incident-1980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nowdeclassified.com">[Now Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nowdeclassified.com</span><span class="citation-popover-title">cash landrum incident 1980</span><span class="citation-popover-snippet">Now DeclassifiedThe Cash-Landrum Incident 1980 — UAP Physical Injuries and the U.S. Government Lawsuit &#124; Now Declassified...</span></span></span>
+The courtroom issue was therefore not “did something unexplained happen?” It was whether the plaintiffs could move from reported experience to legal attribution. A later case guide summarises the dismissal as resting on the absence of evidence that the craft was a United States government vehicle, with the Army and Air Force denying knowledge of such a craft or the accompanying helicopters in sworn statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nowdeclassified.com/guides/cash-landrum-incident-1980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nowdeclassified.com">[Now Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nowdeclassified.com</span><span class="citation-popover-title">cash landrum incident 1980</span><span class="citation-popover-snippet">Now DeclassifiedThe Cash-Landrum Incident 1980 — UAP Physical Injuries and the U.S. Government Lawsuit &#124; Now Declassified...</span></span></span>
 
 That is why the dismissal is easy to misunderstand. The court did not need to prove that the witnesses were lying, that the injuries were imaginary, or that the object was ordinary. A plaintiff suing the United States has to show a legally actionable connection to the United States. If that link is absent, a court can dismiss without deciding the full factual mystery.
 
@@ -466,7 +466,7 @@ That is why the dismissal is easy to misunderstand. The court did not need to pr
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda-Illustration-1-dark.svg" | relative_url }}" alt="Legal Test illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Narrow Legal Question
 
-The Cash-Landrum claim appears to have been framed around the Federal Tort Claims Act, the main route by which injured people can sue the United States for certain wrongful or negligent acts by federal employees. The key statutory idea is specific: federal district courts have jurisdiction over money-damages claims for personal injury caused by a negligent or wrongful act or omission of a government employee acting within the scope of official employment, in circumstances where a private person would be liable under local law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.cornell.edu/uscode/text/28/1346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute28 U.S</span><span class="citation-popover-snippet">Code § 1346 - United States as defendantThe district courts shall have original jurisdiction of any civil action against the United State...</span></span></span>
+The Cash-Landrum claim appears to have been framed around the Federal Tort Claims Act, the main route by which injured people can sue the United States for certain wrongful or negligent acts by federal employees. The key statutory idea is specific: federal district courts have jurisdiction over money-damages claims for personal injury caused by a negligent or wrongful act or omission of a government employee acting within the scope of official employment, in circumstances where a private person would be liable under local law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.cornell.edu/uscode/text/28/1346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute28 U.S</span><span class="citation-popover-snippet">Code § 1346 - United States as defendantThe district courts shall have original jurisdiction of any civil action against the United State...</span></span></span>
 
 That wording explains Sterling’s threshold. The plaintiffs did not merely need to show:
 
@@ -482,7 +482,7 @@ That wording explains Sterling’s threshold. The plaintiffs did not merely need
 
 They needed evidence that the relevant object or [aircraft]({{ 'aircraft/' | relative_url }}) were tied to federal personnel or a federal agency acting within official duties. Without that, the lawsuit lacked the necessary government defendant in a legal sense, even if the underlying event remained puzzling.
 
-This is also why the government’s argument focused on attribution. A later Texas article, referring to the archived 1985 coverage, quotes Assistant U.S. Attorney Frank Conforti’s point that the complaint did not say the UFO was owned or controlled by the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysanantonio.com">[MySA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysanantonio.com</span><span class="citation-popover-title">My SAThe 5 most famous UFO sightings in Texas&#x27; history</span><span class="citation-popover-snippet">The Cash-Landrum Incident is one of... Assistant U.S. Attorney Frank Conforti says in the archived article.Read more...</span></span></span> In practical terms, that was not a side issue. It was the hinge of the case.
+This is also why the government’s argument focused on attribution. A later Texas article, referring to the archived 1985 coverage, quotes Assistant U.S. Attorney Frank Conforti’s point that the complaint did not say the UFO was owned or controlled by the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysanantonio.com">[MySA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysanantonio.com</span><span class="citation-popover-title">My SAThe 5 most famous UFO sightings in Texas&#x27; history</span><span class="citation-popover-snippet">The Cash-Landrum Incident is one of... Assistant U.S. Attorney Frank Conforti says in the archived article.Read more...</span></span></span> In practical terms, that was not a side issue. It was the hinge of the case.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZuGIqV96SPs" title="The Cash-Landrum Incident &amp; UFO Injuries, Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZuGIqV96SPs" target="_blank" rel="noopener noreferrer">The Cash-Landrum Incident &amp; UFO Injuries, Part 2</a></p><p class="youtube-embed-meta">Channel: SomethingWicked</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZuGIqV96SPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZuGIqV96SPs">Open on YouTube</a></p></div></div></div>
@@ -491,9 +491,9 @@ This is also why the government’s argument focused on attribution. A later Tex
 
 The witnesses’ strongest legal theory rested on the reported helicopters. The object itself was unidentified, but the helicopters were described as military-style, with some accounts identifying tandem-rotor Chinook-type craft. If those helicopters could be connected to a military unit, mission, or chain of command, the plaintiffs would have had a possible route towards government responsibility.
 
-That route required more than visual recognition. A court would normally look for evidence such as flight records, unit logs, official admissions, maintenance or dispatch records, radar data, named personnel, matching operational orders, or witness testimony capable of identifying a specific government operation. The problem was that the available material did not establish that link. Blue Blurry Lines’ case chronology notes that the Department of the Army Inspector General investigation, led by Lt Col George C. Sarran, reported no evidence of military helicopters being involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+That route required more than visual recognition. A court would normally look for evidence such as flight records, unit logs, official admissions, maintenance or dispatch records, radar data, named personnel, matching operational orders, or witness testimony capable of identifying a specific government operation. The problem was that the available material did not establish that link. Blue Blurry Lines’ case chronology notes that the Department of the Army Inspector General investigation, led by Lt Col George C. Sarran, reported no evidence of military helicopters being involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The same source identifies the legal actors in Civil Action No. H-84-3488 and records that Judge Sterling dismissed the case on 21 August 1986 without trial, with two factors figuring heavily: lack of evidence and military statements that they did not operate a vehicle resembling the UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span> A contemporary MUFON Journal page from August 1986 also shows that, shortly before dismissal, the plaintiffs’ counsel had responded to the government’s dismissal motion and that the dispute was centred on whether government responsibility for the witnesses’ injuries could be established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-snippet">Project Aquarius</span></span></span>
+The same source identifies the legal actors in Civil Action No. H-84-3488 and records that Judge Sterling dismissed the case on 21 August 1986 without trial, with two factors figuring heavily: lack of evidence and military statements that they did not operate a vehicle resembling the UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span> A contemporary MUFON Journal page from August 1986 also shows that, shortly before dismissal, the plaintiffs’ counsel had responded to the government’s dismissal motion and that the dispute was centred on whether government responsibility for the witnesses’ injuries could be established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-snippet">Project Aquarius</span></span></span>
 
 That is the evidentiary gap at the heart of Sterling’s threshold: the case had claims of injury and claims of military-looking aircraft, but not proof tying those aircraft or the object to a federal operator.
 
@@ -505,16 +505,16 @@ The phrase “unidentified flying object” can make the legal issue sound backw
 
 For a federal tort claim, uncertainty does not automatically count against the government. The plaintiff must supply enough evidence to cross the line from suspicion to proof. That is why the Cash-Landrum dismissal did not require a mundane explanation for the sighting. The government could win at the threshold by showing that the plaintiffs had not connected the alleged vehicle or helicopters to the United States.
 
-This is also where the discretionary-function issue, often mentioned in summaries of the lawsuit, should not be overstated. The Federal Tort Claims Act contains exceptions, including protection for certain discretionary government functions; the Justice Department’s own guidance treats the discretionary-function exception as a specialised defence requiring internal approval before an Assistant U.S. Attorney raises it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Justice Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Justice DepartmentJustice Manual &#124; 4-5.000 - Tort LitigationFebruary 20, 2015 — The AUSA must obtain approval from the appropriate FTCA S...</span><span class="citation-popover-meta">Published: February 20, 2015</span></span></span> But in the Cash-Landrum case, the more basic barrier came first: before a court needed to decide whether a classified operation might be protected, the plaintiffs had to prove that there was a government operation at all.
+This is also where the discretionary-function issue, often mentioned in summaries of the lawsuit, should not be overstated. The Federal Tort Claims Act contains exceptions, including protection for certain discretionary government functions; the Justice Department’s own guidance treats the discretionary-function exception as a specialised defence requiring internal approval before an Assistant U.S. Attorney raises it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Justice Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Justice DepartmentJustice Manual &#124; 4-5.000 - Tort LitigationFebruary 20, 2015 — The AUSA must obtain approval from the appropriate FTCA S...</span><span class="citation-popover-meta">Published: February 20, 2015</span></span></span> But in the Cash-Landrum case, the more basic barrier came first: before a court needed to decide whether a classified operation might be protected, the plaintiffs had to prove that there was a government operation at all.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OQuzLC10gn0" title="Scorched Earth: The 1980 Cash-Landrum UFO Mystery (SC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OQuzLC10gn0" target="_blank" rel="noopener noreferrer">Scorched Earth: The 1980 Cash-Landrum UFO Mystery (SC)</a></p><p class="youtube-embed-meta">Channel: The Future Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OQuzLC10gn0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OQuzLC10gn0">Open on YouTube</a></p></div></div></div>
 
 ## The Helicopter Problem
 
-The helicopters remain the most important factual bridge between the UFO narrative and the lawsuit. They are also where the legal claim became most vulnerable. Several accounts describe the witnesses as repeatedly insisting that military helicopters surrounded or followed the object, and the August 1986 MUFON Journal page says this belief drove their efforts to seek help from Congress, military bases, agencies, and finally the federal court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-snippet">Project Aquarius</span></span></span>
+The helicopters remain the most important factual bridge between the UFO narrative and the lawsuit. They are also where the legal claim became most vulnerable. Several accounts describe the witnesses as repeatedly insisting that military helicopters surrounded or followed the object, and the August 1986 MUFON Journal page says this belief drove their efforts to seek help from Congress, military bases, agencies, and finally the federal court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-snippet">Project Aquarius</span></span></span>
 
-Yet a court needed more than a sincere identification. Military-style aircraft can be misidentified, their markings may be unclear at night, and even an accurate description of a model type does not by itself prove which agency operated it on a specific evening. Blue Blurry Lines notes that Allan Hendry investigated the possible origin of the helicopters, and that the later Army Inspector General inquiry reported no evidence tying them to the military. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Yet a court needed more than a sincere identification. Military-style aircraft can be misidentified, their markings may be unclear at night, and even an accurate description of a model type does not by itself prove which agency operated it on a specific evening. Blue Blurry Lines notes that Allan Hendry investigated the possible origin of the helicopters, and that the later Army Inspector General inquiry reported no evidence tying them to the military.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 The result was a classic proof problem. The helicopters were central to the witnesses’ belief that the government was involved, but they did not become legally sufficient evidence of [government control]({{ 'control-test/' | relative_url }}). In ordinary public debate, “military-looking helicopters were there” may feel persuasive. In court, the question becomes: which helicopters, flown by whom, under whose authority, and proved by what records?
 
@@ -540,194 +540,194 @@ That does not mean every unexplained case is false. It means liability law is bu
 For readers trying to understand the case today, the cleanest takeaway is this: Judge Ross Sterling did not rule on what the UFO was. He ruled, in effect, that government responsibility had not been proved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Court Actually Decide?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Court Actually Decide?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official UFO-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official UFO-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful background for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A civil action on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253819-M.jpg" alt="Cover for A civil action" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A civil action">A civil action</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Harr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A civil action on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253819-M.jpg" alt="Cover for A civil action" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A civil action">A civil action</a>
+</h4>
+<p class="fr-book-author">By Jonathan Harr</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Trials, litigation, W.R. Grace &amp; Co, Law and legislation, Drinking water, Groundwater.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Trials, litigation, W.R. Grace &amp; Co, Law and legislation, Drinking water, Groundwater.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+civil+action&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A civil action</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+civil+action&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A civil action</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="legal-test-what-did-the-court-actually-decide-cash-landrum-ufo-incident-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -743,7 +743,7 @@ For readers trying to understand the case today, the cleanest takeaway is this: 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -763,7 +763,7 @@ For readers trying to understand the case today, the cleanest takeaway is this: 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -795,7 +795,7 @@ For readers trying to understand the case today, the cleanest takeaway is this: 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -847,7 +847,7 @@ For readers trying to understand the case today, the cleanest takeaway is this: 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -892,7 +892,7 @@ For readers trying to understand the case today, the cleanest takeaway is this: 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -933,113 +933,113 @@ For readers trying to understand the case today, the cleanest takeaway is this: 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: upi.com  
    Title: Three suing government over UFO [radiation](&#123;&#123; 'radiation/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three suing government over UFO radiation - UPI Archives3 Sept 1985 — U.S. District Judge Ross Sterling said Tuesday he would consider...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three suing government over UFO radiation - UPI Archives3 Sept 1985 — U.S. District Judge Ross Sterling said Tuesday he would consider...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: projectaquarius.mufon.com  
    Title: Project Aquarius  
-   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf</a>  
+   Link:<a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/August_1986.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-4-5000-tort-litigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justice DepartmentJustice Manual | 4-5.000 - Tort LitigationFebruary 20, 2015 — The AUSA must obtain approval from the appropriate FTCA S...</p></details>
+   Link:<a href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-4-5000-tort-litigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justice DepartmentJustice Manual | 4-5.000 - Tort LitigationFebruary 20, 2015 — The AUSA must obtain approval from the appropriate FTCA S...</p></details>
    Published: February 20, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OQuzLC10gn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OQuzLC10gn0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident | Case #076...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OQuzLC10gn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OQuzLC10gn0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident | Case #076...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident | Case #076  
-   Link: <a href="https://www.youtube.com/watch?v=_oluZcx1VSM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_oluZcx1VSM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Cash Landrum UFO incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) lawsuit court dismissal The Cash-Landrum Incident &amp; UFO Injuries, Part 2 SomethingWicked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_oluZcx1VSM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_oluZcx1VSM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Cash Landrum UFO incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) lawsuit court dismissal The Cash-Landrum Incident &amp; UFO Injuries, Part 2 SomethingWicked...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nowdeclassified.com  
    Title: cash landrum incident 1980  
-   Link: <a href="https://www.nowdeclassified.com/guides/cash-landrum-incident-1980" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides/cash-landrum-incident-1980</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Now DeclassifiedThe Cash-Landrum Incident 1980 — UAP Physical Injuries and the U.S. Government Lawsuit | Now Declassified...</p></details>
+   Link:<a href="https://www.nowdeclassified.com/guides/cash-landrum-incident-1980" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides/cash-landrum-incident-1980</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now DeclassifiedThe Cash-Landrum Incident 1980 — UAP Physical Injuries and the U.S. Government Lawsuit | Now Declassified...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: law.cornell.edu  
    Title: Legal Information Institute28 U.S  
-   Link: <a href="https://www.law.cornell.edu/uscode/text/28/1346" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/uscode/text/28/1346</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Code § 1346 - United States as defendantThe district courts shall have original jurisdiction of any civil action against the United State...</p></details>
+   Link:<a href="https://www.law.cornell.edu/uscode/text/28/1346" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/uscode/text/28/1346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Code § 1346 - United States as defendantThe district courts shall have original jurisdiction of any civil action against the United State...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mysanantonio.com  
    Title: My SAThe 5 most famous UFO sightings in Texas' history  
-   Link: <a href="https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php" target="_blank" rel="noopener noreferrer nofollow">https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident is one of... Assistant U.S. Attorney Frank Conforti says in the archived article.Read more...</p></details>
+   Link:<a href="https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php" target="_blank" rel="noopener noreferrer nofollow">https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident is one of... Assistant U.S. Attorney Frank Conforti says in the archived article.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: law.cornell.edu  
-   Link: <a href="https://www.law.cornell.edu/uscode/text/28/2680" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/uscode/text/28/2680</a>  
+   Link:<a href="https://www.law.cornell.edu/uscode/text/28/2680" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/uscode/text/28/2680</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: law.cornell.edu  
-   Link: <a href="https://www.law.cornell.edu/category/keywords/28-usc-ss-2680" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/category/keywords/28-usc-ss-2680</a>  
+   Link:<a href="https://www.law.cornell.edu/category/keywords/28-usc-ss-2680" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/category/keywords/28-usc-ss-2680</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: The Cash-Landrum Case  
-   Link: <a href="https://www.facebook.com/ufoinsightcom/posts/the-cash-landrum-case-one-of-the-most-important-in-history-from-the-ufo-insight-/217906963935263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufoinsightcom/posts/the-cash-landrum-case-one-of-the-most-important-in-history-from-the-ufo-insight-/217906963935263/</a>  
+   Link:<a href="https://www.facebook.com/ufoinsightcom/posts/the-cash-landrum-case-one-of-the-most-important-in-history-from-the-ufo-insight-/217906963935263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufoinsightcom/posts/the-cash-landrum-case-one-of-the-most-important-in-history-from-the-ufo-insight-/217906963935263/</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over Texas — And What It Did to Them — Ep. 47...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=euP0SnHKfg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=euP0SnHKfg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over Texas — And What It Did to Them — Ep. 47...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentThe Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesse...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum incidentThe Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesse...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3siEPUpA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scorched Earth: The 1980 Cash-Landrum UFO Mystery (SC)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3siEPUpA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scorched Earth: The 1980 Cash-Landrum UFO Mystery (SC)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident & UFO Injuries, Part 2  
-   Link: <a href="https://www.youtube.com/watch?v=ZuGIqV96SPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZuGIqV96SPs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZuGIqV96SPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZuGIqV96SPs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas. The Government Said It Never Happened...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1607582/000119312516633301/d213889dpartiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1607582/000119312516633301/d213889dpartiiandiii.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1607582/000119312516633301/d213889dpartiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1607582/000119312516633301/d213889dpartiiandiii.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: acus.gov  
-   Link: <a href="https://www.acus.gov/report/discretionary-function-exception-federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow">https://www.acus.gov/report/discretionary-function-exception-federal-tort-claims-act</a>  
+   Link:<a href="https://www.acus.gov/report/discretionary-function-exception-federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow">https://www.acus.gov/report/discretionary-function-exception-federal-tort-claims-act</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title28%2Fpart6%2Fchapter171" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title28%2Fpart6%2Fchapter171</a>  
+   Link:<a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title28%2Fpart6%2Fchapter171" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title28%2Fpart6%2Fchapter171</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: crb.gov  
-   Link: <a href="https://www.crb.gov/proceedings/14-CRB-0001-WR/rebuttals/NAB%20PUBLIC/NAB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.crb.gov/proceedings/14-CRB-0001-WR/rebuttals/NAB%20PUBLIC/NAB.pdf</a>  
+   Link:<a href="https://www.crb.gov/proceedings/14-CRB-0001-WR/rebuttals/NAB%20PUBLIC/NAB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.crb.gov/proceedings/14-CRB-0001-WR/rebuttals/NAB%20PUBLIC/NAB.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/45497950/[Timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45497950/[Timeline</a>  
+   Link:<a href="https://www.academia.edu/45497950/[Timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45497950/[Timeline</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WKRCTV/posts/a-local-couple-is-awarded-25-million-in-their-wrongful-death-lawsuit-against-tql/1375094641331414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRCTV/posts/a-local-couple-is-awarded-25-million-in-their-wrongful-death-lawsuit-against-tql/1375094641331414/</a>  
+   Link:<a href="https://www.facebook.com/WKRCTV/posts/a-local-couple-is-awarded-25-million-in-their-wrongful-death-lawsuit-against-tql/1375094641331414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRCTV/posts/a-local-couple-is-awarded-25-million-in-their-wrongful-death-lawsuit-against-tql/1375094641331414/</a>  

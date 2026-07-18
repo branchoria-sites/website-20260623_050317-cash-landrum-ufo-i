@@ -456,13 +456,13 @@ That does not make Colby’s memory worthless. It means it should not be used as
 
 ## What Colby Reportedly Remembered
 
-The cleanest early source for Colby’s own words is the 17 August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, conducted about eight months after the reported 29 December 1980 encounter. The transcript identifies Colby as present with Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and records him giving his age as seven, with his eighth birthday coming in January. Vickie also stated that Colby lived with her and that she had custody of him, an important point because she was not merely a relative in the car but his everyday guardian. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+The cleanest early source for Colby’s own words is the 17 August 1981 [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base interview, conducted about eight months after the reported 29 December 1980 encounter. The transcript identifies Colby as present with Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) and records him giving his age as seven, with his eighth birthday coming in January. Vickie also stated that Colby lived with her and that she had custody of him, an important point because she was not merely a relative in the car but his everyday guardian.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-When officers turned directly to Colby, his description was notably simple. Asked what he saw, he did not launch into a polished UFO narrative; he said he did not know what it was, only that it was “some kind of object”. He described its colour as yellowish-red and estimated that it remained visible for about 15 to 20 minutes. Asked how he felt when he saw it, he said he was wondering what it was. That restraint matters: the child’s direct statement, at least in this recorded setting, was not full of elaborate claims about alien occupants, secret technology, or technical behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
+When officers turned directly to Colby, his description was notably simple. Asked what he saw, he did not launch into a polished UFO narrative; he said he did not know what it was, only that it was “some kind of object”. He described its colour as yellowish-red and estimated that it remained visible for about 15 to 20 minutes. Asked how he felt when he saw it, he said he was wondering what it was. That restraint matters: the child’s direct statement, at least in this recorded setting, was not full of elaborate claims about alien occupants, secret technology, or technical behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
 
-His account of bodily effects was also mixed. He said he did not feel anything until the next morning, then described what he called a “bad virus”, stomach pain, diarrhoea, possible but uncertain vomiting, a small area of hair loss, red eyes when swimming, sunburning in sunlight, and some blistering that he could not initially recall without prompting. The interview is useful because it preserves both remembered details and hesitation: at one point, when asked about his face after the incident, he said he did not remember because it had been so long. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
+His account of bodily effects was also mixed. He said he did not feel anything until the next morning, then described what he called a “bad virus”, stomach pain, diarrhoea, possible but uncertain vomiting, a small area of hair loss, red eyes when swimming, sunburning in sunlight, and some blistering that he could not initially recall without prompting. The interview is useful because it preserves both remembered details and hesitation: at one point, when asked about his face after the incident, he said he did not remember because it had been so long.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
 
-That same interview also shows how Colby’s account sat inside an adult-managed environment. Before he was questioned, Vickie said she had told Colby not to tell anyone. After his medical answers, she explained that she had mostly treated him at home, apart from his eyes, because of money pressures and because she did not want to put him through extensive medical procedures when doctors had not resolved Betty Cash’s condition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
+That same interview also shows how Colby’s account sat inside an adult-managed environment. Before he was questioned, Vickie said she had told Colby not to tell anyone. After his medical answers, she explained that she had mostly treated him at home, apart from his eyes, because of money pressures and because she did not want to put him through extensive medical procedures when doctors had not resolved Betty Cash’s condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-Illustration-1-dark.svg" | relative_url }}" alt="Colby illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -470,9 +470,9 @@ That same interview also shows how Colby’s account sat inside an adult-managed
 
 Colby’s role matters because the Cash-Landrum case partly depends on whether three people independently experienced the same terrifying event or whether one developing family story hardened over time. A child in the car can strengthen a case if his memory preserves details the adults did not supply. But a child witness can also become especially vulnerable to co-witness influence, repeated retelling, leading questions, and adult interpretation.
 
-Modern eyewitness research does not support the crude idea that children are simply unreliable. It supports a more careful distinction: children can remember central features of emotionally significant events, but memory is not a recording, and later questioning or outside information can reshape what is reported. A broad psychology overview by Cara Laney and Elizabeth Loftus explains that eyewitness accounts involve not just the event itself but everything between the event and later retelling, including interviews, repeated descriptions, and interaction with other people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-title">Noba Eyewitness Testimony and Memory Biases &#124; Noba</span><span class="citation-popover-snippet">Noba Eyewitness Testimony and Memory Biases &#124; Noba</span></span></span>
+Modern eyewitness research does not support the crude idea that children are simply unreliable. It supports a more careful distinction: children can remember central features of emotionally significant events, but memory is not a recording, and later questioning or outside information can reshape what is reported. A broad psychology overview by Cara Laney and Elizabeth Loftus explains that eyewitness accounts involve not just the event itself but everything between the event and later retelling, including interviews, repeated descriptions, and interaction with other people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-title">Noba Eyewitness Testimony and Memory Biases &#124; Noba</span><span class="citation-popover-snippet">Noba Eyewitness Testimony and Memory Biases &#124; Noba</span></span></span>
 
-That distinction fits Colby unusually well. His early direct comments were sparse and centred on a few vivid features: a coloured object, a long duration, illness afterwards, and later sensitivity or fear. The bigger narrative around him, however, was not sparse. By 1981 the case involved UFO investigators, Air Force claims officers, senators, medical interpretations, media attention, and a developing government-liability theory. Blue Blurry Lines, which collects and critiques Cash-Landrum documents, notes that the case has a “wealth of documentation” but also argues that the story changed through ufologist involvement, even while acknowledging that an Army investigator found the witnesses credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+That distinction fits Colby unusually well. His early direct comments were sparse and centred on a few vivid features: a coloured object, a long duration, illness afterwards, and later sensitivity or fear. The bigger narrative around him, however, was not sparse. By 1981 the case involved UFO investigators, Air Force claims officers, senators, medical interpretations, media attention, and a developing government-liability theory. Blue Blurry Lines, which collects and critiques Cash-Landrum documents, notes that the case has a “wealth of documentation” but also argues that the story changed through ufologist involvement, even while acknowledging that an Army investigator found the witnesses credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 The child witness question, then, is not “Was Colby lying?” A better question is: which parts of Colby’s memory look like direct experience, and which parts look like later interpretation layered onto that experience?
 
@@ -483,13 +483,13 @@ The child witness question, then, is not “Was Colby lying?” A better questio
 
 The most persuasive parts of Colby’s perspective are the parts that are broad, sensory, emotionally plausible, and not overly convenient.
 
-First, his early statement does not over-explain the object. “Some kind of object” is exactly the kind of answer one might expect from a child trying to describe something outside his categories. It is less rhetorically useful than a confident label, but for credibility assessment that can be a point in its favour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
+First, his early statement does not over-explain the object. “Some kind of object” is exactly the kind of answer one might expect from a child trying to describe something outside his categories. It is less rhetorically useful than a confident label, but for credibility assessment that can be a point in its favour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
 
-Second, he did not claim immediate physical sensations under pressure to do so. When asked what happened to his body when he looked at the object, he said he did not feel anything until the next morning. That answer complicates a simple heat-injury narrative, but it also suggests he was not merely echoing the adults’ strongest claims in the moment of questioning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
+Second, he did not claim immediate physical sensations under pressure to do so. When asked what happened to his body when he looked at the object, he said he did not feel anything until the next morning. That answer complicates a simple heat-injury narrative, but it also suggests he was not merely echoing the adults’ strongest claims in the moment of questioning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
 
-Third, his later fear of helicopters appears in several accounts and is psychologically coherent with the story he and the adults told. In the [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}), Vickie described a later Dayton helicopter appearance that upset him badly because he thought the “thing” was coming back. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span> A later article also describes his childhood aftermath in terms of nightmares, vomiting, bullying, and a sense that the incident followed him socially as well as physically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lifeinjonestown.substack.com/p/the-last-living-witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifeinjonestown.substack.com">[Life in Jonestown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifeinjonestown.substack.com</span><span class="citation-popover-title">Life in Jonestown The last living witness</span><span class="citation-popover-snippet">Life in JonestownThe last living witness - by Billy Cox - Life in Jonestown...</span></span></span>
+Third, his later fear of helicopters appears in several accounts and is psychologically coherent with the story he and the adults told. In the [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}), Vickie described a later Dayton helicopter appearance that upset him badly because he thought the “thing” was coming back.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span> A later article also describes his childhood aftermath in terms of nightmares, vomiting, bullying, and a sense that the incident followed him socially as well as physically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lifeinjonestown.substack.com/p/the-last-living-witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifeinjonestown.substack.com">[Life in Jonestown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifeinjonestown.substack.com</span><span class="citation-popover-title">Life in Jonestown The last living witness</span><span class="citation-popover-snippet">Life in JonestownThe last living witness - by Billy Cox - Life in Jonestown...</span></span></span>
 
-Fourth, as an adult he did not entirely replace the memory with a neat expert account. In a 2013 interview discussed by Curt Collins, Colby was reportedly asked to recount events as he remembered them and to leave out what he had only heard later. Collins judged that he was frank about gaps, emotional impact, and anger, while also noting that Colby had no evidence for his belief that the object was under military control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Fourth, as an adult he did not entirely replace the memory with a neat expert account. In a 2013 interview discussed by Curt Collins, Colby was reportedly asked to recount events as he remembered them and to leave out what he had only heard later. Collins judged that he was frank about gaps, emotional impact, and anger, while also noting that Colby had no evidence for his belief that the object was under military control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-Illustration-2-dark.svg" | relative_url }}" alt="Colby illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -497,24 +497,24 @@ Fourth, as an adult he did not entirely replace the memory with a neat expert ac
 
 The largest caution is that Colby’s memory was never isolated from the adults’ story. He lived with Vickie, was told not to discuss the event, and later saw the case become a public controversy. Even a sincere child can absorb adult explanations, especially when adults are frightened, ill, and searching for an accountable cause.
 
-The Bergstrom interview itself contains examples of questioning that mixed open prompts with leading or suggestive detail. Colby first said he did not remember what happened to his face; the officer then asked whether he had a blister on the side of his face, after which Colby paused and agreed “a little bit”. That does not prove the symptom was invented, but it weakens the value of that specific detail as an independent memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
+The Bergstrom interview itself contains examples of questioning that mixed open prompts with leading or suggestive detail. Colby first said he did not remember what happened to his face; the officer then asked whether he had a blister on the side of his face, after which Colby paused and agreed “a little bit”. That does not prove the symptom was invented, but it weakens the value of that specific detail as an independent memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
 
-The helicopter count is another weak point. The famous figure of 23 helicopters is often repeated as if it were a precise observation. But later discussion on Blue Blurry Lines notes that Vickie described counting with Colby partly as a way to occupy and pacify him, that Colby was said to have counted 23, and that Vickie allowed they might have miscounted. In the Bergstrom transcript, Vickie herself said she “might have counted more or less” and described a moving, nighttime scene in which aircraft were still appearing as they drove. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+The helicopter count is another weak point. The famous figure of 23 helicopters is often repeated as if it were a precise observation. But later discussion on Blue Blurry Lines notes that Vickie described counting with Colby partly as a way to occupy and pacify him, that Colby was said to have counted 23, and that Vickie allowed they might have miscounted. In the Bergstrom transcript, Vickie herself said she “might have counted more or less” and described a moving, nighttime scene in which aircraft were still appearing as they drove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-The long delay is also important. By the time of the Bergstrom interview, eight months had passed. By the 2013 interview, more than three decades had passed. In a comment on the 2013 interview, Collins made the useful distinction that Colby’s account seemed stronger when he stuck to what happened to him and weaker when he discussed later events or causes. Collins also noted that a fragment from February 1981 had Colby saying there was no sound to the object, whereas adult accounts often highlighted sounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/12/cash-landrum-witness-colby-landrum-live.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">cash landrum witness colby landrum live</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum Witness, Colby Landrum: 2013 Interview...</span></span></span>
+The long delay is also important. By the time of the Bergstrom interview, eight months had passed. By the 2013 interview, more than three decades had passed. In a comment on the 2013 interview, Collins made the useful distinction that Colby’s account seemed stronger when he stuck to what happened to him and weaker when he discussed later events or causes. Collins also noted that a fragment from February 1981 had Colby saying there was no sound to the object, whereas adult accounts often highlighted sounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/12/cash-landrum-witness-colby-landrum-live.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">cash landrum witness colby landrum live</span><span class="citation-popover-snippet">Blue Blurry Lines Blue Blurry Lines: Cash-Landrum Witness, Colby Landrum: 2013 Interview...</span></span></span>
 
-A final caution is social pressure. Colby was not just remembering an event; he was living with the consequences of being known as a child in a sensational UFO case. Billy Cox’s 2022 interview describes him recalling school bullying, fights, and the “alien kid” label after media coverage made the story public. That kind of aftermath can preserve a memory’s emotional force while also making it harder to separate the original experience from years of humiliation, anger, and retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lifeinjonestown.substack.com/p/the-last-living-witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifeinjonestown.substack.com">[Life in Jonestown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifeinjonestown.substack.com</span><span class="citation-popover-title">Life in Jonestown The last living witness</span><span class="citation-popover-snippet">Life in JonestownThe last living witness - by Billy Cox - Life in Jonestown...</span></span></span>
+A final caution is social pressure. Colby was not just remembering an event; he was living with the consequences of being known as a child in a sensational UFO case. Billy Cox’s 2022 interview describes him recalling school bullying, fights, and the “alien kid” label after media coverage made the story public. That kind of aftermath can preserve a memory’s emotional force while also making it harder to separate the original experience from years of humiliation, anger, and retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lifeinjonestown.substack.com/p/the-last-living-witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifeinjonestown.substack.com">[Life in Jonestown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifeinjonestown.substack.com</span><span class="citation-popover-title">Life in Jonestown The last living witness</span><span class="citation-popover-snippet">Life in JonestownThe last living witness - by Billy Cox - Life in Jonestown...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ukTVzsBOYUM" title="Rare interview with Colby Landrum on his 1980 UFO encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ukTVzsBOYUM" target="_blank" rel="noopener noreferrer">Rare interview with Colby Landrum on his 1980 UFO encounter</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ukTVzsBOYUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ukTVzsBOYUM">Open on YouTube</a></p></div></div></div>
 
 ## How His Account Fits the Adults’ Story
 
-Colby’s account supports the adults’ story most strongly at the level of basic event structure. He places himself with Betty and Vickie, describes an unusual yellowish-red object, gives a duration broadly compatible with the adult narrative, reports illness afterwards, and is linked by Vickie to later fear of similar helicopters. Those features make it difficult to dismiss him as a purely decorative witness added later; he was an active part of the case record by the 1981 Air Force interview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
+Colby’s account supports the adults’ story most strongly at the level of basic event structure. He places himself with Betty and Vickie, describes an unusual yellowish-red object, gives a duration broadly compatible with the adult narrative, reports illness afterwards, and is linked by Vickie to later fear of similar helicopters. Those features make it difficult to dismiss him as a purely decorative witness added later; he was an active part of the case record by the 1981 Air Force interview.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 1 of 2</span></span></span>
 
-Where he fits less securely is in the case’s sharper claims. His early words do not independently prove a military craft, radiation exposure, a specific helicopter number, or government responsibility. Even the later adult Colby account, as summarised by Collins, included the belief that the object was military but no evidence for that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+Where he fits less securely is in the case’s sharper claims. His early words do not independently prove a military craft, radiation exposure, a specific helicopter number, or government responsibility. Even the later adult Colby account, as summarised by Collins, included the belief that the object was military but no evidence for that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
-There is also an interesting tension around shape. Later summaries of the case often highlight the diamond-shaped object, and Colby’s adult recollection reportedly supported a diamond-shaped, fiery object with helicopters surrounding it. But critical summaries of early reporting note that the adults were initially less certain about the shape, with Colby sometimes presented as the one who insisted it looked like a diamond. That makes his role unusually important but also risky: a child’s vivid shape memory may preserve a real central impression, or it may become the seed around which a cleaner adult narrative later forms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+There is also an interesting tension around shape. Later summaries of the case often highlight the diamond-shaped object, and Colby’s adult recollection reportedly supported a diamond-shaped, fiery object with helicopters surrounding it. But critical summaries of early reporting note that the adults were initially less certain about the shape, with Colby sometimes presented as the one who insisted it looked like a diamond. That makes his role unusually important but also risky: a child’s vivid shape memory may preserve a real central impression, or it may become the seed around which a cleaner adult narrative later forms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 The best fit, therefore, is partial corroboration rather than full confirmation. Colby’s account helps show that the reported encounter was experienced, remembered, and suffered as a family event. It does not, by itself, settle what the object was.
 
@@ -529,7 +529,7 @@ Give weight to:
 * **Presence and fear:** he was in the car, was old enough to describe basic features, and appears to have carried fear of the event afterwards.
 * **Central sensory memory:** a coloured, fiery object and the impression of helicopters are consistent with the adult framework.
 * **Unpolished early answers:** his 1981 responses include uncertainty, limited vocabulary, and admissions of not remembering.
-* **Long-term impact:** later interviews suggest the event and the publicity around it became a defining childhood burden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
+* **Long-term impact:** later interviews suggest the event and the publicity around it became a defining childhood burden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span><span class="citation-popover-snippet">Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby Landrum, Part 2 of 2</span></span></span>
 
 Discount or treat cautiously:
 
@@ -539,7 +539,7 @@ Discount or treat cautiously:
 * **Exact numbers:** the 23-helicopter count is too vulnerable to darkness, movement, fear, counting-as-distraction, and later repetition.
 * **Medical causation:** Colby’s symptoms were reported, but his care was limited, and the child’s testimony cannot establish what caused them.
 * **Military responsibility:** his later belief in military control is understandable inside the family narrative but is not independent proof.
-* **Late detail:** adult recollections from 2013 and 2022 are valuable for human impact, but they are not as evidentially clean as early, uncontaminated statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
+* **Late detail:** adult recollections from 2013 and 2022 are valuable for human impact, but they are not as evidentially clean as early, uncontaminated statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines+2Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Open source on blueblurrylines.com.</span></span></span>
 
 </div>
 
@@ -550,194 +550,194 @@ The most responsible reading is that Colby strengthens the case as a witness to 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Should Colby&#x27;s Account Be Weighed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Should Colby&#x27;s Account Be Weighed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2c7d0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial">Witness for the Defense: The Accused, the Eyewitness, and the...</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Loftus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2c7d0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial">Witness for the Defense: The Accused, the Eyewitness, and the...</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Loftus</p>
         
-        <p class="fr-book-desc">Directly addresses how eyewitness memories should be evaluated, including factors that can shape later recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how eyewitness memories should be evaluated, including factors that can shape later recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores belief formation, memory, perception, and how people interpret unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief formation, memory, perception, and how people interpret unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating witness testimony and UFO case evidence within the broader UFO literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating witness testimony and UFO case evidence within the broader UFO literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Helps readers understand memory reinforcement, self-justification, and the persistence of beliefs over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand memory reinforcement, self-justification, and the persistence of beliefs over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+for+the+Defense%3A+The+Accused%2C+the+Eyewitness%2C+and+the+Expert+Who+Puts+Memory+on+Trial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="colby-how-should-colby-s-account-be-weighed-cash-landrum-ufo-incident-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -753,7 +753,7 @@ The most responsible reading is that Colby strengthens the case as a witness to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -773,7 +773,7 @@ The most responsible reading is that Colby strengthens the case as a witness to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -805,7 +805,7 @@ The most responsible reading is that Colby strengthens the case as a witness to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -857,7 +857,7 @@ The most responsible reading is that Colby strengthens the case as a witness to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -902,7 +902,7 @@ The most responsible reading is that Colby strengthens the case as a witness to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -943,150 +943,150 @@ The most responsible reading is that Colby strengthens the case as a witness to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & Colby Landrum, Part 1 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cufon.org  
    Title: Bergstrom AFB Interview of Betty Cash, Vickie & Colby Landrum, Part 2 of 2  
-   Link: <a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cufon.org  
    Title: Transcript, Cash-Landrum Interview  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANSCRIPT of taped interview held at Bergstrom Air Force, 17 August. 1981, of Betty Cash, Vicki Landrum, and Colby Landrum by repre...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRANSCRIPT of taped interview held at Bergstrom Air Force, 17 August. 1981, of Betty Cash, Vicki Landrum, and Colby Landrum by repre...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nobaproject.com  
    Title: Noba Eyewitness Testimony and Memory Biases | Noba  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lifeinjonestown.substack.com  
    Title: Life in Jonestown The last living witness  
-   Link: <a href="https://lifeinjonestown.substack.com/p/the-last-living-witness" target="_blank" rel="noopener noreferrer nofollow">https://lifeinjonestown.substack.com/p/the-last-living-witness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Life in JonestownThe last living witness - by Billy Cox - Life in Jonestown...</p></details>
+   Link:<a href="https://lifeinjonestown.substack.com/p/the-last-living-witness" target="_blank" rel="noopener noreferrer nofollow">https://lifeinjonestown.substack.com/p/the-last-living-witness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life in JonestownThe last living witness - by Billy Cox - Life in Jonestown...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/12/more-details-from-ufo-witness-colby.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
    Title: cash landrum witness colby landrum live  
-   Link: <a href="https://www.blueblurrylines.com/2013/12/cash-landrum-witness-colby-landrum-live.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/12/cash-landrum-witness-colby-landrum-live.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry Lines Blue Blurry Lines: Cash-Landrum Witness, Colby Landrum: 2013 Interview...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2013/12/cash-landrum-witness-colby-landrum-live.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/12/cash-landrum-witness-colby-landrum-live.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry Lines Blue Blurry Lines: Cash-Landrum Witness, Colby Landrum: 2013 Interview...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueblurrylines.com  
    Title: the original cash landrum [case file](&#123;&#123; 'case-file/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/02/the-original-cash-landrum-case-file.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blueblurrylines.com  
    Title: skeptoid challenges cash landrum ufo  
-   Link: <a href="https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo encounter of 1980  
-   Link: <a href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blueblurrylines.com  
    Title: whos who in cash landrum ufo case  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blueblurrylines.com  
    Title: the us governments cash landrum ufo  
-   Link: <a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum mcdonald ufo incident  
-   Link: <a href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/the-cash-landrum-mcdonald-ufo-incident.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo true picture  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-cash-landrum-ufo-true-picture.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
    Title: Colby Landrum  
-   Link: <a href="https://www.linkedin.com/in/colby-landrum-04b3b079" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/colby-landrum-04b3b079</a>  
+   Link:<a href="https://www.linkedin.com/in/colby-landrum-04b3b079" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/colby-landrum-04b3b079</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Rare Live Interview with Colby Landrum, Cash-Landrum UFO Incident (Extended)  
-   Link: <a href="https://www.youtube.com/watch?v=99qpaNaw2P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=99qpaNaw2P8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colby Landrum interview Cash-Landrum incident Rare 25-minute interview with Vickie and Colby Landrum on the Cash-Landrum UFO incident, 19...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=99qpaNaw2P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=99qpaNaw2P8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colby Landrum interview Cash-Landrum incident Rare 25-minute interview with Vickie and Colby Landrum on the Cash-Landrum UFO incident, 19...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TiYo1kdnk8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TiYo1kdnk8I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TiYo1kdnk8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TiYo1kdnk8I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO, December 29, 1980...</p></details>
    Published: December 29, 1980  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Betty Cash, Vickie and Colby Landrum on witnessing a fiery diamond-shaped UFO,  
-   Link: <a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJdhk3_DurE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare interview with Colby Landrum on his 1980 UFO encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJdhk3_DurE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare interview with Colby Landrum on his 1980 UFO encounter...</p></details>
    Published: December 29, 1980  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ukTVzsBOYUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ukTVzsBOYUM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Live Interview with Colby Landrum, Cash-Landrum UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ukTVzsBOYUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ukTVzsBOYUM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Live Interview with Colby Landrum, Cash-Landrum UFO Incident...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/USCOURTS-ca6-06-04194/pdf/USCOURTS-ca6-06-04194-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/USCOURTS-ca6-06-04194/pdf/USCOURTS-ca6-06-04194-0.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/USCOURTS-ca6-06-04194/pdf/USCOURTS-ca6-06-04194-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/USCOURTS-ca6-06-04194/pdf/USCOURTS-ca6-06-04194-0.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sosupernaturalpodcast.com  
-   Link: <a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
+   Link:<a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Ignazio-Psyd/publication/236932146_Child_witnesses_A_study_of_memory_and_suggestibility/links/55ffdf5908aec948c4f9bf66/Child-witnesses-A-study-of-memory-and-suggestibility.pdf?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Ignazio-Psyd/publication/236932146_Child_witnesses_A_study_of_memory_and_suggestibility/links/55ffdf5908aec948c4f9bf66/Child-witnesses-A-study-of-memory-and-suggestibility.pdf?origin=scientificContributions</a>  
+   Link:<a href="https://www.researchgate.net/profile/Ignazio-Psyd/publication/236932146_Child_witnesses_A_study_of_memory_and_suggestibility/links/55ffdf5908aec948c4f9bf66/Child-witnesses-A-study-of-memory-and-suggestibility.pdf?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Ignazio-Psyd/publication/236932146_Child_witnesses_A_study_of_memory_and_suggestibility/links/55ffdf5908aec948c4f9bf66/Child-witnesses-A-study-of-memory-and-suggestibility.pdf?origin=scientificContributions</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/name/nm3619957/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm3619957/</a>  
+   Link:<a href="https://www.imdb.com/name/nm3619957/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm3619957/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  

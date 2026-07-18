@@ -280,7 +280,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_wa
 
 ## Introduction
 
-The significance of Lamar Walker's testimony in the Cash-Landrum incident lies not in what it confirms, but in what it does not. Walker and his wife Marie reported seeing a group of low-flying, military-style helicopters in the same general area and timeframe as the famous encounter. However, they did not report seeing the diamond-shaped object that [Betty Cash]({{ 'betty-cash/' | relative_url }}), [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum described. This distinction is crucial. Walker's account provides independent support for the claim that unusual helicopter activity occurred, yet it leaves the central UFO claim unverified. Rather than serving as proof of the entire incident, his testimony functions as partial corroboration of one specific component of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The significance of Lamar Walker's testimony in the Cash-Landrum incident lies not in what it confirms, but in what it does not. Walker and his wife Marie reported seeing a group of low-flying, military-style helicopters in the same general area and timeframe as the famous encounter. However, they did not report seeing the diamond-shaped object that [Betty Cash]({{ 'betty-cash/' | relative_url }}), [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}), and Colby Landrum described. This distinction is crucial. Walker's account provides independent support for the claim that unusual helicopter activity occurred, yet it leaves the central UFO claim unverified. Rather than serving as proof of the entire incident, his testimony functions as partial corroboration of one specific component of the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-1-dark.svg" | relative_url }}" alt="Partial Proof illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ The significance of Lamar Walker's testimony in the Cash-Landrum incident lies n
 
 ### The helicopter-only scope of the testimony
 
-According to accounts collected during later investigations, Walker and his wife described seeing roughly a dozen Chinook-type helicopters flying low over the area. Walker reportedly observed one helicopter using a bright light directed toward the ground and then noticed additional helicopters following behind it. He interpreted the activity as resembling a search operation, although the aircraft did not appear to stop or concentrate on a single location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesI&#x27;ve lived in this town for 30 years and I&#x27;ve had two UFO sightings one was very similar...</span></span></span>
+According to accounts collected during later investigations, Walker and his wife described seeing roughly a dozen Chinook-type helicopters flying low over the area. Walker reportedly observed one helicopter using a bright light directed toward the ground and then noticed additional helicopters following behind it. He interpreted the activity as resembling a search operation, although the aircraft did not appear to stop or concentrate on a single location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesI&#x27;ve lived in this town for 30 years and I&#x27;ve had two UFO sightings one was very similar...</span></span></span>
 
-What makes this testimony noteworthy is that it originated from witnesses separate from the primary Cash-Landrum group. Walker was not reporting an extraordinary craft, intense heat, flames, radiation-like effects, or any of the dramatic details that made the case famous. His report was narrower and more conventional: helicopters were present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+What makes this testimony noteworthy is that it originated from witnesses separate from the primary Cash-Landrum group. Walker was not reporting an extraordinary craft, intense heat, flames, radiation-like effects, or any of the dramatic details that made the case famous. His report was narrower and more conventional: helicopters were present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 That narrowness gives the account a different evidential character. A witness who reports only the element he actually observed is not necessarily confirming the broader narrative. Instead, he is confirming one fact that overlaps with it.
 
@@ -301,13 +301,13 @@ That narrowness gives the account a different evidential character. A witness wh
 
 The most important limitation is straightforward: Walker never reported seeing the alleged object.
 
-Investigative summaries consistently note that Walker and Marie described helicopters but did not report the large diamond-shaped craft, unexplained lights, or flaming aerial object described by Cash and Landrum. Their account therefore cannot be used as independent confirmation that such an object existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Investigative summaries consistently note that Walker and Marie described helicopters but did not report the large diamond-shaped craft, unexplained lights, or flaming aerial object described by Cash and Landrum. Their account therefore cannot be used as independent confirmation that such an object existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This matters because corroboration is often misunderstood. If Witness A reports a UFO and helicopters, while Witness B reports only helicopters, Witness B has corroborated the helicopter claim—not the UFO claim. The overlap is real, but it is limited.
 
 In evidential terms, Walker's testimony supports the proposition:
 
-* Helicopters may have been operating in the area that night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">The Cash-Landrum Incident: A Night of Fire and Mystery</span><span class="citation-popover-snippet">Lamar Walker had been out with his wife in the area that night. They claim to have seen the formation of helicopters as well, but not the...</span></span></span>
+* Helicopters may have been operating in the area that night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">The Cash-Landrum Incident: A Night of Fire and Mystery</span><span class="citation-popover-snippet">Lamar Walker had been out with his wife in the area that night. They claim to have seen the formation of helicopters as well, but not the...</span></span></span>
 
 It does not independently support the propositions that:
 
@@ -317,7 +317,7 @@ It does not independently support the propositions that:
 * The object belonged to the military.
 * The helicopters were connected to the object in any way.
 
-Those additional conclusions require assumptions that go beyond Walker's direct observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Those additional conclusions require assumptions that go beyond Walker's direct observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -331,20 +331,20 @@ The primary witnesses claimed to see:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A large diamond-shaped object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO SightingDetective Lamar Walker, and his wife also reported seeing a dozen Chinook helicopters. The couple did not en...</span></span></span>
+* A large diamond-shaped object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO SightingDetective Lamar Walker, and his wife also reported seeing a dozen Chinook helicopters. The couple did not en...</span></span></span>
 * Intense heat and flames.
 * Numerous helicopters.
 * Subsequent medical effects.
 
 </div>
 
-Walker claimed to see: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ers near the same area in which the Cash-Landrum event...</span></span></span>
+Walker claimed to see:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ers near the same area in which the Cash-Landrum event...</span></span></span>
 
 * Military-style helicopters.
 * Searchlight-like beams.
 * Low-altitude flight activity.
 
-The overlap exists only in the helicopter category. Everything else remains dependent on the testimony of the original witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The overlap exists only in the helicopter category. Everything else remains dependent on the testimony of the original witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This distinction becomes especially important because [helicopter sightings]({{ 'helicopters/' | relative_url }}) are inherently more plausible and easier to verify than an extraordinary aerial craft. A witness may accurately observe helicopters without having any knowledge of whether another unusual object was present elsewhere, before, or after the sighting.
 
@@ -354,9 +354,9 @@ This distinction becomes especially important because [helicopter sightings]({{ 
 
 The fact that Walker's testimony is limited does not make it unimportant.
 
-One reason the helicopter element became central to the Cash-Landrum controversy is that it formed the basis of later attempts to connect the incident to military activity. If multiple witnesses independently reported unusual helicopter operations in the area, that makes the helicopter portion of the narrative more difficult to dismiss as a complete invention or memory error by the principal witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Cash and Landrum said they recalled counting 23 of the helic...</span></span></span>
+One reason the helicopter element became central to the Cash-Landrum controversy is that it formed the basis of later attempts to connect the incident to military activity. If multiple witnesses independently reported unusual helicopter operations in the area, that makes the helicopter portion of the narrative more difficult to dismiss as a complete invention or memory error by the principal witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Cash and Landrum said they recalled counting 23 of the helic...</span></span></span>
 
-Government investigators themselves recognised this distinction. Army investigator Lt. Col. George Sarran reportedly regarded both the primary witnesses and the Walkers as credible individuals while still being unable to establish that the helicopters belonged to any branch of the US military. In other words, the testimony could be sincere without proving the broader claims that witnesses and researchers hoped to establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Government investigators themselves recognised this distinction. Army investigator Lt. Col. George Sarran reportedly regarded both the primary witnesses and the Walkers as credible individuals while still being unable to establish that the helicopters belonged to any branch of the US military. In other words, the testimony could be sincere without proving the broader claims that witnesses and researchers hoped to establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This creates a nuanced evidential picture:
 
@@ -370,7 +370,7 @@ This creates a nuanced evidential picture:
 
 </div>
 
-That is why the Walker sighting is often described as partial corroboration rather than confirmation of the entire Cash-Landrum event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+That is why the Walker sighting is often described as partial corroboration rather than confirmation of the entire Cash-Landrum event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
@@ -379,202 +379,202 @@ That is why the Walker sighting is often described as partial corroboration rath
 
 The strongest interpretation of Walker's report is neither that it proves the Cash-Landrum story nor that it proves nothing. Its value lies between those extremes.
 
-Without the Walkers, the helicopter claim would rest almost entirely on the three primary witnesses. With the Walkers, investigators have an independent report of unusual helicopter activity from another couple travelling in the area that night. Yet because the Walkers did not report the diamond-shaped object, their testimony stops short of confirming the incident's most controversial element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Without the Walkers, the helicopter claim would rest almost entirely on the three primary witnesses. With the Walkers, investigators have an independent report of unusual helicopter activity from another couple travelling in the area that night. Yet because the Walkers did not report the diamond-shaped object, their testimony stops short of confirming the incident's most controversial element.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url }}) rather than resolving it. It suggests that at least one part of the Cash-Landrum narrative may have an independent factual basis, while leaving the existence, nature, origin, and consequences of the alleged UFO exactly where they have remained for decades: disputed and unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url }}) rather than resolving it. It suggests that at least one part of the Cash-Landrum narrative may have an independent factual basis, while leaving the existence, nature, origin, and consequences of the alleged UFO exactly where they have remained for decades: disputed and unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-3-dark.svg" | relative_url }}" alt="Partial Proof illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Walker&#x27;s Report Actually Proves. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Walker&#x27;s Report Actually Proves. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating witness testimony, corroboration, and evidential limits in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating witness testimony, corroboration, and evidential limits in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on assessing testimony and corroboration, closely matching discussion of partial evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on assessing testimony and corroboration, closely matching discussion of partial evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how investigators weigh reports, corroboration, and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how investigators weigh reports, corroboration, and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Offers context for military-related sightings, witness reports, and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers context for military-related sightings, witness reports, and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Helicopter Patch Iron/Sew On Jacket T Shirt Jeans Badge 9x5cm approx"><img src="{{ '/assets/images/marketplace-covers/feb3795def7324a0c21e.jpg' | relative_url }}" alt="Listing image for Embroidered Helicopter Patch Iron/Sew On Jacket T Shirt Jeans Badge 9x5cm approx" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Embroidered Helicopter Patch Iron/Sew On Jacket T Shirt Jeans Badge 9x5cm approx</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Helicopter Patch Iron/Sew On Jacket T Shirt Jeans Badge 9x5cm approx"><img src="{{ '/assets/images/marketplace-covers/feb3795def7324a0c21e.jpg' | relative_url }}" alt="Listing image for Embroidered Helicopter Patch Iron/Sew On Jacket T Shirt Jeans Badge 9x5cm approx" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Embroidered Helicopter Patch Iron/Sew On Jacket T Shirt Jeans Badge 9x5cm approx</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 845 NAS Junglie Sea King Helicopter PVC Patch RNAS Yeovilton Royal Navy Military"><img src="{{ '/assets/images/marketplace-covers/18411c150f498aa9ad55.jpg' | relative_url }}" alt="Listing image for 845 NAS Junglie Sea King Helicopter PVC Patch RNAS Yeovilton Royal Navy Military" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">845 NAS Junglie Sea King Helicopter PVC Patch RNAS Yeovilton Royal Navy Military</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 845 NAS Junglie Sea King Helicopter PVC Patch RNAS Yeovilton Royal Navy Military"><img src="{{ '/assets/images/marketplace-covers/18411c150f498aa9ad55.jpg' | relative_url }}" alt="Listing image for 845 NAS Junglie Sea King Helicopter PVC Patch RNAS Yeovilton Royal Navy Military" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">845 NAS Junglie Sea King Helicopter PVC Patch RNAS Yeovilton Royal Navy Military</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AH-64 Apache Fighter Helicopter Army Military Embroidered Sew On Patch Badge 740"><img src="{{ '/assets/images/marketplace-covers/70eca7c76c9d9f5bdb90.jpg' | relative_url }}" alt="Listing image for AH-64 Apache Fighter Helicopter Army Military Embroidered Sew On Patch Badge 740" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">AH-64 Apache Fighter Helicopter Army Military Embroidered Sew On Patch Badge 740</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AH-64 Apache Fighter Helicopter Army Military Embroidered Sew On Patch Badge 740"><img src="{{ '/assets/images/marketplace-covers/70eca7c76c9d9f5bdb90.jpg' | relative_url }}" alt="Listing image for AH-64 Apache Fighter Helicopter Army Military Embroidered Sew On Patch Badge 740" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">AH-64 Apache Fighter Helicopter Army Military Embroidered Sew On Patch Badge 740</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SUPPORT HELICOPTER FORCE HQ - Sew On Subdued Patch No3874"><img src="{{ '/assets/images/marketplace-covers/a159ab26a0fe1f56a4f8.jpg' | relative_url }}" alt="Listing image for SUPPORT HELICOPTER FORCE HQ - Sew On Subdued Patch No3874" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">SUPPORT HELICOPTER FORCE HQ - Sew On Subdued Patch No3874</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SUPPORT HELICOPTER FORCE HQ - Sew On Subdued Patch No3874"><img src="{{ '/assets/images/marketplace-covers/a159ab26a0fe1f56a4f8.jpg' | relative_url }}" alt="Listing image for SUPPORT HELICOPTER FORCE HQ - Sew On Subdued Patch No3874" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">SUPPORT HELICOPTER FORCE HQ - Sew On Subdued Patch No3874</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter patch" data-ebay-reference="partial-proof-what-walker-s-report-actually-proves-cash-landrum-ufo-incident-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,93 +780,93 @@ As a result, Walker's evidence narrows the [debate]({{ 'debate/' | relative_url 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Texas UFO  
-   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved MysteriesI&#x27;ve lived in this town for 30 years and I&#x27;ve had two UFO sightings one was very similar...</p></details>
+   Link:<a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesTexas UFO - Unsolved MysteriesI&#x27;ve lived in this town for 30 years and I&#x27;ve had two UFO sightings one was very similar...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ers near the same area in which the Cash-Landrum event...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ers near the same area in which the Cash-Landrum event...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Cash and Landrum said they recalled counting 23 of the helic...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Cash and Landrum said they recalled counting 23 of the helic...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: The Cash-Landrum Incident: A Night of Fire and Mystery  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lamar Walker had been out with his wife in the area that night. They claim to have seen the formation of helicopters as well, but not the...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lamar Walker had been out with his wife in the area that night. They claim to have seen the formation of helicopters as well, but not the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: netflix.com  
    Title: [unsolved mysteries](&#123;&#123; 'tv-injury-frame/' | relative_url &#125;&#125;) something in the sky  
-   Link: <a href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;18 Oct 2022 — Michigan police officer Jeff Velthouse responded to a 911 caller who s...</p></details>
+   Link:<a href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;18 Oct 2022 — Michigan police officer Jeff Velthouse responded to a 911 caller who s...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingDetective Lamar Walker, and his wife also reported seeing a dozen Chinook helicopters. The couple did not en...</p></details>
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingDetective Lamar Walker, and his wife also reported seeing a dozen Chinook helicopters. The couple did not en...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: podcasts.happyscribe.com  
    Title: there were about 10 people who reported seeing  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentDayton Police Sergeant Lamar Walker and his wife were driving night when they spotted the...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentDayton Police Sergeant Lamar Walker and his wife were driving night when they spotted the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Detective Lamar Walker, and his wife claimed to have seen 12 Chinook-type helico...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Detective Lamar Walker, and his wife claimed to have seen 12 Chinook-type helico...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d just over 20 minutes. They claim to have seen the formation...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d just over 20 minutes. They claim to have seen the formation...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.howstuffworks.com  
    Title: [cash landrum ufo incident](&#123;&#123; 'cash-landrum-ufo-incident/' | relative_url &#125;&#125;)  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentDetective Lamar Walker, and his wife also claimed to have seen helicopters near the same area. After the inciden...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentDetective Lamar Walker, and his wife also claimed to have seen helicopters near the same area. After the inciden...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Attack | Dark Mysteries21 Nov 2025 — On Dec. 29, 1980, Betty Cash, Vickie Landrum, and her grandson Colby encountered a...</p></details>
+   Link:<a href="https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1anvgC8RBvZDoVaE7yeqm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Attack | Dark Mysteries21 Nov 2025 — On Dec. 29, 1980, Betty Cash, Vickie Landrum, and her grandson Colby encountered a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zaWgXHWaxg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO incident UFO: Cash–Landrum Incident, Texas, USA, 1980 Around The World In One Day...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=zaWgXHWaxg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zaWgXHWaxg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO incident UFO: Cash–Landrum Incident, Texas, USA, 1980 Around The World In One Day...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Incident: 23 Helicopters and a Deadly UFO  
-   Link: <a href="http://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0r5par-v67w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0r5par-v67w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0r5par-v67w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A UFO Burned 3 People in Texas...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Betty Cash, Vickie and Colby Landrum Interview  
-   Link: <a href="http://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UJdhk3_DurE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Cash-Landrum Close Encounter Incident in 1980...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UJdhk3_DurE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UJdhk3_DurE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Cash-Landrum Close Encounter Incident in 1980...</p></details>

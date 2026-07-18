@@ -280,17 +280,17 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_fe
 
 ## Introduction
 
-In the Cash–Landrum incident, the most difficult legal question was not whether the witnesses sincerely believed they had been harmed. It was whether a legally accountable federal actor could be identified. Under United States law, a civilian injury claim against the federal government generally requires proof that a federal employee acted within the scope of official employment and that the employee’s conduct caused the alleged harm. An unexplained object, military-looking [aircraft]({{ 'aircraft/' | relative_url }}), or even genuine injuries are not enough on their own. The claimant must connect those facts to a specific government employee or agency carrying out official duties. That requirement became one of the central obstacles in the Cash–Landrum litigation and remains a key issue in any civilian UFO-related [liability]({{ 'liability/' | relative_url }}) claim. House of Representatives+2U.S. Office of Personnel Management <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
+In the Cash–Landrum incident, the most difficult legal question was not whether the witnesses sincerely believed they had been harmed. It was whether a legally accountable federal actor could be identified. Under United States law, a civilian injury claim against the federal government generally requires proof that a federal employee acted within the scope of official employment and that the employee’s conduct caused the alleged harm. An unexplained object, military-looking [aircraft]({{ 'aircraft/' | relative_url }}), or even genuine injuries are not enough on their own. The claimant must connect those facts to a specific government employee or agency carrying out official duties. That requirement became one of the central obstacles in the Cash–Landrum litigation and remains a key issue in any civilian UFO-related [liability]({{ 'liability/' | relative_url }}) claim. House of Representatives+2U.S. Office of Personnel Management<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-1-dark.svg" | relative_url }}" alt="Employee Scope illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Scope of Employment Means
 
-In federal tort law, “[scope]({{ 'scope/' | relative_url }}) of employment” refers to conduct performed as part of an employee’s official duties. The Federal Tort Claims Act (FTCA) allows claims against the United States for certain negligent or wrongful acts committed by federal employees acting within their official roles. If an employee is acting privately, outside assigned duties, or cannot be identified at all, the legal basis for federal liability becomes much weaker. House of Representatives+2U.S. Office of Personnel Management <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
+In federal tort law, “[scope]({{ 'scope/' | relative_url }}) of employment” refers to conduct performed as part of an employee’s official duties. The Federal Tort Claims Act (FTCA) allows claims against the United States for certain negligent or wrongful acts committed by federal employees acting within their official roles. If an employee is acting privately, outside assigned duties, or cannot be identified at all, the legal basis for federal liability becomes much weaker. House of Representatives+2U.S. Office of Personnel Management<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
 
-This requirement matters because the FTCA does not create liability simply because federal property, military equipment, or government personnel may have been nearby. The claimant must show that a federal employee was engaged in authorised government activity connected to the injury-producing event. Courts generally look for evidence that the employee was carrying out assigned responsibilities or acting in furtherance of agency business. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[Goldasich, Vick &amp; Fulk+2Indian Health Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
+This requirement matters because the FTCA does not create liability simply because federal property, military equipment, or government personnel may have been nearby. The claimant must show that a federal employee was engaged in authorised government activity connected to the injury-producing event. Courts generally look for evidence that the employee was carrying out assigned responsibilities or acting in furtherance of agency business.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[Goldasich, Vick &amp; Fulk+2Indian Health Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
 
-For UFO-related claims, this creates an unusual evidentiary burden. Witnesses may identify aircraft markings, uniforms, or apparent military behaviour, but those observations must ultimately be tied to a real government actor performing an official function. Without that link, the legal claim remains speculative even if the underlying sighting remains unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[House of Representatives+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
+For UFO-related claims, this creates an unusual evidentiary burden. Witnesses may identify aircraft markings, uniforms, or apparent military behaviour, but those observations must ultimately be tied to a real government actor performing an official function. Without that link, the legal claim remains speculative even if the underlying sighting remains unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[House of Representatives+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -305,17 +305,17 @@ A common misunderstanding is that apparent military involvement automatically cr
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A federal agency or employee was actually involved.
-* The employee was acting within official duties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[golaw.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
+* The employee was acting within official duties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[golaw.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
 * The conduct was negligent or otherwise legally actionable.
 * The conduct caused the claimed injury.
 
 </div>
 
-Missing any one of those links can defeat the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justia.com/injury/federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justia.com">[Justia+2Brown &amp; Brown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justia.com</span><span class="citation-popover-title">However, the FTCA</span><span class="citation-popover-snippet">Federal Tort Claims Act — Injury Lawsuits Against the...Jul 3, 2025 — At its core, the FTCA permits individuals to sue the federal...</span></span></span>
+Missing any one of those links can defeat the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justia.com/injury/federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justia.com">[Justia+2Brown &amp; Brown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justia.com</span><span class="citation-popover-title">However, the FTCA</span><span class="citation-popover-snippet">Federal Tort Claims Act — Injury Lawsuits Against the...Jul 3, 2025 — At its core, the FTCA permits individuals to sue the federal...</span></span></span>
 
-The Cash–Landrum case illustrates the problem. The witnesses believed numerous helicopters accompanied [the object]({{ 'the-object/' | relative_url }}) and therefore inferred military participation. Yet investigators were unable to establish that the helicopters belonged to a federal agency or that any federal personnel were operating them as part of an official mission. Army Inspector General investigator Lt. Col. George Sarran reportedly found the witnesses credible but could not verify federal ownership or operation of the helicopters. That distinction proved crucial because credibility alone does not identify a legally responsible government actor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The Cash–Landrum case illustrates the problem. The witnesses believed numerous helicopters accompanied [the object]({{ 'the-object/' | relative_url }}) and therefore inferred military participation. Yet investigators were unable to establish that the helicopters belonged to a federal agency or that any federal personnel were operating them as part of an official mission. Army Inspector General investigator Lt. Col. George Sarran reportedly found the witnesses credible but could not verify federal ownership or operation of the helicopters. That distinction proved crucial because credibility alone does not identify a legally responsible government actor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The legal system focuses on attribution rather than appearance. An aircraft may look military, witnesses may believe it was military, and an event may occur near military facilities, but liability still depends on proving who operated the equipment and under what authority. Without records, personnel identification, mission documentation, or other corroborating evidence, courts are reluctant to impose liability on the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The legal system focuses on attribution rather than appearance. An aircraft may look military, witnesses may believe it was military, and an event may occur near military facilities, but liability still depends on proving who operated the equipment and under what authority. Without records, personnel identification, mission documentation, or other corroborating evidence, courts are reluctant to impose liability on the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-2-dark.svg" | relative_url }}" alt="Employee Scope illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,9 +323,9 @@ The legal system focuses on attribution rather than appearance. An aircraft may 
 
 Even if a claimant could prove federal involvement, another hurdle remains: causation.
 
-The FTCA requires more than identifying a federal employee. The claimant must also show that the employee’s conduct caused the injury. In ordinary negligence cases, this often involves demonstrating a duty of care, a breach of that duty, and a direct connection between the breach and the harm suffered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[Goldasich, Vick &amp; Fulk+2Justia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
+The FTCA requires more than identifying a federal employee. The claimant must also show that the employee’s conduct caused the injury. In ordinary negligence cases, this often involves demonstrating a duty of care, a breach of that duty, and a direct connection between the breach and the harm suffered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[Goldasich, Vick &amp; Fulk+2Justia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
 
-For alleged UFO injuries, causation can be particularly difficult because the underlying mechanism of injury is often disputed. In Cash–Landrum, the witnesses reported burns, illness, hair loss, and symptoms they associated with radiation exposure. Yet proving legal causation would have required more than documenting medical symptoms. The plaintiffs also needed evidence that a government-controlled craft, aircraft operation, test programme, or other federal activity actually produced those injuries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+For alleged UFO injuries, causation can be particularly difficult because the underlying mechanism of injury is often disputed. In Cash–Landrum, the witnesses reported burns, illness, hair loss, and symptoms they associated with radiation exposure. Yet proving legal causation would have required more than documenting medical symptoms. The plaintiffs also needed evidence that a government-controlled craft, aircraft operation, test programme, or other federal activity actually produced those injuries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This creates a chain in which each link depends on the previous one:
 
@@ -336,22 +336,22 @@ This creates a chain in which each link depends on the previous one:
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Identify the responsible federal employee or agency.
-2. Show the employee was acting within official duties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[golaw.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
+2. Show the employee was acting within official duties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaw.net">[golaw.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaw.net</span><span class="citation-popover-title">explaining the federal tort claims act ftca</span><span class="citation-popover-snippet">Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</span></span></span>
 3. Establish negligent or wrongful conduct.
 4. Demonstrate that the conduct caused the injuries.
 
 </div>
 
-If the first link fails, the remaining analysis becomes largely irrelevant because there is no legally accountable federal actor to whom the injuries can be attributed. House of Representatives+2U.S. Office of Personnel Management <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
+If the first link fails, the remaining analysis becomes largely irrelevant because there is no legally accountable federal actor to whom the injuries can be attributed. House of Representatives+2U.S. Office of Personnel Management<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iZ3siEPUpA8" title="The Cash–Landrum Incident | The Night the Sky Burned Over Texas — And What It Did to Them — Ep. 47" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer">The Cash–Landrum Incident | The Night the Sky Burned Over Texas — And What It Did to Them — Ep. 47</a></p><p class="youtube-embed-meta">Channel: State of the Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iZ3siEPUpA8">Open on YouTube</a></p></div></div></div>
 
 ## Why the Cash–Landrum Claim Failed on This Point
 
-The [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) ultimately demonstrates the difference between a mystery and a compensable tort claim. The plaintiffs sought substantial damages from the federal government, but the court was persuaded by testimony indicating that no federal agency could be linked to the reported object and that no military personnel had been shown to operate the helicopters described by the witnesses. The case was dismissed because the necessary chain of attribution was not established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) ultimately demonstrates the difference between a mystery and a compensable tort claim. The plaintiffs sought substantial damages from the federal government, but the court was persuaded by testimony indicating that no federal agency could be linked to the reported object and that no military personnel had been shown to operate the helicopters described by the witnesses. The case was dismissed because the necessary chain of attribution was not established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-From a liability perspective, the decisive issue was not whether something unusual occurred. The decisive issue was whether a federal employee, acting within the scope of official duties, could be identified as the legally responsible source of the harm. The inability to prove that connection left the claim without the governmental actor required by the FTCA framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[House of Representatives+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
+From a liability perspective, the decisive issue was not whether something unusual occurred. The decisive issue was whether a federal employee, acting within the scope of official duties, could be identified as the legally responsible source of the harm. The inability to prove that connection left the claim without the governmental actor required by the FTCA framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[House of Representatives+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-3-dark.svg" | relative_url }}" alt="Employee Scope illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,197 +359,197 @@ From a liability perspective, the decisive issue was not whether something unusu
 
 The Cash–Landrum case highlights a principle that applies to civilian UFO injury claims generally: government responsibility begins with identifiable government conduct. Courts do not treat unexplained aerial events, suspected military involvement, or serious alleged injuries as substitutes for proof of agency action.
 
-For a claimant seeking compensation from the federal government, the essential legal link is a specific federal employee acting within the scope of official employment whose conduct can be shown to have caused the injury. Without that link, a UFO incident may remain unexplained, but it does not become a successful federal liability case. Department of Justice+3House of Representatives+3U.S. Office of Personnel Management <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
+For a claimant seeking compensation from the federal government, the essential legal link is a specific federal employee acting within the scope of official employment whose conduct can be shown to have caused the injury. Without that link, a UFO incident may remain unexplained, but it does not become a successful federal liability case. Department of Justice+3House of Representatives+3U.S. Office of Personnel Management<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-snippet">House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Legal Link UFO Claimants Need. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Legal Link UFO Claimants Need. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects UFO claims to identifiable officials and institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO claims to identifiable officials and institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides institutional context for government involvement claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional context for government involvement claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Illustrates how official personnel investigate unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how official personnel investigate unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="employee-scope-the-legal-link-ufo-claimants-need-cash-landrum-ufo-incident-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ For a claimant seeking compensation from the federal government, the essential l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ For a claimant seeking compensation from the federal government, the essential l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ For a claimant seeking compensation from the federal government, the essential l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ For a claimant seeking compensation from the federal government, the essential l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ For a claimant seeking compensation from the federal government, the essential l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,122 +755,122 @@ For a claimant seeking compensation from the federal government, the essential l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: house.gov  
-   Link: <a href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</p></details>
+   Link:<a href="https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/doing-business-with-the-house/leases/federal-tort-claims-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of RepresentativesFederal Tort Claims ActUnder the FTCA, the federal government acts as a self-insurer, and recognizes liability fo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: opm.gov  
    Title: federal tort claims act  
-   Link: <a href="https://www.opm.gov/about-us/get-help/federal-tort-claims-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.opm.gov/about-us/get-help/federal-tort-claims-act/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Personnel ManagementFederal Tort Claims ActOPM processes claims in accordance with the Federal Tort Claims Act, 28 U.S.C.... O...</p></details>
+   Link:<a href="https://www.opm.gov/about-us/get-help/federal-tort-claims-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.opm.gov/about-us/get-help/federal-tort-claims-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Personnel ManagementFederal Tort Claims ActOPM processes claims in accordance with the Federal Tort Claims Act, 28 U.S.C.... O...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-4-5000-tort-litigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justice Manual | 4-5.000 - Tort LitigationThe FTCA is the exclusive remedy for common law torts committed by federal employees acting wit...</p></details>
+   Link:<a href="https://www.justice.gov/jm/jm-4-5000-tort-litigation" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-4-5000-tort-litigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justice Manual | 4-5.000 - Tort LitigationThe FTCA is the exclusive remedy for common law torts committed by federal employees acting wit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: justia.com  
    Title: However, the FTCA  
-   Link: <a href="https://www.justia.com/injury/federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow">https://www.justia.com/injury/federal-tort-claims-act-ftca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Tort Claims Act — Injury Lawsuits Against the...Jul 3, 2025 — At its core, the FTCA permits individuals to sue the federal...</p></details>
+   Link:<a href="https://www.justia.com/injury/federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow">https://www.justia.com/injury/federal-tort-claims-act-ftca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Tort Claims Act — Injury Lawsuits Against the...Jul 3, 2025 — At its core, the FTCA permits individuals to sue the federal...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US District Court judge noted that while the plaintiffs&#x27; injuries were genuine, there was no...Read more...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US District Court judge noted that while the plaintiffs&#x27; injuries were genuine, there was no...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Cash–Landrum Incident | The Night the Sky Burned Over Texas  
-   Link: <a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3siEPUpA8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>She Drove Into a UFO in 1980. The Radiation Never Left Her...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iZ3siEPUpA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3siEPUpA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She Drove Into a UFO in 1980. The Radiation Never Left Her...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: golaw.net  
    Title: explaining the federal tort claims act ftca  
-   Link: <a href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow">https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</p></details>
+   Link:<a href="https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/" target="_blank" rel="noopener noreferrer nofollow">https://www.golaw.net/2024/12/23/explaining-the-federal-tort-claims-act-ftca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldasich, Vick &amp; FulkExplaining The Federal Tort Claims Act (FTCA)Dec 23, 2024 — In FTCA cases, a plaintiff must also show that the fede...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ihs.gov  
-   Link: <a href="https://www.ihs.gov/riskmanagement/ftca/" target="_blank" rel="noopener noreferrer nofollow">https://www.ihs.gov/riskmanagement/ftca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Health ServiceFederal Tort Claims Act | Risk ManagementNegligent acts or omissions committed by a covered employee mentioned above...</p></details>
+   Link:<a href="https://www.ihs.gov/riskmanagement/ftca/" target="_blank" rel="noopener noreferrer nofollow">https://www.ihs.gov/riskmanagement/ftca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Health ServiceFederal Tort Claims Act | Risk ManagementNegligent acts or omissions committed by a covered employee mentioned above...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bbrown.com  
-   Link: <a href="https://www.bbrown.com/us/insight/federal-tort-claims-act-and-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.bbrown.com/us/insight/federal-tort-claims-act-and-insurance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brown &amp; BrownFederal Tort Claims Act and InsuranceThe Federal Tort Claims Act (FTCA) is a federal law that allows individuals to sue the...</p></details>
+   Link:<a href="https://www.bbrown.com/us/insight/federal-tort-claims-act-and-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.bbrown.com/us/insight/federal-tort-claims-act-and-insurance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brown &amp; BrownFederal Tort Claims Act and InsuranceThe Federal Tort Claims Act (FTCA) is a federal law that allows individuals to sue the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesSurrounded by 23 military helicopters, the object left after 15 minutes.... The Cash-Landrum case...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum UFO Encounter | Dark MysteriesSurrounded by 23 military helicopters, the object left after 15 minutes.... The Cash-Landrum case...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uscourts.gov  
-   Link: <a href="https://www.uscourts.gov/administration-policies/judiciary-policies/federal-tort-claims-against-federal-judiciary-personnel" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/administration-policies/judiciary-policies/federal-tort-claims-against-federal-judiciary-personnel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Tort Claims Against Federal Judiciary PersonnelThe Federal Tort Claims Act (FTCA) sets forth procedures for presenting and resolv...</p></details>
+   Link:<a href="https://www.uscourts.gov/administration-policies/judiciary-policies/federal-tort-claims-against-federal-judiciary-personnel" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/administration-policies/judiciary-policies/federal-tort-claims-against-federal-judiciary-personnel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Tort Claims Against Federal Judiciary PersonnelThe Federal Tort Claims Act (FTCA) sets forth procedures for presenting and resolv...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/litigation/can-us-government-be-held-liable-laguardia-airport-collision-2026-03-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/can-us-government-be-held-liable-laguardia-airport-collision-2026-03-25/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The accident occurred after an air traffic controller mistakenly cleared both the aircraft to land and the fire truck to cross the same r...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/can-us-government-be-held-liable-laguardia-airport-collision-2026-03-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/can-us-government-be-held-liable-laguardia-airport-collision-2026-03-25/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The accident occurred after an air traffic controller mistakenly cleared both the aircraft to land and the fire truck to cross the same r...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pulvermanlaw.net  
-   Link: <a href="https://www.pulvermanlaw.net/newsletters/personal-injury/federal-tort-claims-act-scope-of-employment/" target="_blank" rel="noopener noreferrer nofollow">https://www.pulvermanlaw.net/newsletters/personal-injury/federal-tort-claims-act-scope-of-employment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Tort Claims Act -- Scope of EmploymentThe Federal Tort Claims Act (FTCA) applies to claims for personal injury that are caused by...</p></details>
+   Link:<a href="https://www.pulvermanlaw.net/newsletters/personal-injury/federal-tort-claims-act-scope-of-employment/" target="_blank" rel="noopener noreferrer nofollow">https://www.pulvermanlaw.net/newsletters/personal-injury/federal-tort-claims-act-scope-of-employment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Tort Claims Act -- Scope of EmploymentThe Federal Tort Claims Act (FTCA) applies to claims for personal injury that are caused by...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: harvardlawreview.org  
-   Link: <a href="https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recovering the Lost Meaning of the Federal Tort Claims...11 Dec 2024 — The FTCA provides virtually the only path to damages relief for i...</p></details>
+   Link:<a href="https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/print/vol-138/recovering-the-lost-meaning-of-the-federal-tort-claims-acts-discretionary-function-exception/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recovering the Lost Meaning of the Federal Tort Claims...11 Dec 2024 — The FTCA provides virtually the only path to damages relief for i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kennedylawfirmpllc.com  
-   Link: <a href="https://www.kennedylawfirmpllc.com/newsletters/personal-injury-newsletters/federal-tort-claims-act-federal-government-employees/" target="_blank" rel="noopener noreferrer nofollow">https://www.kennedylawfirmpllc.com/newsletters/personal-injury-newsletters/federal-tort-claims-act-federal-government-employees/</a>  
+   Link:<a href="https://www.kennedylawfirmpllc.com/newsletters/personal-injury-newsletters/federal-tort-claims-act-federal-government-employees/" target="_blank" rel="noopener noreferrer nofollow">https://www.kennedylawfirmpllc.com/newsletters/personal-injury-newsletters/federal-tort-claims-act-federal-government-employees/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wardberry.com  
    Title: what the federal tort claims act ftca means for federal employees  
-   Link: <a href="https://www.wardberry.com/what-the-federal-tort-claims-act-ftca-means-for-federal-employees/" target="_blank" rel="noopener noreferrer nofollow">https://www.wardberry.com/what-the-federal-tort-claims-act-ftca-means-for-federal-employees/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Federal Tort Claims Act (FTCA) Means for...10 Feb 2020 — The FTCA&#x27;s limited waiver of sovereign immunity makes individual gover...</p></details>
+   Link:<a href="https://www.wardberry.com/what-the-federal-tort-claims-act-ftca-means-for-federal-employees/" target="_blank" rel="noopener noreferrer nofollow">https://www.wardberry.com/what-the-federal-tort-claims-act-ftca-means-for-federal-employees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Federal Tort Claims Act (FTCA) Means for...10 Feb 2020 — The FTCA&#x27;s limited waiver of sovereign immunity makes individual gover...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: federalpremium.com  
-   Link: <a href="https://www.federalpremium.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.federalpremium.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Federal PremiumYou&#x27;ve decided to buy your first firearm—now what? Check out this crash course in shooting and ammunition fundament...</p></details>
+   Link:<a href="https://www.federalpremium.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.federalpremium.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Federal PremiumYou&#x27;ve decided to buy your first firearm—now what? Check out this crash course in shooting and ammunition fundament...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: digitalcommons.wcl.american.edu  
    Title: Ethical Intersections the Federal Tort Claim Act An Approach f  
-   Link: <a href="https://digitalcommons.wcl.american.edu/context/facsch_lawrev/article/2247/viewcontent/Ethical_Intersections___the_Federal_Tort_Claim_Act__An_Approach_f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.wcl.american.edu/context/facsch_lawrev/article/2247/viewcontent/Ethical_Intersections___the_Federal_Tort_Claim_Act__An_Approach_f.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intersections &amp; the Federal Tort Claims Actby P FIGLEY · Cited by 26 — The Westfall Act substitutes the United States as defendant in the...</p></details>
+   Link:<a href="https://digitalcommons.wcl.american.edu/context/facsch_lawrev/article/2247/viewcontent/Ethical_Intersections___the_Federal_Tort_Claim_Act__An_Approach_f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.wcl.american.edu/context/facsch_lawrev/article/2247/viewcontent/Ethical_Intersections___the_Federal_Tort_Claim_Act__An_Approach_f.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intersections &amp; the Federal Tort Claims Actby P FIGLEY · Cited by 26 — The Westfall Act substitutes the United States as defendant in the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: va.gov  
    Title: Claims Under the Federal Tort Claims Act  
-   Link: <a href="https://www.va.gov/ogc/ftca.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.va.gov/ogc/ftca.asp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of...1346(b) and 2671-2680, provides monetary compensation when a government employee, acting within the scope of employment, inj...</p></details>
+   Link:<a href="https://www.va.gov/ogc/ftca.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.va.gov/ogc/ftca.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of...1346(b) and 2671-2680, provides monetary compensation when a government employee, acting within the scope of employment, inj...</p></details>

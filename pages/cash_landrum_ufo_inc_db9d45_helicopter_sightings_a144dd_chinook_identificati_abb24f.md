@@ -284,15 +284,15 @@ The reported twin-rotor helicopters in the Cash–Landrum incident are among the
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_chinook_identificati_abb24f-Illustration-1-dark.svg" | relative_url }}" alt="Chinooks illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_chinook_identificati_abb24f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_chinook_identificati_abb24f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The identification problem sits at the heart of the wider helicopter controversy. A tandem-rotor silhouette is unusual and memorable, but witness recognition of a broad aircraft category is not the same thing as proving a specific model, operator, mission, or chain of command. Understanding that distinction helps explain why [the helicopter reports]({{ 'the-helicopter-reports/' | relative_url }}) strengthened the witnesses’ claims while still falling short of establishing government [liability]({{ 'liability/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The identification problem sits at the heart of the wider helicopter controversy. A tandem-rotor silhouette is unusual and memorable, but witness recognition of a broad aircraft category is not the same thing as proving a specific model, operator, mission, or chain of command. Understanding that distinction helps explain why [the helicopter reports]({{ 'the-helicopter-reports/' | relative_url }}) strengthened the witnesses’ claims while still falling short of establishing government [liability]({{ 'liability/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 ## Were They Really Chinook Helicopters?
 
 ### Why tandem rotors stood out to witnesses
 
-The CH-47 Chinook is one of the most visually distinctive helicopters ever built. Unlike conventional helicopters with one main rotor and a tail rotor, the Chinook uses two large rotors mounted fore and aft on the fuselage. The arrangement creates a long profile that is recognisable even to many people with little aviation knowledge. Boeing continues to describe the Chinook as a tandem-rotor heavy-lift helicopter whose appearance differs markedly from ordinary utility helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+The CH-47 Chinook is one of the most visually distinctive helicopters ever built. Unlike conventional helicopters with one main rotor and a tail rotor, the Chinook uses two large rotors mounted fore and aft on the fuselage. The arrangement creates a long profile that is recognisable even to many people with little aviation knowledge. Boeing continues to describe the Chinook as a tandem-rotor heavy-lift helicopter whose appearance differs markedly from ordinary utility helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
-That distinctive shape helps explain why the witnesses repeatedly emphasised the twin-rotor feature. In later discussions of the case, the helicopters were often remembered not simply as military aircraft but specifically as Chinook-like machines. The unusual rotor arrangement became a key visual anchor in witness recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</span></span></span>
+That distinctive shape helps explain why the witnesses repeatedly emphasised the twin-rotor feature. In later discussions of the case, the helicopters were often remembered not simply as military aircraft but specifically as Chinook-like machines. The unusual rotor arrangement became a key visual anchor in witness recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</span></span></span>
 
 However, recognition of a distinctive feature is not the same as precise aircraft identification. A witness may accurately remember seeing a helicopter with two large rotor systems while remaining uncertain about the exact model, variant, operator, or markings. Aviation investigators routinely distinguish between recognition of a general type and positive identification of a specific aircraft.
 
@@ -302,9 +302,9 @@ The Chinook hypothesis did not arise randomly. Several factors made it appear pl
 
 * The witnesses consistently described tandem-rotor helicopters rather than ordinary single-rotor aircraft.
 * The reported helicopters were numerous enough to suggest an organised operation rather than isolated civilian traffic.
-* The Chinook was already a well-known military heavy-lift helicopter by 1980 and had a silhouette unlike most aircraft commonly seen by the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+* The Chinook was already a well-known military heavy-lift helicopter by 1980 and had a silhouette unlike most aircraft commonly seen by the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
-Because the CH-47's design is so distinctive, supporters of the military-involvement theory have argued that witnesses were less likely to confuse it with common [civilian helicopters]({{ 'civilian-options/' | relative_url }}) than they would be with a more conventional rotorcraft. The tandem-rotor detail therefore became one of the strongest elements of the helicopter testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+Because the CH-47's design is so distinctive, supporters of the military-involvement theory have argued that witnesses were less likely to confuse it with common [civilian helicopters]({{ 'civilian-options/' | relative_url }}) than they would be with a more conventional rotorcraft. The tandem-rotor detail therefore became one of the strongest elements of the helicopter testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -313,13 +313,13 @@ Because the CH-47's design is so distinctive, supporters of the military-involve
 
 The central evidential question is not whether the witnesses believed they saw Chinooks. The question is what that belief can establish.
 
-A lay witness can often provide useful information about aircraft size, shape, lighting patterns, sound, and general configuration. Such observations may narrow the field of possibilities considerably. But positive identification becomes harder when the observation occurs at night, during a stressful event, and while attention is focused on another object. Those conditions existed in the Cash–Landrum encounter according to the witnesses' own descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+A lay witness can often provide useful information about aircraft size, shape, lighting patterns, sound, and general configuration. Such observations may narrow the field of possibilities considerably. But positive identification becomes harder when the observation occurs at night, during a stressful event, and while attention is focused on another object. Those conditions existed in the Cash–Landrum encounter according to the witnesses' own descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 Several limitations follow:
 
 * **Category identification is stronger than model identification.** Seeing a tandem-rotor helicopter is not identical to proving it was a CH-47.
 * **Operator identification is weaker still.** Even if a helicopter were a Chinook, that alone would not establish which military branch or organisation operated it.
-* **Markings are difficult evidence.** One witness claimed to see Air Force markings, while another was more cautious and did not make the same identification. Differences of this kind matter when investigators assess reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</span></span></span>
+* **Markings are difficult evidence.** One witness claimed to see Air Force markings, while another was more cautious and did not make the same identification. Differences of this kind matter when investigators assess reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</span></span></span>
 
 This distinction became especially important because the legal case required more than a general impression. To establish government responsibility, investigators needed evidence connecting specific aircraft to a specific government entity. Witness descriptions alone could not bridge that gap.
 
@@ -330,17 +330,17 @@ This distinction became especially important because the legal case required mor
 
 The reported quantity of helicopters amplified both the strength and weakness of the testimony.
 
-On one hand, reports of more than twenty helicopters made the event memorable and difficult to dismiss as a fleeting [misperception]({{ 'misperception/' | relative_url }}). Witnesses consistently described a sizeable formation rather than a single aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</span></span></span>
+On one hand, reports of more than twenty helicopters made the event memorable and difficult to dismiss as a fleeting [misperception]({{ 'misperception/' | relative_url }}). Witnesses consistently described a sizeable formation rather than a single aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</span></span></span>
 
-On the other hand, a formation of that scale would normally be expected to leave traces: flight records, personnel recollections, maintenance documentation, training schedules, radar data, or other operational evidence. The larger the alleged helicopter presence became, the greater the expectation that independent documentation should exist. Investigators were unable to establish such a documentary trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</span></span></span>
+On the other hand, a formation of that scale would normally be expected to leave traces: flight records, personnel recollections, maintenance documentation, training schedules, radar data, or other operational evidence. The larger the alleged helicopter presence became, the greater the expectation that independent documentation should exist. Investigators were unable to establish such a documentary trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</span></span></span>
 
 That tension remains one of the case's defining puzzles. The helicopter reports seem too substantial to be a trivial detail, yet the supporting records expected from such a large operation never emerged.
 
 ## How Aircraft Type Shaped the Government-Liability Claim
 
-The Chinook identification issue mattered because tandem-rotor helicopters were strongly associated with military operations. A witness who reports ordinary helicopters might suggest local traffic, emergency services, or private operators. A witness who reports numerous Chinook-like aircraft immediately raises the possibility of a military exercise or government activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+The Chinook identification issue mattered because tandem-rotor helicopters were strongly associated with military operations. A witness who reports ordinary helicopters might suggest local traffic, emergency services, or private operators. A witness who reports numerous Chinook-like aircraft immediately raises the possibility of a military exercise or government activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
-This is why the helicopter testimony became central to the later lawsuit. The legal theory was not simply that an unidentified object caused harm. It was that government-controlled aircraft appeared to be accompanying or monitoring that object. If true, that would potentially connect the incident to identifiable federal actors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+This is why the helicopter testimony became central to the later lawsuit. The legal theory was not simply that an unidentified object caused harm. It was that government-controlled aircraft appeared to be accompanying or monitoring that object. If true, that would potentially connect the incident to identifiable federal actors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 Yet the same identification problem that made the helicopters important also limited their legal value. Even accepting that the witnesses saw twin-rotor helicopters, investigators still needed evidence showing:
 
@@ -357,205 +357,205 @@ Yet the same identification problem that made the helicopters important also lim
 
 </div>
 
-The available evidence never conclusively established those links. Courts and investigators therefore faced a gap between a striking eyewitness description and proof sufficient to assign responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</span></span></span>
+The available evidence never conclusively established those links. Courts and investigators therefore faced a gap between a striking eyewitness description and proof sufficient to assign responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</span></span></span>
 
 ## Why the Chinook Question Remains Unresolved
 
 The enduring significance of the Chinook issue is not that it proves military involvement. Rather, it demonstrates how a seemingly specific observation can create a powerful but incomplete chain of inference.
 
-The tandem-rotor description is one of the more concrete elements of the Cash–Landrum testimony because it refers to a recognisable aircraft configuration rather than an ambiguous light in the sky. The witnesses may well have observed helicopters whose appearance resembled Chinooks. What remains unproven is the next step: that the helicopters were definitely CH-47s, that they were under [government control]({{ 'control-test/' | relative_url }}), and that their presence established official involvement in the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+The tandem-rotor description is one of the more concrete elements of the Cash–Landrum testimony because it refers to a recognisable aircraft configuration rather than an ambiguous light in the sky. The witnesses may well have observed helicopters whose appearance resembled Chinooks. What remains unproven is the next step: that the helicopters were definitely CH-47s, that they were under [government control]({{ 'control-test/' | relative_url }}), and that their presence established official involvement in the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-title">H-47 Chinook</span><span class="citation-popover-snippet">H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
-For that reason, the twin-rotor helicopters continue to occupy an unusual place in the case. They are among the strongest reasons some researchers suspect a military connection, yet they are also the clearest example of how eyewitness identification can suggest a conclusion without fully demonstrating it. The Chinook-like shape made the helicopters memorable; it did not, by itself, solve the question of who was flying them or why they were there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</span></span></span>
+For that reason, the twin-rotor helicopters continue to occupy an unusual place in the case. They are among the strongest reasons some researchers suspect a military connection, yet they are also the clearest example of how eyewitness identification can suggest a conclusion without fully demonstrating it. The Chinook-like shape made the helicopters memorable; it did not, by itself, solve the question of who was flying them or why they were there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were They Really Chinook Helicopters?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were They Really Chinook Helicopters?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines evidence standards, witness testimony, military involvement claims, and government responses to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence standards, witness testimony, military involvement claims, and government responses to UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness observations and distinguishing identification claims from proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness observations and distinguishing identification claims from proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how reports are assessed, categorized, and interpreted when evidence is incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reports are assessed, categorized, and interpreted when evidence is incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chickenhawk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KosxbTsvREEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chickenhawk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chickenhawk">Chickenhawk</a>
-        </h4>
-        <p class="fr-book-author">By Robert Mason</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chickenhawk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KosxbTsvREEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chickenhawk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chickenhawk">Chickenhawk</a>
+</h4>
+<p class="fr-book-author">By Robert Mason</p>
         
-        <p class="fr-book-desc">Provides useful background on helicopter operations, pilot perspectives, and military aviation realities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides useful background on helicopter operations, pilot perspectives, and military aviation realities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Agusta Westland AW149 helicopter promo poster, military transport, 100yrs"><img src="{{ '/assets/images/marketplace-covers/936012f83869a96431ab.jpg' | relative_url }}" alt="Listing image for Agusta Westland AW149 helicopter promo poster, military transport, 100yrs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Agusta Westland AW149 helicopter promo poster, military transport, 100yrs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Agusta Westland AW149 helicopter promo poster, military transport, 100yrs"><img src="{{ '/assets/images/marketplace-covers/936012f83869a96431ab.jpg' | relative_url }}" alt="Listing image for Agusta Westland AW149 helicopter promo poster, military transport, 100yrs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Agusta Westland AW149 helicopter promo poster, military transport, 100yrs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Helicopter Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de196a6ecd9d18dbb2e4.jpg' | relative_url }}" alt="Listing image for Military Helicopter Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Military Helicopter Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Helicopter Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de196a6ecd9d18dbb2e4.jpg' | relative_url }}" alt="Listing image for Military Helicopter Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Military Helicopter Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7bce927ad5f71fa7b647.jpg' | relative_url }}" alt="Listing image for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7bce927ad5f71fa7b647.jpg' | relative_url }}" alt="Listing image for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/e4728ef211c5add67f8d.jpg' | relative_url }}" alt="Listing image for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/e4728ef211c5add67f8d.jpg' | relative_url }}" alt="Listing image for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="chinooks-dd1735-were-they-really-chinook-helicopters-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ For that reason, the twin-rotor helicopters continue to occupy an unusual place 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ For that reason, the twin-rotor helicopters continue to occupy an unusual place 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ For that reason, the twin-rotor helicopters continue to occupy an unusual place 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ For that reason, the twin-rotor helicopters continue to occupy an unusual place 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ For that reason, the twin-rotor helicopters continue to occupy an unusual place 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,104 +761,104 @@ For that reason, the twin-rotor helicopters continue to occupy an unusual place 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</p></details>
    Published: April 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: boeing.com  
    Title: H-47 Chinook  
-   Link: <a href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/defense/military-rotorcraft/h-47-chinook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</p></details>
+   Link:<a href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/defense/military-rotorcraft/h-47-chinook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>H-47 ChinookDecember 12, 2025 — The H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troo...</p></details>
    Published: December 12, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — There were, said the two women, over twenty main and tail-rotor hel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Boeing CH-47 Chinook  
-   Link: <a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47 ChinookThe Boeing CH-47 Chinook is a tandem-rotor helicopter originally developed by American rotorcraft company Vertol a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47 ChinookThe Boeing CH-47 Chinook is a tandem-rotor helicopter originally developed by American rotorcraft company Vertol a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentThe US district Court judge says, They couldn&#x27;t find...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSa2c1Pku2t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSa2c1Pku2t/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feature FridayThe CH-47 Chinook has been a cornerstone of military aviation for decades. With its iconic tandem-rotor design and exceptio...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSa2c1Pku2t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSa2c1Pku2t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feature FridayThe CH-47 Chinook has been a cornerstone of military aviation for decades. With its iconic tandem-rotor design and exceptio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: honeywellaerospace.com  
-   Link: <a href="https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>33 Things About the CH-47 ChinookThe twin-engine, tandem-rotor CH-47 Chinook helicopter is one of the world&#x27;s most iconic and recognizabl...</p></details>
+   Link:<a href="https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>33 Things About the CH-47 ChinookThe twin-engine, tandem-rotor CH-47 Chinook helicopter is one of the world&#x27;s most iconic and recognizabl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingThe Cash-Landrum UFO Sighting Multiple witnesses saw aircraft that has never been credibly explained On Dece...</p></details>
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingThe Cash-Landrum UFO Sighting Multiple witnesses saw aircraft that has never been credibly explained On Dece...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=g90QUoORmc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g90QUoORmc0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Most Iconic Helicopter | CH-47 ChinookThe CH-47 Chinook is regarded by many as the world&#x27;s most iconic helicopter. Dating all...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g90QUoORmc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g90QUoORmc0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Most Iconic Helicopter | CH-47 ChinookThe CH-47 Chinook is regarded by many as the world&#x27;s most iconic helicopter. Dating all...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...The witnesses counted 25 helicopters in all, with most of them being Ch...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...The witnesses counted 25 helicopters in all, with most of them being Ch...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FO cases in history, as it resulted in civil court proceedings...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FO cases in history, as it resulted in civil court proceedings...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), were heading home to Dayton, Texas, when they became invo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>object like an escort. Within hours, all three were sick. Betty...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>object like an escort. Within hours, all three were sick. Betty...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C8CxQpbNjAA/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C8CxQpbNjAA/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stantly recognizable by its twin-rotor design and unmistakable...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C8CxQpbNjAA/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C8CxQpbNjAA/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stantly recognizable by its twin-rotor design and unmistakable...</p></details>

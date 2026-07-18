@@ -280,15 +280,15 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_da
 
 ## Introduction
 
-Among the many helicopter-related leads connected to the Cash-Landrum incident, few seemed more promising at first than [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }})’s account of meeting a helicopter pilot in Dayton, Texas. If true, the encounter appeared to provide exactly what investigators lacked: a direct link between the reported helicopters and a pilot who allegedly acknowledged involvement with a UFO event. Yet the story became a case study in how an apparently powerful lead can weaken when examined closely. As researchers reconstructed the timeline, traced the [aircraft]({{ 'aircraft/' | relative_url }}) involved, and reviewed how the story had been transmitted, the evidential value of the pilot anecdote steadily declined. Rather than strengthening the military-helicopter hypothesis, it highlighted a recurring problem in the case: important claims often rested on memories of informal conversations rather than documented records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Among the many helicopter-related leads connected to the Cash-Landrum incident, few seemed more promising at first than [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }})’s account of meeting a helicopter pilot in Dayton, Texas. If true, the encounter appeared to provide exactly what investigators lacked: a direct link between the reported helicopters and a pilot who allegedly acknowledged involvement with a UFO event. Yet the story became a case study in how an apparently powerful lead can weaken when examined closely. As researchers reconstructed the timeline, traced the [aircraft]({{ 'aircraft/' | relative_url }}) involved, and reviewed how the story had been transmitted, the evidential value of the pilot anecdote steadily declined. Rather than strengthening the military-helicopter hypothesis, it highlighted a recurring problem in the case: important claims often rested on memories of informal conversations rather than documented records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Story illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Landrum Said About the Dayton Encounter
 
-The account emerged from an incident several months after the original December 1980 sighting. According to later retellings, a CH-47 Chinook helicopter landed in the Dayton area and attracted local attention. [Colby]({{ 'colby/' | relative_url }}) Landrum reportedly became distressed at the sight of the aircraft because it resembled the helicopters described during the Cash-Landrum encounter. Vickie Landrum therefore accompanied him to the landing site, where visitors were apparently being allowed to view the helicopter and speak with its crew. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The account emerged from an incident several months after the original December 1980 sighting. According to later retellings, a CH-47 Chinook helicopter landed in the Dayton area and attracted local attention. [Colby]({{ 'colby/' | relative_url }}) Landrum reportedly became distressed at the sight of the aircraft because it resembled the helicopters described during the Cash-Landrum encounter. Vickie Landrum therefore accompanied him to the landing site, where visitors were apparently being allowed to view the helicopter and speak with its crew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Landrum later claimed that during a conversation with the pilot, he indicated that he had previously been in the area because of a UFO incident near Huffman, Texas. The implication was obvious: if the pilot had been involved in an operation connected to an unidentified object, then the witnesses' belief that military helicopters accompanied the December 1980 event might have gained independent support. The story circulated within UFO research circles because it seemed to provide an insider acknowledgement rather than another civilian observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Landrum later claimed that during a conversation with the pilot, he indicated that he had previously been in the area because of a UFO incident near Huffman, Texas. The implication was obvious: if the pilot had been involved in an operation connected to an unidentified object, then the witnesses' belief that military helicopters accompanied the December 1980 event might have gained independent support. The story circulated within UFO research circles because it seemed to provide an insider acknowledgement rather than another civilian observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 However, even in its strongest form, the anecdote depended entirely on recollections of a brief conversation. There was no recording, written statement, sworn testimony, flight log, or identified pilot publicly confirming the exchange. The claim survived only through retellings by participants and investigators.
 
@@ -299,7 +299,7 @@ However, even in its strongest form, the anecdote depended entirely on recollect
 
 As researchers revisited the story, they encountered difficulties in establishing basic facts about the event itself. Different versions circulated regarding who organised the public display, where exactly the helicopter landed, and which authorities were involved. References to local law-enforcement participation or sheriff's department involvement became increasingly difficult to verify through documentary evidence.
 
-This uncertainty mattered because the supporting framework around the anecdote was supposed to make it credible. If a helicopter had landed at a public event organised through local authorities, there should have been a clearer trail of records, witnesses, or official recollections. Instead, investigators found themselves relying on memories recorded years after the fact. The more the details were examined, the less certain the surrounding circumstances appeared. The story's evidential weight therefore rested increasingly on a single remembered conversation rather than on a chain of independently verifiable facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This uncertainty mattered because the supporting framework around the anecdote was supposed to make it credible. If a helicopter had landed at a public event organised through local authorities, there should have been a clearer trail of records, witnesses, or official recollections. Instead, investigators found themselves relying on memories recorded years after the fact. The more the details were examined, the less certain the surrounding circumstances appeared. The story's evidential weight therefore rested increasingly on a single remembered conversation rather than on a chain of independently verifiable facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 For historical investigators, this is a familiar warning sign. A claim may survive because people sincerely remember it, yet still become difficult to use as evidence when the supporting context cannot be reconstructed with confidence.
 
@@ -307,9 +307,9 @@ For historical investigators, this is a familiar warning sign. A claim may survi
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Story illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Later Confusion Weakened the Lead
 
-The most damaging development came when researchers compared the alleged pilot's remarks with known helicopter-related UFO reports in the region. According to later analysis, the pilot's reference appears to have concerned a different reported UFO incident near Huffman that occurred in July 1977, more than three years before the Cash-Landrum encounter. In other words, the pilot may have been discussing an unrelated episode altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The most damaging development came when researchers compared the alleged pilot's remarks with known helicopter-related UFO reports in the region. According to later analysis, the pilot's reference appears to have concerned a different reported UFO incident near Huffman that occurred in July 1977, more than three years before the Cash-Landrum encounter. In other words, the pilot may have been discussing an unrelated episode altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This distinction fundamentally altered the meaning of the conversation. If the pilot was referring to a 1977 report rather than the December 1980 event, then his statement ceased to be evidence that military crews had responded to the Cash-Landrum object. Instead, it became evidence only that he knew of, or had participated in, some earlier operation associated with another reported unidentified object. The apparent connection to Cash-Landrum existed largely because listeners interpreted the conversation through the lens of their own experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This distinction fundamentally altered the meaning of the conversation. If the pilot was referring to a 1977 report rather than the December 1980 event, then his statement ceased to be evidence that military crews had responded to the Cash-Landrum object. Instead, it became evidence only that he knew of, or had participated in, some earlier operation associated with another reported unidentified object. The apparent connection to Cash-Landrum existed largely because listeners interpreted the conversation through the lens of their own experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 The episode illustrates how source chains can drift over time. The original conversation was informal. The identity of the pilot was not firmly documented. The remarks were later remembered and repeated. Subsequent listeners connected them to the famous 1980 case. Each step added another opportunity for misunderstanding. By the time researchers attempted to evaluate the claim, separating what had actually been said from what later participants believed it meant had become extremely difficult.
 
@@ -321,204 +321,204 @@ The episode illustrates how source chains can drift over time. The original conv
 
 ## Why the Story Matters Despite Its Weaknesses
 
-The Dayton pilot story remains significant not because it proves a military connection, but because it reveals how some of the most intriguing Cash-Landrum leads developed. The helicopter question has always been central to the case. Witnesses described large numbers of military-style helicopters, and later investigators searched intensely for evidence linking those aircraft to government operations. The pilot anecdote seemed to offer precisely that link. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The Dayton pilot story remains significant not because it proves a military connection, but because it reveals how some of the most intriguing Cash-Landrum leads developed. The helicopter question has always been central to the case. Witnesses described large numbers of military-style helicopters, and later investigators searched intensely for evidence linking those aircraft to government operations. The pilot anecdote seemed to offer precisely that link.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Yet when examined historically, the lead demonstrates the difference between a promising clue and reliable evidence. The anecdote lacked contemporaneous documentation, depended on recollection, and appears to have become entangled with an earlier and separate UFO report. Rather than establishing that military helicopters were escorting or monitoring [the object]({{ 'the-object/' | relative_url }}) seen by Cash and Landrum, it became another example of how the case's most dramatic claims often rested on fragile chains of memory and interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Yet when examined historically, the lead demonstrates the difference between a promising clue and reliable evidence. The anecdote lacked contemporaneous documentation, depended on recollection, and appears to have become entangled with an earlier and separate UFO report. Rather than establishing that military helicopters were escorting or monitoring [the object]({{ 'the-object/' | relative_url }}) seen by Cash and Landrum, it became another example of how the case's most dramatic claims often rested on fragile chains of memory and interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relative_url }}) and military involvement, the Dayton pilot story therefore occupies an unusual place. It is memorable because it appeared to bring investigators close to a direct admission. It is important because it shows how easily such admissions can dissolve when chronology, sourcing and context are tested. The result is not a decisive breakthrough but a cautionary lesson about evidential standards in one of the most debated aspects of the Cash-Landrum case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relative_url }}) and military involvement, the Dayton pilot story therefore occupies an unusual place. It is memorable because it appeared to bring investigators close to a direct admission. It is important because it shows how easily such admissions can dissolve when chronology, sourcing and context are tested. The result is not a decisive breakthrough but a cautionary lesson about evidential standards in one of the most debated aspects of the Cash-Landrum case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Story illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Pilot Story That Would Not Hold. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Pilot Story That Would Not Hold. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on pilot reports and the reliability of aviation-related UFO testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on pilot reports and the reliability of aviation-related UFO testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating witness testimony and evidential weaknesses in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating witness testimony and evidential weaknesses in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how UFO claims are investigated and how strong leads can weaken under scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO claims are investigated and how strong leads can weaken under scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Offers context on major UFO cases, witness accounts, and investigative controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers context on major UFO cases, witness accounts, and investigative controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARMY HELICOPTER WAR POSTER MILITARY FANTASY WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/11229c6e0cf3da6a78be.jpg' | relative_url }}" alt="Listing image for ARMY HELICOPTER WAR POSTER MILITARY FANTASY WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">ARMY HELICOPTER WAR POSTER MILITARY FANTASY WALL ART PRINT A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARMY HELICOPTER WAR POSTER MILITARY FANTASY WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/11229c6e0cf3da6a78be.jpg' | relative_url }}" alt="Listing image for ARMY HELICOPTER WAR POSTER MILITARY FANTASY WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">ARMY HELICOPTER WAR POSTER MILITARY FANTASY WALL ART PRINT A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goddard Military UK RAF Chinook Helicopter Photo Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/e606a407171a4448f8e4.jpg' | relative_url }}" alt="Listing image for Goddard Military UK RAF Chinook Helicopter Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Goddard Military UK RAF Chinook Helicopter Photo Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goddard Military UK RAF Chinook Helicopter Photo Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/e606a407171a4448f8e4.jpg' | relative_url }}" alt="Listing image for Goddard Military UK RAF Chinook Helicopter Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Goddard Military UK RAF Chinook Helicopter Photo Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/e4728ef211c5add67f8d.jpg' | relative_url }}" alt="Listing image for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/e4728ef211c5add67f8d.jpg' | relative_url }}" alt="Listing image for Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">Storer Military UK RAF Rescue Helicopter Cairngorms Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7bce927ad5f71fa7b647.jpg' | relative_url }}" alt="Listing image for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7bce927ad5f71fa7b647.jpg' | relative_url }}" alt="Listing image for V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">V-22 Osprey Military Helicopter Ame Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter poster" data-ebay-reference="pilot-story-the-pilot-story-that-would-not-hold-cash-landrum-ufo-incident-military-helicopter-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relativ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relativ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relativ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relativ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relativ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,84 +724,84 @@ Within the broader problem of [helicopter sightings]({{ 'helicopters/' | relativ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CashCash is money in the tangible form of currency, such as banknotes and coins. Banknotes and coins of various currencies. In book-ke...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CashCash is money in the tangible form of currency, such as banknotes and coins. Banknotes and coins of various currencies. In book-ke...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cash.app  
-   Link: <a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Send, Receive, Invest, &amp; Manage Your Money with Cash AppDownload Cash App to send &amp; receive money instantly, spend with the Cash App Card...</p></details>
+   Link:<a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Send, Receive, Invest, &amp; Manage Your Money with Cash AppDownload Cash App to send &amp; receive money instantly, spend with the Cash App Card...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — CASH definition: 1. money in the form of notes and coins: 2. to exchange a cheque, e...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — CASH definition: 1. money in the form of notes and coins: 2. to exchange a cheque, e...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: becleverwithyourcash.com  
-   Link: <a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Be Clever With Your CashWe&#x27;re an award-winning money site and team of money geeks. We&#x27;ve helped 20 million+ people make smart decisions w...</p></details>
+   Link:<a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Be Clever With Your CashWe&#x27;re an award-winning money site and team of money geeks. We&#x27;ve helped 20 million+ people make smart decisions w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash (@cashmarcoyt) • Instagram photos and videosBought new cars for my mom and dad Love u guys so much, I&#x27;m so grateful to be in a posit...</p></details>
+   Link:<a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash (@cashmarcoyt) • Instagram photos and videosBought new cars for my mom and dad Love u guys so much, I&#x27;m so grateful to be in a posit...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;), Vickie Landrum, and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;), Vickie Landrum, and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, near Dayton, Texas, involving two women, Betty Cash and Vickie Landrum, and Landrum&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, near Dayton, Texas, involving two women, Betty Cash and Vickie Landrum, and Landrum&#x27;s...Read more...</p></details>
    Published: December 29, 1980  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
+   Link:<a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
    Published: December 29, 1980  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d-shaped UFO surrounded by military helicopters near Dayton...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d-shaped UFO surrounded by military helicopters near Dayton...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>occurred on the evening of December 29, 1980...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>occurred on the evening of December 29, 1980...</p></details>
    Published: December 29, 1980  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: open.spotify.com  
    Title: 4W5CBEF5ah AWU9g Sclh Eay  
-   Link: <a href="https://open.spotify.com/episode/4W5CBEF5ahAWU9gSclhEay" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4W5CBEF5ahAWU9gSclhEay</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comALIEN: The Cash-Landrum Incident - So Supernatural6 Sept 2024 — On the night of December 29, 1980, Betty Cash, Vickie Landrum...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4W5CBEF5ahAWU9gSclhEay" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4W5CBEF5ahAWU9gSclhEay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comALIEN: The Cash-Landrum Incident - So Supernatural6 Sept 2024 — On the night of December 29, 1980, Betty Cash, Vickie Landrum...</p></details>
    Published: December 29, 1980  

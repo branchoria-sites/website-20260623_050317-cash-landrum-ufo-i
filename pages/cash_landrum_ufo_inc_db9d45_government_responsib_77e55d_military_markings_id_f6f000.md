@@ -274,22 +274,22 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_mi
 
 ## Introduction
 
-In the Cash–Landrum incident, one detail appeared to offer a direct path from an unexplained aerial encounter to government responsibility: [Betty Cash]({{ 'betty-cash/' | relative_url }})'s claim that some of the accompanying helicopters carried “United States Air Force” markings. If accurate, such markings would seem to transform an unidentified object into a traceable military event. Yet [aircraft]({{ 'aircraft/' | relative_url }}) identification is rarely that simple. Investigators, courts, and aviation specialists generally treat reported markings as a starting point rather than proof, because visibility, distance, lighting, stress, and later memory can all affect what witnesses believe they saw. The Cash–Landrum case illustrates a recurring problem in UFO investigations: a military marking can sound decisive, but it only becomes evidence if it survives independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+In the Cash–Landrum incident, one detail appeared to offer a direct path from an unexplained aerial encounter to government responsibility: [Betty Cash]({{ 'betty-cash/' | relative_url }})'s claim that some of the accompanying helicopters carried “United States Air Force” markings. If accurate, such markings would seem to transform an unidentified object into a traceable military event. Yet [aircraft]({{ 'aircraft/' | relative_url }}) identification is rarely that simple. Investigators, courts, and aviation specialists generally treat reported markings as a starting point rather than proof, because visibility, distance, lighting, stress, and later memory can all affect what witnesses believe they saw. The Cash–Landrum case illustrates a recurring problem in UFO investigations: a military marking can sound decisive, but it only becomes evidence if it survives independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-1-dark.svg" | relative_url }}" alt="Markings illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Witnesses Said They Saw
 
-The witnesses reported that a group of helicopters appeared around or near the luminous object after it rose above the treeline. Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) later identified some of the helicopters as CH-47 Chinooks, a distinctive tandem-rotor transport helicopter used by military forces. Cash additionally stated that she observed “United States Air Force” markings on at least some of the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The witnesses reported that a group of helicopters appeared around or near the luminous object after it rose above the treeline. Betty Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) later identified some of the helicopters as CH-47 Chinooks, a distinctive tandem-rotor transport helicopter used by military forces. Cash additionally stated that she observed “United States Air Force” markings on at least some of the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 From an evidential standpoint, the claim contains two separate identification steps:
 
 1. Identifying the aircraft type.
 2. Identifying the operator through markings.
 
-The first task is often easier than the second. A Chinook's twin-rotor silhouette is visually distinctive, especially compared with conventional helicopters. The second task requires reading or recognising specific insignia, lettering, or paint schemes under conditions that may be far less favourable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The first task is often easier than the second. A Chinook's twin-rotor silhouette is visually distinctive, especially compared with conventional helicopters. The second task requires reading or recognising specific insignia, lettering, or paint schemes under conditions that may be far less favourable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
-This distinction matters because a witness can correctly identify an aircraft family while incorrectly identifying the organisation operating it. In the Cash–Landrum case, the reported military-style helicopters became one of the strongest reasons investigators looked for a government connection at all. Yet the alleged markings never received independent confirmation from records, photographs, radar data, or military documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+This distinction matters because a witness can correctly identify an aircraft family while incorrectly identifying the organisation operating it. In the Cash–Landrum case, the reported military-style helicopters became one of the strongest reasons investigators looked for a government connection at all. Yet the alleged markings never received independent confirmation from records, photographs, radar data, or military documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -312,7 +312,7 @@ Professional aircraft identification rarely relies on a witness statement alone.
 
 The reason for this caution is straightforward. Human observers do not experience aircraft under laboratory conditions. Night-time viewing, glare, unusual lighting, emotional stress, and brief observation windows can all affect perception. In cases involving alleged emergencies or frightening events, attention is often focused on the most dramatic object rather than on the details needed for reliable identification.
 
-The Cash–Landrum encounter combined several factors known to complicate observation. It allegedly occurred at night, involved intense light and heat, and placed the witnesses in a highly stressful situation. Under such conditions, investigators generally look for independent confirmation before accepting detailed claims about markings, ownership, or mission type. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The Cash–Landrum encounter combined several factors known to complicate observation. It allegedly occurred at night, involved intense light and heat, and placed the witnesses in a highly stressful situation. Under such conditions, investigators generally look for independent confirmation before accepting detailed claims about markings, ownership, or mission type.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-2-dark.svg" | relative_url }}" alt="Markings illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,9 +320,9 @@ The Cash–Landrum encounter combined several factors known to complicate observ
 
 The Chinook element demonstrates how identification can become layered. Witnesses described tandem-rotor helicopters, which aligns with the appearance of the CH-47. However, recognising a Chinook does not automatically identify the operator.
 
-In fact, Chinooks have been operated by different military organisations and services. Therefore, even if witnesses correctly recognised the helicopter model, additional evidence would still be required to establish whether the aircraft belonged to the Air Force, Army, National Guard, Reserve components, or another operator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+In fact, Chinooks have been operated by different military organisations and services. Therefore, even if witnesses correctly recognised the helicopter model, additional evidence would still be required to establish whether the aircraft belonged to the Air Force, Army, National Guard, Reserve components, or another operator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
-Investigators examining the case reportedly focused heavily on this issue because identifying a specific operator would create a documentary trail. If a military unit had deployed dozens of helicopters in the area, [flight records]({{ 'flight-records/' | relative_url }}), maintenance logs, personnel assignments, and operational orders might potentially reveal it. The inability to locate such corroboration became a major obstacle for the government-responsibility theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George Wingfield&#x27;s BlogA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate th...</span></span></span>
+Investigators examining the case reportedly focused heavily on this issue because identifying a specific operator would create a documentary trail. If a military unit had deployed dozens of helicopters in the area, [flight records]({{ 'flight-records/' | relative_url }}), maintenance logs, personnel assignments, and operational orders might potentially reveal it. The inability to locate such corroboration became a major obstacle for the government-responsibility theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George Wingfield&#x27;s BlogA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate th...</span></span></span>
 
 ## Why Mistaken Identification Matters Legally
 
@@ -330,7 +330,7 @@ In public discussion, a reported military marking often functions as a shortcut 
 
 The central challenge is that identification and responsibility are separate questions. A witness may sincerely report seeing military markings without establishing that a particular government agency actually operated the aircraft. Courts generally require evidence that can be independently verified, especially when compensation claims or allegations of official misconduct are involved.
 
-The [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) ultimately encountered this problem. Investigators attempted to determine whether military helicopters had been present and, if so, which organisation controlled them. Lieutenant Colonel George Sarran's inquiry reportedly found no evidence linking the helicopters to the Army, National Guard, Army Reserve, or other identified government operators. While that finding did not explain what witnesses believed they saw, it weakened the evidential chain needed to prove federal responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield&#x27;s Blog+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George Wingfield&#x27;s BlogA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate th...</span></span></span>
+The [Cash–Landrum lawsuit]({{ 'lawsuit-22aaf1/' | relative_url }}) ultimately encountered this problem. Investigators attempted to determine whether military helicopters had been present and, if so, which organisation controlled them. Lieutenant Colonel George Sarran's inquiry reportedly found no evidence linking the helicopters to the Army, National Guard, Army Reserve, or other identified government operators. While that finding did not explain what witnesses believed they saw, it weakened the evidential chain needed to prove federal responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewingfield.blogspot.com">[George Wingfield&#x27;s Blog+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewingfield.blogspot.com</span><span class="citation-popover-title">a fresh look at cash landrum ufo</span><span class="citation-popover-snippet">George Wingfield&#x27;s BlogA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate th...</span></span></span>
 
 From a legal perspective, an unverified marking is not the same as a documented aircraft assignment. One is a witness observation; the other is traceable evidence.
 
@@ -341,9 +341,9 @@ From a legal perspective, an unverified marking is not the same as a documented 
 
 The reported Air Force markings remain one of the most debated elements of the Cash–Landrum case because they sit at the intersection of witness credibility and evidential limits.
 
-Supporters of the witnesses argue that the marking claim gains weight from the witnesses' consistency and from reports that other people observed unusual helicopter activity in the area. Critics respond that consistency does not eliminate the possibility of error, particularly when observations are made under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+Supporters of the witnesses argue that the marking claim gains weight from the witnesses' consistency and from reports that other people observed unusual helicopter activity in the area. Critics respond that consistency does not eliminate the possibility of error, particularly when observations are made under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
-Importantly, the controversy is not primarily about whether the witnesses believed they saw military markings. Most discussions accept that they reported exactly that. The dispute concerns whether those markings were observed accurately enough to identify a specific government operator. Without corroborating records or physical evidence, the claim remains suggestive rather than conclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+Importantly, the controversy is not primarily about whether the witnesses believed they saw military markings. Most discussions accept that they reported exactly that. The dispute concerns whether those markings were observed accurately enough to identify a specific government operator. Without corroborating records or physical evidence, the claim remains suggestive rather than conclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RVeOy9W8EUE" title="Terrifying Texas UFO Encounter - The Cash Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer">Terrifying Texas UFO Encounter - The Cash Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RVeOy9W8EUE">Open on YouTube</a></p></div></div></div>
@@ -352,200 +352,200 @@ Importantly, the controversy is not primarily about whether the witnesses believ
 
 The military-marking issue in the Cash–Landrum incident demonstrates a broader principle in civilian UFO investigations. A reported insignia, service name, or military paint scheme can appear to solve the mystery by attaching an institution to the event. In practice, however, such claims create a new evidential burden rather than ending the inquiry.
 
-For government responsibility to be established, markings must be supported by independent verification. Otherwise, investigators are left with a familiar problem: a potentially important observation that cannot be confidently separated from the limitations of night-time perception, stress, memory, and human identification. In the Cash–Landrum case, that gap between observation and verification became one of the most important reasons the alleged military connection remained unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2George Wingfield&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+For government responsibility to be established, markings must be supported by independent verification. Otherwise, investigators are left with a familiar problem: a potentially important observation that cannot be confidently separated from the limitations of night-time perception, stress, memory, and human identification. In the Cash–Landrum case, that gap between observation and verification became one of the most important reasons the alleged military connection remained unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2George Wingfield&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-3-dark.svg" | relative_url }}" alt="Markings illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Military Markings Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Military Markings Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes pilot and military observations requiring verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes pilot and military observations requiring verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses evaluating witness descriptions and identifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evaluating witness descriptions and identifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jane&#x27;s all the world&#x27;s aircraft, 2004-2005 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/448990-M.jpg" alt="Cover for Jane&#x27;s all the world&#x27;s aircraft, 2004-2005" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s all the world&#x27;s aircraft, 2004-2005">Jane&#x27;s all the world&#x27;s aircraft, 2004-2005</a>
-        </h4>
-        <p class="fr-book-author">By Paul Jackson, Lindsay T. Peacock et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jane&#x27;s all the world&#x27;s aircraft, 2004-2005 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/448990-M.jpg" alt="Cover for Jane&#x27;s all the world&#x27;s aircraft," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s all the world&#x27;s aircraft,">Jane&#x27;s all the world&#x27;s aircraft,</a>
+</h4>
+<p class="fr-book-author">By Paul Jackson, Lindsay T. Peacock et al.</p>
         
-        <p class="fr-book-desc">Subjects: Aeronautics, Space vehicles, Airplanes, Rockets (Aeronautics).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Subjects: Aeronautics, Space vehicles, Airplanes, Rockets (Aeronautics).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35"><img src="{{ '/assets/images/marketplace-covers/9b45e560f09b87a1280b.jpg' | relative_url }}" alt="Listing image for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35"><img src="{{ '/assets/images/marketplace-covers/9b45e560f09b87a1280b.jpg' | relative_url }}" alt="Listing image for Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Academy MH 60S HSC 9 Tridents Helicopter Model Kit Military US Navy Scale 1/35</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto"><img src="{{ '/assets/images/marketplace-covers/821441e24e83f54eca2f.jpg' | relative_url }}" alt="Listing image for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto"><img src="{{ '/assets/images/marketplace-covers/821441e24e83f54eca2f.jpg' | relative_url }}" alt="Listing image for KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">KA-52 Alligator NATO Military Helicopter Model Toy Black Diecast Maisto</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alloy Military Helicopter Model with Sound &amp; Light – Display Stand &amp; Gift Box"><img src="{{ '/assets/images/marketplace-covers/740936b0f13cb339139a.jpg' | relative_url }}" alt="Listing image for Alloy Military Helicopter Model with Sound &amp; Light – Display Stand &amp; Gift Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Alloy Military Helicopter Model with Sound &amp; Light – Display Stand &amp; Gift Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alloy Military Helicopter Model with Sound &amp; Light – Display Stand &amp; Gift Box"><img src="{{ '/assets/images/marketplace-covers/740936b0f13cb339139a.jpg' | relative_url }}" alt="Listing image for Alloy Military Helicopter Model with Sound &amp; Light – Display Stand &amp; Gift Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Alloy Military Helicopter Model with Sound &amp; Light – Display Stand &amp; Gift Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kamov Ka-29 Helix-B Attack Helicopter Model 1:72 Diecast Military Display Opened"><img src="{{ '/assets/images/marketplace-covers/4a88b2b491c367c2c1d5.jpg' | relative_url }}" alt="Listing image for Kamov Ka-29 Helix-B Attack Helicopter Model 1:72 Diecast Military Display Opened" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Kamov Ka-29 Helix-B Attack Helicopter Model 1:72 Diecast Military Display Opened</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kamov Ka-29 Helix-B Attack Helicopter Model 1:72 Diecast Military Display Opened"><img src="{{ '/assets/images/marketplace-covers/4a88b2b491c367c2c1d5.jpg' | relative_url }}" alt="Listing image for Kamov Ka-29 Helix-B Attack Helicopter Model 1:72 Diecast Military Display Opened" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Kamov Ka-29 Helix-B Attack Helicopter Model 1:72 Diecast Military Display Opened</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military helicopter model" data-ebay-reference="markings-9f52a5-when-military-markings-are-not-enough-cash-landrum-ufo-incident-military-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ For government responsibility to be established, markings must be supported by i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ For government responsibility to be established, markings must be supported by i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ For government responsibility to be established, markings must be supported by i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ For government responsibility to be established, markings must be supported by i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ For government responsibility to be established, markings must be supported by i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,101 +751,101 @@ For government responsibility to be established, markings must be supported by i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks...</p></details>
    Published: April 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Boeing CH-47 Chinook  
-   Link: <a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths, conspiracies, and realities 9780312648343...... Army Inspector General&#x27;s Office where it was assigned to a friend of mine, then...</p></details>
+   Link:<a href="https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myths, conspiracies, and realities 9780312648343...... Army Inspector General&#x27;s Office where it was assigned to a friend of mine, then...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CashCash is money in the tangible form of currency, such as banknotes and coins. Banknotes and coins of various currencies. In book-ke...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CashCash is money in the tangible form of currency, such as banknotes and coins. Banknotes and coins of various currencies. In book-ke...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cash.app  
-   Link: <a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Send, Receive, Invest, &amp; Manage Your Money with Cash AppDownload Cash App to send &amp; receive money instantly, spend with the Cash App Card...</p></details>
+   Link:<a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Send, Receive, Invest, &amp; Manage Your Money with Cash AppDownload Cash App to send &amp; receive money instantly, spend with the Cash App Card...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: georgewingfield.blogspot.com  
    Title: a fresh look at cash landrum ufo  
-   Link: <a href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Wingfield&#x27;s BlogA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate th...</p></details>
+   Link:<a href="https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewingfield.blogspot.com/2015/04/a-fresh-look-at-cash-landrum-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Wingfield&#x27;s BlogA Fresh Look at the Cash-Landrum UFO Incident24 Apr 2015 — &quot;There was no evidence presented that would indicate th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>incident to show him the [location](&amp;#123;&amp;#123; &#x27;location/&#x27; | relative_url &amp;#125;&amp;#125;). After that, why did the military show up and dig up the road and haul it away? Obviously, the military...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident to show him the [location](&amp;#123;&amp;#123; &#x27;location/&#x27; | relative_url &amp;#125;&amp;#125;). After that, why did the military show up and dig up the road and haul it away? Obviously, the military...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — CASH definition: 1. money in the form of notes and coins: 2. to exchange a cheque, e...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — CASH definition: 1. money in the form of notes and coins: 2. to exchange a cheque, e...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: becleverwithyourcash.com  
-   Link: <a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Be Clever With Your CashWe&#x27;re an award-winning money site and team of money geeks. We&#x27;ve helped 20 million+ people make smart decisions w...</p></details>
+   Link:<a href="https://becleverwithyourcash.com/" target="_blank" rel="noopener noreferrer nofollow">https://becleverwithyourcash.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Be Clever With Your CashWe&#x27;re an award-winning money site and team of money geeks. We&#x27;ve helped 20 million+ people make smart decisions w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash (@cashmarcoyt) • Instagram photos and videosBought new cars for my mom and dad Love u guys so much, I&#x27;m so grateful to be in a posit...</p></details>
+   Link:<a href="https://www.instagram.com/cashmarcoyt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/cashmarcoyt/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash (@cashmarcoyt) • Instagram photos and videosBought new cars for my mom and dad Love u guys so much, I&#x27;m so grateful to be in a posit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
+   Link:<a href="https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2988d0c5-9818-444d-b67e-86dd9cf5126b</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: investopedia.com  
-   Link: <a href="https://www.investopedia.com/terms/c/cash.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/c/cash.asp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Cash: Definition, Types, and HistoryCash refers to physical money, such as currency and coins, as well as liquid assets tha...</p></details>
+   Link:<a href="https://www.investopedia.com/terms/c/cash.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/c/cash.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Cash: Definition, Types, and HistoryCash refers to physical money, such as currency and coins, as well as liquid assets tha...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Unexplained phenomena] 37 years ago today, the mysterious Cash...December 29, 2017 — Cash and Landrum counted 23 helicopters, and later...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unexplained phenomena] 37 years ago today, the mysterious Cash...December 29, 2017 — Cash and Landrum counted 23 helicopters, and later...</p></details>
    Published: December 29, 2017  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
+   Link:<a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Col. George Sarran found no evidence that the helicopters the witnesse...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Col. George Sarran found no evidence that the helicopters the witnesse...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Within hours, all three witnesses began suffering strange physical symptoms. The U.S. government denied any...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Within hours, all three witnesses began suffering strange physical symptoms. The U.S. government denied any...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: techeblog.com  
    Title: 5 Bizarre UFO Related Incidents That Still Can't Be Explained  
-   Link: <a href="https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 9, 2014 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor CH-47 Chinooks used by milit...</p></details>
+   Link:<a href="https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 9, 2014 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor CH-47 Chinooks used by milit...</p></details>
    Published: October 9, 2014  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works The [Cash-Landrum UFO Incident](&#123;&#123; 'cash-landrum-ufo-incident/' | relative_url &#125;&#125;)  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident - Science | HowStuffWorksthe helicopters have been identified as twin-rotor Boeing CH-47 Chinooks, used by both...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident - Science | HowStuffWorksthe helicopters have been identified as twin-rotor Boeing CH-47 Chinooks, used by both...</p></details>

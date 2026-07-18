@@ -280,7 +280,7 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tw
 
 ## Introduction
 
-One of the most striking elements of the Cash–Landrum incident is not the reported UFO itself but the claim that it was accompanied by roughly twenty-three tandem-rotor helicopters, later described as CH-47 Chinooks. If that number were even approximately correct, the sighting would imply something far larger than a handful of [aircraft]({{ 'aircraft/' | relative_url }}) responding to an emergency. It would suggest a substantial aviation operation involving dozens of aircrew, significant fuel consumption, airspace coordination, maintenance support and a [paper trail]({{ 'paper-trail/' | relative_url }}). That logistical reality is why the helicopter claim became both one of the strongest and weakest parts of the case: strongest because it points toward identifiable military assets, and weakest because moving that many heavy-lift helicopters without leaving evidence is extraordinarily difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+One of the most striking elements of the Cash–Landrum incident is not the reported UFO itself but the claim that it was accompanied by roughly twenty-three tandem-rotor helicopters, later described as CH-47 Chinooks. If that number were even approximately correct, the sighting would imply something far larger than a handful of [aircraft]({{ 'aircraft/' | relative_url }}) responding to an emergency. It would suggest a substantial aviation operation involving dozens of aircrew, significant fuel consumption, airspace coordination, maintenance support and a [paper trail]({{ 'paper-trail/' | relative_url }}). That logistical reality is why the helicopter claim became both one of the strongest and weakest parts of the case: strongest because it points toward identifiable military assets, and weakest because moving that many heavy-lift helicopters without leaving evidence is extraordinarily difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-1-dark.svg" | relative_url }}" alt="Mass Flight illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ One of the most striking elements of the Cash–Landrum incident is not the repo
 
 The witnesses' reported count of twenty-three helicopters has often been treated as a simple visual detail. Operationally, however, it is a major claim.
 
-The CH-47 Chinook is not a small observation helicopter. It is a large twin-engine heavy-lift aircraft designed for transporting troops, equipment and cargo. Modern versions carry more than 1,000 gallons of fuel, can weigh over 50,000 pounds at maximum gross weight, and require specialised maintenance and support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">H-47 ChinookCH-47F Chinook Block II Specifications; Static Forward, 7 feet, 6 inches (2.3 meters); Fuel Capacity. 1,080 gallons (...</span></span></span>
+The CH-47 Chinook is not a small observation helicopter. It is a large twin-engine heavy-lift aircraft designed for transporting troops, equipment and cargo. Modern versions carry more than 1,000 gallons of fuel, can weigh over 50,000 pounds at maximum gross weight, and require specialised maintenance and support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">H-47 ChinookCH-47F Chinook Block II Specifications; Static Forward, 7 feet, 6 inches (2.3 meters); Fuel Capacity. 1,080 gallons (...</span></span></span>
 
 Even using conservative assumptions, twenty-three Chinooks would represent:
 
@@ -298,7 +298,7 @@ Even using conservative assumptions, twenty-three Chinooks would represent:
 * Twenty-three separate aircraft.
 * At least sixty-nine flight crew members if each aircraft carried the minimum three-person crew of pilot, co-pilot and flight engineer.
 * Ground personnel responsible for fuelling, maintenance and mission preparation.
-* Command and control arrangements for formation flying and deconfliction with other air traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.honeywell.com">[Honeywell Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.honeywell.com</span><span class="citation-popover-snippet">The helicopter flies with a minimum crew of three – pilot, copilot and flight engineer...Read more...</span></span></span>
+* Command and control arrangements for formation flying and deconfliction with other air traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.honeywell.com">[Honeywell Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.honeywell.com</span><span class="citation-popover-snippet">The helicopter flies with a minimum crew of three – pilot, copilot and flight engineer...Read more...</span></span></span>
 
 </div>
 
@@ -313,7 +313,7 @@ This does not prove the witnesses were wrong. It does mean that a reported count
 
 The logistical burden becomes clearer when fuel consumption is considered.
 
-Published operational figures for the CH-47 place fuel burn roughly in the range of 340–400 gallons per hour, depending on model and mission profile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://billingsflyingservice.com/ch-47/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billingsflyingservice.com">[Billings Flying Service+2Billings Flying Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billingsflyingservice.com</span><span class="citation-popover-snippet">Billings Flying ServiceCH-47 Chinook ExpertsFuel Burn. 340 GPH. (1,290 LPH). Cruise Speed. 140 KNOTS. (260 KPH). We have optimized the CH...</span></span></span>
+Published operational figures for the CH-47 place fuel burn roughly in the range of 340–400 gallons per hour, depending on model and mission profile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://billingsflyingservice.com/ch-47/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billingsflyingservice.com">[Billings Flying Service+2Billings Flying Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billingsflyingservice.com</span><span class="citation-popover-snippet">Billings Flying ServiceCH-47 Chinook ExpertsFuel Burn. 340 GPH. (1,290 LPH). Cruise Speed. 140 KNOTS. (260 KPH). We have optimized the CH...</span></span></span>
 
 At those rates:
 
@@ -322,13 +322,13 @@ At those rates:
 
 * A single Chinook flying for one hour may consume roughly 340–400 gallons of fuel.
 * Twenty-three aircraft flying for one hour would collectively consume approximately 7,800–9,200 gallons.
-* Longer operations would multiply those requirements rapidly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://billingsflyingservice.com/ch-47/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billingsflyingservice.com">[Billings Flying Service+2Wildfire Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billingsflyingservice.com</span><span class="citation-popover-snippet">Billings Flying ServiceCH-47 Chinook ExpertsFuel Burn. 340 GPH. (1,290 LPH). Cruise Speed. 140 KNOTS. (260 KPH). We have optimized the CH...</span></span></span>
+* Longer operations would multiply those requirements rapidly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://billingsflyingservice.com/ch-47/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billingsflyingservice.com">[Billings Flying Service+2Wildfire Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billingsflyingservice.com</span><span class="citation-popover-snippet">Billings Flying ServiceCH-47 Chinook ExpertsFuel Burn. 340 GPH. (1,290 LPH). Cruise Speed. 140 KNOTS. (260 KPH). We have optimized the CH...</span></span></span>
 
 </div>
 
 Fuel alone does not make a secret operation impossible. Militaries routinely support large aviation activities. The issue is that fuel, maintenance and crew scheduling create records. Aircraft must be serviced, crews assigned, mission plans issued and airfields prepared.
 
-The Cash–Landrum case became the subject of official inquiries and later litigation partly because the witnesses believed military aircraft were involved. Yet no publicly verified [flight records]({{ 'flight-records/' | relative_url }}), unit histories, radar data or maintenance documentation have emerged showing a formation of anything close to twenty-three Chinooks operating in the relevant area that night. Government agencies consistently denied knowledge of such an operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The Cash–Landrum case became the subject of official inquiries and later litigation partly because the witnesses believed military aircraft were involved. Yet no publicly verified [flight records]({{ 'flight-records/' | relative_url }}), unit histories, radar data or maintenance documentation have emerged showing a formation of anything close to twenty-three Chinooks operating in the relevant area that night. Government agencies consistently denied knowledge of such an operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 This absence of corroborating records does not settle the matter. Records can be incomplete, classified or lost. Nevertheless, the larger the claimed formation becomes, the more surprising the lack of independent documentation appears.
 
@@ -346,7 +346,7 @@ That tension has produced two broad interpretations.
 
 The first accepts [the count]({{ 'the-count/' | relative_url }}) as roughly accurate. Under this view, the absence of records becomes evidence that something unusual occurred and that military involvement has not been fully disclosed.
 
-The second argues that the count itself may be the weakest element. Witnesses under intense stress could have overestimated the number of aircraft, counted the same helicopters multiple times as they manoeuvred, or reconstructed numbers after the event. In this interpretation, the lack of supporting operational evidence reflects an inflated estimate rather than a hidden deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The second argues that the count itself may be the weakest element. Witnesses under intense stress could have overestimated the number of aircraft, counted the same helicopters multiple times as they manoeuvred, or reconstructed numbers after the event. In this interpretation, the lack of supporting operational evidence reflects an inflated estimate rather than a hidden deployment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 Importantly, these explanations are not equivalent. One requires a large, undocumented military aviation operation. The other requires ordinary limitations in human observation during an extraordinary event. The logistics burden imposed by twenty-three Chinooks is one reason investigators and critics alike focus so heavily on the number.
 
@@ -360,188 +360,188 @@ Importantly, these explanations are not equivalent. One requires a large, undocu
 
 The practical answer is that they would be difficult to move quietly in any operational sense.
 
-Chinooks are among the largest and loudest helicopters in regular service. Their tandem rotors, heavy-lift mission profile and substantial support requirements make them conspicuous aircraft. A group numbering in the twenties would represent a significant aviation presence rather than a subtle one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Chinooks are among the largest and loudest helicopters in regular service. Their tandem rotors, heavy-lift mission profile and substantial support requirements make them conspicuous aircraft. A group numbering in the twenties would represent a significant aviation presence rather than a subtle one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-For the Cash–Landrum incident, this creates a reality check. The witnesses consistently reported numerous helicopters and later associated them with Chinooks. That testimony remains one of the case's most memorable features. Yet the very scale of the claim raises the evidential bar. A formation of more than twenty heavy-lift helicopters would ordinarily leave operational footprints—records, witnesses, radar traces, unit recollections or documentation—that investigators have never conclusively produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+For the Cash–Landrum incident, this creates a reality check. The witnesses consistently reported numerous helicopters and later associated them with Chinooks. That testimony remains one of the case's most memorable features. Yet the very scale of the claim raises the evidential bar. A formation of more than twenty heavy-lift helicopters would ordinarily leave operational footprints—records, witnesses, radar traces, unit recollections or documentation—that investigators have never conclusively produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
-As a result, the reported twenty-three Chinooks function less as confirmation of military involvement than as a test of the case's credibility. The larger and more operationally demanding the helicopter formation becomes, the more important independent corroboration becomes—and the more significant its absence appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+As a result, the reported twenty-three Chinooks function less as confirmation of military involvement than as a test of the case's credibility. The larger and more operationally demanding the helicopter formation becomes, the more important independent corroboration becomes—and the more significant its absence appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-3-dark.svg" | relative_url }}" alt="Mass Flight illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Twenty Three Chinooks Move Quietly?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Twenty Three Chinooks Move Quietly?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for evaluating major UFO cases and evidence claims such as the Cash–Landrum incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for evaluating major UFO cases and evidence claims such as the Cash–Landrum incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witnesses, military involvement, and evidentiary standards relevant to claims involving large helicopter formations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witnesses, military involvement, and evidentiary standards relevant to claims involving large helicopter formations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chickenhawk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KosxbTsvREEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chickenhawk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chickenhawk">Chickenhawk</a>
-        </h4>
-        <p class="fr-book-author">By Robert Mason</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chickenhawk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KosxbTsvREEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chickenhawk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chickenhawk">Chickenhawk</a>
+</h4>
+<p class="fr-book-author">By Robert Mason</p>
         
-        <p class="fr-book-desc">Offers practical insight into helicopter operations, logistics, crews, maintenance demands, and flight realities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers practical insight into helicopter operations, logistics, crews, maintenance demands, and flight realities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chickenhawk+by+Robert+Mason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By John F. Schuessler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+</h4>
+<p class="fr-book-author">By John F. Schuessler</p>
         
-        <p class="fr-book-desc">Directly examines the Cash–Landrum event, including witness testimony and the reported Chinook helicopters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the Cash–Landrum event, including witness testimony and the reported Chinook helicopters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chickenhawk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chickenhawk</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chickenhawk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chickenhawk</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift"><img src="{{ '/assets/images/marketplace-covers/b4d7dfbf69b24e2b17da.jpg' | relative_url }}" alt="Listing image for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift"><img src="{{ '/assets/images/marketplace-covers/b4d7dfbf69b24e2b17da.jpg' | relative_url }}" alt="Listing image for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition"><img src="{{ '/assets/images/marketplace-covers/0ae4839591f6b6e8e420.jpg' | relative_url }}" alt="Listing image for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition"><img src="{{ '/assets/images/marketplace-covers/0ae4839591f6b6e8e420.jpg' | relative_url }}" alt="Listing image for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model"><img src="{{ '/assets/images/marketplace-covers/fdff05a7cfab872c4fa6.jpg' | relative_url }}" alt="Listing image for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model"><img src="{{ '/assets/images/marketplace-covers/fdff05a7cfab872c4fa6.jpg' | relative_url }}" alt="Listing image for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="mass-flight-could-twenty-three-chinooks-move-quietly-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ As a result, the reported twenty-three Chinooks function less as confirmation of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ As a result, the reported twenty-three Chinooks function less as confirmation of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ As a result, the reported twenty-three Chinooks function less as confirmation of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ As a result, the reported twenty-three Chinooks function less as confirmation of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ As a result, the reported twenty-three Chinooks function less as confirmation of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,129 +747,129 @@ As a result, the reported twenty-three Chinooks function less as confirmation of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — Cash and Landrum counted 23 helicopters, and later identified some of them as tandem-rotor Boeing CH-47 Chinooks used by...</p></details>
    Published: April 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: boeing.com  
-   Link: <a href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/defense/military-rotorcraft/h-47-chinook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>H-47 ChinookCH-47F Chinook Block II Specifications; Static Forward, 7 feet, 6 inches (2.3 meters); Fuel Capacity. 1,080 gallons (...</p></details>
+   Link:<a href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/defense/military-rotorcraft/h-47-chinook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>H-47 ChinookCH-47F Chinook Block II Specifications; Static Forward, 7 feet, 6 inches (2.3 meters); Fuel Capacity. 1,080 gallons (...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aerospace.honeywell.com  
-   Link: <a href="https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The helicopter flies with a minimum crew of three – pilot, copilot and flight engineer...Read more...</p></details>
+   Link:<a href="https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The helicopter flies with a minimum crew of three – pilot, copilot and flight engineer...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: billingsflyingservice.com  
-   Link: <a href="https://billingsflyingservice.com/ch-47/" target="_blank" rel="noopener noreferrer nofollow">https://billingsflyingservice.com/ch-47/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billings Flying ServiceCH-47 Chinook ExpertsFuel Burn. 340 GPH. (1,290 LPH). Cruise Speed. 140 KNOTS. (260 KPH). We have optimized the CH...</p></details>
+   Link:<a href="https://billingsflyingservice.com/ch-47/" target="_blank" rel="noopener noreferrer nofollow">https://billingsflyingservice.com/ch-47/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billings Flying ServiceCH-47 Chinook ExpertsFuel Burn. 340 GPH. (1,290 LPH). Cruise Speed. 140 KNOTS. (260 KPH). We have optimized the CH...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: billingsflyingservice.com  
-   Link: <a href="https://billingsflyingservice.com/ultimate-heavy-lift-helicopter/" target="_blank" rel="noopener noreferrer nofollow">https://billingsflyingservice.com/ultimate-heavy-lift-helicopter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billings Flying Service10 Reasons Why The CH-47 Chinook is The Ultimate...25 Jun 2021 — The CH-47 burns 340 gallons per hour of fuel wit...</p></details>
+   Link:<a href="https://billingsflyingservice.com/ultimate-heavy-lift-helicopter/" target="_blank" rel="noopener noreferrer nofollow">https://billingsflyingservice.com/ultimate-heavy-lift-helicopter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billings Flying Service10 Reasons Why The CH-47 Chinook is The Ultimate...25 Jun 2021 — The CH-47 burns 340 gallons per hour of fuel wit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wildfiretoday.com  
    Title: video of 3000 gallon drop from ch 47 chinook  
-   Link: <a href="https://wildfiretoday.com/video-of-3000-gallon-drop-from-ch-47-chinook/" target="_blank" rel="noopener noreferrer nofollow">https://wildfiretoday.com/video-of-3000-gallon-drop-from-ch-47-chinook/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burn rate is between approximately 358 and 400 gallons per hour depending on the source. 400 gallons of fuel at...Read more...</p></details>
+   Link:<a href="https://wildfiretoday.com/video-of-3000-gallon-drop-from-ch-47-chinook/" target="_blank" rel="noopener noreferrer nofollow">https://wildfiretoday.com/video-of-3000-gallon-drop-from-ch-47-chinook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burn rate is between approximately 358 and 400 gallons per hour depending on the source. 400 gallons of fuel at...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueskyrotor.com  
    Title: Boeing, Chinook, CH-47 C  
-   Link: <a href="https://www.blueskyrotor.com/performance/datasheet/Boeing/Chinook-CH_47-C" target="_blank" rel="noopener noreferrer nofollow">https://www.blueskyrotor.com/performance/datasheet/Boeing/Chinook-CH_47-C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0 kt. Fuel consumption @ eco cruise speed @SL: 0 kg/h. 0 lbs/h. Fuel consumption @ min consumption speed @ SL: 0 kg/h. 0...Read more...</p></details>
+   Link:<a href="https://www.blueskyrotor.com/performance/datasheet/Boeing/Chinook-CH_47-C" target="_blank" rel="noopener noreferrer nofollow">https://www.blueskyrotor.com/performance/datasheet/Boeing/Chinook-CH_47-C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0 kt. Fuel consumption @ eco cruise speed @SL: 0 kg/h. 0 lbs/h. Fuel consumption @ min consumption speed @ SL: 0 kg/h. 0...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: consumptioncalculator.io  
-   Link: <a href="https://www.consumptioncalculator.io/fuel/Boeing_helicopter_fuel_consumption_calculator.php" target="_blank" rel="noopener noreferrer nofollow">https://www.consumptioncalculator.io/fuel/Boeing_helicopter_fuel_consumption_calculator.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing Helicopter Fuel Consumption CalculatorCH-47 Chinook – 1200 liters/hour, MH-6 Little Bird – 210 liters/hour, Boeing...</p></details>
+   Link:<a href="https://www.consumptioncalculator.io/fuel/Boeing_helicopter_fuel_consumption_calculator.php" target="_blank" rel="noopener noreferrer nofollow">https://www.consumptioncalculator.io/fuel/Boeing_helicopter_fuel_consumption_calculator.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing Helicopter Fuel Consumption CalculatorCH-47 Chinook – 1200 liters/hour, MH-6 Little Bird – 210 liters/hour, Boeing...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: waypointleasing.com  
    Title: boeing ch 47 chinook  
-   Link: <a href="https://www.waypointleasing.com/boeing-ch-47-chinook/" target="_blank" rel="noopener noreferrer nofollow">https://www.waypointleasing.com/boeing-ch-47-chinook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Boeing CH-47 Chinook7 Jul 2023 — It can lift a payload of up to approximately 21,000 pounds (9,525 kg) internally or 26,000 pounds (1...</p></details>
+   Link:<a href="https://www.waypointleasing.com/boeing-ch-47-chinook/" target="_blank" rel="noopener noreferrer nofollow">https://www.waypointleasing.com/boeing-ch-47-chinook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Boeing CH-47 Chinook7 Jul 2023 — It can lift a payload of up to approximately 21,000 pounds (9,525 kg) internally or 26,000 pounds (1...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: honeywellaerospace.com  
-   Link: <a href="https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>duction engine or as an upgrade for the T55-714A engine...</p></details>
+   Link:<a href="https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>duction engine or as an upgrade for the T55-714A engine...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sbcfire.com  
-   Link: <a href="https://sbcfire.com/project/ch-47-chinook/" target="_blank" rel="noopener noreferrer nofollow">https://sbcfire.com/project/ch-47-chinook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 &quot;Chinook&quot;Military Helicopter. Spécifications. Cruise Speed: 137 mph Gallon Capacity: 2,000/bucket. Manufacturer: Boeing Company/ Ve...</p></details>
+   Link:<a href="https://sbcfire.com/project/ch-47-chinook/" target="_blank" rel="noopener noreferrer nofollow">https://sbcfire.com/project/ch-47-chinook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 &quot;Chinook&quot;Military Helicopter. Spécifications. Cruise Speed: 137 mph Gallon Capacity: 2,000/bucket. Manufacturer: Boeing Company/ Ve...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Boeing/posts/more-power-more-rangethe-us-army-has-received-its-fifth-and-sixth-production-ch-/1181173840703882/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Boeing/posts/more-power-more-rangethe-us-army-has-received-its-fifth-and-sixth-production-ch-/1181173840703882/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Boeing CompanyThis is a Boeing CH-47 Chinook heavy lift helicopter. This... fuel per hour, ensuring it delivers unmatched performanc...</p></details>
+   Link:<a href="https://www.facebook.com/Boeing/posts/more-power-more-rangethe-us-army-has-received-its-fifth-and-sixth-production-ch-/1181173840703882/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Boeing/posts/more-power-more-rangethe-us-army-has-received-its-fifth-and-sixth-production-ch-/1181173840703882/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Boeing CompanyThis is a Boeing CH-47 Chinook heavy lift helicopter. This... fuel per hour, ensuring it delivers unmatched performanc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;), [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), a...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;), [Vickie Landrum](&amp;#123;&amp;#123; &#x27;vickie-landrum/&#x27; | relative_url &amp;#125;&amp;#125;), a...</p></details>
    Published: December 29, 1980  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KsezDfM_dMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KsezDfM_dMs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 Chinook: A Deep Dive into Its Design, History and...The Chinook is one of the most battleproven aircraft in history. In this video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KsezDfM_dMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KsezDfM_dMs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 Chinook: A Deep Dive into Its Design, History and...The Chinook is one of the most battleproven aircraft in history. In this video...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (possibly Chi...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — At this time, the witnesses claim a group of helicopters (possibly Chi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: chinook-helicopter.com  
    Title: Chinook Helicopter Pegasus Standardization and Training  
-   Link: <a href="https://www.chinook-helicopter.com/standards/standards.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/standards.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pegasus Standardization and Training - Chinook helicopterA typical mission profile would include a gross weight of 45,000 pounds (20,411...</p></details>
+   Link:<a href="https://www.chinook-helicopter.com/standards/standards.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/standards.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pegasus Standardization and Training - Chinook helicopterA typical mission profile would include a gross weight of 45,000 pounds (20,411...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: They saw a UFO… and hours later, their bodies showed  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>counted 23 helicopters... From Peter Gersten, Attorney, 1-3-99 Betty Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Fo...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-[radiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>counted 23 helicopters... From Peter Gersten, Attorney, 1-3-99 Betty Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Fo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aviationsolutions.co  
-   Link: <a href="https://aviationsolutions.co/helicopter-fuel-cost-per-hour/" target="_blank" rel="noopener noreferrer nofollow">https://aviationsolutions.co/helicopter-fuel-cost-per-hour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in fuel; Mil Mi-26: Burns about 1,100 gallons per hour, costing...Read more...</p></details>
+   Link:<a href="https://aviationsolutions.co/helicopter-fuel-cost-per-hour/" target="_blank" rel="noopener noreferrer nofollow">https://aviationsolutions.co/helicopter-fuel-cost-per-hour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in fuel; Mil Mi-26: Burns about 1,100 gallons per hour, costing...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/[cash-landrum-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
    Published: December 29, 1980  

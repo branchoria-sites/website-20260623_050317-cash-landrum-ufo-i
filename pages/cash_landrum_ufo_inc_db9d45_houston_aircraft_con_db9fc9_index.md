@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-houston/
 description: Focused pages that expand on Aircraft.
-date: '2026-06-23'
+date: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9
 parent_title: Aircraft
@@ -16,7 +16,7 @@ parent_permalink: /aircraft/
 
 # Explore Topics in Aircraft
 
-The following pages expand on the main **[Aircraft]({{ '/aircraft/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Aircraft]({{ '/aircraft/' | relative_url }})** page and cover its key branches in.
 
 - [Tower Records]({{ '/tower-records/' | relative_url }})
 - [Breaking Point]({{ '/breaking-point/' | relative_url }})

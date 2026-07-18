@@ -280,17 +280,17 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_da
 
 ## Introduction
 
-A little-known episode in the Cash–Landrum story occurred several months after the alleged December 1980 encounter, when a real Boeing CH-47 Chinook helicopter appeared in Dayton, Texas during a public event. For supporters of the case, this incident seemed to reinforce the witnesses’ identification of the helicopters they said accompanied the UFO. For critics and memory researchers, however, the episode raises a different possibility: that later exposure to a genuine Chinook may have strengthened, reshaped, or merged with earlier recollections. The Dayton helicopter visit therefore occupies an important place in the [debate]({{ 'debate/' | relative_url }}) over how the Chinook identification evolved and how later experiences can become intertwined with memories of an original event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+A little-known episode in the Cash–Landrum story occurred several months after the alleged December 1980 encounter, when a real Boeing CH-47 Chinook helicopter appeared in Dayton, Texas during a public event. For supporters of the case, this incident seemed to reinforce the witnesses’ identification of the helicopters they said accompanied the UFO. For critics and memory researchers, however, the episode raises a different possibility: that later exposure to a genuine Chinook may have strengthened, reshaped, or merged with earlier recollections. The Dayton helicopter visit therefore occupies an important place in the [debate]({{ 'debate/' | relative_url }}) over how the Chinook identification evolved and how later experiences can become intertwined with memories of an original event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-1-dark.svg" | relative_url }}" alt="Dayton Display illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Reported Dayton Helicopter Visit
 
-According to accounts preserved in later case summaries, a CH-47 Chinook flew into Dayton in April 1981, roughly four months after the reported UFO sighting. Colby Landrum, who had reportedly developed a fear of helicopters after the December event, became upset when he saw the [aircraft]({{ 'aircraft/' | relative_url }}). [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) decided to take him to the landing site so that he could see the helicopter up close and perhaps become less frightened by it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+According to accounts preserved in later case summaries, a CH-47 Chinook flew into Dayton in April 1981, roughly four months after the reported UFO sighting. Colby Landrum, who had reportedly developed a fear of helicopters after the December event, became upset when he saw the [aircraft]({{ 'aircraft/' | relative_url }}). [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) decided to take him to the landing site so that he could see the helicopter up close and perhaps become less frightened by it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The story becomes significant because of what allegedly happened next. Witnesses later claimed that visitors were allowed aboard the helicopter and that a pilot discussed having previously been in the area in connection with a UFO-related incident near Huffman, Texas. According to the account, when Vickie identified herself as someone affected by the December encounter, the pilot abruptly ended the conversation and ushered them away. This exchange was later cited by some UFO researchers as suggestive evidence that military personnel knew more about the original event than they admitted publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The story becomes significant because of what allegedly happened next. Witnesses later claimed that visitors were allowed aboard the helicopter and that a pilot discussed having previously been in the area in connection with a UFO-related incident near Huffman, Texas. According to the account, when Vickie identified herself as someone affected by the December encounter, the pilot abruptly ended the conversation and ushered them away. This exchange was later cited by some UFO researchers as suggestive evidence that military personnel knew more about the original event than they admitted publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Over time, the Dayton encounter became part of the broader folklore surrounding the case. In retellings, the pilot's reaction was sometimes presented as indirect confirmation that the helicopters reported in December were indeed CH-47s and that military crews had been involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Vicky&#x27;s grandson, Colby, is now...</span><span class="citation-popover-meta">Published: September 6, 2024</span></span></span>
+Over time, the Dayton encounter became part of the broader folklore surrounding the case. In retellings, the pilot's reaction was sometimes presented as indirect confirmation that the helicopters reported in December were indeed CH-47s and that military crews had been involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-snippet">Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Vicky&#x27;s grandson, Colby, is now...</span><span class="citation-popover-meta">Published: September 6, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -304,9 +304,9 @@ In the December 1980 event, the reported helicopters were allegedly observed at 
 * It may have genuinely helped the witnesses recognise the type of helicopter they had seen earlier.
 * It may also have increased confidence in an identification that was originally less certain than later retellings suggested.
 
-These possibilities are not mutually exclusive. A witness can correctly identify an aircraft after later exposure while simultaneously becoming more confident than the original observation alone would justify. Memory researchers often note that subsequent experiences can act as reinforcement events, making a recollection feel clearer and more detailed even when some of those details were acquired later. The result is not necessarily fabrication; rather, the memory becomes a blend of original perception and later information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+These possibilities are not mutually exclusive. A witness can correctly identify an aircraft after later exposure while simultaneously becoming more confident than the original observation alone would justify. Memory researchers often note that subsequent experiences can act as reinforcement events, making a recollection feel clearer and more detailed even when some of those details were acquired later. The result is not necessarily fabrication; rather, the memory becomes a blend of original perception and later information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-In the Cash–Landrum case, this matters because the Chinook identification became central to claims of military involvement. The stronger the helicopter identification appeared, the stronger the implication that a government agency might have been connected to the incident. The Dayton visit therefore had the potential to increase the evidential weight assigned to the helicopter component of the story, regardless of whether it added genuinely new information about December 1980. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+In the Cash–Landrum case, this matters because the Chinook identification became central to claims of military involvement. The stronger the helicopter identification appeared, the stronger the implication that a government agency might have been connected to the incident. The Dayton visit therefore had the potential to increase the evidential weight assigned to the helicopter component of the story, regardless of whether it added genuinely new information about December 1980.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-2-dark.svg" | relative_url }}" alt="Dayton Display illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,9 +314,9 @@ In the Cash–Landrum case, this matters because the Chinook identification beca
 
 The most disputed aspect of the Dayton episode is not the helicopter display itself but the alleged conversation with the pilot.
 
-Later investigations found reasons to question whether the pilot's remarks had anything to do with the Cash–Landrum encounter. Research cited in case reviews indicates that the pilot appears to have been referring to a different reported UFO-related episode near Huffman, one that reportedly occurred in July 1977 rather than during the December 1980 incident. If so, the dramatic exchange may have resulted from a misunderstanding in which two unrelated events became linked in memory and retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Later investigations found reasons to question whether the pilot's remarks had anything to do with the Cash–Landrum encounter. Research cited in case reviews indicates that the pilot appears to have been referring to a different reported UFO-related episode near Huffman, one that reportedly occurred in July 1977 rather than during the December 1980 incident. If so, the dramatic exchange may have resulted from a misunderstanding in which two unrelated events became linked in memory and retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This distinction is important. A pilot discussing an earlier local UFO report is very different from a pilot admitting involvement in the Cash–Landrum case. Yet once the two narratives became associated, the story could easily be interpreted as corroboration of the witnesses' claims. Researchers such as Curt Collins have highlighted this confusion as an example of how later case lore can accumulate around a famous UFO incident without necessarily strengthening the underlying evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This distinction is important. A pilot discussing an earlier local UFO report is very different from a pilot admitting involvement in the Cash–Landrum case. Yet once the two narratives became associated, the story could easily be interpreted as corroboration of the witnesses' claims. Researchers such as Curt Collins have highlighted this confusion as an example of how later case lore can accumulate around a famous UFO incident without necessarily strengthening the underlying evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -328,204 +328,204 @@ This distinction is important. A pilot discussing an earlier local UFO report is
 
 From a historical perspective, the Dayton Chinook display is best treated as a separate event rather than as direct evidence for what happened on the night of 29 December 1980.
 
-The public appearance of a CH-47 in Dayton demonstrates that the witnesses had later access to the aircraft type they associated with the original sighting. That fact may help explain why the Chinook identification became increasingly fixed in later accounts. It does not, however, independently verify that the helicopters seen during the alleged UFO encounter were CH-47s, nor does it establish military involvement in the original event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The public appearance of a CH-47 in Dayton demonstrates that the witnesses had later access to the aircraft type they associated with the original sighting. That fact may help explain why the Chinook identification became increasingly fixed in later accounts. It does not, however, independently verify that the helicopters seen during the alleged UFO encounter were CH-47s, nor does it establish military involvement in the original event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The episode illustrates a broader challenge in evaluating eyewitness testimony. Memories do not remain frozen after an incident. Conversations, [media]({{ 'media/' | relative_url }}) coverage, investigations, photographs, and later encounters with similar objects can all become woven into the remembered narrative. In the Cash–Landrum case, the Dayton helicopter visit occupies precisely that ambiguous space: it may have helped witnesses recognise a real aircraft type, but it also created an opportunity for later experiences and earlier memories to reinforce one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The episode illustrates a broader challenge in evaluating eyewitness testimony. Memories do not remain frozen after an incident. Conversations, [media]({{ 'media/' | relative_url }}) coverage, investigations, photographs, and later encounters with similar objects can all become woven into the remembered narrative. In the Cash–Landrum case, the Dayton helicopter visit occupies precisely that ambiguous space: it may have helped witnesses recognise a real aircraft type, but it also created an opportunity for later experiences and earlier memories to reinforce one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-For that reason, historians and investigators who analyse the Chinook aspect of the case generally distinguish between two questions. The first is what the witnesses originally saw in December 1980. The second is how their understanding of those helicopters developed after months of discussion, investigation, and exposure to a real CH-47. The Dayton display belongs primarily to the second question, making it a key example of how memory reinforcement can complicate the reconstruction of a famous UFO case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+For that reason, historians and investigators who analyse the Chinook aspect of the case generally distinguish between two questions. The first is what the witnesses originally saw in December 1980. The second is how their understanding of those helicopters developed after months of discussion, investigation, and exposure to a real CH-47. The Dayton display belongs primarily to the second question, making it a key example of how memory reinforcement can complicate the reconstruction of a famous UFO case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-3-dark.svg" | relative_url }}" alt="Dayton Display illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a Later Chinook Harden the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a Later Chinook Harden the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how evidence, testimony, and belief should be assessed in controversial cases such as UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how evidence, testimony, and belief should be assessed in controversial cases such as UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for witness reports, military aircraft associations, and debates over UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for witness reports, military aircraft associations, and debates over UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains how later experiences and cognitive dissonance can reinforce or reshape earlier recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how later experiences and cognitive dissonance can reinforce or reshape earlier recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines why people form and maintain beliefs, including interpretations of unusual events and testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why people form and maintain beliefs, including interpretations of unusual events and testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro CH47 Chinook Helicopter Schem Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0899dd859fd9f60cc514.jpg' | relative_url }}" alt="Listing image for Retro CH47 Chinook Helicopter Schem Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">Retro CH47 Chinook Helicopter Schem Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro CH47 Chinook Helicopter Schem Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0899dd859fd9f60cc514.jpg' | relative_url }}" alt="Listing image for Retro CH47 Chinook Helicopter Schem Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">Retro CH47 Chinook Helicopter Schem Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CH47 Chinook Helicopter Red White B Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91c0e8244e2785cfe77e.jpg' | relative_url }}" alt="Listing image for CH47 Chinook Helicopter Red White B Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">CH47 Chinook Helicopter Red White B Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CH47 Chinook Helicopter Red White B Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91c0e8244e2785cfe77e.jpg' | relative_url }}" alt="Listing image for CH47 Chinook Helicopter Red White B Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">CH47 Chinook Helicopter Red White B Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chinook Helicopter CH-47D Military Transport Patent Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/66754090b5bc421c7d96.jpg' | relative_url }}" alt="Listing image for Chinook Helicopter CH-47D Military Transport Patent Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">Chinook Helicopter CH-47D Military Transport Patent Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chinook Helicopter CH-47D Military Transport Patent Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/66754090b5bc421c7d96.jpg' | relative_url }}" alt="Listing image for Chinook Helicopter CH-47D Military Transport Patent Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">Chinook Helicopter CH-47D Military Transport Patent Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chinook Helicopter CH-47D Military Transport Patent Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/c3fb20224cc9b5dc97d5.jpg' | relative_url }}" alt="Listing image for Chinook Helicopter CH-47D Military Transport Patent Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">Chinook Helicopter CH-47D Military Transport Patent Huge Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chinook Helicopter CH-47D Military Transport Patent Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/c3fb20224cc9b5dc97d5.jpg' | relative_url }}" alt="Listing image for Chinook Helicopter CH-47D Military Transport Patent Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">Chinook Helicopter CH-47D Military Transport Patent Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CH-47 Chinook poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: CH-47 Chinook poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CH-47+Chinook+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CH-47 Chinook poster" data-ebay-reference="dayton-display-did-a-later-chinook-harden-the-story-cash-landrum-ufo-incident-ch-47-chinook-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ For that reason, historians and investigators who analyse the Chinook aspect of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ For that reason, historians and investigators who analyse the Chinook aspect of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ For that reason, historians and investigators who analyse the Chinook aspect of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ For that reason, historians and investigators who analyse the Chinook aspect of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ For that reason, historians and investigators who analyse the Chinook aspect of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,92 +731,92 @@ For that reason, historians and investigators who analyse the Chinook aspect of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Vicky&#x27;s grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), is now...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Podcast TranscriptsSo Supernatural - ALIEN: The Cash-Landrum IncidentSeptember 6, 2024 — Vicky&#x27;s grandson, [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;), is now...</p></details>
    Published: September 6, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsCash–Landrum incident, North AmericaUnited States; near Dayton, Texas, [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;) and Victoria Landrum u...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsCash–Landrum incident, North AmericaUnited States; near Dayton, Texas, [Betty Cash](&amp;#123;&amp;#123; &#x27;betty-cash/&#x27; | relative_url &amp;#125;&amp;#125;) and Victoria Landrum u...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingThe Cash-Landrum UFO Sighting Multiple witnesses saw aircraft that has never been credibly explained On Dece...</p></details>
+   Link:<a href="https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/chameleon/the-cash-landrum-ufo-sighting-936bb5641f26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO SightingThe Cash-Landrum UFO Sighting Multiple witnesses saw aircraft that has never been credibly explained On Dece...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, near Dayton, Texas, involving two women, Betty Cash and Vickie Landrum, and Landrum&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, near Dayton, Texas, involving two women, Betty Cash and Vickie Landrum, and Landrum&#x27;s...Read more...</p></details>
    Published: December 29, 1980  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) poisoning after witnessing military heli...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Unexplained phenomena] 37 years ago today, the...One day in April 1981, a CH-47 flew into Dayton. As Colby watched he became very upset...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unexplained phenomena] 37 years ago today, the...One day in April 1981, a CH-47 flew into Dayton. As Colby watched he became very upset...</p></details>
    Published: April 1981  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>potted the helicopter. Vickie took him to the landing site, flew...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>potted the helicopter. Vickie took him to the landing site, flew...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tted the helicopter became very upset. Vickie took him to the...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tted the helicopter became very upset. Vickie took him to the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Encounter: A Night of Unearthly Light  
-   Link: <a href="https://www.youtube.com/watch?v=gkjzXCGBw-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gkjzXCGBw-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video about the Cash-Landrum UFO Encounter via Dark Mysteries evaluates the witness narratives, subsequent interactions with militar...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gkjzXCGBw-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gkjzXCGBw-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video about the Cash-Landrum UFO Encounter via Dark Mysteries evaluates the witness narratives, subsequent interactions with militar...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.howstuffworks.com  
    Title: [cash landrum ufo incident](&#123;&#123; 'cash-landrum-ufo-incident/' | relative_url &#125;&#125;)  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Colby Landrum saw 23 unidentified helicopters surrounding a...</p></details>
    Published: December 29, 1980  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.spotify.com  
    Title: 6q QKKDl Gjh H1mm Btx IU1pn  
-   Link: <a href="https://open.spotify.com/episode/6qQKKDlGjhH1mmBtxIU1pn" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6qQKKDlGjhH1mmBtxIU1pn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum Incident | The Night the Sky Burned...On December 29, 1980, three witnesses driving along a rural road outside Dayton, Texa...</p></details>
+   Link:<a href="https://open.spotify.com/episode/6qQKKDlGjhH1mmBtxIU1pn" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6qQKKDlGjhH1mmBtxIU1pn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash–Landrum Incident | The Night the Sky Burned...On December 29, 1980, three witnesses driving along a rural road outside Dayton, Texa...</p></details>
    Published: December 29, 1980  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>

@@ -280,17 +280,17 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_be
 
 ## Introduction
 
-One of the most consequential details in the Cash–Landrum case was [Betty Cash]({{ 'betty-cash/' | relative_url }})’s claim that some of the helicopters accompanying the object carried United States Air Force markings. If that observation were reliable, it would move the incident from a mysterious sighting into the realm of potential government responsibility. Yet the most important primary source on the subject—the August 1981 interview conducted at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base—shows that the markings claim was less clear-cut than later retellings often suggest. The interview contains both a direct assertion that Air Force markings were present and a series of follow-up questions that exposed uncertainty about exactly what Cash had seen. That tension sits at the centre of the case’s long-running debate over military involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+One of the most consequential details in the Cash–Landrum case was [Betty Cash]({{ 'betty-cash/' | relative_url }})’s claim that some of the helicopters accompanying the object carried United States Air Force markings. If that observation were reliable, it would move the incident from a mysterious sighting into the realm of potential government responsibility. Yet the most important primary source on the subject—the August 1981 interview conducted at [Bergstrom Air Force]({{ 'bergstrom/' | relative_url }}) Base—shows that the markings claim was less clear-cut than later retellings often suggest. The interview contains both a direct assertion that Air Force markings were present and a series of follow-up questions that exposed uncertainty about exactly what Cash had seen. That tension sits at the centre of the case’s long-running debate over military involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-1-dark.svg" | relative_url }}" alt="Markings Claim illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Did Cash Say She Saw?
 
-The [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}) occurred roughly eight months after the reported encounter. By that point, Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) had become convinced that the helicopters represented the strongest lead for identifying who might have been involved. During questioning by Air Force personnel, Cash stated that the helicopters carried United States Air Force markings. Later summaries of the case frequently cite this statement as one of the most specific military identifiers provided by any witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The [Bergstrom interview]({{ 'bergstrom-3cf9b0/' | relative_url }}) occurred roughly eight months after the reported encounter. By that point, Cash and [Vickie Landrum]({{ 'vickie-landrum/' | relative_url }}) had become convinced that the helicopters represented the strongest lead for identifying who might have been involved. During questioning by Air Force personnel, Cash stated that the helicopters carried United States Air Force markings. Later summaries of the case frequently cite this statement as one of the most specific military identifiers provided by any witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The significance of the claim is easy to understand. Witness descriptions of unusual aircraft are common in UFO reports. A claimed service marking is different because it points to a particular organisation. If a witness can reliably identify military insignia, investigators gain a concrete avenue for tracing aircraft ownership, flight operations and possible liability. In the Cash–Landrum case, the Air Force marking claim became a central pillar of the later legal argument that a government agency must have known something about the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The significance of the claim is easy to understand. Witness descriptions of unusual aircraft are common in UFO reports. A claimed service marking is different because it points to a particular organisation. If a witness can reliably identify military insignia, investigators gain a concrete avenue for tracing aircraft ownership, flight operations and possible liability. In the Cash–Landrum case, the Air Force marking claim became a central pillar of the later legal argument that a government agency must have known something about the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-However, the interview record shows that Cash did not present the identification in a way that removed all ambiguity. The discussion quickly shifted from the broad assertion that the helicopters were Air Force aircraft to detailed questions about what lettering, symbols or insignia had actually been visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+However, the interview record shows that Cash did not present the identification in a way that removed all ambiguity. The discussion quickly shifted from the broad assertion that the helicopters were Air Force aircraft to detailed questions about what lettering, symbols or insignia had actually been visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -299,11 +299,11 @@ However, the interview record shows that Cash did not present the identification
 
 The most revealing part of the Bergstrom interview is not the initial claim but the questioning that followed it.
 
-When Air Force personnel asked Cash to describe exactly what she had observed, her answers became less definite. Rather than confidently reproducing a complete marking or insignia, she struggled to specify the wording and referred to a round marking associated with what she believed she had seen. Investigators pressed for clarification and reportedly asked her to write down or otherwise specify the lettering as she remembered it. The exchange demonstrates that the identification was not based on a clearly recalled, fully read military marking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+When Air Force personnel asked Cash to describe exactly what she had observed, her answers became less definite. Rather than confidently reproducing a complete marking or insignia, she struggled to specify the wording and referred to a round marking associated with what she believed she had seen. Investigators pressed for clarification and reportedly asked her to write down or otherwise specify the lettering as she remembered it. The exchange demonstrates that the identification was not based on a clearly recalled, fully read military marking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
-This distinction matters because eyewitness certainty often changes when an investigator moves from general questions to specific ones. A witness may be entirely sincere in believing an aircraft belonged to a particular service branch while being unable to provide the precise visual details that would independently verify the identification. The Bergstrom interview captures exactly that problem. The transcript preserves an assertion of Air Force involvement, but it also preserves the investigators' attempts to determine whether the identification rested on a readable marking, a partial observation, an impression, or a later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+This distinction matters because eyewitness certainty often changes when an investigator moves from general questions to specific ones. A witness may be entirely sincere in believing an aircraft belonged to a particular service branch while being unable to provide the precise visual details that would independently verify the identification. The Bergstrom interview captures exactly that problem. The transcript preserves an assertion of Air Force involvement, but it also preserves the investigators' attempts to determine whether the identification rested on a readable marking, a partial observation, an impression, or a later interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
-The result is not evidence that Cash fabricated the claim. Rather, it demonstrates that the strongest version of the claim—that she clearly read an unmistakable Air Force identifier at close range—was not established during the interview itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+The result is not evidence that Cash fabricated the claim. Rather, it demonstrates that the strongest version of the claim—that she clearly read an unmistakable Air Force identifier at close range—was not established during the interview itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-2-dark.svg" | relative_url }}" alt="Markings Claim illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,9 +311,9 @@ The result is not evidence that Cash fabricated the claim. Rather, it demonstrat
 
 The circumstances described by the witnesses make the marking issue even more complicated.
 
-According to their account, the sighting occurred at night under stressful conditions. The witnesses described an intensely bright object, extreme heat, fear and confusion. They were simultaneously trying to watch [the object]({{ 'the-object/' | relative_url }}), monitor nearby helicopters and decide how to leave the area safely. Under such conditions, identifying aircraft types is difficult; identifying detailed service markings is harder still. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+According to their account, the sighting occurred at night under stressful conditions. The witnesses described an intensely bright object, extreme heat, fear and confusion. They were simultaneously trying to watch [the object]({{ 'the-object/' | relative_url }}), monitor nearby helicopters and decide how to leave the area safely. Under such conditions, identifying aircraft types is difficult; identifying detailed service markings is harder still.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-This does not prove that the marking was misread. It does, however, provide a reason investigators and later analysts treated the claim cautiously. The more specific a visual observation becomes, the more important the viewing conditions become when assessing reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+This does not prove that the marking was misread. It does, however, provide a reason investigators and later analysts treated the claim cautiously. The more specific a visual observation becomes, the more important the viewing conditions become when assessing reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
@@ -322,11 +322,11 @@ This does not prove that the marking was misread. It does, however, provide a re
 
 The Air Force marking issue was not merely a matter of identification. It had direct legal consequences.
 
-Cash and Landrum eventually pursued a claim against the United States government, seeking compensation for injuries they believed resulted from the encounter. To succeed, they needed some way of linking the event to a federal agency. The reported helicopters were the most promising route because helicopters are tangible aircraft that can, in principle, be traced through military records. A reliable Air Force marking would have strengthened the argument that government personnel were present and potentially responsible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Cash and Landrum eventually pursued a claim against the United States government, seeking compensation for injuries they believed resulted from the encounter. To succeed, they needed some way of linking the event to a federal agency. The reported helicopters were the most promising route because helicopters are tangible aircraft that can, in principle, be traced through military records. A reliable Air Force marking would have strengthened the argument that government personnel were present and potentially responsible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The difficulty was that investigators were unable to find records connecting military helicopters to the incident in the way the witnesses described. Army investigators later reported that they could not establish that the helicopters belonged to any branch of the US armed forces, despite extensive inquiries. The court case ultimately failed in part because no evidence was produced showing that government agencies operated the aircraft allegedly seen that night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The difficulty was that investigators were unable to find records connecting military helicopters to the incident in the way the witnesses described. Army investigators later reported that they could not establish that the helicopters belonged to any branch of the US armed forces, despite extensive inquiries. The court case ultimately failed in part because no evidence was produced showing that government agencies operated the aircraft allegedly seen that night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-From a legal standpoint, the distinction between “I saw Air Force markings” and “I can specifically identify the marking I saw” was critical. The first statement is an allegation; the second can become evidence. The Bergstrom interview shows investigators trying to bridge that gap and not obtaining a definitive result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+From a legal standpoint, the distinction between “I saw Air Force markings” and “I can specifically identify the marking I saw” was critical. The first statement is an allegation; the second can become evidence. The Bergstrom interview shows investigators trying to bridge that gap and not obtaining a definitive result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-3-dark.svg" | relative_url }}" alt="Markings Claim illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,205 +334,205 @@ From a legal standpoint, the distinction between “I saw Air Force markings” 
 
 Within the broader [debate]({{ 'debate/' | relative_url }}) over Chinook identification and military involvement, the markings issue remains one of the most revealing pieces of evidence because it contains both strength and weakness in the same source.
 
-On one hand, Cash did not merely report anonymous helicopters. She explicitly associated them with the Air Force and repeated that belief during an official interview. That specificity is one reason the case attracted serious attention and eventually led to legal action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+On one hand, Cash did not merely report anonymous helicopters. She explicitly associated them with the Air Force and repeated that belief during an official interview. That specificity is one reason the case attracted serious attention and eventually led to legal action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
-On the other hand, the transcript shows that when investigators drilled into the details, certainty diminished. The interview preserved no unambiguous reading of a tail number, unit designation or clearly documented insignia. Instead, it documented a witness attempting to recall markings under questioning months after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+On the other hand, the transcript shows that when investigators drilled into the details, certainty diminished. The interview preserved no unambiguous reading of a tail number, unit designation or clearly documented insignia. Instead, it documented a witness attempting to recall markings under questioning months after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
-As a result, the Air Force markings remain an important but contested element of the Cash–Landrum record. They are among the most specific observations reported by the witnesses, yet the very interview that preserves the claim also demonstrates why it has never been accepted as conclusive proof of Air Force involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
+As a result, the Air Force markings remain an important but contested element of the Cash–Landrum record. They are among the most specific observations reported by the witnesses, yet the very interview that preserves the claim also demonstrates why it has never been accepted as conclusive proof of Air Force involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_3CfT4I9nk" title="Cash-Landrum UFO Encounter or Something Scarier?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer">Cash-Landrum UFO Encounter or Something Scarier?</a></p><p class="youtube-embed-meta">Channel: The Mysteria Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_3CfT4I9nk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Markings Really Say?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Markings Really Say?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military witnesses, official records, and government involvement claims central to the markings debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military witnesses, official records, and government involvement claims central to the markings debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness testimony, identification issues, and investigative methods applicable to disputed military markings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness testimony, identification issues, and investigative methods applicable to disputed military markings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Examines a famous incident involving military personnel, documentation, and questions of official responsibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines a famous incident involving military personnel, documentation, and questions of official responsibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers broader frameworks for evaluating witness reports and contested interpretations of unusual events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader frameworks for evaluating witness reports and contested interpretations of unusual events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT"><img src="{{ '/assets/images/marketplace-covers/900a1ed32e9f936ceba9.jpg' | relative_url }}" alt="Listing image for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT"><img src="{{ '/assets/images/marketplace-covers/900a1ed32e9f936ceba9.jpg' | relative_url }}" alt="Listing image for US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">US ARMY CH-47 CHINOOK HELICOPTER PATCH TRANSPORT HEAVY LIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PATCH IRAN IRIAA HELICOPTER CH-47 CHINOOK NAMETAG SEW ON PARCHE"><img src="{{ '/assets/images/marketplace-covers/9126665ad3297c19fca7.jpg' | relative_url }}" alt="Listing image for PATCH IRAN IRIAA HELICOPTER CH-47 CHINOOK NAMETAG SEW ON PARCHE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">PATCH IRAN IRIAA HELICOPTER CH-47 CHINOOK NAMETAG SEW ON PARCHE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PATCH IRAN IRIAA HELICOPTER CH-47 CHINOOK NAMETAG SEW ON PARCHE"><img src="{{ '/assets/images/marketplace-covers/9126665ad3297c19fca7.jpg' | relative_url }}" alt="Listing image for PATCH IRAN IRIAA HELICOPTER CH-47 CHINOOK NAMETAG SEW ON PARCHE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">PATCH IRAN IRIAA HELICOPTER CH-47 CHINOOK NAMETAG SEW ON PARCHE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON"><img src="{{ '/assets/images/marketplace-covers/ba8f529fe906087dfca0.jpg' | relative_url }}" alt="Listing image for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON"><img src="{{ '/assets/images/marketplace-covers/ba8f529fe906087dfca0.jpg' | relative_url }}" alt="Listing image for Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Vietnam War Patch US Army THE HAPPY HOOKERS Chinook Helicopter CH-47 PLATOON</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Helicopter Tactics Instructors PVC Patch RAF AAC Chinook Merlin Apache Wildcat"><img src="{{ '/assets/images/marketplace-covers/cb20f848aa2575011500.jpg' | relative_url }}" alt="Listing image for Helicopter Tactics Instructors PVC Patch RAF AAC Chinook Merlin Apache Wildcat" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Helicopter Tactics Instructors PVC Patch RAF AAC Chinook Merlin Apache Wildcat</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Helicopter Tactics Instructors PVC Patch RAF AAC Chinook Merlin Apache Wildcat"><img src="{{ '/assets/images/marketplace-covers/cb20f848aa2575011500.jpg' | relative_url }}" alt="Listing image for Helicopter Tactics Instructors PVC Patch RAF AAC Chinook Merlin Apache Wildcat" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">Helicopter Tactics Instructors PVC Patch RAF AAC Chinook Merlin Apache Wildcat</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter patch" data-ebay-reference="markings-claim-what-did-the-markings-really-say-cash-landrum-ufo-incident-chinook-helicopter-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ As a result, the Air Force markings remain an important but contested element of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ As a result, the Air Force markings remain an important but contested element of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ As a result, the Air Force markings remain an important but contested element of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ As a result, the Air Force markings remain an important but contested element of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ As a result, the Air Force markings remain an important but contested element of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,104 +738,104 @@ As a result, the Air Force markings remain an important but contested element of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;)...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer UFO NetworkBergstrom AFB Interview of Betty Cash, Vickie &amp; [Colby](&amp;#123;&amp;#123; &#x27;colby/&#x27; | relative_url &amp;#125;&amp;#125;)...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufon.org  
    Title: Computer UFO Network Transcript, Cash-Landrum Interview  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript, Cash-Landrum Interview - CUFON17 Aug 1981 — She suffered a stroke in 1998 and died December 29, 2001. Page 2. TRANSCRIPT OF B...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript, Cash-Landrum Interview - CUFON17 Aug 1981 — She suffered a stroke in 1998 and died December 29, 2001. Page 2. TRANSCRIPT OF B...</p></details>
    Published: December 29, 2001  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cufon.org  
    Title: cashlan L  
-   Link: <a href="https://www.cufon.org/cufon/cashlanL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlanL.pdf</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlanL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlanL.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM Augu...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cashlani2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bergstrom AFB Interview of Betty Cash, Vickie &amp; Colby...TRANSCRIPT OF BERGSTROM AFB INTERVIEW OF BETTY CASH, VICKIE &amp; COLBY LANDRUM Augu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cufon.org  
    Title: CUFO N "Other Files" Directory CASH-LANDRUM CLOSE ENCOUNTER CASE. CASH  
-   Link: <a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CUFON &quot;Other Files&quot; DirectoryCASH-LANDRUM CLOSE ENCOUNTER CASE. CASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CUFON &quot;Other Files&quot; DirectoryCASH-LANDRUM CLOSE ENCOUNTER CASE. CASH - LANDRUM INTERVIEW TRANSCRIPT (HTML). Transcript of taped interview...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sosupernaturalpodcast.com  
-   Link: <a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: The Cash-Landrum IncidentTranscript of Bergstrom AFB interview of Betty Cash, Vickie and Colby Landrum via Cufon.org. Kingwood.com...</p></details>
+   Link:<a href="https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: The Cash-Landrum IncidentTranscript of Bergstrom AFB interview of Betty Cash, Vickie and Colby Landrum via Cufon.org. Kingwood.com...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1elszjz/cashlandrum_encounter/?tl=pl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1elszjz/cashlandrum_encounter/?tl=pl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotkanie Cash-Landrum: r/UFOsPrezentowane w oryginalnym cyklu „Tajemnice nie wyjaśnione”. Ciekawostką jest, że incydent Cash/Landrum wy...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1elszjz/cashlandrum_encounter/?tl=pl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1elszjz/cashlandrum_encounter/?tl=pl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotkanie Cash-Landrum: r/UFOsPrezentowane w oryginalnym cyklu „Tajemnice nie wyjaśnione”. Ciekawostką jest, że incydent Cash/Landrum wy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/14u8rin/your_favorite_eyewitness_interviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/14u8rin/your_favorite_eyewitness_interviews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your favorite eyewitness interviews?: r/ufoRare 25-minute interview with Vickie and Colby Landrum on the [Cash-Landrum UFO incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;), 1980...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/14u8rin/your_favorite_eyewitness_interviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/14u8rin/your_favorite_eyewitness_interviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your favorite eyewitness interviews?: r/ufoRare 25-minute interview with Vickie and Colby Landrum on the [Cash-Landrum UFO incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;), 1980...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?Transcript of the Bergstrom AFB interview Brad Sparks&#x27;s analysis of the &quot;radiation sickness&quot;...</p></details>
+   Link:<a href="https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/52ef5ee6-525d-40c6-b43c-d5b86dbb78dc/episodes/551beee8-102d-4b22-bd68-a6d6520137ed/talking-till-dawn-the-cash-landrum-incident-did-this-ufo-encounter-cause-radiation-sickness?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO Encounter Cause Radiation Sickness?Transcript of the Bergstrom AFB interview Brad Sparks&#x27;s analysis of the &quot;radiation sickness&quot;...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: the cash landrum incident a night of fire and mysterydecember 29 1980 betty cash  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Force Base. Th...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Cash and Vicki Landrum were interviewed in 1981 at Bergstrom Air Force Base. Th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spreaker.com  
    Title: 676 rare live interview with colby landrum cash landrum ufo incident 66904705  
-   Link: <a href="https://www.spreaker.com/episode/676-rare-live-interview-with-colby-landrum-cash-landrum-ufo-incident--66904705" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/676-rare-live-interview-with-colby-landrum-cash-landrum-ufo-incident--66904705</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Live Interview with Colby Landrum, Cash...9 Jul 2025 — In this rare and compelling 2013 interview, Colby Landrum—one of the three w...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/676-rare-live-interview-with-colby-landrum-cash-landrum-ufo-incident--66904705" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/676-rare-live-interview-with-colby-landrum-cash-landrum-ufo-incident--66904705</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Live Interview with Colby Landrum, Cash...9 Jul 2025 — In this rare and compelling 2013 interview, Colby Landrum—one of the three w...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/xul0eq/rare_25minute_interview_with_vickie_and_colby/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xul0eq/rare_25minute_interview_with_vickie_and_colby/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, Betty Cash, Vickie Landrum, and Vickie&#x27;s seven-year-old grandson Colby Landrum were driving home to Dayton, Texas...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/xul0eq/rare_25minute_interview_with_vickie_and_colby/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xul0eq/rare_25minute_interview_with_vickie_and_colby/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 1980, Betty Cash, Vickie Landrum, and Vickie&#x27;s seven-year-old grandson Colby Landrum were driving home to Dayton, Texas...</p></details>
    Published: December 29, 1980  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Most Jaw-Dropping, Unexplained UFO Encounters In Military History!  
-   Link: <a href="https://www.youtube.com/watch?v=cTjMbRq9Oh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cTjMbRq9Oh8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For further investigation into the details of this historic close encounter, you can watch The Cash-Landrum UFO Encounter via Dark Myster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cTjMbRq9Oh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cTjMbRq9Oh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For further investigation into the details of this historic close encounter, you can watch The Cash-Landrum UFO Encounter via Dark Myster...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson Colby encountered a diamond-shaped UFO em...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentOn December 29, 1980, Betty Cash, Vickie Landrum and Vickie&#x27;s grandson Colby encountered a diamond-shaped UFO em...</p></details>
    Published: December 29, 1980  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2HsOUTzyWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO MysteryBetty Cash, Vickie Landrum and her grandson, Colby, were heading home to Dayton, Texas, when they became invo...</p></details>

@@ -274,15 +274,15 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_ta
 
 ## Introduction
 
-In the Cash–Landrum incident, one of the most important yet most disputed details is the witnesses’ claim that they saw helicopters with two rotors accompanying or surrounding a bright aerial object. That description naturally points toward a tandem-rotor helicopter such as the CH-47 Chinook, one of the most recognisable military helicopters ever built. However, the leap from “I saw two rotors” to “it was definitely a Chinook” is larger than it first appears. The evidence supports the conclusion that the witnesses reported a twin-rotor silhouette, but it does not establish with certainty which [aircraft]({{ 'aircraft/' | relative_url }}) they saw, how many there were, or whether every helicopter observed belonged to the same type. The identification problem lies in the gap between a distinctive outline and a confirmed aircraft model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+In the Cash–Landrum incident, one of the most important yet most disputed details is the witnesses’ claim that they saw helicopters with two rotors accompanying or surrounding a bright aerial object. That description naturally points toward a tandem-rotor helicopter such as the CH-47 Chinook, one of the most recognisable military helicopters ever built. However, the leap from “I saw two rotors” to “it was definitely a Chinook” is larger than it first appears. The evidence supports the conclusion that the witnesses reported a twin-rotor silhouette, but it does not establish with certainty which [aircraft]({{ 'aircraft/' | relative_url }}) they saw, how many there were, or whether every helicopter observed belonged to the same type. The identification problem lies in the gap between a distinctive outline and a confirmed aircraft model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-1-dark.svg" | relative_url }}" alt="Twin Rotors illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What a Tandem-Rotor Helicopter Looks Like
 
-A tandem-rotor helicopter carries two large main rotors arranged fore and aft along the fuselage instead of using a single main rotor and tail rotor. The CH-47 Chinook is the best-known example of this configuration and has been in military service since the early 1960s. Its profile is visually distinctive because the front and rear rotor systems sit on separate pylons, creating a long silhouette with two widely separated rotor discs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing CH-47 Chinook</span><span class="citation-popover-snippet">Boeing CH-47 Chinook</span></span></span>
+A tandem-rotor helicopter carries two large main rotors arranged fore and aft along the fuselage instead of using a single main rotor and tail rotor. The CH-47 Chinook is the best-known example of this configuration and has been in military service since the early 1960s. Its profile is visually distinctive because the front and rear rotor systems sit on separate pylons, creating a long silhouette with two widely separated rotor discs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing CH-47 Chinook</span><span class="citation-popover-snippet">Boeing CH-47 Chinook</span></span></span>
 
-From an aircraft-recognition perspective, this matters because tandem-rotor helicopters are uncommon. Most helicopters seen by the public have one main rotor and a tail rotor. A witness who accurately notices two large rotor systems has observed something unusual rather than a generic helicopter shape. Aircraft recognition guides routinely treat the tandem-rotor layout as one of the defining visual characteristics of the Chinook family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aircraftrecognitionguide.com/identify-aircraft/identify-by-helicopter-characteristics?start=20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftrecognitionguide.com">[Aircraft Recognition Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftrecognitionguide.com</span><span class="citation-popover-snippet">They are powered by two turboshaft engined, placed at the side...Read more...</span></span></span>
+From an aircraft-recognition perspective, this matters because tandem-rotor helicopters are uncommon. Most helicopters seen by the public have one main rotor and a tail rotor. A witness who accurately notices two large rotor systems has observed something unusual rather than a generic helicopter shape. Aircraft recognition guides routinely treat the tandem-rotor layout as one of the defining visual characteristics of the Chinook family.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aircraftrecognitionguide.com/identify-aircraft/identify-by-helicopter-characteristics?start=20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftrecognitionguide.com">[Aircraft Recognition Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftrecognitionguide.com</span><span class="citation-popover-snippet">They are powered by two turboshaft engined, placed at the side...Read more...</span></span></span>
 
 That does not mean every observation of a twin-rotor outline automatically becomes a confirmed CH-47 identification. It means the witness has supplied a potentially useful clue. The clue narrows the field considerably, but it does not eliminate uncertainty.
 
@@ -291,15 +291,15 @@ That does not mean every observation of a twin-rotor outline automatically becom
 
 ## Why the Chinook Became the Default Label
 
-The Cash–Landrum witnesses did not merely report helicopters. Over time, the helicopters were increasingly described as Chinooks, and later accounts of the case commonly present them that way. Case summaries note that the witnesses later identified some of the aircraft as tandem-rotor CH-47 Chinooks and connected them with military activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The Cash–Landrum witnesses did not merely report helicopters. Over time, the helicopters were increasingly described as Chinooks, and later accounts of the case commonly present them that way. Case summaries note that the witnesses later identified some of the aircraft as tandem-rotor CH-47 Chinooks and connected them with military activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 There are practical reasons why the Chinook became the default interpretation.
 
-First, the aircraft's silhouette is exceptionally memorable. Even people with limited aviation knowledge often recognise that a helicopter with two large rotors looks different from ordinary rotorcraft. The Chinook's twin-rotor arrangement has become its defining visual feature in military aviation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing+2Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">H-47 ChinookThe H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troop transport, plus hi...</span></span></span>
+First, the aircraft's silhouette is exceptionally memorable. Even people with limited aviation knowledge often recognise that a helicopter with two large rotors looks different from ordinary rotorcraft. The Chinook's twin-rotor arrangement has become its defining visual feature in military aviation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing+2Royal Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">H-47 ChinookThe H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troop transport, plus hi...</span></span></span>
 
 Second, the witnesses were not describing a subtle technical detail. They were describing a feature visible at a distance. If a person sees two separated rotor systems instead of one, they are noticing a broad structural characteristic rather than identifying engine types, avionics, or markings.
 
-Third, the Chinook explanation fits the broader narrative logic of the case. Once helicopters are interpreted as military aircraft, a tandem-rotor military transport helicopter becomes an obvious candidate. This association helped transform the helicopter element from a visual observation into an implied claim of government involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</span></span></span>
+Third, the Chinook explanation fits the broader narrative logic of the case. Once helicopters are interpreted as military aircraft, a tandem-rotor military transport helicopter becomes an obvious candidate. This association helped transform the helicopter element from a visual observation into an implied claim of government involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">the cash landrum incident a case for critical review micah hanks reports</span><span class="citation-popover-snippet">Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
@@ -308,7 +308,7 @@ Third, the Chinook explanation fits the broader narrative logic of the case. Onc
 
 The strongest challenge to the Chinook identification is not that tandem-rotor helicopters do not exist. It is that the observation reportedly occurred at night under unusual viewing conditions.
 
-The witnesses described a brilliant object producing intense light and heat. Bright light sources can reduce the observer's ability to perceive nearby shapes accurately, especially when the eye is repeatedly adjusting between illuminated and dark areas. In the Cash–Landrum record, there are also examples of uncertainty about the appearance of the central object itself. Early statements indicated difficulty determining its exact shape because of the brightness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The witnesses described a brilliant object producing intense light and heat. Bright light sources can reduce the observer's ability to perceive nearby shapes accurately, especially when the eye is repeatedly adjusting between illuminated and dark areas. In the Cash–Landrum record, there are also examples of uncertainty about the appearance of the central object itself. Early statements indicated difficulty determining its exact shape because of the brightness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 Aircraft recognition becomes more difficult at night for several reasons:
 
@@ -356,9 +356,9 @@ However, silhouette evidence alone does not establish:
 
 </div>
 
-Official investigation of the case failed to find documentary evidence linking the reported helicopters to a military operation in the area. Even investigators who considered the witnesses credible were unable to verify the aircraft through records, flight documentation, or other independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Official investigation of the case failed to find documentary evidence linking the reported helicopters to a military operation in the area. Even investigators who considered the witnesses credible were unable to verify the aircraft through records, flight documentation, or other independent evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The result is a layered conclusion. A twin-rotor silhouette is not a trivial observation; it is one of the more specific details in the Cash–Landrum account. Yet it remains an observation of form rather than identity. The witnesses may well have seen helicopters whose appearance resembled Chinooks, but the available evidence does not allow the silhouette itself to carry the heavier claim that CH-47 Chinooks were definitively present and participating in a military-controlled operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The result is a layered conclusion. A twin-rotor silhouette is not a trivial observation; it is one of the more specific details in the Cash–Landrum account. Yet it remains an observation of form rather than identity. The witnesses may well have seen helicopters whose appearance resembled Chinooks, but the available evidence does not allow the silhouette itself to carry the heavier claim that CH-47 Chinooks were definitively present and participating in a military-controlled operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RVeOy9W8EUE" title="Terrifying Texas UFO Encounter - The Cash Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer">Terrifying Texas UFO Encounter - The Cash Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RVeOy9W8EUE">Open on YouTube</a></p></div></div></div>
@@ -369,184 +369,184 @@ The tandem-rotor detail occupies an unusual position in the Cash–Landrum case.
 
 For supporters of the case, the twin-rotor observation is important because it gives [the helicopter reports]({{ 'the-helicopter-reports/' | relative_url }}) a level of specificity that would be difficult to dismiss as a vague impression. For sceptics, the same detail demonstrates the limits of eyewitness identification: recognising a broad aircraft configuration is not the same as proving a particular aircraft model was present.
 
-That tension explains why the Chinook question remains unresolved decades later. The reported silhouette is distinctive enough to keep the identification alive, but not detailed enough to settle it. The evidence supports a Chinook-like interpretation more strongly than many alternative helicopter types, yet it falls short of the certainty required to treat the CH-47 label as established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+That tension explains why the Chinook question remains unresolved decades later. The reported silhouette is distinctive enough to keep the identification alive, but not detailed enough to settle it. The evidence supports a Chinook-like interpretation more strongly than many alternative helicopter types, yet it falls short of the certainty required to treat the CH-47 label as established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-3-dark.svg" | relative_url }}" alt="Twin Rotors illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was a Twin Rotor Shape Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was a Twin Rotor Shape Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses how extraordinary claims should be assessed when eyewitness observations are uncertain or incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how extraordinary claims should be assessed when eyewitness observations are uncertain or incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context on evaluating witness testimony, aircraft reports, and identification uncertainty in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on evaluating witness testimony, aircraft reports, and identification uncertainty in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Paul+Jackson+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jane&#x27;s All the World&#x27;s Aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Paul+Jackson+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s All the World&#x27;s Aircraft">Jane&#x27;s All the World&#x27;s Aircraft</a>
-        </h4>
-        <p class="fr-book-author">By Paul Jackson (ed.)</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Paul+Jackson+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jane&#x27;s All the World&#x27;s Aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Paul+Jackson+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s All the World&#x27;s Aircraft">Jane&#x27;s All the World&#x27;s Aircraft</a>
+</h4>
+<p class="fr-book-author">By Paul Jackson (ed.)</p>
         
-        <p class="fr-book-desc">Helps readers compare helicopter configurations and understand how aircraft identification is made from silhouettes and visible features.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Paul+Jackson+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare helicopter configurations and understand how aircraft identification is made from silhouettes and visible features.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Paul+Jackson+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Complete+Book+of+U.S.+Military+Helicopters+Col.+James+W.+Cortada&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of U.S. Military Helicopters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+U.S.+Military+Helicopters+Col.+James+W.+Cortada&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of U.S. Military Helicopters">The Complete Book of U.S. Military Helicopters</a>
-        </h4>
-        <p class="fr-book-author">By Col. James W. Cortada</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Complete+Book+of+U.S.+Military+Helicopters+Col.+James+W.+Cortada&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of U.S. Military Helicopters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+U.S.+Military+Helicopters+Col.+James+W.+Cortada&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of U.S. Military Helicopters">The Complete Book of U.S. Military Helicopters</a>
+</h4>
+<p class="fr-book-author">By Col. James W. Cortada</p>
         
-        <p class="fr-book-desc">Provides context on the CH-47 Chinook and other military helicopters that may be confused during visual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+U.S.+Military+Helicopters+Col.+James+W.+Cortada&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on the CH-47 Chinook and other military helicopters that may be confused during visual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+U.S.+Military+Helicopters+Col.+James+W.+Cortada&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jane&#x27;s All the World&#x27;s Aircraft</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jane&#x27;s All the World&#x27;s Aircraft</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift"><img src="{{ '/assets/images/marketplace-covers/b4d7dfbf69b24e2b17da.jpg' | relative_url }}" alt="Listing image for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift"><img src="{{ '/assets/images/marketplace-covers/b4d7dfbf69b24e2b17da.jpg' | relative_url }}" alt="Listing image for Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Metal Model Helicopter CH-47 Chinook Military Aircraft 3D Laser Cut DIY Kit Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition"><img src="{{ '/assets/images/marketplace-covers/0ae4839591f6b6e8e420.jpg' | relative_url }}" alt="Listing image for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition"><img src="{{ '/assets/images/marketplace-covers/0ae4839591f6b6e8e420.jpg' | relative_url }}" alt="Listing image for Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Boeing-Vertol Chinook HC.3 - ZH904 RAF 18 Squadron Odiham Limited Edition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model"><img src="{{ '/assets/images/marketplace-covers/fdff05a7cfab872c4fa6.jpg' | relative_url }}" alt="Listing image for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model"><img src="{{ '/assets/images/marketplace-covers/fdff05a7cfab872c4fa6.jpg' | relative_url }}" alt="Listing image for 1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Alloy US Army MH-47G Chinook 160th SOAR Night Stalkers Collection Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Chinook helicopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Chinook helicopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Chinook+helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Chinook helicopter model" data-ebay-reference="twin-rotors-was-a-twin-rotor-shape-enough-cash-landrum-ufo-incident-chinook-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ That tension explains why the Chinook question remains unresolved decades later.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ That tension explains why the Chinook question remains unresolved decades later.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ That tension explains why the Chinook question remains unresolved decades later.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ That tension explains why the Chinook question remains unresolved decades later.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ That tension explains why the Chinook question remains unresolved decades later.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,108 +752,108 @@ That tension explains why the Chinook question remains unresolved decades later.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: boeing.com  
-   Link: <a href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/defense/military-rotorcraft/h-47-chinook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>H-47 ChinookThe H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troop transport, plus hi...</p></details>
+   Link:<a href="https://www.boeing.com/defense/military-rotorcraft/h-47-chinook" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/defense/military-rotorcraft/h-47-chinook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>H-47 ChinookThe H-47 Chinook is the heavy-lift helicopter. This tandem rotor workhorse excels in cargo and troop transport, plus hi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Boeing CH-47 Chinook  
-   Link: <a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aircraftrecognitionguide.com  
-   Link: <a href="https://www.aircraftrecognitionguide.com/identify-aircraft/identify-by-helicopter-characteristics?start=20" target="_blank" rel="noopener noreferrer nofollow">https://www.aircraftrecognitionguide.com/identify-aircraft/identify-by-helicopter-characteristics?start=20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They are powered by two turboshaft engined, placed at the side...Read more...</p></details>
+   Link:<a href="https://www.aircraftrecognitionguide.com/identify-aircraft/identify-by-helicopter-characteristics?start=20" target="_blank" rel="noopener noreferrer nofollow">https://www.aircraftrecognitionguide.com/identify-aircraft/identify-by-helicopter-characteristics?start=20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They are powered by two turboshaft engined, placed at the side...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/aircraft/current-aircraft/chinook1/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/aircraft/current-aircraft/chinook1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air ForceChinookThe Chinook is an extremely capable and highly versatile support helicopter that can be operated from land or sea b...</p></details>
+   Link:<a href="https://www.raf.mod.uk/aircraft/current-aircraft/chinook1/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/aircraft/current-aircraft/chinook1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Air ForceChinookThe Chinook is an extremely capable and highly versatile support helicopter that can be operated from land or sea b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jim HaroldThe Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to som...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: stock.adobe.com  
-   Link: <a href="https://stock.adobe.com/search?k=ch-47" target="_blank" rel="noopener noreferrer nofollow">https://stock.adobe.com/search?k=ch-47</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>adobe.comCh-47 Images – Browse 545 Stock Photos, Vectors, and...CH-47 Chinook Helicopter Silhouette - Twin-Rotor Military Transport Vect...</p></details>
+   Link:<a href="https://stock.adobe.com/search?k=ch-47" target="_blank" rel="noopener noreferrer nofollow">https://stock.adobe.com/search?k=ch-47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adobe.comCh-47 Images – Browse 545 Stock Photos, Vectors, and...CH-47 Chinook Helicopter Silhouette - Twin-Rotor Military Transport Vect...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: chinook-helicopter.com  
-   Link: <a href="https://www.chinook-helicopter.com/standards/areas/blade.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/areas/blade.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47D Chinook - The Rotor Blade.The rotary wing blade in a CH-47 is asymmetrical, that is it has a curvature that changes along t...</p></details>
+   Link:<a href="https://www.chinook-helicopter.com/standards/areas/blade.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/areas/blade.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47D Chinook - The Rotor Blade.The rotary wing blade in a CH-47 is asymmetrical, that is it has a curvature that changes along t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: migflug.com  
    Title: No hands on the controls. No feet on the pedals.Read more  
-   Link: <a href="https://migflug.com/jetflights/boeing-lands-a-chinook-without-anyone-at-the-controls/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/boeing-lands-a-chinook-without-anyone-at-the-controls/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing Lands a Chinook Without Anyone at the Controls13 May 2026 — On April 16, 2026, a Boeing CH-47F Chinook helicopter executed a fully...</p></details>
+   Link:<a href="https://migflug.com/jetflights/boeing-lands-a-chinook-without-anyone-at-the-controls/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/boeing-lands-a-chinook-without-anyone-at-the-controls/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing Lands a Chinook Without Anyone at the Controls13 May 2026 — On April 16, 2026, a Boeing CH-47F Chinook helicopter executed a fully...</p></details>
    Published: April 16, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pexels.com  
    Title: boeing ch 47 chinook  
-   Link: <a href="https://www.pexels.com/search/boeing%20ch-47%20chinook/" target="_blank" rel="noopener noreferrer nofollow">https://www.pexels.com/search/boeing%20ch-47%20chinook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Boeing Ch 47 Chinook PhotosDownload and use 7000+ Boeing Ch-47 Chinook stock photos for free. ✓ Thousands of new images every day ✓...</p></details>
+   Link:<a href="https://www.pexels.com/search/boeing%20ch-47%20chinook/" target="_blank" rel="noopener noreferrer nofollow">https://www.pexels.com/search/boeing%20ch-47%20chinook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free Boeing Ch 47 Chinook PhotosDownload and use 7000+ Boeing Ch-47 Chinook stock photos for free. ✓ Thousands of new images every day ✓...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: honeywellaerospace.com  
-   Link: <a href="https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>33 Things About the CH-47 ChinookThe twin-engine, tandem-rotor CH-47 Chinook helicopter is one of the world&#x27;s most iconic and recognizabl...</p></details>
+   Link:<a href="https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://www.honeywellaerospace.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>33 Things About the CH-47 ChinookThe twin-engine, tandem-rotor CH-47 Chinook helicopter is one of the world&#x27;s most iconic and recognizabl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSa2c1Pku2t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSa2c1Pku2t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feature FridayThe CH-47 Chinook has been a cornerstone of military aviation for decades. With its iconic tandem-rotor design and exceptio...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSa2c1Pku2t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSa2c1Pku2t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feature FridayThe CH-47 Chinook has been a cornerstone of military aviation for decades. With its iconic tandem-rotor design and exceptio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aerospace.honeywell.com  
-   Link: <a href="https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>honeywell.com33 Things About the CH-47 ChinookThe twin-engine, tandem-rotor CH-47 Chinook helicopter is one of the world&#x27;s most iconic an...</p></details>
+   Link:<a href="https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.honeywell.com/us/en/about-us/blogs/33-things-you-probably-do-not-know-about-chinook-ch47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>honeywell.com33 Things About the CH-47 ChinookThe twin-engine, tandem-rotor CH-47 Chinook helicopter is one of the world&#x27;s most iconic an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KsezDfM_dMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KsezDfM_dMs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 Chinook: A Deep Dive into Its Design, History and...The Chinook is one of the most battleproven aircraft in history. In this video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KsezDfM_dMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KsezDfM_dMs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CH-47 Chinook: A Deep Dive into Its Design, History and...The Chinook is one of the most battleproven aircraft in history. In this video...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
+   Link:<a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=g90QUoORmc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g90QUoORmc0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Most Iconic Helicopter | CH-47 ChinookThe CH-47 Chinook is regarded by many as the world&#x27;s most iconic helicopter. Dating all...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g90QUoORmc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g90QUoORmc0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Most Iconic Helicopter | CH-47 ChinookThe CH-47 Chinook is regarded by many as the world&#x27;s most iconic helicopter. Dating all...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Within hours, all three witnesses began suffering strange physical symptoms. The U.S. government denied any...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Within hours, all three witnesses began suffering strange physical symptoms. The U.S. government denied any...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vecteezy.com  
-   Link: <a href="https://www.vecteezy.com/free-vector/chinook-helicopter?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.vecteezy.com/free-vector/chinook-helicopter?page=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military transport helicopter icon. Isometric Chinook is a tandem-rotor helicopter...Read more...</p></details>
+   Link:<a href="https://www.vecteezy.com/free-vector/chinook-helicopter?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.vecteezy.com/free-vector/chinook-helicopter?page=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military transport helicopter icon. Isometric Chinook is a tandem-rotor helicopter...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: shutterstock.com  
-   Link: <a href="https://www.shutterstock.com/search/chinook-helicopter-silhouette" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/search/chinook-helicopter-silhouette</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This heavy-lift helicopter is known for its tandem rotors and versatile capabilities.Read more...</p></details>
+   Link:<a href="https://www.shutterstock.com/search/chinook-helicopter-silhouette" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/search/chinook-helicopter-silhouette</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This heavy-lift helicopter is known for its tandem rotors and versatile capabilities.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: techeblog.com  
    Title: 5 bizarre ufo related incidents that still cant be explained  
-   Link: <a href="https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Bizarre UFO Related Incidents That Still Can&#x27;t Be Explained9 Oct 2014 — Cash and Landrum counted 23 helicopters, and later identified s...</p></details>
+   Link:<a href="https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/5-bizarre-ufo-related-incidents-that-still-cant-be-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Bizarre UFO Related Incidents That Still Can&#x27;t Be Explained9 Oct 2014 — Cash and Landrum counted 23 helicopters, and later identified s...</p></details>

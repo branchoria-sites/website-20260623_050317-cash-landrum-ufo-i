@@ -280,13 +280,13 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_ca
 
 ## Introduction
 
-The scalp biopsy obtained during [Betty Cash]({{ 'betty-cash/' | relative_url }})’s medical treatment became one of the most important pieces of evidence in debates over the Cash–Landrum incident. Unlike witness testimony about hair falling out, a biopsy offered a chance to examine tissue under a microscope and ask a more specific question: did the pattern of damage resemble [radiation]({{ 'radiation/' | relative_url }}) injury, or did it fit a recognised form of alopecia? The significance of the biopsy lies not in proving what happened on the road that night, but in how medical specialists interpreted the resulting tissue sample. Supporters of a radiation explanation and critics of that interpretation both pointed to the same biopsy while drawing different conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
+The scalp biopsy obtained during [Betty Cash]({{ 'betty-cash/' | relative_url }})’s medical treatment became one of the most important pieces of evidence in debates over the Cash–Landrum incident. Unlike witness testimony about hair falling out, a biopsy offered a chance to examine tissue under a microscope and ask a more specific question: did the pattern of damage resemble [radiation]({{ 'radiation/' | relative_url }}) injury, or did it fit a recognised form of alopecia? The significance of the biopsy lies not in proving what happened on the road that night, but in how medical specialists interpreted the resulting tissue sample. Supporters of a radiation explanation and critics of that interpretation both pointed to the same biopsy while drawing different conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-1-dark.svg" | relative_url }}" alt="Biopsy Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a Biopsy Was Relevant
 
-[Hair loss]({{ 'hair-loss/' | relative_url }}) by itself is a symptom, not a diagnosis. Dermatologists use scalp biopsies when the cause of alopecia is uncertain because microscopic examination can reveal whether hair follicles are being attacked by inflammation, destroyed by scarring, damaged by toxins, or affected by other disease processes. Modern dermatology literature continues to regard biopsy as an important diagnostic tool when clinical appearance alone does not settle the question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.intechopen.com/chapters/45135" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-title">Scalp biopsy is considered mandatory in all cases of scarring alopecia.Read more</span><span class="citation-popover-snippet">Scalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 3, 2013 — by K Al-refu · 2013 · Cited by 4 — Scalp biopsies can be...</span><span class="citation-popover-meta">Published: July 3, 2013</span></span></span>
+[Hair loss]({{ 'hair-loss/' | relative_url }}) by itself is a symptom, not a diagnosis. Dermatologists use scalp biopsies when the cause of alopecia is uncertain because microscopic examination can reveal whether hair follicles are being attacked by inflammation, destroyed by scarring, damaged by toxins, or affected by other disease processes. Modern dermatology literature continues to regard biopsy as an important diagnostic tool when clinical appearance alone does not settle the question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.intechopen.com/chapters/45135" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-title">Scalp biopsy is considered mandatory in all cases of scarring alopecia.Read more</span><span class="citation-popover-snippet">Scalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 3, 2013 — by K Al-refu · 2013 · Cited by 4 — Scalp biopsies can be...</span><span class="citation-popover-meta">Published: July 3, 2013</span></span></span>
 
 In the Cash–Landrum case, this mattered because the central claim was not merely that Cash lost hair, but that the hair loss was evidence of exposure to intense radiation. A biopsy offered the possibility of distinguishing between competing explanations. If pathology findings were consistent with a recognised dermatological condition, the evidential value of the hair-loss claim as proof of radiation exposure would be weakened. If the tissue showed unusual damage incompatible with ordinary alopecia, the radiation argument would gain support.
 
@@ -297,23 +297,23 @@ The biopsy therefore occupied a unique position in the case. Witness description
 
 ## The Reported Interpretation of Cash's Sample
 
-Accounts of the medical record generally agree that Cash underwent dermatological evaluation after areas of scalp hair loss became apparent. According to analyses of the case that examined hospital records, the consulting dermatologist described the condition as [alopecia areata]({{ 'alopecia-areata/' | relative_url }}), a recognised disorder characterised by patchy hair loss. Reports further state that a scalp biopsy was interpreted as supporting that diagnosis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
+Accounts of the medical record generally agree that Cash underwent dermatological evaluation after areas of scalp hair loss became apparent. According to analyses of the case that examined hospital records, the consulting dermatologist described the condition as [alopecia areata]({{ 'alopecia-areata/' | relative_url }}), a recognised disorder characterised by patchy hair loss. Reports further state that a scalp biopsy was interpreted as supporting that diagnosis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
 
-Alopecia areata is typically associated with well-defined patches of hair loss and can show characteristic microscopic changes around hair follicles. Because it is a recognised clinical entity with established pathological criteria, a biopsy interpretation favouring alopecia areata provided a conventional medical explanation for Cash’s scalp condition. Modern dermatopathology references note that scalp biopsy is routinely used to confirm or support such diagnoses when clinical findings are uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/5007916?client=bot&amp;client=bot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">However when a single biopsy is submitted the pathologist has to decide...Read more...</span></span></span>
+Alopecia areata is typically associated with well-defined patches of hair loss and can show characteristic microscopic changes around hair follicles. Because it is a recognised clinical entity with established pathological criteria, a biopsy interpretation favouring alopecia areata provided a conventional medical explanation for Cash’s scalp condition. Modern dermatopathology references note that scalp biopsy is routinely used to confirm or support such diagnoses when clinical findings are uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/pmc/5007916?client=bot&amp;client=bot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">However when a single biopsy is submitted the pathologist has to decide...Read more...</span></span></span>
 
-The controversy arose because not everyone accepted the pathologist’s conclusion. UFO researcher and radiologist Peter Rank reportedly challenged the interpretation, arguing that the biopsy findings could be viewed differently and were potentially compatible with radiation-related injury. The dispute was therefore not over whether a biopsy existed, but over what the biopsy actually demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
+The controversy arose because not everyone accepted the pathologist’s conclusion. UFO researcher and radiologist Peter Rank reportedly challenged the interpretation, arguing that the biopsy findings could be viewed differently and were potentially compatible with radiation-related injury. The dispute was therefore not over whether a biopsy existed, but over what the biopsy actually demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
 
-Importantly, the publicly available discussions do not contain a widely circulated full pathology report with detailed photomicrographs that would allow independent modern re-evaluation. As a result, later commentators generally rely on secondary descriptions of the biopsy rather than direct examination of the original specimen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
+Importantly, the publicly available discussions do not contain a widely circulated full pathology report with detailed photomicrographs that would allow independent modern re-evaluation. As a result, later commentators generally rely on secondary descriptions of the biopsy rather than direct examination of the original specimen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-2-dark.svg" | relative_url }}" alt="Biopsy Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Biopsy Could Not Establish
 
-Even if a scalp biopsy is interpreted correctly, pathology has limits. A biopsy can identify patterns of tissue change, but it does not necessarily reveal the precise historical event that produced them. In hair disorders, pathologists often work by matching microscopic features to known disease patterns rather than reconstructing a unique external cause. Modern reviews of scalp-biopsy interpretation emphasise that pathological findings must be integrated with clinical history and other evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Donovan Hair Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Brief Review of Scalp Biopsy and its Interpretation</span><span class="citation-popover-snippet">Scalp biopsies provide reliable information in delineating various...Read more...</span></span></span>
+Even if a scalp biopsy is interpreted correctly, pathology has limits. A biopsy can identify patterns of tissue change, but it does not necessarily reveal the precise historical event that produced them. In hair disorders, pathologists often work by matching microscopic features to known disease patterns rather than reconstructing a unique external cause. Modern reviews of scalp-biopsy interpretation emphasise that pathological findings must be integrated with clinical history and other evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Donovan Hair Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Brief Review of Scalp Biopsy and its Interpretation</span><span class="citation-popover-snippet">Scalp biopsies provide reliable information in delineating various...Read more...</span></span></span>
 
 This limitation is particularly important in the Cash–Landrum [debate]({{ 'debate/' | relative_url }}). A biopsy supporting alopecia areata does not automatically prove that no unusual exposure occurred. Conversely, a biopsy showing follicular damage would not automatically identify radiation as the cause. Pathology can narrow possibilities, but it rarely settles extraordinary historical claims by itself.
 
-Another complication is timing. The biopsy was performed after the alleged exposure rather than during it. By the time tissue is sampled, biological processes such as inflammation, healing, and hair regrowth may already have altered the appearance of the scalp. Dermatopathology literature notes that biopsy interpretation can depend heavily on where and when a specimen is taken relative to the active lesion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.preprints.org/manuscript/202307.0554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.org">[Preprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.org</span><span class="citation-popover-snippet">Alopecias: Practical Tips For The Management Of Biopsies...10 Jul 2023 — In cases of scarring alopecia, the biopsy should be ta...</span></span></span>
+Another complication is timing. The biopsy was performed after the alleged exposure rather than during it. By the time tissue is sampled, biological processes such as inflammation, healing, and hair regrowth may already have altered the appearance of the scalp. Dermatopathology literature notes that biopsy interpretation can depend heavily on where and when a specimen is taken relative to the active lesion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.preprints.org/manuscript/202307.0554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.org">[Preprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.org</span><span class="citation-popover-snippet">Alopecias: Practical Tips For The Management Of Biopsies...10 Jul 2023 — In cases of scarring alopecia, the biopsy should be ta...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ai80hZBirxI" title="Scalp Biopsies - Dr. Donovan&#x27;s Overview in 10 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ai80hZBirxI" target="_blank" rel="noopener noreferrer">Scalp Biopsies - Dr. Donovan&#x27;s Overview in 10 Minutes</a></p><p class="youtube-embed-meta">Channel: Donovan Medical</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ai80hZBirxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ai80hZBirxI">Open on YouTube</a></p></div></div></div>
@@ -323,202 +323,202 @@ Another complication is timing. The biopsy was performed after the alleged expos
 
 ## Why the Biopsy Remains Central to the Debate
 
-The biopsy remains significant because it shifted discussion from anecdotal symptom reporting to medical interpretation. For proponents of a radiation-related explanation, Cash’s hair loss looked like a visible consequence of a severe exposure event. For sceptics, the biopsy's reported diagnosis of alopecia areata suggested that at least one of the case’s most dramatic symptoms had a plausible conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
+The biopsy remains significant because it shifted discussion from anecdotal symptom reporting to medical interpretation. For proponents of a radiation-related explanation, Cash’s hair loss looked like a visible consequence of a severe exposure event. For sceptics, the biopsy's reported diagnosis of alopecia areata suggested that at least one of the case’s most dramatic symptoms had a plausible conventional explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
 
-As a result, the biopsy occupies a pivotal but limited role in the Cash–Landrum literature. It neither conclusively proves radiation injury nor conclusively disproves it. What it does show is that trained medical professionals examined Cash’s scalp and reportedly interpreted the findings within the framework of a recognised dermatological disorder. The enduring disagreement stems from whether that interpretation should be accepted as the best explanation of the evidence or regarded as an incomplete reading of an unusual case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
+As a result, the biopsy occupies a pivotal but limited role in the Cash–Landrum literature. It neither conclusively proves radiation injury nor conclusively disproves it. What it does show is that trained medical professionals examined Cash’s scalp and reportedly interpreted the findings within the framework of a recognised dermatological disorder. The enduring disagreement stems from whether that interpretation should be accepted as the best explanation of the evidence or regarded as an incomplete reading of an unusual case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[Gary P. Posner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-title">Gary P</span><span class="citation-popover-snippet">PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-3-dark.svg" | relative_url }}" alt="Biopsy Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Could a Scalp Biopsy Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Could a Scalp Biopsy Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Synopsis and atlas of Lever&#x27;s histopathology of the skin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1197523-M.jpg" alt="Cover for Synopsis and atlas of Lever&#x27;s histopathology of the skin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synopsis and atlas of Lever&#x27;s histopathology of the skin">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a>
-        </h4>
-        <p class="fr-book-author">By David E. Elder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Synopsis and atlas of Lever&#x27;s histopathology of the skin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1197523-M.jpg" alt="Cover for Synopsis and atlas of Lever&#x27;s histopathology of the skin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synopsis and atlas of Lever&#x27;s histopathology of the skin">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a>
+</h4>
+<p class="fr-book-author">By David E. Elder</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Histopathology, Atlases, Pathology, Skin, Histology, atlases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Histopathology, Atlases, Pathology, Skin, Histology, atlases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By John F. Schuessler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+</h4>
+<p class="fr-book-author">By John F. Schuessler</p>
         
-        <p class="fr-book-desc">Provides the broader case context in which the biopsy evidence became a major point of debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader case context in which the biopsy evidence became a major point of debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology">Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology</a>
-        </h4>
-        <p class="fr-book-author">By Klaus Wolff, Richard Allen Johnson et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology">Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology</a>
+</h4>
+<p class="fr-book-author">By Klaus Wolff, Richard Allen Johnson et al.</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Skin, diseases, Dermatology, Atlases, Skin Diseases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Skin, diseases, Dermatology, Atlases, Skin Diseases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cash+Landrum+UFO+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cash Landrum UFO Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cash+Landrum+UFO+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cash Landrum UFO Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="biopsy-evidence-what-could-a-scalp-biopsy-prove-cash-landrum-ufo-incident-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,97 +724,97 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gpposner.com  
    Title: Gary P  
-   Link: <a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PosnerThe Legendary Cash-Landrum Case: [Radiation Sickness](&amp;#123;&amp;#123; &#x27;radiation-claim/&#x27; | relative_url &amp;#125;&amp;#125;)...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</p></details>
+   Link:<a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PosnerThe Legendary Cash-Landrum Case: [Radiation Sickness](&amp;#123;&amp;#123; &#x27;radiation-claim/&#x27; | relative_url &amp;#125;&amp;#125;)...March 12, 2024 — Cash-Landrum&#x27;s notoriety as a “radiation” case rests primar...</p></details>
    Published: March 12, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: intechopen.com  
    Title: Scalp biopsy is considered mandatory in all cases of scarring alopecia.Read more  
-   Link: <a href="https://www.intechopen.com/chapters/45135" target="_blank" rel="noopener noreferrer nofollow">https://www.intechopen.com/chapters/45135</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 3, 2013 — by K Al-refu · 2013 · Cited by 4 — Scalp biopsies can be...</p></details>
+   Link:<a href="https://www.intechopen.com/chapters/45135" target="_blank" rel="noopener noreferrer nofollow">https://www.intechopen.com/chapters/45135</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scalp Biopsy and Diagnosis of Common Hair Loss ProblemsJuly 3, 2013 — by K Al-refu · 2013 · Cited by 4 — Scalp biopsies can be...</p></details>
    Published: July 3, 2013  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: preprints.org  
-   Link: <a href="https://www.preprints.org/manuscript/202307.0554" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202307.0554</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alopecias: Practical Tips For The Management Of Biopsies...10 Jul 2023 — In cases of scarring alopecia, the biopsy should be ta...</p></details>
+   Link:<a href="https://www.preprints.org/manuscript/202307.0554" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202307.0554</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alopecias: Practical Tips For The Management Of Biopsies...10 Jul 2023 — In cases of scarring alopecia, the biopsy should be ta...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Brief Review of Scalp Biopsy and its Interpretation  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scalp biopsies provide reliable information in delineating various...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12419723/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scalp biopsies provide reliable information in delineating various...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: europepmc.org  
-   Link: <a href="https://europepmc.org/article/pmc/5007916?client=bot&amp;client=bot" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/pmc/5007916?client=bot&amp;client=bot</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However when a single biopsy is submitted the pathologist has to decide...Read more...</p></details>
+   Link:<a href="https://europepmc.org/article/pmc/5007916?client=bot&amp;client=bot" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/pmc/5007916?client=bot&amp;client=bot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However when a single biopsy is submitted the pathologist has to decide...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: donovanmedical.com  
    Title: scalp biopsy report  
-   Link: <a href="https://donovanmedical.com/hair-blog/scalp-biopsy-report" target="_blank" rel="noopener noreferrer nofollow">https://donovanmedical.com/hair-blog/scalp-biopsy-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It requires specific expertise and I&#x27;m fortunate to work with amazing pathologists. Every day, I...Read more...</p></details>
+   Link:<a href="https://donovanmedical.com/hair-blog/scalp-biopsy-report" target="_blank" rel="noopener noreferrer nofollow">https://donovanmedical.com/hair-blog/scalp-biopsy-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It requires specific expertise and I&#x27;m fortunate to work with amazing pathologists. Every day, I...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Scalp Biopsies  
-   Link: <a href="https://www.youtube.com/watch?v=ai80hZBirxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ai80hZBirxI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Donovan&#x27;s Overview in 10 MinutesDonovan briefly reviews the key histopathological findings of androgenetic alopecia, alopecia areata...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ai80hZBirxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ai80hZBirxI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Donovan&#x27;s Overview in 10 MinutesDonovan briefly reviews the key histopathological findings of androgenetic alopecia, alopecia areata...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/280122540_The_scalp_biopsy_for_hair_loss_and_its_interpretation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280122540_The_scalp_biopsy_for_hair_loss_and_its_interpretation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The scalp biopsy for hair loss and its interpretationThe pathologist&#x27;s interpretation based only on the vertical sections and an interpre...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/280122540_The_scalp_biopsy_for_hair_loss_and_its_interpretation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280122540_The_scalp_biopsy_for_hair_loss_and_its_interpretation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The scalp biopsy for hair loss and its interpretationThe pathologist&#x27;s interpretation based only on the vertical sections and an interpre...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: login.blockchain.com  
-   Link: <a href="https://login.blockchain.com/legacy-pages/js/mnemonic/mnemonic_words_v3.txt" target="_blank" rel="noopener noreferrer nofollow">https://login.blockchain.com/legacy-pages/js/mnemonic/mnemonic_words_v3.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>blockchain.commnemonic_words_v3.txt... biopsy bios bioscience biosciences biosphere biostatistics biosystems biota... cash cashed cashes...</p></details>
+   Link:<a href="https://login.blockchain.com/legacy-pages/js/mnemonic/mnemonic_words_v3.txt" target="_blank" rel="noopener noreferrer nofollow">https://login.blockchain.com/legacy-pages/js/mnemonic/mnemonic_words_v3.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>blockchain.commnemonic_words_v3.txt... biopsy bios bioscience biosciences biosphere biostatistics biosystems biota... cash cashed cashes...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright © 2001 by John Schuessler. Categories of... Copyright © 2001 by Gary Posner. Fairy lore and UFO encounters...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright © 2001 by John Schuessler. Categories of... Copyright © 2001 by Gary Posner. Fairy lore and UFO encounters...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: longdom.org  
-   Link: <a href="https://www.longdom.org/open-access/review-of-the-trends-in-diagnosing-alopecia-with-scalp-biopsy-and-trichoscopy-109367.html" target="_blank" rel="noopener noreferrer nofollow">https://www.longdom.org/open-access/review-of-the-trends-in-diagnosing-alopecia-with-scalp-biopsy-and-trichoscopy-109367.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dermatologists and pathologists in training should be competent in performing both...Read more...</p></details>
+   Link:<a href="https://www.longdom.org/open-access/review-of-the-trends-in-diagnosing-alopecia-with-scalp-biopsy-and-trichoscopy-109367.html" target="_blank" rel="noopener noreferrer nofollow">https://www.longdom.org/open-access/review-of-the-trends-in-diagnosing-alopecia-with-scalp-biopsy-and-trichoscopy-109367.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dermatologists and pathologists in training should be competent in performing both...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-scalp-biopsy-for-hair-loss-and-its-Knopp/b944c057377b17f8ca1ee908f6c5a359b56506bb" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-scalp-biopsy-for-hair-loss-and-its-Knopp/b944c057377b17f8ca1ee908f6c5a359b56506bb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>optimize their approach to the scalp biopsy and interpretation of key...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/The-scalp-biopsy-for-hair-loss-and-its-Knopp/b944c057377b17f8ca1ee908f6c5a359b56506bb" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-scalp-biopsy-for-hair-loss-and-its-Knopp/b944c057377b17f8ca1ee908f6c5a359b56506bb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>optimize their approach to the scalp biopsy and interpretation of key...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eprints.poltekkesadisutjipto.ac.id  
    Title: 43 Handbookof Clinical Nutritionand Aging  
-   Link: <a href="https://eprints.poltekkesadisutjipto.ac.id/id/eprint/1891/1/43_HandbookofClinicalNutritionandAging.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.poltekkesadisutjipto.ac.id/id/eprint/1891/1/43_HandbookofClinicalNutritionandAging.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Clinical Nutrition and Agingby CW Bales · 2009 · Cited by 94 — Handbook of Clinical Nutrition and Aging, Second Edition, edited by Con...</p></details>
+   Link:<a href="https://eprints.poltekkesadisutjipto.ac.id/id/eprint/1891/1/43_HandbookofClinicalNutritionandAging.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.poltekkesadisutjipto.ac.id/id/eprint/1891/1/43_HandbookofClinicalNutritionandAging.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Clinical Nutrition and Agingby CW Bales · 2009 · Cited by 94 — Handbook of Clinical Nutrition and Aging, Second Edition, edited by Con...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ceae arecibo areco arecolin...Read more...</p></details>
+   Link:<a href="https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ceae arecibo areco arecolin...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tajjlxkn_6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tajjlxkn_6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tajjlxkn_6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tajjlxkn_6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY  
-   Link: <a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Disturbing [Unsolved Mysteries](&amp;#123;&amp;#123; &#x27;tv-injury-frame/&#x27; | relative_url &amp;#125;&amp;#125;) | Military or Aliens?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzoOTCOUMKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Disturbing [Unsolved Mysteries](&amp;#123;&amp;#123; &#x27;tv-injury-frame/&#x27; | relative_url &amp;#125;&amp;#125;) | Military or Aliens?...</p></details>

@@ -280,28 +280,28 @@ image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_ro
 
 ## Introduction
 
-The rocket-plume analogy is one of the most useful tests that can be applied to the Cash-Landrum incident. The witnesses did not merely report a bright object. They described [flames]({{ 'flames/' | relative_url }}) or fiery exhaust beneath a hovering, diamond-shaped craft, intense heat strong enough to make metal painful to touch, and a motion pattern that seemed linked to bursts of flame. If those observations are interpreted literally, [the object]({{ 'the-object/' | relative_url }}) begins to resemble a propulsion system rather than a mysterious light. Yet that same comparison creates problems. Real rocket plumes produce predictable effects: extreme radiant heat, powerful gas flow, noise, exhaust products, and physical traces. The closer the Cash-Landrum object is made to resemble a rocket, the more those expected side effects become important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The rocket-plume analogy is one of the most useful tests that can be applied to the Cash-Landrum incident. The witnesses did not merely report a bright object. They described [flames]({{ 'flames/' | relative_url }}) or fiery exhaust beneath a hovering, diamond-shaped craft, intense heat strong enough to make metal painful to touch, and a motion pattern that seemed linked to bursts of flame. If those observations are interpreted literally, [the object]({{ 'the-object/' | relative_url }}) begins to resemble a propulsion system rather than a mysterious light. Yet that same comparison creates problems. Real rocket plumes produce predictable effects: extreme radiant heat, powerful gas flow, noise, exhaust products, and physical traces. The closer the Cash-Landrum object is made to resemble a rocket, the more those expected side effects become important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-1-dark.svg" | relative_url }}" alt="Plume Science illustration 1" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Visible Flame, Infrared Heat, and Exhaust Particles
 
-Witness descriptions repeatedly compared the object's behaviour to a rocket. In later interviews, the reported flames appeared to intensify when the object rose and diminish when it settled lower. The reported visual effect therefore resembles thrust-driven motion rather than a stationary glow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+Witness descriptions repeatedly compared the object's behaviour to a rocket. In later interviews, the reported flames appeared to intensify when the object rose and diminish when it settled lower. The reported visual effect therefore resembles thrust-driven motion rather than a stationary glow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-From an engineering perspective, visible flame is only part of a rocket plume. A large fraction of a rocket's energy is emitted as infrared [radiation]({{ 'radiation/' | relative_url }}) and hot exhaust gases. Modern studies of rocket plumes show that thermal radiation can remain significant well beyond the visible flame itself, particularly when soot particles or combustion products are present. These particles absorb and re-emit heat efficiently, creating a strong infrared signature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[Hal Science+2Elib DLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-title">Decker 2025 Infrared Radiation Soot Rocket Engine Plume</span><span class="citation-popover-snippet">Infrared radiation from soot particles in rocket engine plumeby TG Decker · 2025 — Comparison between measurements and simulations enable...</span></span></span>
+From an engineering perspective, visible flame is only part of a rocket plume. A large fraction of a rocket's energy is emitted as infrared [radiation]({{ 'radiation/' | relative_url }}) and hot exhaust gases. Modern studies of rocket plumes show that thermal radiation can remain significant well beyond the visible flame itself, particularly when soot particles or combustion products are present. These particles absorb and re-emit heat efficiently, creating a strong infrared signature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[Hal Science+2Elib DLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-title">Decker 2025 Infrared Radiation Soot Rocket Engine Plume</span><span class="citation-popover-snippet">Infrared radiation from soot particles in rocket engine plumeby TG Decker · 2025 — Comparison between measurements and simulations enable...</span></span></span>
 
-This matters because the Cash-Landrum witnesses reported heat as strongly as they reported light. A rocket-like exhaust could in principle explain why observers felt intense thermal exposure. The idea is not physically absurd. Rocket plumes are among the hottest engineered phenomena routinely produced by humans, and radiant heat can be felt at substantial distances. Research into rocket exhaust environments specifically measures damaging heat flux outside the core exhaust stream because nearby structures can be affected without direct contact with the plume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
+This matters because the Cash-Landrum witnesses reported heat as strongly as they reported light. A rocket-like exhaust could in principle explain why observers felt intense thermal exposure. The idea is not physically absurd. Rocket plumes are among the hottest engineered phenomena routinely produced by humans, and radiant heat can be felt at substantial distances. Research into rocket exhaust environments specifically measures damaging heat flux outside the core exhaust stream because nearby structures can be affected without direct contact with the plume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
 
-The difficulty is scale. To generate the degree of heating claimed in the case while hovering near treetop height, a rocket-like propulsion system would likely need to release enormous amounts of energy. Such a system would normally produce effects extending far beyond a visible flame alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
+The difficulty is scale. To generate the degree of heating claimed in the case while hovering near treetop height, a rocket-like propulsion system would likely need to release enormous amounts of energy. Such a system would normally produce effects extending far beyond a visible flame alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## What Scorching, Blast, Smoke, and Residue Should Have Looked Like
 
-A genuine rocket plume does more than radiate heat. It transfers momentum to the surrounding air. Hot gases accelerate downward at high speed, creating blast effects, turbulence, dust movement, and often audible shock-related noise. Depending on propellant type, it may also generate smoke, soot, condensed particles, or chemical residues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
+A genuine rocket plume does more than radiate heat. It transfers momentum to the surrounding air. Hot gases accelerate downward at high speed, creating blast effects, turbulence, dust movement, and often audible shock-related noise. Depending on propellant type, it may also generate smoke, soot, condensed particles, or chemical residues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
 
-That expectation creates one of the central tensions in the Cash-Landrum comparison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+That expectation creates one of the central tensions in the Cash-Landrum comparison.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 If a large hovering craft was supporting itself with downward rocket thrust, investigators would normally expect some combination of:
 
@@ -317,9 +317,9 @@ If a large hovering craft was supporting itself with downward rocket thrust, inv
 
 </div>
 
-The reported encounter certainly included heat and a "whooshing" style sound in some accounts, but evidence for extensive blast damage or obvious plume residue has remained limited and disputed. No widely accepted physical survey documented the kind of dramatic ground effects that engineers would normally anticipate from a powerful hovering rocket. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The reported encounter certainly included heat and a "whooshing" style sound in some accounts, but evidence for extensive blast damage or obvious plume residue has remained limited and disputed. No widely accepted physical survey documented the kind of dramatic ground effects that engineers would normally anticipate from a powerful hovering rocket.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-The same issue appears in discussions of the witnesses' reported medical symptoms. Some researchers argued that the symptoms did not fit straightforward exposure to ionising radiation because the reported onset and survival pattern were inconsistent with the extremely high doses that would have been required. Alternative explanations involving heat, chemicals, or other environmental exposures have therefore been proposed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The same issue appears in discussions of the witnesses' reported medical symptoms. Some researchers argued that the symptoms did not fit straightforward exposure to ionising radiation because the reported onset and survival pattern were inconsistent with the extremely high doses that would have been required. Alternative explanations involving heat, chemicals, or other environmental exposures have therefore been proposed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 In other words, a rocket plume may help explain the heat reports, but it does not automatically explain every reported consequence.
 
@@ -331,7 +331,7 @@ The most challenging aspect of the rocket analogy is not the flame itself but th
 
 A climbing rocket can tolerate brief periods of intense exhaust because it is moving away from the environment beneath it. A large object hovering close to the ground must continuously push enormous quantities of energy downward to remain aloft. The longer the hover lasts, the larger the cumulative environmental effects become.
 
-According to the witnesses, the object remained near the road for several minutes while repeatedly emitting flame. If interpreted as conventional rocket propulsion, that scenario implies sustained energy release rather than a brief burst. Engineers would generally expect prolonged heating, substantial air disturbance, and obvious environmental signatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+According to the witnesses, the object remained near the road for several minutes while repeatedly emitting flame. If interpreted as conventional rocket propulsion, that scenario implies sustained energy release rather than a brief burst. Engineers would generally expect prolonged heating, substantial air disturbance, and obvious environmental signatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 This is why sceptical analyses often focus less on whether flames were seen and more on whether the surrounding environment behaved as a powerful rocket plume would predict. The flame description alone is not the difficult part. The challenge is reconciling the reported heat with the comparatively limited physical evidence left behind.
 
@@ -355,9 +355,9 @@ Instead of asking whether a mysterious object looked strange, the comparison ask
 
 </div>
 
-Those questions move the discussion from appearance to mechanism. They force any explanation—whether conventional, experimental, or exotic—to account for energy, heat transfer, and environmental consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
+Those questions move the discussion from appearance to mechanism. They force any explanation—whether conventional, experimental, or exotic—to account for energy, heat transfer, and environmental consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vegatech.com.cn">[vegatech.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vegatech.com.cn</span><span class="citation-popover-snippet">objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</span></span></span>
 
-The witness descriptions themselves encouraged this approach. The reported rise-and-fall motion linked to bursts of flame resembles a thrust narrative far more than a simple luminous phenomenon. As a result, the rocket analogy gives investigators a concrete framework for evaluating the story rather than treating it as an untestable visual mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The witness descriptions themselves encouraged this approach. The reported rise-and-fall motion linked to bursts of flame resembles a thrust narrative far more than a simple luminous phenomenon. As a result, the rocket analogy gives investigators a concrete framework for evaluating the story rather than treating it as an untestable visual mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-3-dark.svg" | relative_url }}" alt="Plume Science illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -365,7 +365,7 @@ The witness descriptions themselves encouraged this approach. The reported rise-
 
 The same framework exposes weaknesses.
 
-Real rocket exhaust is not subtle. Modern research on rocket plumes emphasises their strong thermal signatures, particle emissions, and energetic interaction with the surrounding environment. The more closely the Cash-Landrum object is interpreted as a rocket-powered craft, the more one must explain why the expected blast, residue, and environmental damage were not documented as clearly as the heat effects reportedly experienced by the witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[vegatech.com.cn+3Hal Science+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-title">Decker 2025 Infrared Radiation Soot Rocket Engine Plume</span><span class="citation-popover-snippet">Infrared radiation from soot particles in rocket engine plumeby TG Decker · 2025 — Comparison between measurements and simulations enable...</span></span></span>
+Real rocket exhaust is not subtle. Modern research on rocket plumes emphasises their strong thermal signatures, particle emissions, and energetic interaction with the surrounding environment. The more closely the Cash-Landrum object is interpreted as a rocket-powered craft, the more one must explain why the expected blast, residue, and environmental damage were not documented as clearly as the heat effects reportedly experienced by the witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[vegatech.com.cn+3Hal Science+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-title">Decker 2025 Infrared Radiation Soot Rocket Engine Plume</span><span class="citation-popover-snippet">Infrared radiation from soot particles in rocket engine plumeby TG Decker · 2025 — Comparison between measurements and simulations enable...</span></span></span>
 
 This does not disprove the witnesses' observations. People can accurately report heat and still misinterpret the source of that heat. Nor does it prove that no unusual event occurred. It simply means that a rocket-like explanation carries engineering consequences that can be examined independently of witness testimony.
 
@@ -376,194 +376,194 @@ That is why the rocket comparison remains one of the most revealing lenses throu
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What a Real Rocket Plume Would Leave. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What a Real Rocket Plume Would Leave. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on advanced aerospace technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced aerospace technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based evaluation of plume claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based evaluation of plume claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful comparison point for physical-effect reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison point for physical-effect reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
-        </h4>
-        <p class="fr-book-author">By John D. Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
+</h4>
+<p class="fr-book-author">By John D. Clark</p>
         
-        <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="plume-science-what-a-real-rocket-plume-would-leave-cash-landrum-ufo-incident-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ That is why the rocket comparison remains one of the most revealing lenses throu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ That is why the rocket comparison remains one of the most revealing lenses throu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ That is why the rocket comparison remains one of the most revealing lenses throu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ That is why the rocket comparison remains one of the most revealing lenses throu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ That is why the rocket comparison remains one of the most revealing lenses throu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,92 +769,92 @@ That is why the rocket comparison remains one of the most revealing lenses throu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hal.science  
    Title: Decker 2025 Infrared Radiation Soot Rocket Engine Plume  
-   Link: <a href="https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrared radiation from soot particles in rocket engine plumeby TG Decker · 2025 — Comparison between measurements and simulations enable...</p></details>
+   Link:<a href="https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05191034v1/file/Decker_2025_Infrared_Radiation_Soot_Rocket_Engine_Plume.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrared radiation from soot particles in rocket engine plumeby TG Decker · 2025 — Comparison between measurements and simulations enable...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: elib.dlr.de  
    Title: ELIB Eintrag 2025 KarlS 222977 PaperPublished  
-   Link: <a href="https://elib.dlr.de/222977/1/ELIB-Eintrag-2025-KarlS-222977-PaperPublished.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/222977/1/ELIB-Eintrag-2025-KarlS-222977-PaperPublished.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cfd modeling of soot induced radiation in the exhaust...by S Karl · 2025 — This paper presents a computational methodology to qu...</p></details>
+   Link:<a href="https://elib.dlr.de/222977/1/ELIB-Eintrag-2025-KarlS-222977-PaperPublished.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/222977/1/ELIB-Eintrag-2025-KarlS-222977-PaperPublished.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cfd modeling of soot induced radiation in the exhaust...by S Karl · 2025 — This paper presents a computational methodology to qu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vegatech.com.cn  
-   Link: <a href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</p></details>
+   Link:<a href="https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vegatech.com.cn/Uploads/keditor/file/20220720/Rocket%20Motor%20Exhaust%20Thermal%20Environment%20Characterization.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>objects inside and outside of a firing solid propellant rocket motor plume by measuring the heat flux to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1996-1073/15/4/1470" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/15/4/1470</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Proceedings of the 39th Aerospace Sciences Meeting and Exhibit, Reno, NV, USA...</p></details>
+   Link:<a href="https://www.mdpi.com/1996-1073/15/4/1470" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/15/4/1470</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Proceedings of the 39th Aerospace Sciences Meeting and Exhibit, Reno, NV, USA...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 395094098 Radiative Heat Flux Estimation in Solid Propellant Rocket Plumes  
-   Link: <a href="https://www.researchgate.net/publication/395094098_Radiative_Heat_Flux_Estimation_in_Solid_Propellant_Rocket_Plumes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395094098_Radiative_Heat_Flux_Estimation_in_Solid_Propellant_Rocket_Plumes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiative Heat Flux Estimation in Solid Propellant Rocket...25 Mar 2026 — After burned, the particles transform into oxide that increase...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395094098_Radiative_Heat_Flux_Estimation_in_Solid_Propellant_Rocket_Plumes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395094098_Radiative_Heat_Flux_Estimation_in_Solid_Propellant_Rocket_Plumes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiative Heat Flux Estimation in Solid Propellant Rocket...25 Mar 2026 — After burned, the particles transform into oxide that increase...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Infrared-signature-modelling-of-a-rocket-jet-plume-Rialland-Guy/cbecaab7707d848c4d0379f2e771fd2aee747a1c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Infrared-signature-modelling-of-a-rocket-jet-plume-Rialland-Guy/cbecaab7707d848c4d0379f2e771fd2aee747a1c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Infrared signature modelling of a rocket jet plumeThe infrared signature modelling of rocket plumes is a challenging problem involv...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Infrared-signature-modelling-of-a-rocket-jet-plume-Rialland-Guy/cbecaab7707d848c4d0379f2e771fd2aee747a1c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Infrared-signature-modelling-of-a-rocket-jet-plume-Rialland-Guy/cbecaab7707d848c4d0379f2e771fd2aee747a1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Infrared signature modelling of a rocket jet plumeThe infrared signature modelling of rocket plumes is a challenging problem involv...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Brian McClelland, her primary physician, unequivocally diagnosed her with acute...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-[betty-cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...Brian McClelland, her primary physician, unequivocally diagnosed her with acute...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>icopters may have been involved. Buckle up for the Cash-Landrum...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>icopters may have been involved. Buckle up for the Cash-Landrum...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pod.link  
-   Link: <a href="https://pod.link/1456068419/episode/NTRjMmM5MmYtZDhiNS00ZGEyLTgyNjgtMDkzYTM0OWZjMmJi" target="_blank" rel="noopener noreferrer nofollow">https://pod.link/1456068419/episode/NTRjMmM5MmYtZDhiNS00ZGEyLTgyNjgtMDkzYTM0OWZjMmJi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burned By A UFO - The Cash-Landrum UFO IncidentThe heat was so intense it caused severe burns, radiation-style illness, [hair loss](&amp;#123;&amp;#123; &#x27;hair-loss/&#x27; | relative_url &amp;#125;&amp;#125;), and la...</p></details>
+   Link:<a href="https://pod.link/1456068419/episode/NTRjMmM5MmYtZDhiNS00ZGEyLTgyNjgtMDkzYTM0OWZjMmJi" target="_blank" rel="noopener noreferrer nofollow">https://pod.link/1456068419/episode/NTRjMmM5MmYtZDhiNS00ZGEyLTgyNjgtMDkzYTM0OWZjMmJi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burned By A UFO - The Cash-Landrum UFO IncidentThe heat was so intense it caused severe burns, radiation-style illness, [hair loss](&amp;#123;&amp;#123; &#x27;hair-loss/&#x27; | relative_url &amp;#125;&amp;#125;), and la...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: shortform.com  
    Title: The Cash-Landrum Incident Podcast  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary with Carter...25 Mar 2026 — In this episode of Conspiracy Theories learn about The [Cash-Landrum UFO Incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) and Witness Account...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary with Carter...25 Mar 2026 — In this episode of Conspiracy Theories learn about The [Cash-Landrum UFO Incident](&amp;#123;&amp;#123; &#x27;cash-landrum-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) and Witness Account...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: podcasts.happyscribe.com  
    Title: alien the cash landrum incident  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentRead the full transcript of &#x27;&#x27;ALIEN: The Cash-Landrum Incident&#x27;&#x27; from So Supernatural. Sea...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentRead the full transcript of &#x27;&#x27;ALIEN: The Cash-Landrum Incident&#x27;&#x27; from So Supernatural. Sea...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eucass.eu  
    Title: Electromagnetic simulations  
-   Link: <a href="https://www.eucass.eu/doi/EUCASS2017-434.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/doi/EUCASS2017-434.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ionized Solid Propellant Rocket Exhaust Plumeby A Guy · 2017 · Cited by 11 — The flame and ionized structures have been compared to RANS...</p></details>
+   Link:<a href="https://www.eucass.eu/doi/EUCASS2017-434.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/doi/EUCASS2017-434.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ionized Solid Propellant Rocket Exhaust Plumeby A Guy · 2017 · Cited by 11 — The flame and ionized structures have been compared to RANS...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.howstuffworks.com  
    Title: cash landrum ufo incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe UFO described in the Cash-Landrum incident was a large, diamond-shaped object emitting intense heat and flam...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By A UFO - The Cash-Landrum UFO Incident12 Jan 2026 — The heat was so intense it caused severe burns, radiation-style illness, hair loss...</p></details>
+   Link:<a href="https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By A UFO - The Cash-Landrum UFO Incident12 Jan 2026 — The heat was so intense it caused severe burns, radiation-style illness, hair loss...</p></details>
