@@ -331,89 +331,89 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
 <img src="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-3-dark.svg" | relative_url }}" alt="Biopsy Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Could a Scalp Biopsy Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Could a Scalp Biopsy Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-</h4>
-<p class="fr-book-author">By Charles Mackay</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Offers perspective on how dramatic claims can spread and become amplified.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Synopsis and atlas of Lever&#x27;s histopathology of the skin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1197523-M.jpg" alt="Cover for Synopsis and atlas of Lever&#x27;s histopathology of the skin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synopsis and atlas of Lever&#x27;s histopathology of the skin">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a>
-</h4>
-<p class="fr-book-author">By David E. Elder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Andrews&#x27; Diseases of the Skin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12631223-M.jpg" alt="Cover for Andrews&#x27; Diseases of the Skin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Andrews&#x27; Diseases of the Skin">Andrews&#x27; Diseases of the Skin</a>
+        </h4>
+        <p class="fr-book-author">By William D. James, Timothy Berger et al.</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Histopathology, Atlases, Pathology, Skin, Histology, atlases.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains alopecia, scalp disorders, and when biopsy findings help distinguish competing diagnoses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
-</h4>
-<p class="fr-book-author">By John F. Schuessler</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Synopsis and atlas of Lever&#x27;s histopathology of the skin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1197523-M.jpg" alt="Cover for Synopsis and atlas of Lever&#x27;s histopathology of the skin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synopsis and atlas of Lever&#x27;s histopathology of the skin">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a>
+        </h4>
+        <p class="fr-book-author">By David E. Elder</p>
         
-<p class="fr-book-desc">Provides the broader case context in which the biopsy evidence became a major point of debate.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1999. Subjects: Histopathology, Atlases, Pathology, Skin, Histology, atlases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology">Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology</a>
-</h4>
-<p class="fr-book-author">By Klaus Wolff, Richard Allen Johnson et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+        </h4>
+        <p class="fr-book-author">By John F. Schuessler</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Skin, diseases, Dermatology, Atlases, Skin Diseases.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the broader case context in which the biopsy evidence became a major point of debate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cash+Landrum+UFO+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cash Landrum UFO Incident</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology">Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology</a>
+        </h4>
+        <p class="fr-book-author">By Klaus Wolff, Richard Allen Johnson et al.</p>
+        
+        <p class="fr-book-desc">Provides accessible coverage of hair-loss disorders and the clinical context in which biopsies are used.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Andrews&#x27; Diseases of the Skin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cash+Landrum+UFO+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cash Landrum UFO Incident</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
