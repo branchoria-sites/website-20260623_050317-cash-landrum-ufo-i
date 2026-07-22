@@ -354,7 +354,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Offers scientific reasoning and evidence-evaluation tools relevant to assessing radiation-sickness explanations and UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
           <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The radium girls">The radium girls</a>
         </h4>
         <p class="fr-book-author">By Kate Moore</p>
-        
+
         <p class="fr-book-desc">Provides real historical examples of radiation injury and how radiation-related illnesses were investigated and understood.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides broader UFO-case context for readers interested in claims such as the Cash–Landrum incident.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For that reason, the radiation explanation remains one of the most debated aspec
           <a href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation and human health">Radiation and human health</a>
         </h4>
         <p class="fr-book-author">By John W. Gofman</p>
-        
+
         <p class="fr-book-desc">Explains radiation exposure, dose-response effects, and health consequences central to assessing alleged radiation sickness.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radiation+and+human+health+John+W.+Gofman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

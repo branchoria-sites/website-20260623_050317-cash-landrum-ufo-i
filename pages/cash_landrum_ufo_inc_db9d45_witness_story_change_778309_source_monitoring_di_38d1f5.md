@@ -421,7 +421,7 @@ For historians, psychologists, and sceptical investigators, that distinction is 
           <a href="https://www.amazon.com/s?k=The+Memory+Illusion+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
         </h4>
         <p class="fr-book-author">By Dr Julia Shaw</p>
-        
+
         <p class="fr-book-desc">Closely matches source-monitoring questions and memory origins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Memory+Illusion+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For historians, psychologists, and sceptical investigators, that distinction is 
           <a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember">Remember</a>
         </h4>
         <p class="fr-book-author">By Lisa Genova</p>
-        
+
         <p class="fr-book-desc">Clarifies how memories are reconstructed from multiple inputs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For historians, psychologists, and sceptical investigators, that distinction is 
           <a href="https://www.amazon.com/s?k=Why+We+Remember+Charan+Ranganath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Remember">Why We Remember</a>
         </h4>
         <p class="fr-book-author">By Charan Ranganath</p>
-        
+
         <p class="fr-book-desc">Explains how memory systems track and reconstruct experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+We+Remember+Charan+Ranganath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

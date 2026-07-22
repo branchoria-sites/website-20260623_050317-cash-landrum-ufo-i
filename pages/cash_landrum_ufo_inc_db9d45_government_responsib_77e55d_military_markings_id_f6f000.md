@@ -375,7 +375,7 @@ For government responsibility to be established, markings must be supported by i
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Discusses evaluating witness descriptions and identifications.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For government responsibility to be established, markings must be supported by i
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Includes pilot and military observations requiring verification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For government responsibility to be established, markings must be supported by i
           <a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s all the world&#x27;s aircraft, 2004-2005">Jane&#x27;s all the world&#x27;s aircraft, 2004-2005</a>
         </h4>
         <p class="fr-book-author">By Paul Jackson, Lindsay T. Peacock et al.</p>
-        
+
         <p class="fr-book-desc">Subjects: Aeronautics, Space vehicles, Airplanes, Rockets (Aeronautics).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+2004-2005+Paul+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For government responsibility to be established, markings must be supported by i
           <a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+Paul+Jackson%2C+Lindsay+T.+Peacock+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s all the world&#x27;s aircraft,">Jane&#x27;s all the world&#x27;s aircraft,</a>
         </h4>
         <p class="fr-book-author">By Paul Jackson, Lindsay T. Peacock et al.</p>
-        
+
         <p class="fr-book-desc">Useful for understanding aircraft recognition and markings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jane%27s+all+the+world%27s+aircraft%2C+Paul+Jackson%2C+Lindsay+T.+Peacock+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -348,7 +348,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
           <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Andrews&#x27; Diseases of the Skin">Andrews&#x27; Diseases of the Skin</a>
         </h4>
         <p class="fr-book-author">By William D. James, Timothy Berger et al.</p>
-        
+
         <p class="fr-book-desc">Explains alopecia, scalp disorders, and when biopsy findings help distinguish competing diagnoses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
           <a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synopsis and atlas of Lever&#x27;s histopathology of the skin">Synopsis and atlas of Lever&#x27;s histopathology of the skin</a>
         </h4>
         <p class="fr-book-author">By David E. Elder</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Histopathology, Atlases, Pathology, Skin, Histology, atlases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Synopsis+and+atlas+of+Lever%27s+histopathology+of+the+skin+David+E.+Elder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
           <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
         </h4>
         <p class="fr-book-author">By John F. Schuessler</p>
-        
+
         <p class="fr-book-desc">Provides the broader case context in which the biopsy evidence became a major point of debate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ As a result, the biopsy occupies a pivotal but limited role in the Cash–Landru
           <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology">Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology</a>
         </h4>
         <p class="fr-book-author">By Klaus Wolff, Richard Allen Johnson et al.</p>
-        
+
         <p class="fr-book-desc">Provides accessible coverage of hair-loss disorders and the clinical context in which biopsies are used.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -367,7 +367,7 @@ As a result, the July 1981 session is often treated less as proof of what happen
           <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
         </h4>
         <p class="fr-book-author">By Dr. Elizabeth Loftus, Katherine Ketcham</p>
-        
+
         <p class="fr-book-desc">Directly relevant to hypnosis-generated details.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ As a result, the July 1981 session is often treated less as proof of what happen
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Places witness testimony within UFO case analysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ As a result, the July 1981 session is often treated less as proof of what happen
           <a href="https://www.amazon.com/s?k=Remembering+Trauma+Richard+J.+McNally&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remembering Trauma">Remembering Trauma</a>
         </h4>
         <p class="fr-book-author">By Richard J. McNally</p>
-        
+
         <p class="fr-book-desc">Addresses reliability of recovered recollections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remembering+Trauma+Richard+J.+McNally&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

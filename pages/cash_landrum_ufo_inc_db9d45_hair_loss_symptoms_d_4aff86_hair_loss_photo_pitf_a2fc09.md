@@ -373,7 +373,7 @@ For that reason, the hair-loss images associated with Cash–Landrum should be v
           <a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+Bessel+van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body Keeps the Score">The Body Keeps the Score</a>
         </h4>
         <p class="fr-book-author">By Bessel van der Kolk</p>
-        
+
         <p class="fr-book-desc">Provides context for why visible symptoms alone do not establish a single cause.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+Bessel+van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ For that reason, the hair-loss images associated with Cash–Landrum should be v
           <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The radium girls">The radium girls</a>
         </h4>
         <p class="fr-book-author">By Kate Moore</p>
-        
+
         <p class="fr-book-desc">Demonstrates the importance of medical documentation beyond photographs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+radium+girls+Kate+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For that reason, the hair-loss images associated with Cash–Landrum should be v
           <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
         </h4>
         <p class="fr-book-author">By Barbara A. Oakley</p>
-        
+
         <p class="fr-book-desc">Encourages analytical evaluation rather than reliance on appearances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For that reason, the hair-loss images associated with Cash–Landrum should be v
           <a href="https://www.amazon.com/s?k=Why+We+Remember+Charan+Ranganath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Remember">Why We Remember</a>
         </h4>
         <p class="fr-book-author">By Charan Ranganath</p>
-        
+
         <p class="fr-book-desc">Useful for understanding perception, memory, and interpretation of evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+We+Remember+Charan+Ranganath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

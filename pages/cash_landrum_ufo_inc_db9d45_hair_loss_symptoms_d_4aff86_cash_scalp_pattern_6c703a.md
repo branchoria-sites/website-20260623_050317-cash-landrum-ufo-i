@@ -355,16 +355,16 @@ At the same time, the scalp pattern does not conclusively establish cause. The p
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Andrews&#x27; Diseases of the Skin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12631223-M.jpg" alt="Cover for Andrews&#x27; Diseases of the Skin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Andrews&#x27; Diseases of the Skin">Andrews&#x27; Diseases of the Skin</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explores methods of evaluating UFO reports and witness accounts.</p>
+        <p class="fr-book-author">By William D. James, Timothy Berger et al.</p>
+
+        <p class="fr-book-desc">Includes clinical discussion of alopecia areata, radiation effects on skin and hair, and differential diagnosis.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -372,16 +372,16 @@ At the same time, the scalp pattern does not conclusively establish cause. The p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Andrews&#x27; Diseases of the Skin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12631223-M.jpg" alt="Cover for Andrews&#x27; Diseases of the Skin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Andrews&#x27; Diseases of the Skin">Andrews&#x27; Diseases of the Skin</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
-        <p class="fr-book-author">By William D. James, Timothy Berger et al.</p>
-        
-        <p class="fr-book-desc">Includes clinical discussion of alopecia areata, radiation effects on skin and hair, and differential diagnosis.</p>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+
+        <p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin+William+D.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,7 +395,7 @@ At the same time, the scalp pattern does not conclusively establish cause. The p
           <a href="https://www.amazon.com/s?k=Hair+Loss+and+Replacement+for+Dummies+William+R.+Rassman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hair Loss and Replacement for Dummies">Hair Loss and Replacement for Dummies</a>
         </h4>
         <p class="fr-book-author">By William R. Rassman, Robert M. Bernstein et al.</p>
-        
+
         <p class="fr-book-desc">Explains different forms of alopecia, diagnostic clues, and how clinicians distinguish hair-loss patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hair+Loss+and+Replacement+for+Dummies+William+R.+Rassman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ At the same time, the scalp pattern does not conclusively establish cause. The p
           <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology">Fitzpatrick&#x27;s Color Atlas and Synopsis of Clinical Dermatology</a>
         </h4>
         <p class="fr-book-author">By Klaus Wolff, Richard Allen Johnson et al.</p>
-        
+
         <p class="fr-book-desc">Useful for comparing photographic patterns of hair loss and other dermatologic conditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fitzpatrick%27s+Color+Atlas+and+Synopsis+of+Clinical+Dermatology+Klaus+Wolff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ At the same time, the scalp pattern does not conclusively establish cause. The p
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Andrews&#x27; Diseases of the Skin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hair+Loss+and+Replacement+for+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hair Loss and Replacement for Dummies</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Andrews%27+Diseases+of+the+Skin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Andrews&#x27; Diseases of the Skin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hair+Loss+and+Replacement+for+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hair Loss and Replacement for Dummies</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -373,7 +373,7 @@ This approach neither dismisses the witnesses nor assumes deception. Instead, it
           <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
         </h4>
         <p class="fr-book-author">By Dr. Elizabeth Loftus, Katherine Ketcham</p>
-        
+
         <p class="fr-book-desc">Directly addresses recovered memories and suggestion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ This approach neither dismisses the witnesses nor assumes deception. Instead, it
           <a href="https://www.amazon.com/s?k=Remembering+Trauma+Richard+J.+McNally&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remembering Trauma">Remembering Trauma</a>
         </h4>
         <p class="fr-book-author">By Richard J. McNally</p>
-        
+
         <p class="fr-book-desc">Covers evidence surrounding recovered recollections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remembering+Trauma+Richard+J.+McNally&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ This approach neither dismisses the witnesses nor assumes deception. Instead, it
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">Shows how confidence can persist despite uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -353,13 +353,13 @@ That was the bridge Judge Ross Sterling required them to cross. Because the cour
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A civil action on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14431514-M.jpg" alt="Cover for A civil action" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A civil action on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253819-M.jpg" alt="Cover for A civil action" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A civil action">A civil action</a>
         </h4>
         <p class="fr-book-author">By Jonathan Harr</p>
-        
+
         <p class="fr-book-desc">Shows how causation, evidence, and legal burdens determine outcomes in complex claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+civil+action+Jonathan+Harr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ That was the bridge Judge Ross Sterling required them to cross. Because the cour
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Provides background on alleged government involvement in UFO incidents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ That was the bridge Judge Ross Sterling required them to cross. Because the cour
           <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
         </h4>
         <p class="fr-book-author">By Philip Corso, William J. Birnes</p>
-        
+
         <p class="fr-book-desc">Explores claims of government interaction with unexplained aerial phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ That was the bridge Judge Ross Sterling required them to cross. Because the cour
           <a href="https://www.amazon.com/s?k=The+Buffalo+Creek+disaster+Gerald+M.+Stern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Buffalo Creek disaster">The Buffalo Creek disaster</a>
         </h4>
         <p class="fr-book-author">By Gerald M. Stern</p>
-        
+
         <p class="fr-book-desc">Illustrates the challenge of connecting harm to legally responsible actors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Buffalo+Creek+disaster+Gerald+M.+Stern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

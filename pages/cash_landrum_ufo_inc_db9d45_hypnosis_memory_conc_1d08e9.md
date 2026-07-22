@@ -555,7 +555,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
           <a href="https://www.amazon.com/s?k=The+Memory+Illusion+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
         </h4>
         <p class="fr-book-author">By Dr Julia Shaw</p>
-        
+
         <p class="fr-book-desc">Directly addresses how memories can be altered, reinforced, or created.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Memory+Illusion+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -572,7 +572,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Offers a contrasting perspective on evaluating witness evidence and extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -589,7 +589,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
           <a href="https://www.amazon.com/s?k=Remembering+Trauma+Richard+J.+McNally&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remembering Trauma">Remembering Trauma</a>
         </h4>
         <p class="fr-book-author">By Richard J. McNally</p>
-        
+
         <p class="fr-book-desc">Examines recovered-memory claims and evidential reliability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remembering+Trauma+Richard+J.+McNally&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -606,7 +606,7 @@ That approach changes the shape of the case. The Cash-Landrum incident remains a
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">Explores memory, belief formation, and confidence in contested recollections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
