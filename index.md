@@ -222,7 +222,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Could Ordinary Aircraft Explain the First Light? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aircraft/' | relative_url }}" title="Could Ordinary Aircraft Explain the First Light? | Cash Landrum UFO Inc" aria-label="Read more about Could Ordinary Aircraft Explain the First Light? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aircraft/' | relative_url }}" title="Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Read more about Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -242,7 +242,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-lights/' | relative_url }}" title="Could Landing Lights Look That Strange? | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" aria-label="Read more about Could Landing Lights Look That Strange? | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-lights/' | relative_url }}" title="Could Landing Lights Look That Strange? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Read more about Could Landing Lights Look That Strange? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -262,7 +262,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tower-records/' | relative_url }}" title="Did Airport Controllers See Anything? | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" aria-label="Read more about Did Airport Controllers See Anything? | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tower-records/' | relative_url }}" title="Did Airport Controllers See Anything? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Read more about Did Airport Controllers See Anything? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -282,7 +282,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'night-illusions/' | relative_url }}" title="How a Light Can Move Without Moving | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" aria-label="Read more about How a Light Can Move Without Moving | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-illusions/' | relative_url }}" title="How a Light Can Move Without Moving | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Read more about How a Light Can Move Without Moving | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -302,7 +302,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'the-helicopter-reports/' | relative_url }}" title="When Helicopters Help and Hurt the Theory | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" aria-label="Read more about When Helicopters Help and Hurt the Theory | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-helicopter-reports/' | relative_url }}" title="When Helicopters Help and Hurt the Theory | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Read more about When Helicopters Help and Hurt the Theory | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -322,7 +322,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'breaking-point/' | relative_url }}" title="Where the Plane Theory Breaks Down | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" aria-label="Read more about Where the Plane Theory Breaks Down | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'breaking-point/' | relative_url }}" title="Where the Plane Theory Breaks Down | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Read more about Where the Plane Theory Breaks Down | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -342,7 +342,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'airport-first/' | relative_url }}" title="Why the First Guess Was an Airplane | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" aria-label="Read more about Why the First Guess Was an Airplane | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'airport-first/' | relative_url }}" title="Why the First Guess Was an Airplane | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Read more about Why the First Guess Was an Airplane | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -366,7 +366,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Did the Army Investigation Find? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'army-inquiry/' | relative_url }}" title="What Did the Army Investigation Find? | Cash Landrum UFO Inc" aria-label="Read more about What Did the Army Investigation Find? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'army-inquiry/' | relative_url }}" title="What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Read more about What Did the Army Investigation Find? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -386,7 +386,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'other-sources/' | relative_url }}" title="Could the helicopters have come from elsewhere? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" aria-label="Read more about Could the helicopters have come from elsewhere? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'other-sources/' | relative_url }}" title="Could the helicopters have come from elsewhere? | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Read more about Could the helicopters have come from elsewhere? | What Did the Army Investigation Find? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -406,7 +406,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-dacd98/' | relative_url }}" title="Credible witnesses, missing helicopters | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" aria-label="Read more about Credible witnesses, missing helicopters | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-dacd98/' | relative_url }}" title="Credible witnesses, missing helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Read more about Credible witnesses, missing helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -426,7 +426,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'walkers/' | relative_url }}" title="The witnesses who saw helicopters only | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" aria-label="Read more about The witnesses who saw helicopters only | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'walkers/' | relative_url }}" title="The witnesses who saw helicopters only | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Read more about The witnesses who saw helicopters only | What Did the Army Investigation Find? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -446,7 +446,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-gap/' | relative_url }}" title="What happened after Blue Book closed? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" aria-label="Read more about What happened after Blue Book closed? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-gap/' | relative_url }}" title="What happened after Blue Book closed? | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Read more about What happened after Blue Book closed? | What Did the Army Investigation Find? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -466,7 +466,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail/' | relative_url }}" title="Where were the helicopter records? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" aria-label="Read more about Where were the helicopter records? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail/' | relative_url }}" title="Where were the helicopter records? | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Read more about Where were the helicopter records? | What Did the Army Investigation Find? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -486,7 +486,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scope/' | relative_url }}" title="Why the Army chased the helicopters | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" aria-label="Read more about Why the Army chased the helicopters | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scope/' | relative_url }}" title="Why the Army chased the helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Read more about Why the Army chased the helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -510,7 +510,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Happened at Bergstrom Air Force Base? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom/' | relative_url }}" title="What Happened at Bergstrom Air Force Base? | Cash Landrum UFO Inc" aria-label="Read more about What Happened at Bergstrom Air Force Base? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom/' | relative_url }}" title="What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Read more about What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -530,7 +530,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'map-problem/' | relative_url }}" title="Could Cash pinpoint the encounter site? | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" aria-label="Read more about Could Cash pinpoint the encounter site? | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'map-problem/' | relative_url }}" title="Could Cash pinpoint the encounter site? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Read more about Could Cash pinpoint the encounter site? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -550,7 +550,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-bills/' | relative_url }}" title="How injuries became a claim file | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" aria-label="Read more about How injuries became a claim file | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-bills/' | relative_url }}" title="How injuries became a claim file | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Read more about How injuries became a claim file | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -570,7 +570,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'letter-trail/' | relative_url }}" title="How the witnesses reached Bergstrom | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" aria-label="Read more about How the witnesses reached Bergstrom | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'letter-trail/' | relative_url }}" title="How the witnesses reached Bergstrom | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Read more about How the witnesses reached Bergstrom | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -590,7 +590,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'markings/' | relative_url }}" title="What did Cash see on the helicopters? | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" aria-label="Read more about What did Cash see on the helicopters? | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'markings/' | relative_url }}" title="What did Cash see on the helicopters? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Read more about What did Cash see on the helicopters? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -610,7 +610,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'claimants/' | relative_url }}" title="Why Bergstrom became a claims meeting | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" aria-label="Read more about Why Bergstrom became a claims meeting | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'claimants/' | relative_url }}" title="Why Bergstrom became a claims meeting | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Read more about Why Bergstrom became a claims meeting | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -630,7 +630,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-gap/' | relative_url }}" title="Why the Air Force said no UFO inquiry | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" aria-label="Read more about Why the Air Force said no UFO inquiry | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-gap/' | relative_url }}" title="Why the Air Force said no UFO inquiry | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Read more about Why the Air Force said no UFO inquiry | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -654,7 +654,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Strong Is Betty Cash&#x27;s Medical Evidence? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'betty-cash/' | relative_url }}" title="How Strong Is Betty Cash&#x27;s Medical Evidence? | Cash Landrum UFO Inc" aria-label="Read more about How Strong Is Betty Cash&#x27;s Medical Evidence? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'betty-cash/' | relative_url }}" title="How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Read more about How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -674,7 +674,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'other-causes/' | relative_url }}" title="Could heat or chemicals explain the injuries? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" aria-label="Read more about Could heat or chemicals explain the injuries? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'other-causes/' | relative_url }}" title="Could heat or chemicals explain the injuries? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Read more about Could heat or chemicals explain the injuries? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -694,7 +694,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-claim/' | relative_url }}" title="Did the injuries fit radiation sickness? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" aria-label="Read more about Did the injuries fit radiation sickness? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-claim/' | relative_url }}" title="Did the injuries fit radiation sickness? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Read more about Did the injuries fit radiation sickness? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -714,7 +714,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'symptom-timeline/' | relative_url }}" title="How fast did Betty Cash get sick? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" aria-label="Read more about How fast did Betty Cash get sick? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'symptom-timeline/' | relative_url }}" title="How fast did Betty Cash get sick? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Read more about How fast did Betty Cash get sick? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -734,7 +734,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-review/' | relative_url }}" title="How strong was Dr Rank&#x27;s review? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" aria-label="Read more about How strong was Dr Rank&#x27;s review? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-review/' | relative_url }}" title="How strong was Dr Rank's review? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Read more about How strong was Dr Rank's review? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -754,7 +754,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-records/' | relative_url }}" title="What do the hospital records actually show? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" aria-label="Read more about What do the hospital records actually show? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-records/' | relative_url }}" title="What do the hospital records actually show? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Read more about What do the hospital records actually show? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -774,7 +774,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'legal-proof/' | relative_url }}" title="Why the injury claim failed in court | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" aria-label="Read more about Why the injury claim failed in court | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'legal-proof/' | relative_url }}" title="Why the injury claim failed in court | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Read more about Why the injury claim failed in court | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -798,7 +798,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Evidence Exists in the Case File? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'case-file/' | relative_url }}" title="What Evidence Exists in the Case File? | Cash Landrum UFO Inc" aria-label="Read more about What Evidence Exists in the Case File? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'case-file/' | relative_url }}" title="What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Read more about What Evidence Exists in the Case File? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -818,7 +818,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'visit-report/' | relative_url }}" title="How the First Report Shaped the Case | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" aria-label="Read more about How the First Report Shaped the Case | Cash Landrum UFO Inc Db 9 D45 Case File Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'visit-report/' | relative_url }}" title="How the First Report Shaped the Case | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Read more about How the First Report Shaped the Case | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -838,7 +838,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-records-a57301/' | relative_url }}" title="The Medical File Before the Myth | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" aria-label="Read more about The Medical File Before the Myth | Cash Landrum UFO Inc Db 9 D45 Case File Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-records-a57301/' | relative_url }}" title="The Medical File Before the Myth | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Read more about The Medical File Before the Myth | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -858,7 +858,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nail-clue/' | relative_url }}" title="The Strange Clue That Never Closed | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" aria-label="Read more about The Strange Clue That Never Closed | Cash Landrum UFO Inc Db 9 D45 Case File Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nail-clue/' | relative_url }}" title="The Strange Clue That Never Closed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Read more about The Strange Clue That Never Closed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -878,7 +878,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reporting-delay/' | relative_url }}" title="What the Reporting Delay Changed | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" aria-label="Read more about What the Reporting Delay Changed | Cash Landrum UFO Inc Db 9 D45 Case File Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reporting-delay/' | relative_url }}" title="What the Reporting Delay Changed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Read more about What the Reporting Delay Changed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -898,7 +898,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'civilian-files/' | relative_url }}" title="When UFO Investigators Built Different Files | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" aria-label="Read more about When UFO Investigators Built Different Files | Cash Landrum UFO Inc Db 9 D45 Case File Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'civilian-files/' | relative_url }}" title="When UFO Investigators Built Different Files | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Read more about When UFO Investigators Built Different Files | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -918,7 +918,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'landrum-records/' | relative_url }}" title="Why Two Medical Trails Look Thinner | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" aria-label="Read more about Why Two Medical Trails Look Thinner | Cash Landrum UFO Inc Db 9 D45 Case File Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'landrum-records/' | relative_url }}" title="Why Two Medical Trails Look Thinner | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Read more about Why Two Medical Trails Look Thinner | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -942,7 +942,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did the Witness Story Become Sharper Later? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'changing-story/' | relative_url }}" title="Did the Witness Story Become Sharper Later? | Cash Landrum UFO Inc" aria-label="Read more about Did the Witness Story Become Sharper Later? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'changing-story/' | relative_url }}" title="Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Read more about Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -962,7 +962,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'retelling-loop/' | relative_url }}" title="Did Repetition Make the Story Sharper? | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" aria-label="Read more about Did Repetition Make the Story Sharper? | Cash Landrum UFO Inc Db 9 D45 Witness Story Change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retelling-loop/' | relative_url }}" title="Did Repetition Make the Story Sharper? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Read more about Did Repetition Make the Story Sharper? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -982,7 +982,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'added-details/' | relative_url }}" title="The UFO Details That Arrived Later | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" aria-label="Read more about The UFO Details That Arrived Later | Cash Landrum UFO Inc Db 9 D45 Witness Story Change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'added-details/' | relative_url }}" title="The UFO Details That Arrived Later | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Read more about The UFO Details That Arrived Later | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1002,7 +1002,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'visit-report-3dae8b/' | relative_url }}" title="Three Witnesses, Three Levels of Certainty | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" aria-label="Read more about Three Witnesses, Three Levels of Certainty | Cash Landrum UFO Inc Db 9 D45 Witness Story Change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'visit-report-3dae8b/' | relative_url }}" title="Three Witnesses, Three Levels of Certainty | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Read more about Three Witnesses, Three Levels of Certainty | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1022,7 +1022,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'early-reports/' | relative_url }}" title="What the First Reports Really Said | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" aria-label="Read more about What the First Reports Really Said | Cash Landrum UFO Inc Db 9 D45 Witness Story Change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-reports/' | relative_url }}" title="What the First Reports Really Said | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Read more about What the First Reports Really Said | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1042,7 +1042,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-memory/' | relative_url }}" title="When Witness Memories Start to Merge | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" aria-label="Read more about When Witness Memories Start to Merge | Cash Landrum UFO Inc Db 9 D45 Witness Story Change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-memory/' | relative_url }}" title="When Witness Memories Start to Merge | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Read more about When Witness Memories Start to Merge | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1062,7 +1062,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'source-errors/' | relative_url }}" title="Where Did That Detail Come From? | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" aria-label="Read more about Where Did That Detail Come From? | Cash Landrum UFO Inc Db 9 D45 Witness Story Change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'source-errors/' | relative_url }}" title="Where Did That Detail Come From? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Read more about Where Did That Detail Come From? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1086,7 +1086,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Reliable Was the Chinook Identification? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chinooks/' | relative_url }}" title="How Reliable Was the Chinook Identification? | Cash Landrum UFO Inc" aria-label="Read more about How Reliable Was the Chinook Identification? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chinooks/' | relative_url }}" title="How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Read more about How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1106,7 +1106,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'civilian-options/' | relative_url }}" title="Could They Have Been Civilian Helicopters? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" aria-label="Read more about Could They Have Been Civilian Helicopters? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'civilian-options/' | relative_url }}" title="Could They Have Been Civilian Helicopters? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Read more about Could They Have Been Civilian Helicopters? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1126,7 +1126,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mass-flight/' | relative_url }}" title="Could Twenty Three Chinooks Move Quietly? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" aria-label="Read more about Could Twenty Three Chinooks Move Quietly? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mass-flight/' | relative_url }}" title="Could Twenty Three Chinooks Move Quietly? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Read more about Could Twenty Three Chinooks Move Quietly? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1146,7 +1146,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dayton-display/' | relative_url }}" title="Did a Later Chinook Harden the Story? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" aria-label="Read more about Did a Later Chinook Harden the Story? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dayton-display/' | relative_url }}" title="Did a Later Chinook Harden the Story? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Read more about Did a Later Chinook Harden the Story? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1166,7 +1166,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-rotors/' | relative_url }}" title="Was a Twin Rotor Shape Enough? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" aria-label="Read more about Was a Twin Rotor Shape Enough? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-rotors/' | relative_url }}" title="Was a Twin Rotor Shape Enough? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Read more about Was a Twin Rotor Shape Enough? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1186,7 +1186,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'markings-claim/' | relative_url }}" title="What Did the Markings Really Say? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" aria-label="Read more about What Did the Markings Really Say? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'markings-claim/' | relative_url }}" title="What Did the Markings Really Say? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Read more about What Did the Markings Really Say? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1206,7 +1206,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'records-gap/' | relative_url }}" title="Why Could No Helicopters Be Found? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" aria-label="Read more about Why Could No Helicopters Be Found? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'records-gap/' | relative_url }}" title="Why Could No Helicopters Be Found? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Read more about Why Could No Helicopters Be Found? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1230,7 +1230,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Did the Case Become a Government Claim? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'claims-process/' | relative_url }}" title="Why Did the Case Become a Government Claim? | Cash Landrum UFO Inc" aria-label="Read more about Why Did the Case Become a Government Claim? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'claims-process/' | relative_url }}" title="Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Read more about Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1250,7 +1250,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'agency-link/' | relative_url }}" title="Could the Helicopters Be Tied to the Government? | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" aria-label="Read more about Could the Helicopters Be Tied to the Government? | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'agency-link/' | relative_url }}" title="Could the Helicopters Be Tied to the Government? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Read more about Could the Helicopters Be Tied to the Government? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1270,7 +1270,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran/' | relative_url }}" title="Credible Witnesses, No Official Aircraft | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" aria-label="Read more about Credible Witnesses, No Official Aircraft | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran/' | relative_url }}" title="Credible Witnesses, No Official Aircraft | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Read more about Credible Witnesses, No Official Aircraft | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1290,7 +1290,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-proof/' | relative_url }}" title="What Proof Would Have Changed the Case? | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" aria-label="Read more about What Proof Would Have Changed the Case? | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-proof/' | relative_url }}" title="What Proof Would Have Changed the Case? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Read more about What Proof Would Have Changed the Case? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1310,7 +1310,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-1f2c14/' | relative_url }}" title="When the UFO Report Became a Claim | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" aria-label="Read more about When the UFO Report Became a Claim | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-1f2c14/' | relative_url }}" title="When the UFO Report Became a Claim | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Read more about When the UFO Report Became a Claim | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1330,7 +1330,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ftca-hurdles/' | relative_url }}" title="Why a UFO Injury Claim Needed Legal Proof | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" aria-label="Read more about Why a UFO Injury Claim Needed Legal Proof | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ftca-hurdles/' | relative_url }}" title="Why a UFO Injury Claim Needed Legal Proof | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Read more about Why a UFO Injury Claim Needed Legal Proof | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1350,7 +1350,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dismissal-d1da9c/' | relative_url }}" title="Why the Cash Landrum Lawsuit Failed | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" aria-label="Read more about Why the Cash Landrum Lawsuit Failed | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dismissal-d1da9c/' | relative_url }}" title="Why the Cash Landrum Lawsuit Failed | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Read more about Why the Cash Landrum Lawsuit Failed | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1374,7 +1374,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Should Colby&#x27;s Account Be Weighed? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'colby/' | relative_url }}" title="How Should Colby&#x27;s Account Be Weighed? | Cash Landrum UFO Inc" aria-label="Read more about How Should Colby&#x27;s Account Be Weighed? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'colby/' | relative_url }}" title="How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Read more about How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1394,7 +1394,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '23-count/' | relative_url }}" title="Can the 23 Helicopters Be Trusted? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" aria-label="Read more about Can the 23 Helicopters Be Trusted? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '23-count/' | relative_url }}" title="Can the 23 Helicopters Be Trusted? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Read more about Can the 23 Helicopters Be Trusted? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1414,7 +1414,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'adult-influence/' | relative_url }}" title="How Much Was Colby Remembering Alone? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" aria-label="Read more about How Much Was Colby Remembering Alone? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'adult-influence/' | relative_url }}" title="How Much Was Colby Remembering Alone? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Read more about How Much Was Colby Remembering Alone? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1434,7 +1434,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'adult-retelling/' | relative_url }}" title="What Changed When Colby Grew Up? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" aria-label="Read more about What Changed When Colby Grew Up? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'adult-retelling/' | relative_url }}" title="What Changed When Colby Grew Up? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Read more about What Changed When Colby Grew Up? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1454,7 +1454,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'early-words/' | relative_url }}" title="What Colby Said Before the Story Hardened | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" aria-label="Read more about What Colby Said Before the Story Hardened | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-words/' | relative_url }}" title="What Colby Said Before the Story Hardened | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Read more about What Colby Said Before the Story Hardened | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1474,7 +1474,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'illness-gaps/' | relative_url }}" title="What Did Colby Really Remember About Illness? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" aria-label="Read more about What Did Colby Really Remember About Illness? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'illness-gaps/' | relative_url }}" title="What Did Colby Really Remember About Illness? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Read more about What Did Colby Really Remember About Illness? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1494,7 +1494,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-fear/' | relative_url }}" title="Why Helicopters Haunted Colby Afterward | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" aria-label="Read more about Why Helicopters Haunted Colby Afterward | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-fear/' | relative_url }}" title="Why Helicopters Haunted Colby Afterward | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Read more about Why Helicopters Haunted Colby Afterward | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1518,7 +1518,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can Credible Witnesses Still Leave Doubt? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility/' | relative_url }}" title="Can Credible Witnesses Still Leave Doubt? | Cash Landrum UFO Inc" aria-label="Read more about Can Credible Witnesses Still Leave Doubt? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility/' | relative_url }}" title="Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Read more about Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1538,7 +1538,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'injuries/' | relative_url }}" title="Did radiation explain Betty Cash&#x27;s illness? | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" aria-label="Read more about Did radiation explain Betty Cash&#x27;s illness? | Cash Landrum UFO Inc Db 9 D45 Credibility Versus">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'injuries/' | relative_url }}" title="Did radiation explain Betty Cash's illness? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Read more about Did radiation explain Betty Cash's illness? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1558,7 +1558,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopters-161bc3/' | relative_url }}" title="Did the helicopters prove government involvement? | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" aria-label="Read more about Did the helicopters prove government involvement? | Cash Landrum UFO Inc Db 9 D45 Credibility Versus">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopters-161bc3/' | relative_url }}" title="Did the helicopters prove government involvement? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Read more about Did the helicopters prove government involvement? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1578,7 +1578,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-inquiry-9eb92c/' | relative_url }}" title="What official attention really proved | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" aria-label="Read more about What official attention really proved | Cash Landrum UFO Inc Db 9 D45 Credibility Versus">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-inquiry-9eb92c/' | relative_url }}" title="What official attention really proved | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Read more about What official attention really proved | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1598,7 +1598,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-proof/' | relative_url }}" title="When honest witnesses are not enough | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" aria-label="Read more about When honest witnesses are not enough | Cash Landrum UFO Inc Db 9 D45 Credibility Versus">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-proof/' | relative_url }}" title="When honest witnesses are not enough | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Read more about When honest witnesses are not enough | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1618,7 +1618,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-standard/' | relative_url }}" title="Why science asks for better UFO data | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" aria-label="Read more about Why science asks for better UFO data | Cash Landrum UFO Inc Db 9 D45 Credibility Versus">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-standard/' | relative_url }}" title="Why science asks for better UFO data | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Read more about Why science asks for better UFO data | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1638,7 +1638,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lawsuit-22aaf1/' | relative_url }}" title="Why the Cash Landrum lawsuit collapsed | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" aria-label="Read more about Why the Cash Landrum lawsuit collapsed | Cash Landrum UFO Inc Db 9 D45 Credibility Versus">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lawsuit-22aaf1/' | relative_url }}" title="Why the Cash Landrum lawsuit collapsed | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Read more about Why the Cash Landrum lawsuit collapsed | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1662,7 +1662,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Does Cash Landrum Still Divide Readers? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debate/' | relative_url }}" title="Why Does Cash Landrum Still Divide Readers? | Cash Landrum UFO Inc" aria-label="Read more about Why Does Cash Landrum Still Divide Readers? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debate/' | relative_url }}" title="Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Read more about Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1682,7 +1682,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'misperception/' | relative_url }}" title="Can Honest Witnesses Still Be Wrong? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" aria-label="Read more about Can Honest Witnesses Still Be Wrong? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'misperception/' | relative_url }}" title="Can Honest Witnesses Still Be Wrong? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Read more about Can Honest Witnesses Still Be Wrong? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1702,7 +1702,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stalled-car/' | relative_url }}" title="Did the Car Trouble Prove Anything? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" aria-label="Read more about Did the Car Trouble Prove Anything? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stalled-car/' | relative_url }}" title="Did the Car Trouble Prove Anything? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Read more about Did the Car Trouble Prove Anything? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1722,7 +1722,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'diamond-shape/' | relative_url }}" title="How Clear Was the Diamond Shaped Object? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" aria-label="Read more about How Clear Was the Diamond Shaped Object? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'diamond-shape/' | relative_url }}" title="How Clear Was the Diamond Shaped Object? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Read more about How Clear Was the Diamond Shaped Object? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1742,7 +1742,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'insider-doubt/' | relative_url }}" title="When UFO Researchers Doubt the Case | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" aria-label="Read more about When UFO Researchers Doubt the Case | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'insider-doubt/' | relative_url }}" title="When UFO Researchers Doubt the Case | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Read more about When UFO Researchers Doubt the Case | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1762,7 +1762,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trace-gap/' | relative_url }}" title="Why Missing Traces Matter So Much | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" aria-label="Read more about Why Missing Traces Matter So Much | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trace-gap/' | relative_url }}" title="Why Missing Traces Matter So Much | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Read more about Why Missing Traces Matter So Much | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1782,7 +1782,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-3cf9b0/' | relative_url }}" title="Why One Interview Fuels Both Sides | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" aria-label="Read more about Why One Interview Fuels Both Sides | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-3cf9b0/' | relative_url }}" title="Why One Interview Fuels Both Sides | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Read more about Why One Interview Fuels Both Sides | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1806,7 +1806,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Did Official Denial Really Settle? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'denial/' | relative_url }}" title="What Did Official Denial Really Settle? | Cash Landrum UFO Inc" aria-label="Read more about What Did Official Denial Really Settle? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'denial/' | relative_url }}" title="What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Read more about What Did Official Denial Really Settle? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1826,7 +1826,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'legal-shield/' | relative_url }}" title="How Denial Became a Legal Shield | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" aria-label="Read more about How Denial Became a Legal Shield | Cash Landrum UFO Inc Db 9 D45 Official Denial Role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'legal-shield/' | relative_url }}" title="How Denial Became a Legal Shield | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Read more about How Denial Became a Legal Shield | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1846,7 +1846,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-up-story/' | relative_url }}" title="How Denial Fed the Cover Up Myth | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" aria-label="Read more about How Denial Fed the Cover Up Myth | Cash Landrum UFO Inc Db 9 D45 Official Denial Role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-up-story/' | relative_url }}" title="How Denial Fed the Cover Up Myth | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Read more about How Denial Fed the Cover Up Myth | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1866,7 +1866,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'army-denial/' | relative_url }}" title="What Did the Army Really Deny? | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" aria-label="Read more about What Did the Army Really Deny? | Cash Landrum UFO Inc Db 9 D45 Official Denial Role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'army-denial/' | relative_url }}" title="What Did the Army Really Deny? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Read more about What Did the Army Really Deny? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1886,7 +1886,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-910fed/' | relative_url }}" title="Where Were the Flight Records? | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" aria-label="Read more about Where Were the Flight Records? | Cash Landrum UFO Inc Db 9 D45 Official Denial Role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-910fed/' | relative_url }}" title="Where Were the Flight Records? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Read more about Where Were the Flight Records? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1906,7 +1906,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-gap/' | relative_url }}" title="Why Credible Witnesses Still Lost | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" aria-label="Read more about Why Credible Witnesses Still Lost | Cash Landrum UFO Inc Db 9 D45 Official Denial Role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-gap/' | relative_url }}" title="Why Credible Witnesses Still Lost | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Read more about Why Credible Witnesses Still Lost | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1926,7 +1926,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unanswered-night/' | relative_url }}" title="Why Denial Did Not End the Mystery | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" aria-label="Read more about Why Denial Did Not End the Mystery | Cash Landrum UFO Inc Db 9 D45 Official Denial Role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unanswered-night/' | relative_url }}" title="Why Denial Did Not End the Mystery | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Read more about Why Denial Did Not End the Mystery | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1950,7 +1950,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Do the Flame Reports Suggest? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flames/' | relative_url }}" title="What Do the Flame Reports Suggest? | Cash Landrum UFO Inc" aria-label="Read more about What Do the Flame Reports Suggest? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flames/' | relative_url }}" title="What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Read more about What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1970,7 +1970,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'heat-test/' | relative_url }}" title="Could Exhaust Explain the Car&#x27;s Heat? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" aria-label="Read more about Could Exhaust Explain the Car&#x27;s Heat? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'heat-test/' | relative_url }}" title="Could Exhaust Explain the Car's Heat? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Read more about Could Exhaust Explain the Car's Heat? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -1990,7 +1990,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'night-glare/' | relative_url }}" title="Could Glare Turn Light Into Fire? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" aria-label="Read more about Could Glare Turn Light Into Fire? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-glare/' | relative_url }}" title="Could Glare Turn Light Into Fire? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Read more about Could Glare Turn Light Into Fire? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2010,7 +2010,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lift-clue/' | relative_url }}" title="Did the Flames Make the Object Rise? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" aria-label="Read more about Did the Flames Make the Object Rise? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lift-clue/' | relative_url }}" title="Did the Flames Make the Object Rise? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Read more about Did the Flames Make the Object Rise? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2030,7 +2030,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-words/' | relative_url }}" title="How Fire Became a Rocket Clue | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" aria-label="Read more about How Fire Became a Rocket Clue | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-words/' | relative_url }}" title="How Fire Became a Rocket Clue | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Read more about How Fire Became a Rocket Clue | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2050,7 +2050,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'plume-science/' | relative_url }}" title="What a Real Rocket Plume Would Leave | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" aria-label="Read more about What a Real Rocket Plume Would Leave | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'plume-science/' | relative_url }}" title="What a Real Rocket Plume Would Leave | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Read more about What a Real Rocket Plume Would Leave | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2070,7 +2070,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sound-clues/' | relative_url }}" title="What Did the Whooshing Sound Mean? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" aria-label="Read more about What Did the Whooshing Sound Mean? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sound-clues/' | relative_url }}" title="What Did the Whooshing Sound Mean? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Read more about What Did the Whooshing Sound Mean? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2094,7 +2094,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Does the Hair Loss Claim Prove? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hair-loss/' | relative_url }}" title="What Does the Hair Loss Claim Prove? | Cash Landrum UFO Inc" aria-label="Read more about What Does the Hair Loss Claim Prove? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hair-loss/' | relative_url }}" title="What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Read more about What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2114,7 +2114,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scalp-pattern/' | relative_url }}" title="Did the Bald Patches Fit Radiation? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" aria-label="Read more about Did the Bald Patches Fit Radiation? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scalp-pattern/' | relative_url }}" title="Did the Bald Patches Fit Radiation? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Read more about Did the Bald Patches Fit Radiation? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2134,7 +2134,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'gi-symptoms/' | relative_url }}" title="Did the Sickness Match Radiation Exposure? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" aria-label="Read more about Did the Sickness Match Radiation Exposure? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'gi-symptoms/' | relative_url }}" title="Did the Sickness Match Radiation Exposure? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Read more about Did the Sickness Match Radiation Exposure? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2154,7 +2154,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'alopecia-areata/' | relative_url }}" title="The Diagnosis That Complicated the UFO Story | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" aria-label="Read more about The Diagnosis That Complicated the UFO Story | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'alopecia-areata/' | relative_url }}" title="The Diagnosis That Complicated the UFO Story | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Read more about The Diagnosis That Complicated the UFO Story | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2174,7 +2174,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'biopsy-evidence/' | relative_url }}" title="What Could a Scalp Biopsy Prove? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" aria-label="Read more about What Could a Scalp Biopsy Prove? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'biopsy-evidence/' | relative_url }}" title="What Could a Scalp Biopsy Prove? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Read more about What Could a Scalp Biopsy Prove? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2194,7 +2194,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-pitfalls/' | relative_url }}" title="Why Hair Loss Photos Can Mislead | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" aria-label="Read more about Why Hair Loss Photos Can Mislead | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-pitfalls/' | relative_url }}" title="Why Hair Loss Photos Can Mislead | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Read more about Why Hair Loss Photos Can Mislead | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2214,7 +2214,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'landrum-regrowth/' | relative_url }}" title="Why Landrum&#x27;s Hair Timeline Matters | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" aria-label="Read more about Why Landrum&#x27;s Hair Timeline Matters | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'landrum-regrowth/' | relative_url }}" title="Why Landrum's Hair Timeline Matters | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Read more about Why Landrum's Hair Timeline Matters | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2238,7 +2238,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did the Encounter Leave Physical Traces? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'heat-claims/' | relative_url }}" title="Did the Encounter Leave Physical Traces? | Cash Landrum UFO Inc" aria-label="Read more about Did the Encounter Leave Physical Traces? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'heat-claims/' | relative_url }}" title="Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Read more about Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2258,7 +2258,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hot-handle/' | relative_url }}" title="Could the Door Handle Really Get That Hot? | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" aria-label="Read more about Could the Door Handle Really Get That Hot? | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hot-handle/' | relative_url }}" title="Could the Door Handle Really Get That Hot? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Read more about Could the Door Handle Really Get That Hot? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2278,7 +2278,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'engine-claim/' | relative_url }}" title="Did the Car Die or Did They Stop? | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" aria-label="Read more about Did the Car Die or Did They Stop? | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'engine-claim/' | relative_url }}" title="Did the Car Die or Did They Stop? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Read more about Did the Car Die or Did They Stop? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2298,7 +2298,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lens-cover/' | relative_url }}" title="The Car Part That Vanished From the Evidence Trail | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" aria-label="Read more about The Car Part That Vanished From the Evidence Trail | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lens-cover/' | relative_url }}" title="The Car Part That Vanished From the Evidence Trail | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Read more about The Car Part That Vanished From the Evidence Trail | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2318,7 +2318,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'car-check/' | relative_url }}" title="What the First Car Inspection Actually Found | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" aria-label="Read more about What the First Car Inspection Actually Found | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'car-check/' | relative_url }}" title="What the First Car Inspection Actually Found | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Read more about What the First Car Inspection Actually Found | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2338,7 +2338,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'road-scorch/' | relative_url }}" title="Why the Burned Road Story Stayed Unproven | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" aria-label="Read more about Why the Burned Road Story Stayed Unproven | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'road-scorch/' | relative_url }}" title="Why the Burned Road Story Stayed Unproven | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Read more about Why the Burned Road Story Stayed Unproven | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2358,7 +2358,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'oldsmobile/' | relative_url }}" title="Why the Car Was Never a Clean Exhibit | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" aria-label="Read more about Why the Car Was Never a Clean Exhibit | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'oldsmobile/' | relative_url }}" title="Why the Car Was Never a Clean Exhibit | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Read more about Why the Car Was Never a Clean Exhibit | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2382,7 +2382,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Were Military Helicopters Really There? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopters/' | relative_url }}" title="Were Military Helicopters Really There? | Cash Landrum UFO Inc" aria-label="Read more about Were Military Helicopters Really There? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopters/' | relative_url }}" title="Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Read more about Were Military Helicopters Really There? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2402,7 +2402,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'the-count/' | relative_url }}" title="How Many Helicopters Were Too Many? | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" aria-label="Read more about How Many Helicopters Were Too Many? | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-count/' | relative_url }}" title="How Many Helicopters Were Too Many? | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Read more about How Many Helicopters Were Too Many? | Were Military Helicopters Really There? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2422,7 +2422,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pilot-story/' | relative_url }}" title="The Pilot Story That Would Not Hold | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" aria-label="Read more about The Pilot Story That Would Not Hold | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pilot-story/' | relative_url }}" title="The Pilot Story That Would Not Hold | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Read more about The Pilot Story That Would Not Hold | Were Military Helicopters Really There? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2442,7 +2442,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chinooks-dd1735/' | relative_url }}" title="Were They Really Chinook Helicopters? | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" aria-label="Read more about Were They Really Chinook Helicopters? | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chinooks-dd1735/' | relative_url }}" title="Were They Really Chinook Helicopters? | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Read more about Were They Really Chinook Helicopters? | Were Military Helicopters Really There? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2462,7 +2462,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'walker-report-8fafc7/' | relative_url }}" title="What the Walker Sighting Really Adds | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" aria-label="Read more about What the Walker Sighting Really Adds | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'walker-report-8fafc7/' | relative_url }}" title="What the Walker Sighting Really Adds | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Read more about What the Walker Sighting Really Adds | Were Military Helicopters Really There? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2482,7 +2482,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-16a4c5/' | relative_url }}" title="Why Bergstrom Made Helicopters Central | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" aria-label="Read more about Why Bergstrom Made Helicopters Central | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-16a4c5/' | relative_url }}" title="Why Bergstrom Made Helicopters Central | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Read more about Why Bergstrom Made Helicopters Central | Were Military Helicopters Really There? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2502,7 +2502,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-logs/' | relative_url }}" title="Why No Flight Records Changed Everything | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" aria-label="Read more about Why No Flight Records Changed Everything | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-logs/' | relative_url }}" title="Why No Flight Records Changed Everything | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Read more about Why No Flight Records Changed Everything | Were Military Helicopters Really There? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2526,7 +2526,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did Hypnosis Help or Complicate the Case? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hypnosis/' | relative_url }}" title="Did Hypnosis Help or Complicate the Case? | Cash Landrum UFO Inc" aria-label="Read more about Did Hypnosis Help or Complicate the Case? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hypnosis/' | relative_url }}" title="Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Read more about Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2546,7 +2546,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fuel-smell/' | relative_url }}" title="Did a Smell Turn Into a Theory? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" aria-label="Read more about Did a Smell Turn Into a Theory? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fuel-smell/' | relative_url }}" title="Did a Smell Turn Into a Theory? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Read more about Did a Smell Turn Into a Theory? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2566,7 +2566,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-lights/' | relative_url }}" title="How Did Blue Lights Enter the Story? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" aria-label="Read more about How Did Blue Lights Enter the Story? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-lights/' | relative_url }}" title="How Did Blue Lights Enter the Story? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Read more about How Did Blue Lights Enter the Story? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2586,7 +2586,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sprinkle/' | relative_url }}" title="Was Sprinkle a Neutral Memory Interviewer? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" aria-label="Read more about Was Sprinkle a Neutral Memory Interviewer? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sprinkle/' | relative_url }}" title="Was Sprinkle a Neutral Memory Interviewer? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Read more about Was Sprinkle a Neutral Memory Interviewer? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2606,7 +2606,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'july-session/' | relative_url }}" title="What Did the July Hypnosis Add? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" aria-label="Read more about What Did the July Hypnosis Add? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'july-session/' | relative_url }}" title="What Did the July Hypnosis Add? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Read more about What Did the July Hypnosis Add? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2626,7 +2626,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-hypnosis/' | relative_url }}" title="When Television Locked In the Memory | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" aria-label="Read more about When Television Locked In the Memory | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-hypnosis/' | relative_url }}" title="When Television Locked In the Memory | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Read more about When Television Locked In the Memory | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2646,7 +2646,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-science/' | relative_url }}" title="Why Hypnosis Can Make Memories Harder | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" aria-label="Read more about Why Hypnosis Can Make Memories Harder | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-science/' | relative_url }}" title="Why Hypnosis Can Make Memories Harder | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Read more about Why Hypnosis Can Make Memories Harder | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2670,7 +2670,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Injury Claims Change a UFO Case | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'injury-cases/' | relative_url }}" title="Why Injury Claims Change a UFO Case | Cash Landrum UFO Inc" aria-label="Read more about Why Injury Claims Change a UFO Case | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'injury-cases/' | relative_url }}" title="Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Read more about Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2690,7 +2690,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'burden-proof/' | relative_url }}" title="How helicopters made injury a legal problem | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" aria-label="Read more about How helicopters made injury a legal problem | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'burden-proof/' | relative_url }}" title="How helicopters made injury a legal problem | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Read more about How helicopters made injury a legal problem | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2710,7 +2710,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-cause/' | relative_url }}" title="What medical records could and could not prove | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" aria-label="Read more about What medical records could and could not prove | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-cause/' | relative_url }}" title="What medical records could and could not prove | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Read more about What medical records could and could not prove | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2730,7 +2730,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'symptom-trap/' | relative_url }}" title="When radiation like symptoms mislead the case | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" aria-label="Read more about When radiation like symptoms mislead the case | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'symptom-trap/' | relative_url }}" title="When radiation like symptoms mislead the case | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Read more about When radiation like symptoms mislead the case | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2750,7 +2750,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dia-file/' | relative_url }}" title="Why the DIA file did not settle the injury claim | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" aria-label="Read more about Why the DIA file did not settle the injury claim | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dia-file/' | relative_url }}" title="Why the DIA file did not settle the injury claim | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Read more about Why the DIA file did not settle the injury claim | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2770,7 +2770,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'site-search/' | relative_url }}" title="Why the missing roadside site mattered | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" aria-label="Read more about Why the missing roadside site mattered | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'site-search/' | relative_url }}" title="Why the missing roadside site mattered | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Read more about Why the missing roadside site mattered | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2790,7 +2790,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'other-injuries/' | relative_url }}" title="Why this injury case stood apart | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" aria-label="Read more about Why this injury case stood apart | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'other-injuries/' | relative_url }}" title="Why this injury case stood apart | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Read more about Why this injury case stood apart | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2814,7 +2814,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Did the $20 Million Lawsuit Fail? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lawsuit/' | relative_url }}" title="Why Did the $20 Million Lawsuit Fail? | Cash Landrum UFO Inc" aria-label="Read more about Why Did the $20 Million Lawsuit Fail? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lawsuit/' | relative_url }}" title="Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Read more about Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2834,7 +2834,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-inquiry/' | relative_url }}" title="Credible Witnesses, Missing Military Proof | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" aria-label="Read more about Credible Witnesses, Missing Military Proof | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-inquiry/' | relative_url }}" title="Credible Witnesses, Missing Military Proof | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Read more about Credible Witnesses, Missing Military Proof | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2854,7 +2854,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'gersten-strategy/' | relative_url }}" title="Did Secret Project Claims Weaken the Case? | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" aria-label="Read more about Did Secret Project Claims Weaken the Case? | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'gersten-strategy/' | relative_url }}" title="Did Secret Project Claims Weaken the Case? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Read more about Did Secret Project Claims Weaken the Case? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2874,7 +2874,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'case-archive/' | relative_url }}" title="How a Failed Lawsuit Left a Paper Trail | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" aria-label="Read more about How a Failed Lawsuit Left a Paper Trail | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'case-archive/' | relative_url }}" title="How a Failed Lawsuit Left a Paper Trail | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Read more about How a Failed Lawsuit Left a Paper Trail | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2894,7 +2894,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dismissal/' | relative_url }}" title="What the 1986 Dismissal Really Decided | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" aria-label="Read more about What the 1986 Dismissal Really Decided | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dismissal/' | relative_url }}" title="What the 1986 Dismissal Really Decided | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Read more about What the 1986 Dismissal Really Decided | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2914,7 +2914,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-trail/' | relative_url }}" title="Where Did the Helicopter Trail Go? | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" aria-label="Read more about Where Did the Helicopter Trail Go? | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-trail/' | relative_url }}" title="Where Did the Helicopter Trail Go? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Read more about Where Did the Helicopter Trail Go? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2934,7 +2934,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'control-test/' | relative_url }}" title="Why Government Control Became the Key Test | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" aria-label="Read more about Why Government Control Became the Key Test | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'control-test/' | relative_url }}" title="Why Government Control Became the Key Test | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Read more about Why Government Control Became the Key Test | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2958,7 +2958,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Did the Court Actually Decide? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'legal-test/' | relative_url }}" title="What Did the Court Actually Decide? | Cash Landrum UFO Inc" aria-label="Read more about What Did the Court Actually Decide? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'legal-test/' | relative_url }}" title="What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Read more about What Did the Court Actually Decide? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2978,7 +2978,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-link/' | relative_url }}" title="Could the Helicopters Prove Government Control? | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" aria-label="Read more about Could the Helicopters Prove Government Control? | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-link/' | relative_url }}" title="Could the Helicopters Prove Government Control? | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Read more about Could the Helicopters Prove Government Control? | What Did the Court Actually Decide? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -2998,7 +2998,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ftca-threshold/' | relative_url }}" title="The Legal Bridge the Plaintiffs Needed | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" aria-label="Read more about The Legal Bridge the Plaintiffs Needed | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ftca-threshold/' | relative_url }}" title="The Legal Bridge the Plaintiffs Needed | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Read more about The Legal Bridge the Plaintiffs Needed | What Did the Court Actually Decide? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3018,7 +3018,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'army-inquiry-a223fe/' | relative_url }}" title="When the Army Found No Helicopter Trail | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" aria-label="Read more about When the Army Found No Helicopter Trail | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'army-inquiry-a223fe/' | relative_url }}" title="When the Army Found No Helicopter Trail | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Read more about When the Army Found No Helicopter Trail | What Did the Court Actually Decide? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3038,7 +3038,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-barrier/' | relative_url }}" title="Why Classified Operation Arguments Came Second | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" aria-label="Read more about Why Classified Operation Arguments Came Second | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-barrier/' | relative_url }}" title="Why Classified Operation Arguments Came Second | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Read more about Why Classified Operation Arguments Came Second | What Did the Court Actually Decide? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3058,7 +3058,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'military-denials/' | relative_url }}" title="Why Sworn Denials Carried Legal Weight | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" aria-label="Read more about Why Sworn Denials Carried Legal Weight | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'military-denials/' | relative_url }}" title="Why Sworn Denials Carried Legal Weight | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Read more about Why Sworn Denials Carried Legal Weight | What Did the Court Actually Decide? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3078,7 +3078,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'not-ufo-truth/' | relative_url }}" title="Why the Court Did Not Solve the UFO | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" aria-label="Read more about Why the Court Did Not Solve the UFO | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'not-ufo-truth/' | relative_url }}" title="Why the Court Did Not Solve the UFO | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Read more about Why the Court Did Not Solve the UFO | What Did the Court Actually Decide? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3102,7 +3102,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can a UFO Case Prove Government Responsibility? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'liability/' | relative_url }}" title="Can a UFO Case Prove Government Responsibility? | Cash Landrum UFO Inc" aria-label="Read more about Can a UFO Case Prove Government Responsibility? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'liability/' | relative_url }}" title="Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Read more about Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3122,7 +3122,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'claim-path/' | relative_url }}" title="How a UFO Complaint Became a Legal Claim | Cash Landrum UFO Inc Db 9 D45 Government Responsib" aria-label="Read more about How a UFO Complaint Became a Legal Claim | Cash Landrum UFO Inc Db 9 D45 Government Responsib">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'claim-path/' | relative_url }}" title="How a UFO Complaint Became a Legal Claim | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Read more about How a UFO Complaint Became a Legal Claim | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3142,7 +3142,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'employee-scope/' | relative_url }}" title="The Legal Link UFO Claimants Need | Cash Landrum UFO Inc Db 9 D45 Government Responsib" aria-label="Read more about The Legal Link UFO Claimants Need | Cash Landrum UFO Inc Db 9 D45 Government Responsib">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'employee-scope/' | relative_url }}" title="The Legal Link UFO Claimants Need | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Read more about The Legal Link UFO Claimants Need | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3162,7 +3162,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-records/' | relative_url }}" title="The Records That Could Have Changed Everything | Cash Landrum UFO Inc Db 9 D45 Government Responsib" aria-label="Read more about The Records That Could Have Changed Everything | Cash Landrum UFO Inc Db 9 D45 Government Responsib">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-records/' | relative_url }}" title="The Records That Could Have Changed Everything | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Read more about The Records That Could Have Changed Everything | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3182,7 +3182,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'markings-9f52a5/' | relative_url }}" title="When Military Markings Are Not Enough | Cash Landrum UFO Inc Db 9 D45 Government Responsib" aria-label="Read more about When Military Markings Are Not Enough | Cash Landrum UFO Inc Db 9 D45 Government Responsib">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'markings-9f52a5/' | relative_url }}" title="When Military Markings Are Not Enough | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Read more about When Military Markings Are Not Enough | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3202,7 +3202,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'agency-test/' | relative_url }}" title="Who Must Own the UFO for Liability? | Cash Landrum UFO Inc Db 9 D45 Government Responsib" aria-label="Read more about Who Must Own the UFO for Liability? | Cash Landrum UFO Inc Db 9 D45 Government Responsib">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'agency-test/' | relative_url }}" title="Who Must Own the UFO for Liability? | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Read more about Who Must Own the UFO for Liability? | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3222,7 +3222,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'attention-gap/' | relative_url }}" title="Why Investigation Is Not Admission | Cash Landrum UFO Inc Db 9 D45 Government Responsib" aria-label="Read more about Why Investigation Is Not Admission | Cash Landrum UFO Inc Db 9 D45 Government Responsib">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'attention-gap/' | relative_url }}" title="Why Investigation Is Not Admission | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Read more about Why Investigation Is Not Admission | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3246,7 +3246,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Where Did the Encounter Actually Happen? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'location/' | relative_url }}" title="Where Did the Encounter Actually Happen? | Cash Landrum UFO Inc" aria-label="Read more about Where Did the Encounter Actually Happen? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'location/' | relative_url }}" title="Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Read more about Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3266,7 +3266,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'landmarks/' | relative_url }}" title="Can Landmarks Replace an Exact UFO Site? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" aria-label="Read more about Can Landmarks Replace an Exact UFO Site? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'landmarks/' | relative_url }}" title="Can Landmarks Replace an Exact UFO Site? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Read more about Can Landmarks Replace an Exact UFO Site? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3286,7 +3286,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'browned-trees/' | relative_url }}" title="Could Browned Pines Prove the Encounter? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" aria-label="Read more about Could Browned Pines Prove the Encounter? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'browned-trees/' | relative_url }}" title="Could Browned Pines Prove the Encounter? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Read more about Could Browned Pines Prove the Encounter? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3306,7 +3306,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'inland-road/' | relative_url }}" title="Did Inland Road Mark the Real Scene? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" aria-label="Read more about Did Inland Road Mark the Real Scene? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'inland-road/' | relative_url }}" title="Did Inland Road Mark the Real Scene? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Read more about Did Inland Road Mark the Real Scene? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3326,7 +3326,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'route-home/' | relative_url }}" title="Was the UFO Encounter Really Near Dayton? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" aria-label="Read more about Was the UFO Encounter Really Near Dayton? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'route-home/' | relative_url }}" title="Was the UFO Encounter Really Near Dayton? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Read more about Was the UFO Encounter Really Near Dayton? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3346,7 +3346,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'road-marks/' | relative_url }}" title="Where Are the Cash Landrum Road Marks? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" aria-label="Read more about Where Are the Cash Landrum Road Marks? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'road-marks/' | relative_url }}" title="Where Are the Cash Landrum Road Marks? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Read more about Where Are the Cash Landrum Road Marks? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3366,7 +3366,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'map-failure/' | relative_url }}" title="Why the Bergstrom Map Moment Matters | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" aria-label="Read more about Why the Bergstrom Map Moment Matters | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'map-failure/' | relative_url }}" title="Why the Bergstrom Map Moment Matters | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Read more about Why the Bergstrom Map Moment Matters | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3390,7 +3390,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Did the Case Become Famous? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'media/' | relative_url }}" title="How Did the Case Become Famous? | Cash Landrum UFO Inc" aria-label="Read more about How Did the Case Become Famous? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'media/' | relative_url }}" title="How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Read more about How Did the Case Become Famous? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3410,7 +3410,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mc-donald-sighting/' | relative_url }}" title="Did Corroboration Get Too Neat? | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" aria-label="Read more about Did Corroboration Get Too Neat? | Cash Landrum UFO Inc Db 9 D45 Media Public Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mc-donald-sighting/' | relative_url }}" title="Did Corroboration Get Too Neat? | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Read more about Did Corroboration Get Too Neat? | How Did the Case Become Famous? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3430,7 +3430,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'first-coverage/' | relative_url }}" title="How Local Reporting Launched the Story | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" aria-label="Read more about How Local Reporting Launched the Story | Cash Landrum UFO Inc Db 9 D45 Media Public Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'first-coverage/' | relative_url }}" title="How Local Reporting Launched the Story | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Read more about How Local Reporting Launched the Story | How Did the Case Become Famous? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3450,7 +3450,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-injury-frame/' | relative_url }}" title="How Television Made Illness the Hook | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" aria-label="Read more about How Television Made Illness the Hook | Cash Landrum UFO Inc Db 9 D45 Media Public Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-injury-frame/' | relative_url }}" title="How Television Made Illness the Hook | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Read more about How Television Made Illness the Hook | How Did the Case Become Famous? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3470,7 +3470,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tabloid-phase/' | relative_url }}" title="When the Case Became a UFO Attack | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" aria-label="Read more about When the Case Became a UFO Attack | Cash Landrum UFO Inc Db 9 D45 Media Public Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tabloid-phase/' | relative_url }}" title="When the Case Became a UFO Attack | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Read more about When the Case Became a UFO Attack | How Did the Case Become Famous? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3490,7 +3490,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-motif/' | relative_url }}" title="Why the Helicopters Changed Everything | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" aria-label="Read more about Why the Helicopters Changed Everything | Cash Landrum UFO Inc Db 9 D45 Media Public Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-motif/' | relative_url }}" title="Why the Helicopters Changed Everything | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Read more about Why the Helicopters Changed Everything | How Did the Case Become Famous? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3510,7 +3510,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lawsuit-hook/' | relative_url }}" title="Why the Lawsuit Kept the Story Alive | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" aria-label="Read more about Why the Lawsuit Kept the Story Alive | Cash Landrum UFO Inc Db 9 D45 Media Public Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lawsuit-hook/' | relative_url }}" title="Why the Lawsuit Kept the Story Alive | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Read more about Why the Lawsuit Kept the Story Alive | How Did the Case Become Famous? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3534,7 +3534,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Is the Paper Trail So Important? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records/' | relative_url }}" title="Why Is the Paper Trail So Important? | Cash Landrum UFO Inc" aria-label="Read more about Why Is the Paper Trail So Important? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records/' | relative_url }}" title="Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Read more about Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3554,7 +3554,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-gap/' | relative_url }}" title="Could So Many Helicopters Miss Houston Radar? | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" aria-label="Read more about Could So Many Helicopters Miss Houston Radar? | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-gap/' | relative_url }}" title="Could So Many Helicopters Miss Houston Radar? | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Read more about Could So Many Helicopters Miss Houston Radar? | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3574,7 +3574,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-13b253/' | relative_url }}" title="Inside the Bergstrom Claims Interview | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" aria-label="Read more about Inside the Bergstrom Claims Interview | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-13b253/' | relative_url }}" title="Inside the Bergstrom Claims Interview | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Read more about Inside the Bergstrom Claims Interview | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3594,7 +3594,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-gap-f85ab0/' | relative_url }}" title="What Happened After Blue Book Was Gone | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" aria-label="Read more about What Happened After Blue Book Was Gone | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-gap-f85ab0/' | relative_url }}" title="What Happened After Blue Book Was Gone | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Read more about What Happened After Blue Book Was Gone | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3614,7 +3614,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-inquiry-12ac45/' | relative_url }}" title="What the Army Inquiry Could Not Prove | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" aria-label="Read more about What the Army Inquiry Could Not Prove | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-inquiry-12ac45/' | relative_url }}" title="What the Army Inquiry Could Not Prove | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Read more about What the Army Inquiry Could Not Prove | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3634,7 +3634,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'location-gap/' | relative_url }}" title="Why the Exact Road Location Still Matters | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" aria-label="Read more about Why the Exact Road Location Still Matters | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'location-gap/' | relative_url }}" title="Why the Exact Road Location Still Matters | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Read more about Why the Exact Road Location Still Matters | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3654,7 +3654,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-logs/' | relative_url }}" title="Why the Missing Flight Logs Mattered Most | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" aria-label="Read more about Why the Missing Flight Logs Mattered Most | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-logs/' | relative_url }}" title="Why the Missing Flight Logs Mattered Most | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Read more about Why the Missing Flight Logs Mattered Most | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3678,7 +3678,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Did UFO Investigators Preserve? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mufon-files/' | relative_url }}" title="What Did UFO Investigators Preserve? | Cash Landrum UFO Inc" aria-label="Read more about What Did UFO Investigators Preserve? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mufon-files/' | relative_url }}" title="What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Read more about What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3698,7 +3698,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'project-visit/' | relative_url }}" title="Did Project VISIT Clarify or Complicate the Case? | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" aria-label="Read more about Did Project VISIT Clarify or Complicate the Case? | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'project-visit/' | relative_url }}" title="Did Project VISIT Clarify or Complicate the Case? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Read more about Did Project VISIT Clarify or Complicate the Case? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3718,7 +3718,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-gaps/' | relative_url }}" title="How Missing Medical Records Changed the Debate | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" aria-label="Read more about How Missing Medical Records Changed the Debate | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-gaps/' | relative_url }}" title="How Missing Medical Records Changed the Debate | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Read more about How Missing Medical Records Changed the Debate | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3738,7 +3738,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mufon-file/' | relative_url }}" title="What the First MUFON File Really Preserved | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" aria-label="Read more about What the First MUFON File Really Preserved | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mufon-file/' | relative_url }}" title="What the First MUFON File Really Preserved | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Read more about What the First MUFON File Really Preserved | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3758,7 +3758,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-leads/' | relative_url }}" title="When Helicopter Leads Became the Hardest Clue | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" aria-label="Read more about When Helicopter Leads Became the Hardest Clue | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopter-leads/' | relative_url }}" title="When Helicopter Leads Became the Hardest Clue | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Read more about When Helicopter Leads Became the Hardest Clue | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3778,7 +3778,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-disputes/' | relative_url }}" title="Who Controlled the Cash Landrum Record? | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" aria-label="Read more about Who Controlled the Cash Landrum Record? | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-disputes/' | relative_url }}" title="Who Controlled the Cash Landrum Record? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Read more about Who Controlled the Cash Landrum Record? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3798,7 +3798,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-e09cc0/' | relative_url }}" title="Why the Bergstrom Transcript Still Matters | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" aria-label="Read more about Why the Bergstrom Transcript Still Matters | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bergstrom-e09cc0/' | relative_url }}" title="Why the Bergstrom Transcript Still Matters | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Read more about Why the Bergstrom Transcript Still Matters | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3822,7 +3822,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Were These Really Radiation Burns? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation/' | relative_url }}" title="Were These Really Radiation Burns? | Cash Landrum UFO Inc" aria-label="Read more about Were These Really Radiation Burns? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation/' | relative_url }}" title="Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Read more about Were These Really Radiation Burns? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3842,7 +3842,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'microwave-theory/' | relative_url }}" title="Could Non Ionising Exposure Fit Better? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" aria-label="Read more about Could Non Ionising Exposure Fit Better? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'microwave-theory/' | relative_url }}" title="Could Non Ionising Exposure Fit Better? | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Read more about Could Non Ionising Exposure Fit Better? | Were These Really Radiation Burns? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3862,7 +3862,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vomiting-timing/' | relative_url }}" title="Did the Sickness Start Too Soon? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" aria-label="Read more about Did the Sickness Start Too Soon? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vomiting-timing/' | relative_url }}" title="Did the Sickness Start Too Soon? | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Read more about Did the Sickness Start Too Soon? | Were These Really Radiation Burns? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3882,7 +3882,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blood-counts/' | relative_url }}" title="The Medical Marker That Should Have Mattered | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" aria-label="Read more about The Medical Marker That Should Have Mattered | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blood-counts/' | relative_url }}" title="The Medical Marker That Should Have Mattered | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Read more about The Medical Marker That Should Have Mattered | Were These Really Radiation Burns? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3902,7 +3902,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'skin-claims/' | relative_url }}" title="Were the Burns Really Radiation Burns? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" aria-label="Read more about Were the Burns Really Radiation Burns? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'skin-claims/' | relative_url }}" title="Were the Burns Really Radiation Burns? | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Read more about Were the Burns Really Radiation Burns? | Were These Really Radiation Burns? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3922,7 +3922,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mixed-field/' | relative_url }}" title="Why Later Analysts Broadened the Exposure Theory | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" aria-label="Read more about Why Later Analysts Broadened the Exposure Theory | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mixed-field/' | relative_url }}" title="Why Later Analysts Broadened the Exposure Theory | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Read more about Why Later Analysts Broadened the Exposure Theory | Were These Really Radiation Burns? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3942,7 +3942,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'road-survey/' | relative_url }}" title="Why the Roadside Survey Did Not Settle It | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" aria-label="Read more about Why the Roadside Survey Did Not Settle It | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'road-survey/' | relative_url }}" title="Why the Roadside Survey Did Not Settle It | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Read more about Why the Roadside Survey Did Not Settle It | Were These Really Radiation Burns? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3966,7 +3966,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Could the Diamond Shaped Object Have Been? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'the-object/' | relative_url }}" title="What Could the Diamond Shaped Object Have Been? | Cash Landrum UFO Inc" aria-label="Read more about What Could the Diamond Shaped Object Have Been? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-object/' | relative_url }}" title="What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Read more about What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -3986,7 +3986,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-craft/' | relative_url }}" title="Could it have been a secret aircraft? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" aria-label="Read more about Could it have been a secret aircraft? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-craft/' | relative_url }}" title="Could it have been a secret aircraft? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Read more about Could it have been a secret aircraft? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4006,7 +4006,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'glare-shape/' | relative_url }}" title="Did glare turn light into a diamond? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" aria-label="Read more about Did glare turn light into a diamond? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'glare-shape/' | relative_url }}" title="Did glare turn light into a diamond? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Read more about Did glare turn light into a diamond? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4026,7 +4026,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'escort-problem/' | relative_url }}" title="Did helicopters explain or deepen the mystery? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" aria-label="Read more about Did helicopters explain or deepen the mystery? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'escort-problem/' | relative_url }}" title="Did helicopters explain or deepen the mystery? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Read more about Did helicopters explain or deepen the mystery? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4046,7 +4046,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'size-claims/' | relative_url }}" title="How big was the diamond object? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" aria-label="Read more about How big was the diamond object? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'size-claims/' | relative_url }}" title="How big was the diamond object? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Read more about How big was the diamond object? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4066,7 +4066,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pluto-rumor/' | relative_url }}" title="Why Project Pluto is a poor fit | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" aria-label="Read more about Why Project Pluto is a poor fit | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pluto-rumor/' | relative_url }}" title="Why Project Pluto is a poor fit | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Read more about Why Project Pluto is a poor fit | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4086,7 +4086,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'downward-fire/' | relative_url }}" title="Why the flame matters more than the shape | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" aria-label="Read more about Why the flame matters more than the shape | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'downward-fire/' | relative_url }}" title="Why the flame matters more than the shape | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Read more about Why the flame matters more than the shape | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4110,7 +4110,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Did the Night Unfold? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline/' | relative_url }}" title="How Did the Night Unfold? | Cash Landrum UFO Inc" aria-label="Read more about How Did the Night Unfold? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline/' | relative_url }}" title="How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Read more about How Did the Night Unfold? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4130,7 +4130,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'time-window/' | relative_url }}" title="Can the 9 p.m. Timeline Fit? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" aria-label="Read more about Can the 9 p.m. Timeline Fit? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'time-window/' | relative_url }}" title="Can the 9 p.m. Timeline Fit? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Read more about Can the 9 p.m. Timeline Fit? | How Did the Night Unfold? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4150,7 +4150,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mc-donald/' | relative_url }}" title="Did Another Sighting Fit the Same Night? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" aria-label="Read more about Did Another Sighting Fit the Same Night? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mc-donald/' | relative_url }}" title="Did Another Sighting Fit the Same Night? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Read more about Did Another Sighting Fit the Same Night? | How Did the Night Unfold? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4170,7 +4170,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dayton-drive/' | relative_url }}" title="What Happened After They Drove On? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" aria-label="Read more about What Happened After They Drove On? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dayton-drive/' | relative_url }}" title="What Happened After They Drove On? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Read more about What Happened After They Drove On? | How Did the Night Unfold? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4190,7 +4190,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fm-1485/' | relative_url }}" title="Where Did the Roadside Stop Happen? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" aria-label="Read more about Where Did the Roadside Stop Happen? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fm-1485/' | relative_url }}" title="Where Did the Roadside Stop Happen? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Read more about Where Did the Roadside Stop Happen? | How Did the Night Unfold? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4210,7 +4210,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bingo-route/' | relative_url }}" title="Why the Night Began With Bingo | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" aria-label="Read more about Why the Night Began With Bingo | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bingo-route/' | relative_url }}" title="Why the Night Began With Bingo | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Read more about Why the Night Began With Bingo | How Did the Night Unfold? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4230,7 +4230,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gap/' | relative_url }}" title="Why the Timeline Still Has Gaps | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" aria-label="Read more about Why the Timeline Still Has Gaps | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gap/' | relative_url }}" title="Why the Timeline Still Has Gaps | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Read more about Why the Timeline Still Has Gaps | How Did the Night Unfold? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4254,7 +4254,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Did Vickie Landrum Say She Saw? | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vickie-landrum/' | relative_url }}" title="What Did Vickie Landrum Say She Saw? | Cash Landrum UFO Inc" aria-label="Read more about What Did Vickie Landrum Say She Saw? | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vickie-landrum/' | relative_url }}" title="What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Read more about What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4274,7 +4274,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dashboard/' | relative_url }}" title="Did Heat Really Mark the Dashboard? | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" aria-label="Read more about Did Heat Really Mark the Dashboard? | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dashboard/' | relative_url }}" title="Did Heat Really Mark the Dashboard? | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Read more about Did Heat Really Mark the Dashboard? | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4294,7 +4294,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shape-shift/' | relative_url }}" title="How the Object Became a Diamond | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" aria-label="Read more about How the Object Became a Diamond | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shape-shift/' | relative_url }}" title="How the Object Became a Diamond | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Read more about How the Object Became a Diamond | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4314,7 +4314,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'injuries-97a55f/' | relative_url }}" title="What Vickie Said Happened to Her Body | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" aria-label="Read more about What Vickie Said Happened to Her Body | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'injuries-97a55f/' | relative_url }}" title="What Vickie Said Happened to Her Body | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Read more about What Vickie Said Happened to Her Body | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4334,7 +4334,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopters-4aac34/' | relative_url }}" title="Why the Helicopters Pointed to Government Blame | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" aria-label="Read more about Why the Helicopters Pointed to Government Blame | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'helicopters-4aac34/' | relative_url }}" title="Why the Helicopters Pointed to Government Blame | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Read more about Why the Helicopters Pointed to Government Blame | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4354,7 +4354,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'jesus-comment/' | relative_url }}" title="Why Vickie Thought the World Might End | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" aria-label="Read more about Why Vickie Thought the World Might End | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'jesus-comment/' | relative_url }}" title="Why Vickie Thought the World Might End | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Read more about Why Vickie Thought the World Might End | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4374,7 +4374,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stop-moment/' | relative_url }}" title="Why Vickie Told Betty Cash to Stop | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" aria-label="Read more about Why Vickie Told Betty Cash to Stop | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stop-moment/' | relative_url }}" title="Why Vickie Told Betty Cash to Stop | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Read more about Why Vickie Told Betty Cash to Stop | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4398,7 +4398,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the Walker Helicopter Report Matters | Cash Landrum UFO Inc" aria-expanded="false" aria-controls="home-vertical-children-node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'walker-report/' | relative_url }}" title="Why the Walker Helicopter Report Matters | Cash Landrum UFO Inc" aria-label="Read more about Why the Walker Helicopter Report Matters | Cash Landrum UFO Inc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'walker-report/' | relative_url }}" title="Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Read more about Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4418,7 +4418,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-finding/' | relative_url }}" title="Credible Witnesses, Missing Military Records | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" aria-label="Read more about Credible Witnesses, Missing Military Records | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sarran-finding/' | relative_url }}" title="Credible Witnesses, Missing Military Records | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Read more about Credible Witnesses, Missing Military Records | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4438,7 +4438,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chinook-type/' | relative_url }}" title="Were the Walkers Really Seeing Chinooks? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" aria-label="Read more about Were the Walkers Really Seeing Chinooks? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chinook-type/' | relative_url }}" title="Were the Walkers Really Seeing Chinooks? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Read more about Were the Walkers Really Seeing Chinooks? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4458,7 +4458,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'partial-proof/' | relative_url }}" title="What Walker&#x27;s Report Actually Proves | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" aria-label="Read more about What Walker&#x27;s Report Actually Proves | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'partial-proof/' | relative_url }}" title="What Walker's Report Actually Proves | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Read more about What Walker's Report Actually Proves | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4478,7 +4478,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'route-timing/' | relative_url }}" title="Where Did the Walkers See the Helicopters? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" aria-label="Read more about Where Did the Walkers See the Helicopters? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'route-timing/' | relative_url }}" title="Where Did the Walkers See the Helicopters? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Read more about Where Did the Walkers See the Helicopters? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4498,7 +4498,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'searchlights/' | relative_url }}" title="Why Did Walker Think Something Had Crashed? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" aria-label="Read more about Why Did Walker Think Something Had Crashed? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'searchlights/' | relative_url }}" title="Why Did Walker Think Something Had Crashed? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Read more about Why Did Walker Think Something Had Crashed? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
@@ -4518,7 +4518,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'count-dispute/' | relative_url }}" title="Why Do the Helicopter Counts Differ? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" aria-label="Read more about Why Do the Helicopter Counts Differ? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'count-dispute/' | relative_url }}" title="Why Do the Helicopter Counts Differ? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Read more about Why Do the Helicopter Counts Differ? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">Read more</a>
 </div>
 </div>
 </div>
