@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 19:48:56'
+last_modified_at: '2026-06-22 19:48:56'
 parent_title: What Happened at Bergstrom Air Force Base?
 parent_permalink: /bergstrom/
 parent_nav_short_title: Bergstrom

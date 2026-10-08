@@ -272,6 +272,7 @@ next_link:
   short_title: Nail Clue
   heading_title: The Strange Clue That Never Closed
 date: '2026-06-23 03:50:23 '
+last_modified_at: '2026-06-23 03:50:23 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_landrum_medical_trai_21b430-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_landrum_medical_trai_21b430-Illustration-1.webp

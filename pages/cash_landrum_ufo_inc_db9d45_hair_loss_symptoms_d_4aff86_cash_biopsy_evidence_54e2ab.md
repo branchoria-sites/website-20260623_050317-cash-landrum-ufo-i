@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 17:38:24'
+last_modified_at: '2026-06-22 17:38:24'
 parent_title: What Does the Hair Loss Claim Prove?
 parent_permalink: /hair-loss/
 parent_nav_short_title: Hair Loss

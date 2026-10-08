@@ -272,6 +272,7 @@ next_link:
   short_title: Memory Science
   heading_title: Why Hypnosis Can Make Memories Harder
 date: '2026-06-23 03:24:18 '
+last_modified_at: '2026-06-23 03:24:18 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_july_1981_hypnosis_3a924a-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_july_1981_hypnosis_3a924a-Illustration-1.webp

@@ -440,6 +440,7 @@ next_link:
   short_title: Hair Loss
   heading_title: What Does the Hair Loss Claim Prove?
 date: '2026-06-23 02:53:22 '
+last_modified_at: '2026-06-23 02:53:22 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04-overview-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04-overview.webp

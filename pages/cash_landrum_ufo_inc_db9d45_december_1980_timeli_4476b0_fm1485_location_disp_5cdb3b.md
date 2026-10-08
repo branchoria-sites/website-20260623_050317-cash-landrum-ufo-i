@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 16:09:53'
+last_modified_at: '2026-06-22 16:09:53'
 parent_title: How Did the Night Unfold?
 parent_permalink: /timeline/
 parent_nav_short_title: Timeline

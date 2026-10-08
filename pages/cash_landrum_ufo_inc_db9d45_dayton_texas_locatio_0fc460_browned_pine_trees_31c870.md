@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 16:09:51'
+last_modified_at: '2026-06-22 16:09:51'
 parent_title: Where Did the Encounter Actually Happen?
 parent_permalink: /location/
 parent_nav_short_title: Location

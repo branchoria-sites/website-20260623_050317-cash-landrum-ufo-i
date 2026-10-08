@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-23 02:00:02'
+last_modified_at: '2026-06-23 02:00:02'
 parent_title: Why Injury Claims Change a UFO Case
 parent_permalink: /injury-cases/
 parent_nav_short_title: Injury Cases

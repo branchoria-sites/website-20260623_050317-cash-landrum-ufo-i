@@ -272,6 +272,7 @@ next_link:
   short_title: Plume Science
   heading_title: What a Real Rocket Plume Would Leave
 date: '2026-06-23 04:14:10 '
+last_modified_at: '2026-06-23 04:14:10 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-1.webp

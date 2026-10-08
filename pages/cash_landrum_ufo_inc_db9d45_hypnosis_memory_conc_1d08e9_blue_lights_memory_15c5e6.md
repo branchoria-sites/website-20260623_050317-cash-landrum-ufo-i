@@ -266,6 +266,7 @@ next_link:
   short_title: Fuel Smell
   heading_title: Did a Smell Turn Into a Theory?
 date: '2026-06-23 03:23:47 '
+last_modified_at: '2026-06-23 03:23:47 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_blue_lights_memory_15c5e6-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_blue_lights_memory_15c5e6-Illustration-1.webp

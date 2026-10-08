@@ -266,6 +266,7 @@ prev_link:
   short_title: The Helicopter Reports
   heading_title: When Helicopters Help and Hurt the Theory
 date: '2026-06-23 03:31:37 '
+last_modified_at: '2026-06-23 03:31:37 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_air_traffic_control_f52ead-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_air_traffic_control_f52ead-Illustration-1.webp

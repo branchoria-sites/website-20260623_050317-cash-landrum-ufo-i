@@ -266,6 +266,7 @@ next_link:
   short_title: Breaking Point
   heading_title: Where the Plane Theory Breaks Down
 date: '2026-06-23 04:28:58 '
+last_modified_at: '2026-06-23 04:28:58 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_airport_first_aircra_1dac1f-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_airport_first_aircra_1dac1f-Illustration-1.webp

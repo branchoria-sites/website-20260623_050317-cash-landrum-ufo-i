@@ -272,6 +272,7 @@ next_link:
   short_title: VISIT Report
   heading_title: How the First Report Shaped the Case
 date: '2026-06-23 03:49:53 '
+last_modified_at: '2026-06-23 03:49:53 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_early_reporting_dela_aa9d4e-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_early_reporting_dela_aa9d4e-Illustration-1.webp

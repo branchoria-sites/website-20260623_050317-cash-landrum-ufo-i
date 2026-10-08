@@ -272,6 +272,7 @@ next_link:
   short_title: Sound Clues
   heading_title: What Did the Whooshing Sound Mean?
 date: '2026-06-23 04:14:19 '
+last_modified_at: '2026-06-23 04:14:19 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-1.webp

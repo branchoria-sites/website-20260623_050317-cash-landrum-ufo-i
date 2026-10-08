@@ -272,6 +272,7 @@ next_link:
   short_title: Tower Records
   heading_title: Did Airport Controllers See Anything?
 date: '2026-06-23 03:32:34 '
+last_modified_at: '2026-06-23 03:32:34 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_helicopter_aircraft_f33acc-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_helicopter_aircraft_f33acc-Illustration-1.webp

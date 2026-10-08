@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 11:57:38'
+last_modified_at: '2026-06-22 11:57:38'
 parent_title: What Could the Diamond Shaped Object Have Been?
 parent_permalink: /the-object/
 parent_nav_short_title: The Object

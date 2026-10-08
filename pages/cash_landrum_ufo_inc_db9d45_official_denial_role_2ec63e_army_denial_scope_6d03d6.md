@@ -266,6 +266,7 @@ next_link:
   short_title: Cover Up Story
   heading_title: How Denial Fed the Cover Up Myth
 date: '2026-06-23 03:17:46 '
+last_modified_at: '2026-06-23 03:17:46 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_army_denial_scope_6d03d6-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_army_denial_scope_6d03d6-Illustration-1.webp
