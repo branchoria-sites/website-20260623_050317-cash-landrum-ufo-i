@@ -211,7 +211,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aircraft/' | relative_url }}" title="Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Open page: Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-overview.webp' | relative_url }}" alt="Overview image for Could Ordinary Aircraft Explain the First Light? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-overview.webp' | relative_url }}" alt="Overview image for Could Ordinary Aircraft Explain the First Light?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Aircraft</span>
@@ -233,7 +233,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9-landing-lights-close-9e076e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'landing-lights/' | relative_url }}" title="Could Landing Lights Look That Strange? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Open page: Could Landing Lights Look That Strange? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_landing_lights_close_9e076e-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Landing Lights Look That Strange? | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_landing_lights_close_9e076e-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Landing Lights Look That Strange?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Landing Lights</span>
@@ -253,7 +253,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9-air-traffic-control-f52ead" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'tower-records/' | relative_url }}" title="Did Airport Controllers See Anything? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Open page: Did Airport Controllers See Anything? | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_air_traffic_control_f52ead-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Airport Controllers See Anything? | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_air_traffic_control_f52ead-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Airport Controllers See Anything?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Tower Records</span>
@@ -273,7 +273,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9-night-driving-light-75bf94" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'night-illusions/' | relative_url }}" title="How a Light Can Move Without Moving | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Open page: How a Light Can Move Without Moving | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_night_driving_light_75bf94-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Light Can Move Without Moving | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_night_driving_light_75bf94-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Light Can Move Without Moving" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Night Illusions</span>
@@ -293,7 +293,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9-helicopter-aircraft-f33acc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'the-helicopter-reports/' | relative_url }}" title="When Helicopters Help and Hurt the Theory | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Open page: When Helicopters Help and Hurt the Theory | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_helicopter_aircraft_f33acc-Illustration-1.webp' | relative_url }}" alt="Overview image for When Helicopters Help and Hurt the Theory | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_helicopter_aircraft_f33acc-Illustration-1.webp' | relative_url }}" alt="Overview image for When Helicopters Help and Hurt the Theory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">The Helicopter Reports</span>
@@ -313,7 +313,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9-aircraft-theory-brea-1b34c3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'breaking-point/' | relative_url }}" title="Where the Plane Theory Breaks Down | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Open page: Where the Plane Theory Breaks Down | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_aircraft_theory_brea_1b34c3-Illustration-1.webp' | relative_url }}" alt="Overview image for Where the Plane Theory Breaks Down | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_aircraft_theory_brea_1b34c3-Illustration-1.webp' | relative_url }}" alt="Overview image for Where the Plane Theory Breaks Down" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Breaking Point</span>
@@ -333,7 +333,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-houston-aircraft-con-db9fc9-airport-first-aircra-1dac1f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'airport-first/' | relative_url }}" title="Why the First Guess Was an Airplane | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?" aria-label="Open page: Why the First Guess Was an Airplane | Could Ordinary Aircraft Explain the First Light? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_airport_first_aircra_1dac1f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the First Guess Was an Airplane | Cash Landrum UFO Inc Db 9 D45 Houston Aircraft Con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_airport_first_aircra_1dac1f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the First Guess Was an Airplane" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Airport First</span>
@@ -355,7 +355,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'army-inquiry/' | relative_url }}" title="What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Open page: What Did the Army Investigation Find? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f-overview.webp' | relative_url }}" alt="Overview image for What Did the Army Investigation Find? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f-overview.webp' | relative_url }}" alt="Overview image for What Did the Army Investigation Find?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Army Inquiry</span>
@@ -377,7 +377,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f-alternative-helicopt-e186ff" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'other-sources/' | relative_url }}" title="Could the helicopters have come from elsewhere? | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Open page: Could the helicopters have come from elsewhere? | What Did the Army Investigation Find? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_alternative_helicopt_e186ff-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the helicopters have come from elsewhere? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_alternative_helicopt_e186ff-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the helicopters have come from elsewhere?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Other Sources</span>
@@ -397,7 +397,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f-sarran-witness-credi-248dc4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-dacd98/' | relative_url }}" title="Credible witnesses, missing helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Open page: Credible witnesses, missing helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_witness_credi_248dc4-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible witnesses, missing helicopters | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_witness_credi_248dc4-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible witnesses, missing helicopters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Credibility</span>
@@ -417,7 +417,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f-walker-helicopter-si-ac910f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'walkers/' | relative_url }}" title="The witnesses who saw helicopters only | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Open page: The witnesses who saw helicopters only | What Did the Army Investigation Find? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_walker_helicopter_si_ac910f-Illustration-1.webp' | relative_url }}" alt="Overview image for The witnesses who saw helicopters only | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_walker_helicopter_si_ac910f-Illustration-1.webp' | relative_url }}" alt="Overview image for The witnesses who saw helicopters only" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Walkers</span>
@@ -437,7 +437,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f-blue-book-closure-ga-628505" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-gap/' | relative_url }}" title="What happened after Blue Book closed? | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Open page: What happened after Blue Book closed? | What Did the Army Investigation Find? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_blue_book_closure_ga_628505-Illustration-1.webp' | relative_url }}" alt="Overview image for What happened after Blue Book closed? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_blue_book_closure_ga_628505-Illustration-1.webp' | relative_url }}" alt="Overview image for What happened after Blue Book closed?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blue Book Gap</span>
@@ -457,7 +457,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f-missing-helicopter-r-8b82d9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-trail/' | relative_url }}" title="Where were the helicopter records? | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Open page: Where were the helicopter records? | What Did the Army Investigation Find? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-1.webp' | relative_url }}" alt="Overview image for Where were the helicopter records? | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_missing_helicopter_r_8b82d9-Illustration-1.webp' | relative_url }}" alt="Overview image for Where were the helicopter records?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paper Trail</span>
@@ -477,7 +477,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-army-inspector-gener-586b7f-sarran-scope-helicop-82fad2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'scope/' | relative_url }}" title="Why the Army chased the helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?" aria-label="Open page: Why the Army chased the helicopters | What Did the Army Investigation Find? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_scope_helicop_82fad2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Army chased the helicopters | Cash Landrum UFO Inc Db 9 D45 Army Inspector Gener" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_army_inspector_gener_586b7f_sarran_scope_helicop_82fad2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Army chased the helicopters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Scope</span>
@@ -499,7 +499,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bergstrom/' | relative_url }}" title="What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Open page: What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a-overview.webp' | relative_url }}" alt="Overview image for What Happened at Bergstrom Air Force Base? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a-overview.webp' | relative_url }}" alt="Overview image for What Happened at Bergstrom Air Force Base?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bergstrom</span>
@@ -521,7 +521,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a-texas-map-problem-d5467c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'map-problem/' | relative_url }}" title="Could Cash pinpoint the encounter site? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Open page: Could Cash pinpoint the encounter site? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_texas_map_problem_d5467c-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Cash pinpoint the encounter site? | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_texas_map_problem_d5467c-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Cash pinpoint the encounter site?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Map Problem</span>
@@ -541,7 +541,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a-medical-bills-record-b6b200" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'medical-bills/' | relative_url }}" title="How injuries became a claim file | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Open page: How injuries became a claim file | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_medical_bills_record_b6b200-Illustration-1.webp' | relative_url }}" alt="Overview image for How injuries became a claim file | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_medical_bills_record_b6b200-Illustration-1.webp' | relative_url }}" alt="Overview image for How injuries became a claim file" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Medical Bills</span>
@@ -561,7 +561,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a-senator-letter-trail-1ae17a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'letter-trail/' | relative_url }}" title="How the witnesses reached Bergstrom | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Open page: How the witnesses reached Bergstrom | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_senator_letter_trail_1ae17a-Illustration-1.webp' | relative_url }}" alt="Overview image for How the witnesses reached Bergstrom | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_senator_letter_trail_1ae17a-Illustration-1.webp' | relative_url }}" alt="Overview image for How the witnesses reached Bergstrom" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Letter Trail</span>
@@ -581,7 +581,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a-helicopter-markings-bb1450" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'markings/' | relative_url }}" title="What did Cash see on the helicopters? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Open page: What did Cash see on the helicopters? | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_helicopter_markings_bb1450-Illustration-1.webp' | relative_url }}" alt="Overview image for What did Cash see on the helicopters? | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_helicopter_markings_bb1450-Illustration-1.webp' | relative_url }}" alt="Overview image for What did Cash see on the helicopters?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Markings</span>
@@ -601,7 +601,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a-bergstrom-claimants-cb235a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'claimants/' | relative_url }}" title="Why Bergstrom became a claims meeting | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Open page: Why Bergstrom became a claims meeting | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_bergstrom_claimants_cb235a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bergstrom became a claims meeting | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_bergstrom_claimants_cb235a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bergstrom became a claims meeting" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Claimants</span>
@@ -621,7 +621,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-bergstrom-air-force-116e2a-blue-book-authority-0ccecf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'authority-gap/' | relative_url }}" title="Why the Air Force said no UFO inquiry | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?" aria-label="Open page: Why the Air Force said no UFO inquiry | What Happened at Bergstrom Air Force Base? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_blue_book_authority_0ccecf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Air Force said no UFO inquiry | Cash Landrum UFO Inc Db 9 D45 Bergstrom Air Force" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_bergstrom_air_force_116e2a_blue_book_authority_0ccecf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Air Force said no UFO inquiry" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Authority Gap</span>
@@ -643,7 +643,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'betty-cash/' | relative_url }}" title="How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Open page: How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e-overview.webp' | relative_url }}" alt="Overview image for How Strong Is Betty Cash&#x27;s Medical Evidence? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e-overview.webp' | relative_url }}" alt="Overview image for How Strong Is Betty Cash's Medical Evidence?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Betty Cash</span>
@@ -665,7 +665,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e-heat-chemical-exposu-f4cbd4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'other-causes/' | relative_url }}" title="Could heat or chemicals explain the injuries? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Open page: Could heat or chemicals explain the injuries? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_heat_chemical_exposu_f4cbd4-Illustration-1.webp' | relative_url }}" alt="Overview image for Could heat or chemicals explain the injuries? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_heat_chemical_exposu_f4cbd4-Illustration-1.webp' | relative_url }}" alt="Overview image for Could heat or chemicals explain the injuries?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Other Causes</span>
@@ -685,7 +685,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e-radiation-sickness-c-5b60f3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'radiation-claim/' | relative_url }}" title="Did the injuries fit radiation sickness? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Open page: Did the injuries fit radiation sickness? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the injuries fit radiation sickness? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_radiation_sickness_c_5b60f3-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the injuries fit radiation sickness?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Radiation Claim</span>
@@ -705,7 +705,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e-cash-symptom-timelin-1ea25a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'symptom-timeline/' | relative_url }}" title="How fast did Betty Cash get sick? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Open page: How fast did Betty Cash get sick? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_cash_symptom_timelin_1ea25a-Illustration-1.webp' | relative_url }}" alt="Overview image for How fast did Betty Cash get sick? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_cash_symptom_timelin_1ea25a-Illustration-1.webp' | relative_url }}" alt="Overview image for How fast did Betty Cash get sick?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Symptom Timeline</span>
@@ -725,7 +725,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e-peter-rank-review-d5a4f9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rank-review/' | relative_url }}" title="How strong was Dr Rank's review? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Open page: How strong was Dr Rank's review? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_peter_rank_review_d5a4f9-Illustration-1.webp' | relative_url }}" alt="Overview image for How strong was Dr Rank&#x27;s review? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_peter_rank_review_d5a4f9-Illustration-1.webp' | relative_url }}" alt="Overview image for How strong was Dr Rank's review?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rank Review</span>
@@ -745,7 +745,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e-parkway-hospital-rec-b48316" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hospital-records/' | relative_url }}" title="What do the hospital records actually show? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Open page: What do the hospital records actually show? | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-1.webp' | relative_url }}" alt="Overview image for What do the hospital records actually show? | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_parkway_hospital_rec_b48316-Illustration-1.webp' | relative_url }}" alt="Overview image for What do the hospital records actually show?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hospital Records</span>
@@ -765,7 +765,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-betty-cash-medical-e-7c7e4e-medical-causation-le-667161" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'legal-proof/' | relative_url }}" title="Why the injury claim failed in court | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?" aria-label="Open page: Why the injury claim failed in court | How Strong Is Betty Cash's Medical Evidence? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_medical_causation_le_667161-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the injury claim failed in court | Cash Landrum UFO Inc Db 9 D45 Betty Cash Medical" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_betty_cash_medical_e_7c7e4e_medical_causation_le_667161-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the injury claim failed in court" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Legal Proof</span>
@@ -787,7 +787,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'case-file/' | relative_url }}" title="What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Open page: What Evidence Exists in the Case File? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9-overview.webp' | relative_url }}" alt="Overview image for What Evidence Exists in the Case File? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9-overview.webp' | relative_url }}" alt="Overview image for What Evidence Exists in the Case File?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Case File</span>
@@ -809,7 +809,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9-project-visit-report-9a6c34" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'visit-report/' | relative_url }}" title="How the First Report Shaped the Case | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Open page: How the First Report Shaped the Case | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-1.webp' | relative_url }}" alt="Overview image for How the First Report Shaped the Case | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_project_visit_report_9a6c34-Illustration-1.webp' | relative_url }}" alt="Overview image for How the First Report Shaped the Case" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">VISIT Report</span>
@@ -829,7 +829,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9-parkway-hospital-rec-b48316" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hospital-records-a57301/' | relative_url }}" title="The Medical File Before the Myth | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Open page: The Medical File Before the Myth | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_parkway_hospital_rec_b48316-Illustration-1.webp' | relative_url }}" alt="Overview image for The Medical File Before the Myth | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_parkway_hospital_rec_b48316-Illustration-1.webp' | relative_url }}" alt="Overview image for The Medical File Before the Myth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hospital Records</span>
@@ -849,7 +849,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9-fingernail-damage-le-dd59a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nail-clue/' | relative_url }}" title="The Strange Clue That Never Closed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Open page: The Strange Clue That Never Closed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_fingernail_damage_le_dd59a9-Illustration-1.webp' | relative_url }}" alt="Overview image for The Strange Clue That Never Closed | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_fingernail_damage_le_dd59a9-Illustration-1.webp' | relative_url }}" alt="Overview image for The Strange Clue That Never Closed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Nail Clue</span>
@@ -869,7 +869,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9-early-reporting-dela-aa9d4e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'reporting-delay/' | relative_url }}" title="What the Reporting Delay Changed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Open page: What the Reporting Delay Changed | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_early_reporting_dela_aa9d4e-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Reporting Delay Changed | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_early_reporting_dela_aa9d4e-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Reporting Delay Changed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Reporting Delay</span>
@@ -889,7 +889,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9-civilian-ufo-files-c96c95" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'civilian-files/' | relative_url }}" title="When UFO Investigators Built Different Files | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Open page: When UFO Investigators Built Different Files | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_civilian_ufo_files_c96c95-Illustration-1.webp' | relative_url }}" alt="Overview image for When UFO Investigators Built Different Files | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_civilian_ufo_files_c96c95-Illustration-1.webp' | relative_url }}" alt="Overview image for When UFO Investigators Built Different Files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Civilian Files</span>
@@ -909,7 +909,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-case-file-evidence-m-6272c9-landrum-medical-trai-21b430" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'landrum-records/' | relative_url }}" title="Why Two Medical Trails Look Thinner | What Evidence Exists in the Case File? | What Really Happened Near Dayton?" aria-label="Open page: Why Two Medical Trails Look Thinner | What Evidence Exists in the Case File? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_landrum_medical_trai_21b430-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Two Medical Trails Look Thinner | Cash Landrum UFO Inc Db 9 D45 Case File Evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_landrum_medical_trai_21b430-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Two Medical Trails Look Thinner" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Landrum Records</span>
@@ -931,7 +931,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'changing-story/' | relative_url }}" title="Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Open page: Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309-overview.webp' | relative_url }}" alt="Overview image for Did the Witness Story Become Sharper Later? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309-overview.webp' | relative_url }}" alt="Overview image for Did the Witness Story Become Sharper Later?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Changing Story</span>
@@ -953,7 +953,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309-repeated-interviews-e4460b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'retelling-loop/' | relative_url }}" title="Did Repetition Make the Story Sharper? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Open page: Did Repetition Make the Story Sharper? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_repeated_interviews_e4460b-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Repetition Make the Story Sharper? | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_repeated_interviews_e4460b-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Repetition Make the Story Sharper?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Retelling Loop</span>
@@ -973,7 +973,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309-later-added-lights-m-59f104" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'added-details/' | relative_url }}" title="The UFO Details That Arrived Later | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Open page: The UFO Details That Arrived Later | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_later_added_lights_m_59f104-Illustration-1.webp' | relative_url }}" alt="Overview image for The UFO Details That Arrived Later | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_later_added_lights_m_59f104-Illustration-1.webp' | relative_url }}" alt="Overview image for The UFO Details That Arrived Later" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Added Details</span>
@@ -993,7 +993,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309-visit-report-shape-c-50df5c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'visit-report-3dae8b/' | relative_url }}" title="Three Witnesses, Three Levels of Certainty | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Open page: Three Witnesses, Three Levels of Certainty | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_visit_report_shape_c_50df5c-Illustration-1.webp' | relative_url }}" alt="Overview image for Three Witnesses, Three Levels of Certainty | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_visit_report_shape_c_50df5c-Illustration-1.webp' | relative_url }}" alt="Overview image for Three Witnesses, Three Levels of Certainty" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">VISIT Report</span>
@@ -1013,7 +1013,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309-early-reports-vs-lat-0c69d5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'early-reports/' | relative_url }}" title="What the First Reports Really Said | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Open page: What the First Reports Really Said | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_early_reports_vs_lat_0c69d5-Illustration-1.webp' | relative_url }}" alt="Overview image for What the First Reports Really Said | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_early_reports_vs_lat_0c69d5-Illustration-1.webp' | relative_url }}" alt="Overview image for What the First Reports Really Said" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Early Reports</span>
@@ -1033,7 +1033,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309-memory-conformity-wi-96df48" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-memory/' | relative_url }}" title="When Witness Memories Start to Merge | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Open page: When Witness Memories Start to Merge | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_memory_conformity_wi_96df48-Illustration-1.webp' | relative_url }}" alt="Overview image for When Witness Memories Start to Merge | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_memory_conformity_wi_96df48-Illustration-1.webp' | relative_url }}" alt="Overview image for When Witness Memories Start to Merge" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Shared Memory</span>
@@ -1053,7 +1053,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-witness-story-change-778309-source-monitoring-di-38d1f5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'source-errors/' | relative_url }}" title="Where Did That Detail Come From? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?" aria-label="Open page: Where Did That Detail Come From? | Did the Witness Story Become Sharper Later? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_source_monitoring_di_38d1f5-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did That Detail Come From? | Cash Landrum UFO Inc Db 9 D45 Witness Story Change" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_witness_story_change_778309_source_monitoring_di_38d1f5-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did That Detail Come From?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Source Errors</span>
@@ -1075,7 +1075,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'chinooks/' | relative_url }}" title="How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Open page: How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8-overview.webp' | relative_url }}" alt="Overview image for How Reliable Was the Chinook Identification? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8-overview.webp' | relative_url }}" alt="Overview image for How Reliable Was the Chinook Identification?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Chinooks</span>
@@ -1097,7 +1097,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8-civilian-helicopter-100398" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'civilian-options/' | relative_url }}" title="Could They Have Been Civilian Helicopters? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Open page: Could They Have Been Civilian Helicopters? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_civilian_helicopter_100398-Illustration-1.webp' | relative_url }}" alt="Overview image for Could They Have Been Civilian Helicopters? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_civilian_helicopter_100398-Illustration-1.webp' | relative_url }}" alt="Overview image for Could They Have Been Civilian Helicopters?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Civilian Options</span>
@@ -1117,7 +1117,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8-twenty-three-chinook-c07dba" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mass-flight/' | relative_url }}" title="Could Twenty Three Chinooks Move Quietly? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Open page: Could Twenty Three Chinooks Move Quietly? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Twenty Three Chinooks Move Quietly? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_twenty_three_chinook_c07dba-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Twenty Three Chinooks Move Quietly?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mass Flight</span>
@@ -1137,7 +1137,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8-dayton-ch47-memory-d5ee36" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dayton-display/' | relative_url }}" title="Did a Later Chinook Harden the Story? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Open page: Did a Later Chinook Harden the Story? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-1.webp' | relative_url }}" alt="Overview image for Did a Later Chinook Harden the Story? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_dayton_ch47_memory_d5ee36-Illustration-1.webp' | relative_url }}" alt="Overview image for Did a Later Chinook Harden the Story?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Dayton Display</span>
@@ -1157,7 +1157,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8-tandem-rotor-identif-d304ff" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'twin-rotors/' | relative_url }}" title="Was a Twin Rotor Shape Enough? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Open page: Was a Twin Rotor Shape Enough? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-1.webp' | relative_url }}" alt="Overview image for Was a Twin Rotor Shape Enough? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_tandem_rotor_identif_d304ff-Illustration-1.webp' | relative_url }}" alt="Overview image for Was a Twin Rotor Shape Enough?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Twin Rotors</span>
@@ -1177,7 +1177,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8-bergstrom-markings-c-0193cb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'markings-claim/' | relative_url }}" title="What Did the Markings Really Say? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Open page: What Did the Markings Really Say? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Markings Really Say? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_bergstrom_markings_c_0193cb-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Markings Really Say?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Markings Claim</span>
@@ -1197,7 +1197,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-chinook-identificati-f5e2c8-sarran-records-gap-9e9852" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'records-gap/' | relative_url }}" title="Why Could No Helicopters Be Found? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?" aria-label="Open page: Why Could No Helicopters Be Found? | How Reliable Was the Chinook Identification? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_sarran_records_gap_9e9852-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Could No Helicopters Be Found? | Cash Landrum UFO Inc Db 9 D45 Chinook Identificati" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_chinook_identificati_f5e2c8_sarran_records_gap_9e9852-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Could No Helicopters Be Found?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Records Gap</span>
@@ -1219,7 +1219,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'claims-process/' | relative_url }}" title="Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Open page: Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97-overview.webp' | relative_url }}" alt="Overview image for Why Did the Case Become a Government Claim? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97-overview.webp' | relative_url }}" alt="Overview image for Why Did the Case Become a Government Claim?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Claims Process</span>
@@ -1241,7 +1241,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97-helicopter-agency-li-b0b5b5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'agency-link/' | relative_url }}" title="Could the Helicopters Be Tied to the Government? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Open page: Could the Helicopters Be Tied to the Government? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Helicopters Be Tied to the Government? | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_helicopter_agency_li_b0b5b5-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Helicopters Be Tied to the Government?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Agency Link</span>
@@ -1261,7 +1261,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97-sarran-credible-witn-c2ab9e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sarran/' | relative_url }}" title="Credible Witnesses, No Official Aircraft | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Open page: Credible Witnesses, No Official Aircraft | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_sarran_credible_witn_c2ab9e-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible Witnesses, No Official Aircraft | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_sarran_credible_witn_c2ab9e-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible Witnesses, No Official Aircraft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sarran</span>
@@ -1281,7 +1281,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97-proof-needed-federal-e7e666" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-proof/' | relative_url }}" title="What Proof Would Have Changed the Case? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Open page: What Proof Would Have Changed the Case? | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_proof_needed_federal_e7e666-Illustration-1.webp' | relative_url }}" alt="Overview image for What Proof Would Have Changed the Case? | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_proof_needed_federal_e7e666-Illustration-1.webp' | relative_url }}" alt="Overview image for What Proof Would Have Changed the Case?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Missing Proof</span>
@@ -1301,7 +1301,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97-bergstrom-claim-turn-3d2fe2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bergstrom-1f2c14/' | relative_url }}" title="When the UFO Report Became a Claim | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Open page: When the UFO Report Became a Claim | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-1.webp' | relative_url }}" alt="Overview image for When the UFO Report Became a Claim | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_bergstrom_claim_turn_3d2fe2-Illustration-1.webp' | relative_url }}" alt="Overview image for When the UFO Report Became a Claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bergstrom</span>
@@ -1321,7 +1321,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97-ftca-hurdles-cash-la-c46153" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ftca-hurdles/' | relative_url }}" title="Why a UFO Injury Claim Needed Legal Proof | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Open page: Why a UFO Injury Claim Needed Legal Proof | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_ftca_hurdles_cash_la_c46153-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a UFO Injury Claim Needed Legal Proof | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_ftca_hurdles_cash_la_c46153-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a UFO Injury Claim Needed Legal Proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">FTCA Hurdles</span>
@@ -1341,7 +1341,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-federal-claims-proce-608e97-lawsuit-dismissal-re-898fa7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dismissal-d1da9c/' | relative_url }}" title="Why the Cash Landrum Lawsuit Failed | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?" aria-label="Open page: Why the Cash Landrum Lawsuit Failed | Why Did the Case Become a Government Claim? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_lawsuit_dismissal_re_898fa7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Cash Landrum Lawsuit Failed | Cash Landrum UFO Inc Db 9 D45 Federal Claims Proce" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_federal_claims_proce_608e97_lawsuit_dismissal_re_898fa7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Cash Landrum Lawsuit Failed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Dismissal</span>
@@ -1363,7 +1363,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'colby/' | relative_url }}" title="How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Open page: How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-overview.webp' | relative_url }}" alt="Overview image for How Should Colby&#x27;s Account Be Weighed? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02-overview.webp' | relative_url }}" alt="Overview image for How Should Colby's Account Be Weighed?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Colby</span>
@@ -1385,7 +1385,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02-colby-23-helicopters-53da57" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '23-count/' | relative_url }}" title="Can the 23 Helicopters Be Trusted? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Open page: Can the 23 Helicopters Be Trusted? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_23_helicopters_53da57-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the 23 Helicopters Be Trusted? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_23_helicopters_53da57-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the 23 Helicopters Be Trusted?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">23 Count</span>
@@ -1405,7 +1405,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02-colby-adult-influenc-288d8a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-influence/' | relative_url }}" title="How Much Was Colby Remembering Alone? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Open page: How Much Was Colby Remembering Alone? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_influenc_288d8a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Much Was Colby Remembering Alone? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_influenc_288d8a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Much Was Colby Remembering Alone?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Adult Influence</span>
@@ -1425,7 +1425,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02-colby-adult-retellin-9a62af" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'adult-retelling/' | relative_url }}" title="What Changed When Colby Grew Up? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Open page: What Changed When Colby Grew Up? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_retellin_9a62af-Illustration-1.webp' | relative_url }}" alt="Overview image for What Changed When Colby Grew Up? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_adult_retellin_9a62af-Illustration-1.webp' | relative_url }}" alt="Overview image for What Changed When Colby Grew Up?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Adult Retelling</span>
@@ -1445,7 +1445,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02-colby-bergstrom-word-8e7fac" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'early-words/' | relative_url }}" title="What Colby Said Before the Story Hardened | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Open page: What Colby Said Before the Story Hardened | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_bergstrom_word_8e7fac-Illustration-1.webp' | relative_url }}" alt="Overview image for What Colby Said Before the Story Hardened | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_bergstrom_word_8e7fac-Illustration-1.webp' | relative_url }}" alt="Overview image for What Colby Said Before the Story Hardened" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Early Words</span>
@@ -1465,7 +1465,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02-colby-illness-memory-3befa8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'illness-gaps/' | relative_url }}" title="What Did Colby Really Remember About Illness? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Open page: What Did Colby Really Remember About Illness? | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_illness_memory_3befa8-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Colby Really Remember About Illness? | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_illness_memory_3befa8-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Colby Really Remember About Illness?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Illness Gaps</span>
@@ -1485,7 +1485,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-colby-landrum-witnes-c0ac02-colby-helicopter-fea-c8041a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopter-fear/' | relative_url }}" title="Why Helicopters Haunted Colby Afterward | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?" aria-label="Open page: Why Helicopters Haunted Colby Afterward | How Should Colby's Account Be Weighed? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_helicopter_fea_c8041a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Helicopters Haunted Colby Afterward | Cash Landrum UFO Inc Db 9 D45 Colby Landrum Witnes" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_colby_landrum_witnes_c0ac02_colby_helicopter_fea_c8041a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Helicopters Haunted Colby Afterward" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopter Fear</span>
@@ -1507,7 +1507,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility/' | relative_url }}" title="Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Open page: Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c-overview.webp' | relative_url }}" alt="Overview image for Can Credible Witnesses Still Leave Doubt? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c-overview.webp' | relative_url }}" alt="Overview image for Can Credible Witnesses Still Leave Doubt?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Credibility</span>
@@ -1529,7 +1529,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c-cash-injuries-radiat-d2106b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'injuries/' | relative_url }}" title="Did radiation explain Betty Cash's illness? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Open page: Did radiation explain Betty Cash's illness? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_injuries_radiat_d2106b-Illustration-1.webp' | relative_url }}" alt="Overview image for Did radiation explain Betty Cash&#x27;s illness? | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_injuries_radiat_d2106b-Illustration-1.webp' | relative_url }}" alt="Overview image for Did radiation explain Betty Cash's illness?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Injuries</span>
@@ -1549,7 +1549,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c-helicopter-count-pro-e9b5fb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopters-161bc3/' | relative_url }}" title="Did the helicopters prove government involvement? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Open page: Did the helicopters prove government involvement? | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_helicopter_count_pro_e9b5fb-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the helicopters prove government involvement? | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_helicopter_count_pro_e9b5fb-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the helicopters prove government involvement?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopters</span>
@@ -1569,7 +1569,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c-sarran-inquiry-limit-45ef35" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sarran-inquiry-9eb92c/' | relative_url }}" title="What official attention really proved | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Open page: What official attention really proved | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_sarran_inquiry_limit_45ef35-Illustration-1.webp' | relative_url }}" alt="Overview image for What official attention really proved | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_sarran_inquiry_limit_45ef35-Illustration-1.webp' | relative_url }}" alt="Overview image for What official attention really proved" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sarran Inquiry</span>
@@ -1589,7 +1589,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c-credible-witnesses-n-dbf4c0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-proof/' | relative_url }}" title="When honest witnesses are not enough | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Open page: When honest witnesses are not enough | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_credible_witnesses_n_dbf4c0-Illustration-1.webp' | relative_url }}" alt="Overview image for When honest witnesses are not enough | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_credible_witnesses_n_dbf4c0-Illustration-1.webp' | relative_url }}" alt="Overview image for When honest witnesses are not enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witness Proof</span>
@@ -1609,7 +1609,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c-nasa-uap-data-standa-5021d5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-standard/' | relative_url }}" title="Why science asks for better UFO data | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Open page: Why science asks for better UFO data | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_nasa_uap_data_standa_5021d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why science asks for better UFO data | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_nasa_uap_data_standa_5021d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why science asks for better UFO data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">NASA Standard</span>
@@ -1629,7 +1629,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-credibility-versus-p-bb581c-cash-landrum-lawsuit-019de2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lawsuit-22aaf1/' | relative_url }}" title="Why the Cash Landrum lawsuit collapsed | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?" aria-label="Open page: Why the Cash Landrum lawsuit collapsed | Can Credible Witnesses Still Leave Doubt? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_landrum_lawsuit_019de2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Cash Landrum lawsuit collapsed | Cash Landrum UFO Inc Db 9 D45 Credibility Versus" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_credibility_versus_p_bb581c_cash_landrum_lawsuit_019de2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Cash Landrum lawsuit collapsed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lawsuit</span>
@@ -1651,7 +1651,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'debate/' | relative_url }}" title="Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Open page: Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab-overview.webp' | relative_url }}" alt="Overview image for Why Does Cash Landrum Still Divide Readers? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab-overview.webp' | relative_url }}" alt="Overview image for Why Does Cash Landrum Still Divide Readers?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Debate</span>
@@ -1673,7 +1673,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab-honest-misperception-096dc3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'misperception/' | relative_url }}" title="Can Honest Witnesses Still Be Wrong? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Open page: Can Honest Witnesses Still Be Wrong? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_honest_misperception_096dc3-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Honest Witnesses Still Be Wrong? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_honest_misperception_096dc3-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Honest Witnesses Still Be Wrong?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Misperception</span>
@@ -1693,7 +1693,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab-stalled-car-claim-18539c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'stalled-car/' | relative_url }}" title="Did the Car Trouble Prove Anything? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Open page: Did the Car Trouble Prove Anything? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_stalled_car_claim_18539c-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Car Trouble Prove Anything? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_stalled_car_claim_18539c-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Car Trouble Prove Anything?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Stalled Car</span>
@@ -1713,7 +1713,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab-diamond-shape-bright-048eed" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'diamond-shape/' | relative_url }}" title="How Clear Was the Diamond Shaped Object? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Open page: How Clear Was the Diamond Shaped Object? | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_diamond_shape_bright_048eed-Illustration-1.webp' | relative_url }}" alt="Overview image for How Clear Was the Diamond Shaped Object? | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_diamond_shape_bright_048eed-Illustration-1.webp' | relative_url }}" alt="Overview image for How Clear Was the Diamond Shaped Object?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Diamond Shape</span>
@@ -1733,7 +1733,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab-brad-sparks-insider-ec9d87" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'insider-doubt/' | relative_url }}" title="When UFO Researchers Doubt the Case | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Open page: When UFO Researchers Doubt the Case | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_brad_sparks_insider_ec9d87-Illustration-1.webp' | relative_url }}" alt="Overview image for When UFO Researchers Doubt the Case | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_brad_sparks_insider_ec9d87-Illustration-1.webp' | relative_url }}" alt="Overview image for When UFO Researchers Doubt the Case" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Insider Doubt</span>
@@ -1753,7 +1753,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab-missing-physical-tra-349c79" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'trace-gap/' | relative_url }}" title="Why Missing Traces Matter So Much | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Open page: Why Missing Traces Matter So Much | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_missing_physical_tra_349c79-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Missing Traces Matter So Much | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_missing_physical_tra_349c79-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Missing Traces Matter So Much" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Trace Gap</span>
@@ -1773,7 +1773,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-believers-skeptics-d-52b1ab-bergstrom-interview-f61bf9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bergstrom-3cf9b0/' | relative_url }}" title="Why One Interview Fuels Both Sides | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?" aria-label="Open page: Why One Interview Fuels Both Sides | Why Does Cash Landrum Still Divide Readers? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_bergstrom_interview_f61bf9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Interview Fuels Both Sides | Cash Landrum UFO Inc Db 9 D45 Believers Skeptics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_believers_skeptics_d_52b1ab_bergstrom_interview_f61bf9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Interview Fuels Both Sides" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bergstrom</span>
@@ -1795,7 +1795,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'denial/' | relative_url }}" title="What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Open page: What Did Official Denial Really Settle? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-overview.webp' | relative_url }}" alt="Overview image for What Did Official Denial Really Settle? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e-overview.webp' | relative_url }}" alt="Overview image for What Did Official Denial Really Settle?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Denial</span>
@@ -1817,7 +1817,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e-denial-legal-shield-5aa27b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'legal-shield/' | relative_url }}" title="How Denial Became a Legal Shield | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Open page: How Denial Became a Legal Shield | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_legal_shield_5aa27b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Denial Became a Legal Shield | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_legal_shield_5aa27b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Denial Became a Legal Shield" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Legal Shield</span>
@@ -1837,7 +1837,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e-denial-coverup-myth-9b3136" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cover-up-story/' | relative_url }}" title="How Denial Fed the Cover Up Myth | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Open page: How Denial Fed the Cover Up Myth | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_coverup_myth_9b3136-Illustration-1.webp' | relative_url }}" alt="Overview image for How Denial Fed the Cover Up Myth | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_coverup_myth_9b3136-Illustration-1.webp' | relative_url }}" alt="Overview image for How Denial Fed the Cover Up Myth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Cover Up Story</span>
@@ -1857,7 +1857,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e-army-denial-scope-6d03d6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'army-denial/' | relative_url }}" title="What Did the Army Really Deny? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Open page: What Did the Army Really Deny? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_army_denial_scope_6d03d6-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Army Really Deny? | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_army_denial_scope_6d03d6-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Army Really Deny?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Army Denial</span>
@@ -1877,7 +1877,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e-missing-flight-recor-6747e9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-records-910fed/' | relative_url }}" title="Where Were the Flight Records? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Open page: Where Were the Flight Records? | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_missing_flight_recor_6747e9-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Were the Flight Records? | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_missing_flight_recor_6747e9-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Were the Flight Records?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Missing Records</span>
@@ -1897,7 +1897,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e-credibility-vs-denia-645d17" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-gap/' | relative_url }}" title="Why Credible Witnesses Still Lost | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Open page: Why Credible Witnesses Still Lost | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_credibility_vs_denia_645d17-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Credible Witnesses Still Lost | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_credibility_vs_denia_645d17-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Credible Witnesses Still Lost" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Credibility Gap</span>
@@ -1917,7 +1917,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-official-denial-role-2ec63e-denial-unanswered-my-4baf97" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'unanswered-night/' | relative_url }}" title="Why Denial Did Not End the Mystery | What Did Official Denial Really Settle? | What Really Happened Near Dayton?" aria-label="Open page: Why Denial Did Not End the Mystery | What Did Official Denial Really Settle? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_unanswered_my_4baf97-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Denial Did Not End the Mystery | Cash Landrum UFO Inc Db 9 D45 Official Denial Role" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_unanswered_my_4baf97-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Denial Did Not End the Mystery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Unanswered Night</span>
@@ -1939,7 +1939,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'flames/' | relative_url }}" title="What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Open page: What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04-overview.webp' | relative_url }}" alt="Overview image for What Do the Flame Reports Suggest? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04-overview.webp' | relative_url }}" alt="Overview image for What Do the Flame Reports Suggest?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Flames</span>
@@ -1961,7 +1961,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04-car-heat-exhaust-que-964346" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'heat-test/' | relative_url }}" title="Could Exhaust Explain the Car's Heat? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Open page: Could Exhaust Explain the Car's Heat? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_car_heat_exhaust_que_964346-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Exhaust Explain the Car&#x27;s Heat? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_car_heat_exhaust_que_964346-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Exhaust Explain the Car's Heat?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Heat Test</span>
@@ -1981,7 +1981,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04-night-glare-false-mo-21d8c7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'night-glare/' | relative_url }}" title="Could Glare Turn Light Into Fire? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Open page: Could Glare Turn Light Into Fire? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Glare Turn Light Into Fire? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_night_glare_false_mo_21d8c7-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Glare Turn Light Into Fire?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Night Glare</span>
@@ -2001,7 +2001,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04-flame-bursts-lift-cl-a20c3e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lift-clue/' | relative_url }}" title="Did the Flames Make the Object Rise? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Open page: Did the Flames Make the Object Rise? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_flame_bursts_lift_cl_a20c3e-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Flames Make the Object Rise? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_flame_bursts_lift_cl_a20c3e-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Flames Make the Object Rise?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lift Clue</span>
@@ -2021,7 +2021,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04-witness-words-rocket-00c9c8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-words/' | relative_url }}" title="How Fire Became a Rocket Clue | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Open page: How Fire Became a Rocket Clue | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_witness_words_rocket_00c9c8-Illustration-1.webp' | relative_url }}" alt="Overview image for How Fire Became a Rocket Clue | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_witness_words_rocket_00c9c8-Illustration-1.webp' | relative_url }}" alt="Overview image for How Fire Became a Rocket Clue" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witness Words</span>
@@ -2041,7 +2041,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04-rocket-plume-scene-t-272b10" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'plume-science/' | relative_url }}" title="What a Real Rocket Plume Would Leave | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Open page: What a Real Rocket Plume Would Leave | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Real Rocket Plume Would Leave | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_rocket_plume_scene_t_272b10-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Real Rocket Plume Would Leave" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Plume Science</span>
@@ -2061,7 +2061,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-flame-propulsion-clu-3eba04-sound-reports-exhaus-aeb365" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sound-clues/' | relative_url }}" title="What Did the Whooshing Sound Mean? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?" aria-label="Open page: What Did the Whooshing Sound Mean? | What Do the Flame Reports Suggest? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_sound_reports_exhaus_aeb365-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Whooshing Sound Mean? | Cash Landrum UFO Inc Db 9 D45 Flame Propulsion Clu" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_sound_reports_exhaus_aeb365-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Whooshing Sound Mean?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sound Clues</span>
@@ -2083,7 +2083,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hair-loss/' | relative_url }}" title="What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Open page: What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-overview.webp' | relative_url }}" alt="Overview image for What Does the Hair Loss Claim Prove? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86-overview.webp' | relative_url }}" alt="Overview image for What Does the Hair Loss Claim Prove?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hair Loss</span>
@@ -2105,7 +2105,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86-cash-scalp-pattern-6c703a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'scalp-pattern/' | relative_url }}" title="Did the Bald Patches Fit Radiation? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Open page: Did the Bald Patches Fit Radiation? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_scalp_pattern_6c703a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Bald Patches Fit Radiation? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_scalp_pattern_6c703a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Bald Patches Fit Radiation?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Scalp Pattern</span>
@@ -2125,7 +2125,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86-gi-symptoms-radiatio-7f8d61" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'gi-symptoms/' | relative_url }}" title="Did the Sickness Match Radiation Exposure? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Open page: Did the Sickness Match Radiation Exposure? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Sickness Match Radiation Exposure? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_gi_symptoms_radiatio_7f8d61-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Sickness Match Radiation Exposure?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">GI Symptoms</span>
@@ -2145,7 +2145,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86-alopecia-areata-disp-54bb60" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'alopecia-areata/' | relative_url }}" title="The Diagnosis That Complicated the UFO Story | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Open page: The Diagnosis That Complicated the UFO Story | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-1.webp' | relative_url }}" alt="Overview image for The Diagnosis That Complicated the UFO Story | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_alopecia_areata_disp_54bb60-Illustration-1.webp' | relative_url }}" alt="Overview image for The Diagnosis That Complicated the UFO Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Alopecia Areata</span>
@@ -2165,7 +2165,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86-cash-biopsy-evidence-54e2ab" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'biopsy-evidence/' | relative_url }}" title="What Could a Scalp Biopsy Prove? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Open page: What Could a Scalp Biopsy Prove? | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-1.webp' | relative_url }}" alt="Overview image for What Could a Scalp Biopsy Prove? | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_cash_biopsy_evidence_54e2ab-Illustration-1.webp' | relative_url }}" alt="Overview image for What Could a Scalp Biopsy Prove?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Biopsy Evidence</span>
@@ -2185,7 +2185,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86-hair-loss-photo-pitf-a2fc09" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-pitfalls/' | relative_url }}" title="Why Hair Loss Photos Can Mislead | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Open page: Why Hair Loss Photos Can Mislead | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_hair_loss_photo_pitf_a2fc09-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hair Loss Photos Can Mislead | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_hair_loss_photo_pitf_a2fc09-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hair Loss Photos Can Mislead" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Photo Pitfalls</span>
@@ -2205,7 +2205,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hair-loss-symptoms-d-4aff86-landrum-hair-regrowt-c6d19a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'landrum-regrowth/' | relative_url }}" title="Why Landrum's Hair Timeline Matters | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?" aria-label="Open page: Why Landrum's Hair Timeline Matters | What Does the Hair Loss Claim Prove? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_landrum_hair_regrowt_c6d19a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Landrum&#x27;s Hair Timeline Matters | Cash Landrum UFO Inc Db 9 D45 Hair Loss Symptoms" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hair_loss_symptoms_d_4aff86_landrum_hair_regrowt_c6d19a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Landrum's Hair Timeline Matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Landrum Regrowth</span>
@@ -2227,7 +2227,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'heat-claims/' | relative_url }}" title="Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Open page: Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008-overview.webp' | relative_url }}" alt="Overview image for Did the Encounter Leave Physical Traces? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008-overview.webp' | relative_url }}" alt="Overview image for Did the Encounter Leave Physical Traces?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Heat Claims</span>
@@ -2249,7 +2249,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008-hot-door-handle-bd2d3b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hot-handle/' | relative_url }}" title="Could the Door Handle Really Get That Hot? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Open page: Could the Door Handle Really Get That Hot? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Door Handle Really Get That Hot? | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_hot_door_handle_bd2d3b-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Door Handle Really Get That Hot?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hot Handle</span>
@@ -2269,7 +2269,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008-engine-radio-claims-9de7e2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'engine-claim/' | relative_url }}" title="Did the Car Die or Did They Stop? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Open page: Did the Car Die or Did They Stop? | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_engine_radio_claims_9de7e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Car Die or Did They Stop? | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_engine_radio_claims_9de7e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Car Die or Did They Stop?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Engine Claim</span>
@@ -2289,7 +2289,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008-lens-cover-test-trai-be880e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lens-cover/' | relative_url }}" title="The Car Part That Vanished From the Evidence Trail | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Open page: The Car Part That Vanished From the Evidence Trail | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_lens_cover_test_trai_be880e-Illustration-1.webp' | relative_url }}" alt="Overview image for The Car Part That Vanished From the Evidence Trail | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_lens_cover_test_trai_be880e-Illustration-1.webp' | relative_url }}" alt="Overview image for The Car Part That Vanished From the Evidence Trail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lens Cover</span>
@@ -2309,7 +2309,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008-schuessler-car-inspe-bb7cbd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'car-check/' | relative_url }}" title="What the First Car Inspection Actually Found | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Open page: What the First Car Inspection Actually Found | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_schuessler_car_inspe_bb7cbd-Illustration-1.webp' | relative_url }}" alt="Overview image for What the First Car Inspection Actually Found | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_schuessler_car_inspe_bb7cbd-Illustration-1.webp' | relative_url }}" alt="Overview image for What the First Car Inspection Actually Found" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Car Check</span>
@@ -2329,7 +2329,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008-scorched-road-claim-2c4a06" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'road-scorch/' | relative_url }}" title="Why the Burned Road Story Stayed Unproven | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Open page: Why the Burned Road Story Stayed Unproven | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_scorched_road_claim_2c4a06-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Burned Road Story Stayed Unproven | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_scorched_road_claim_2c4a06-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Burned Road Story Stayed Unproven" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Road Scorch</span>
@@ -2349,7 +2349,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-heat-effects-car-tra-376008-oldsmobile-preservat-ee1cbe" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'oldsmobile/' | relative_url }}" title="Why the Car Was Never a Clean Exhibit | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?" aria-label="Open page: Why the Car Was Never a Clean Exhibit | Did the Encounter Leave Physical Traces? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_oldsmobile_preservat_ee1cbe-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Car Was Never a Clean Exhibit | Cash Landrum UFO Inc Db 9 D45 Heat Effects Car" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_heat_effects_car_tra_376008_oldsmobile_preservat_ee1cbe-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Car Was Never a Clean Exhibit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Oldsmobile</span>
@@ -2371,7 +2371,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopters/' | relative_url }}" title="Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Open page: Were Military Helicopters Really There? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd-overview.webp' | relative_url }}" alt="Overview image for Were Military Helicopters Really There? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd-overview.webp' | relative_url }}" alt="Overview image for Were Military Helicopters Really There?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopters</span>
@@ -2393,7 +2393,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd-helicopter-count-sca-2a312e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'the-count/' | relative_url }}" title="How Many Helicopters Were Too Many? | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Open page: How Many Helicopters Were Too Many? | Were Military Helicopters Really There? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_helicopter_count_sca_2a312e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Many Helicopters Were Too Many? | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_helicopter_count_sca_2a312e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Many Helicopters Were Too Many?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">The Count</span>
@@ -2413,7 +2413,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd-dayton-pilot-story-22a3fe" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pilot-story/' | relative_url }}" title="The Pilot Story That Would Not Hold | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Open page: The Pilot Story That Would Not Hold | Were Military Helicopters Really There? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-1.webp' | relative_url }}" alt="Overview image for The Pilot Story That Would Not Hold | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_dayton_pilot_story_22a3fe-Illustration-1.webp' | relative_url }}" alt="Overview image for The Pilot Story That Would Not Hold" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pilot Story</span>
@@ -2433,7 +2433,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd-chinook-identificati-abb24f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'chinooks-dd1735/' | relative_url }}" title="Were They Really Chinook Helicopters? | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Open page: Were They Really Chinook Helicopters? | Were Military Helicopters Really There? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_chinook_identificati_abb24f-Illustration-1.webp' | relative_url }}" alt="Overview image for Were They Really Chinook Helicopters? | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_chinook_identificati_abb24f-Illustration-1.webp' | relative_url }}" alt="Overview image for Were They Really Chinook Helicopters?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Chinooks</span>
@@ -2453,7 +2453,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd-walker-helicopter-re-54be64" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'walker-report-8fafc7/' | relative_url }}" title="What the Walker Sighting Really Adds | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Open page: What the Walker Sighting Really Adds | Were Military Helicopters Really There? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_walker_helicopter_re_54be64-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Walker Sighting Really Adds | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_walker_helicopter_re_54be64-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Walker Sighting Really Adds" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Walker Report</span>
@@ -2473,7 +2473,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd-bergstrom-helicopter-cb0e24" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bergstrom-16a4c5/' | relative_url }}" title="Why Bergstrom Made Helicopters Central | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Open page: Why Bergstrom Made Helicopters Central | Were Military Helicopters Really There? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_bergstrom_helicopter_cb0e24-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bergstrom Made Helicopters Central | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_bergstrom_helicopter_cb0e24-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bergstrom Made Helicopters Central" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bergstrom</span>
@@ -2493,7 +2493,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-helicopter-sightings-a144dd-missing-flight-recor-6747e9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-logs/' | relative_url }}" title="Why No Flight Records Changed Everything | Were Military Helicopters Really There? | What Really Happened Near Dayton?" aria-label="Open page: Why No Flight Records Changed Everything | Were Military Helicopters Really There? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_missing_flight_recor_6747e9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why No Flight Records Changed Everything | Cash Landrum UFO Inc Db 9 D45 Helicopter Sightings" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_helicopter_sightings_a144dd_missing_flight_recor_6747e9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why No Flight Records Changed Everything" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Missing Logs</span>
@@ -2515,7 +2515,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hypnosis/' | relative_url }}" title="Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Open page: Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-overview.webp' | relative_url }}" alt="Overview image for Did Hypnosis Help or Complicate the Case? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-overview.webp' | relative_url }}" alt="Overview image for Did Hypnosis Help or Complicate the Case?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hypnosis</span>
@@ -2537,7 +2537,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9-fuel-smell-theory-ed7597" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'fuel-smell/' | relative_url }}" title="Did a Smell Turn Into a Theory? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Open page: Did a Smell Turn Into a Theory? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_fuel_smell_theory_ed7597-Illustration-1.webp' | relative_url }}" alt="Overview image for Did a Smell Turn Into a Theory? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_fuel_smell_theory_ed7597-Illustration-1.webp' | relative_url }}" alt="Overview image for Did a Smell Turn Into a Theory?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Fuel Smell</span>
@@ -2557,7 +2557,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9-blue-lights-memory-15c5e6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-lights/' | relative_url }}" title="How Did Blue Lights Enter the Story? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Open page: How Did Blue Lights Enter the Story? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_blue_lights_memory_15c5e6-Illustration-1.webp' | relative_url }}" alt="Overview image for How Did Blue Lights Enter the Story? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_blue_lights_memory_15c5e6-Illustration-1.webp' | relative_url }}" alt="Overview image for How Did Blue Lights Enter the Story?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blue Lights</span>
@@ -2577,7 +2577,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9-sprinkle-ufo-hypnosi-9b617c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sprinkle/' | relative_url }}" title="Was Sprinkle a Neutral Memory Interviewer? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Open page: Was Sprinkle a Neutral Memory Interviewer? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Sprinkle a Neutral Memory Interviewer? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Sprinkle a Neutral Memory Interviewer?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sprinkle</span>
@@ -2597,7 +2597,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9-july-1981-hypnosis-3a924a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'july-session/' | relative_url }}" title="What Did the July Hypnosis Add? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Open page: What Did the July Hypnosis Add? | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_july_1981_hypnosis_3a924a-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the July Hypnosis Add? | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_july_1981_hypnosis_3a924a-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the July Hypnosis Add?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">July Session</span>
@@ -2617,7 +2617,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9-televised-hypnosis-79a6c1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'tv-hypnosis/' | relative_url }}" title="When Television Locked In the Memory | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Open page: When Television Locked In the Memory | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_televised_hypnosis_79a6c1-Illustration-1.webp' | relative_url }}" alt="Overview image for When Television Locked In the Memory | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_televised_hypnosis_79a6c1-Illustration-1.webp' | relative_url }}" alt="Overview image for When Television Locked In the Memory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">TV Hypnosis</span>
@@ -2637,7 +2637,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-hypnosis-memory-conc-1d08e9-hypnosis-memory-scie-c2da5c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'memory-science/' | relative_url }}" title="Why Hypnosis Can Make Memories Harder | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?" aria-label="Open page: Why Hypnosis Can Make Memories Harder | Did Hypnosis Help or Complicate the Case? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_hypnosis_memory_scie_c2da5c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hypnosis Can Make Memories Harder | Cash Landrum UFO Inc Db 9 D45 Hypnosis Memory Conc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_hypnosis_memory_scie_c2da5c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hypnosis Can Make Memories Harder" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Memory Science</span>
@@ -2659,7 +2659,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'injury-cases/' | relative_url }}" title="Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Open page: Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803-overview.webp' | relative_url }}" alt="Overview image for Why Injury Claims Change a UFO Case | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803-overview.webp' | relative_url }}" alt="Overview image for Why Injury Claims Change a UFO Case" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Injury Cases</span>
@@ -2681,7 +2681,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803-helicopter-burden-pr-422021" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'burden-proof/' | relative_url }}" title="How helicopters made injury a legal problem | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Open page: How helicopters made injury a legal problem | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_helicopter_burden_pr_422021-Illustration-1.webp' | relative_url }}" alt="Overview image for How helicopters made injury a legal problem | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_helicopter_burden_pr_422021-Illustration-1.webp' | relative_url }}" alt="Overview image for How helicopters made injury a legal problem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Burden Proof</span>
@@ -2701,7 +2701,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803-medical-records-caus-9fb1ed" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'medical-cause/' | relative_url }}" title="What medical records could and could not prove | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Open page: What medical records could and could not prove | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-1.webp' | relative_url }}" alt="Overview image for What medical records could and could not prove | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_medical_records_caus_9fb1ed-Illustration-1.webp' | relative_url }}" alt="Overview image for What medical records could and could not prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Medical Cause</span>
@@ -2721,7 +2721,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803-radiation-symptom-tr-2bf212" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'symptom-trap/' | relative_url }}" title="When radiation like symptoms mislead the case | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Open page: When radiation like symptoms mislead the case | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_radiation_symptom_tr_2bf212-Illustration-1.webp' | relative_url }}" alt="Overview image for When radiation like symptoms mislead the case | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_radiation_symptom_tr_2bf212-Illustration-1.webp' | relative_url }}" alt="Overview image for When radiation like symptoms mislead the case" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Symptom Trap</span>
@@ -2741,7 +2741,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803-dia-physiological-ef-9ed47a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dia-file/' | relative_url }}" title="Why the DIA file did not settle the injury claim | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Open page: Why the DIA file did not settle the injury claim | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_dia_physiological_ef_9ed47a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the DIA file did not settle the injury claim | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_dia_physiological_ef_9ed47a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the DIA file did not settle the injury claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">DIA File</span>
@@ -2761,7 +2761,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803-missing-exposure-sit-d4eea7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'site-search/' | relative_url }}" title="Why the missing roadside site mattered | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Open page: Why the missing roadside site mattered | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_missing_exposure_sit_d4eea7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the missing roadside site mattered | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_missing_exposure_sit_d4eea7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the missing roadside site mattered" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Site Search</span>
@@ -2781,7 +2781,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-injury-based-ufo-cas-3c0803-ufo-injury-compariso-81c51b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'other-injuries/' | relative_url }}" title="Why this injury case stood apart | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?" aria-label="Open page: Why this injury case stood apart | Why Injury Claims Change a UFO Case | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_ufo_injury_compariso_81c51b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why this injury case stood apart | Cash Landrum UFO Inc Db 9 D45 Injury Based UFO Cas" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_injury_based_ufo_cas_3c0803_ufo_injury_compariso_81c51b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why this injury case stood apart" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Other Injuries</span>
@@ -2803,7 +2803,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lawsuit/' | relative_url }}" title="Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Open page: Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-overview.webp' | relative_url }}" alt="Overview image for Why Did the $20 Million Lawsuit Fail? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204-overview.webp' | relative_url }}" alt="Overview image for Why Did the $20 Million Lawsuit Fail?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lawsuit</span>
@@ -2825,7 +2825,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204-sarran-army-inquiry-cd024b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sarran-inquiry/' | relative_url }}" title="Credible Witnesses, Missing Military Proof | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Open page: Credible Witnesses, Missing Military Proof | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sarran_army_inquiry_cd024b-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible Witnesses, Missing Military Proof | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sarran_army_inquiry_cd024b-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible Witnesses, Missing Military Proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sarran Inquiry</span>
@@ -2845,7 +2845,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204-gersten-secret-proje-caac22" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'gersten-strategy/' | relative_url }}" title="Did Secret Project Claims Weaken the Case? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Open page: Did Secret Project Claims Weaken the Case? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_gersten_secret_proje_caac22-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Secret Project Claims Weaken the Case? | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_gersten_secret_proje_caac22-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Secret Project Claims Weaken the Case?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Gersten Strategy</span>
@@ -2865,7 +2865,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204-lawsuit-archive-trai-8f2952" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'case-archive/' | relative_url }}" title="How a Failed Lawsuit Left a Paper Trail | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Open page: How a Failed Lawsuit Left a Paper Trail | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_lawsuit_archive_trai_8f2952-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Failed Lawsuit Left a Paper Trail | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_lawsuit_archive_trai_8f2952-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Failed Lawsuit Left a Paper Trail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Case Archive</span>
@@ -2885,7 +2885,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204-sterling-dismissal-s-cc8546" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dismissal/' | relative_url }}" title="What the 1986 Dismissal Really Decided | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Open page: What the 1986 Dismissal Really Decided | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sterling_dismissal_s_cc8546-Illustration-1.webp' | relative_url }}" alt="Overview image for What the 1986 Dismissal Really Decided | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_sterling_dismissal_s_cc8546-Illustration-1.webp' | relative_url }}" alt="Overview image for What the 1986 Dismissal Really Decided" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Dismissal</span>
@@ -2905,7 +2905,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204-helicopter-records-g-205756" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopter-trail/' | relative_url }}" title="Where Did the Helicopter Trail Go? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Open page: Where Did the Helicopter Trail Go? | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_helicopter_records_g_205756-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Helicopter Trail Go? | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_helicopter_records_g_205756-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Helicopter Trail Go?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopter Trail</span>
@@ -2925,7 +2925,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lawsuit-dismissal-7dc204-government-control-h-d38197" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'control-test/' | relative_url }}" title="Why Government Control Became the Key Test | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?" aria-label="Open page: Why Government Control Became the Key Test | Why Did the $20 Million Lawsuit Fail? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_government_control_h_d38197-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Government Control Became the Key Test | Cash Landrum UFO Inc Db 9 D45 Lawsuit Dismissal" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lawsuit_dismissal_7dc204_government_control_h_d38197-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Government Control Became the Key Test" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Control Test</span>
@@ -2947,7 +2947,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'legal-test/' | relative_url }}" title="What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Open page: What Did the Court Actually Decide? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda-overview.webp' | relative_url }}" alt="Overview image for What Did the Court Actually Decide? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda-overview.webp' | relative_url }}" alt="Overview image for What Did the Court Actually Decide?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Legal Test</span>
@@ -2969,7 +2969,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda-helicopter-governmen-ec81c9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopter-link/' | relative_url }}" title="Could the Helicopters Prove Government Control? | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Open page: Could the Helicopters Prove Government Control? | What Did the Court Actually Decide? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_helicopter_governmen_ec81c9-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Helicopters Prove Government Control? | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_helicopter_governmen_ec81c9-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Helicopters Prove Government Control?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopter Link</span>
@@ -2989,7 +2989,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda-ftca-threshold-9d6230" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ftca-threshold/' | relative_url }}" title="The Legal Bridge the Plaintiffs Needed | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Open page: The Legal Bridge the Plaintiffs Needed | What Did the Court Actually Decide? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_ftca_threshold_9d6230-Illustration-1.webp' | relative_url }}" alt="Overview image for The Legal Bridge the Plaintiffs Needed | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_ftca_threshold_9d6230-Illustration-1.webp' | relative_url }}" alt="Overview image for The Legal Bridge the Plaintiffs Needed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">FTCA Threshold</span>
@@ -3009,7 +3009,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda-army-inquiry-no-heli-bc3561" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'army-inquiry-a223fe/' | relative_url }}" title="When the Army Found No Helicopter Trail | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Open page: When the Army Found No Helicopter Trail | What Did the Court Actually Decide? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_army_inquiry_no_heli_bc3561-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Army Found No Helicopter Trail | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_army_inquiry_no_heli_bc3561-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Army Found No Helicopter Trail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Army Inquiry</span>
@@ -3029,7 +3029,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda-discretionary-functi-7c1ecd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-barrier/' | relative_url }}" title="Why Classified Operation Arguments Came Second | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Open page: Why Classified Operation Arguments Came Second | What Did the Court Actually Decide? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_discretionary_functi_7c1ecd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Classified Operation Arguments Came Second | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_discretionary_functi_7c1ecd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Classified Operation Arguments Came Second" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Proof Barrier</span>
@@ -3049,7 +3049,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda-sworn-military-denia-677270" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'military-denials/' | relative_url }}" title="Why Sworn Denials Carried Legal Weight | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Open page: Why Sworn Denials Carried Legal Weight | What Did the Court Actually Decide? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sworn Denials Carried Legal Weight | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_sworn_military_denia_677270-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sworn Denials Carried Legal Weight" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Military Denials</span>
@@ -3069,7 +3069,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-legal-threshold-gove-01beda-court-not-identify-u-3827b3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'not-ufo-truth/' | relative_url }}" title="Why the Court Did Not Solve the UFO | What Did the Court Actually Decide? | What Really Happened Near Dayton?" aria-label="Open page: Why the Court Did Not Solve the UFO | What Did the Court Actually Decide? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_court_not_identify_u_3827b3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Court Did Not Solve the UFO | Cash Landrum UFO Inc Db 9 D45 Legal Threshold Gove" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_legal_threshold_gove_01beda_court_not_identify_u_3827b3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Court Did Not Solve the UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Not UFO Truth</span>
@@ -3091,7 +3091,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'liability/' | relative_url }}" title="Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Open page: Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d-overview.webp' | relative_url }}" alt="Overview image for Can a UFO Case Prove Government Responsibility? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d-overview.webp' | relative_url }}" alt="Overview image for Can a UFO Case Prove Government Responsibility?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Liability</span>
@@ -3113,7 +3113,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d-senator-referral-cla-20aab8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-path/' | relative_url }}" title="How a UFO Complaint Became a Legal Claim | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Open page: How a UFO Complaint Became a Legal Claim | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_senator_referral_cla_20aab8-Illustration-1.webp' | relative_url }}" alt="Overview image for How a UFO Complaint Became a Legal Claim | Cash Landrum UFO Inc Db 9 D45 Government Responsib" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_senator_referral_cla_20aab8-Illustration-1.webp' | relative_url }}" alt="Overview image for How a UFO Complaint Became a Legal Claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Claim Path</span>
@@ -3133,7 +3133,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d-federal-employee-sco-f741b0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'employee-scope/' | relative_url }}" title="The Legal Link UFO Claimants Need | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Open page: The Legal Link UFO Claimants Need | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Legal Link UFO Claimants Need | Cash Landrum UFO Inc Db 9 D45 Government Responsib" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_federal_employee_sco_f741b0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Legal Link UFO Claimants Need" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Employee Scope</span>
@@ -3153,7 +3153,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d-flight-records-proof-fa71d0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-records/' | relative_url }}" title="The Records That Could Have Changed Everything | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Open page: The Records That Could Have Changed Everything | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_flight_records_proof_fa71d0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Records That Could Have Changed Everything | Cash Landrum UFO Inc Db 9 D45 Government Responsib" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_flight_records_proof_fa71d0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Records That Could Have Changed Everything" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Flight Records</span>
@@ -3173,7 +3173,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d-military-markings-id-f6f000" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'markings-9f52a5/' | relative_url }}" title="When Military Markings Are Not Enough | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Open page: When Military Markings Are Not Enough | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-1.webp' | relative_url }}" alt="Overview image for When Military Markings Are Not Enough | Cash Landrum UFO Inc Db 9 D45 Government Responsib" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_military_markings_id_f6f000-Illustration-1.webp' | relative_url }}" alt="Overview image for When Military Markings Are Not Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Markings</span>
@@ -3193,7 +3193,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d-agency-ownership-tes-a10743" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'agency-test/' | relative_url }}" title="Who Must Own the UFO for Liability? | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Open page: Who Must Own the UFO for Liability? | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_agency_ownership_tes_a10743-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Must Own the UFO for Liability? | Cash Landrum UFO Inc Db 9 D45 Government Responsib" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_agency_ownership_tes_a10743-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Must Own the UFO for Liability?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Agency Test</span>
@@ -3213,7 +3213,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-government-responsib-77e55d-official-attention-g-d268a0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'attention-gap/' | relative_url }}" title="Why Investigation Is Not Admission | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?" aria-label="Open page: Why Investigation Is Not Admission | Can a UFO Case Prove Government Responsibility? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_official_attention_g_d268a0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Investigation Is Not Admission | Cash Landrum UFO Inc Db 9 D45 Government Responsib" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_official_attention_g_d268a0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Investigation Is Not Admission" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Attention Gap</span>
@@ -3235,7 +3235,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'location/' | relative_url }}" title="Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Open page: Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-overview.webp' | relative_url }}" alt="Overview image for Where Did the Encounter Actually Happen? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460-overview.webp' | relative_url }}" alt="Overview image for Where Did the Encounter Actually Happen?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Location</span>
@@ -3257,7 +3257,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460-beer-joint-warning-s-e504e0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'landmarks/' | relative_url }}" title="Can Landmarks Replace an Exact UFO Site? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Open page: Can Landmarks Replace an Exact UFO Site? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_beer_joint_warning_s_e504e0-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Landmarks Replace an Exact UFO Site? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_beer_joint_warning_s_e504e0-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Landmarks Replace an Exact UFO Site?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Landmarks</span>
@@ -3277,7 +3277,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460-browned-pine-trees-31c870" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'browned-trees/' | relative_url }}" title="Could Browned Pines Prove the Encounter? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Open page: Could Browned Pines Prove the Encounter? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_browned_pine_trees_31c870-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Browned Pines Prove the Encounter? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_browned_pine_trees_31c870-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Browned Pines Prove the Encounter?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Browned Trees</span>
@@ -3297,7 +3297,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460-inland-road-candidat-b0536d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'inland-road/' | relative_url }}" title="Did Inland Road Mark the Real Scene? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Open page: Did Inland Road Mark the Real Scene? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_inland_road_candidat_b0536d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Inland Road Mark the Real Scene? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_inland_road_candidat_b0536d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Inland Road Mark the Real Scene?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Inland Road</span>
@@ -3317,7 +3317,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460-fm1485-dayton-label-cd755b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'route-home/' | relative_url }}" title="Was the UFO Encounter Really Near Dayton? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Open page: Was the UFO Encounter Really Near Dayton? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_fm1485_dayton_label_cd755b-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the UFO Encounter Really Near Dayton? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_fm1485_dayton_label_cd755b-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the UFO Encounter Really Near Dayton?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Route Home</span>
@@ -3337,7 +3337,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460-road-marks-missing-p-96cc6b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'road-marks/' | relative_url }}" title="Where Are the Cash Landrum Road Marks? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Open page: Where Are the Cash Landrum Road Marks? | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_road_marks_missing_p_96cc6b-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Are the Cash Landrum Road Marks? | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_road_marks_missing_p_96cc6b-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Are the Cash Landrum Road Marks?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Road Marks</span>
@@ -3357,7 +3357,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-dayton-texas-locatio-0fc460-bergstrom-map-failur-cc8c8d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'map-failure/' | relative_url }}" title="Why the Bergstrom Map Moment Matters | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?" aria-label="Open page: Why the Bergstrom Map Moment Matters | Where Did the Encounter Actually Happen? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_bergstrom_map_failur_cc8c8d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Bergstrom Map Moment Matters | Cash Landrum UFO Inc Db 9 D45 Dayton Texas Locatio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_dayton_texas_locatio_0fc460_bergstrom_map_failur_cc8c8d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Bergstrom Map Moment Matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Map Failure</span>
@@ -3379,7 +3379,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'media/' | relative_url }}" title="How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Open page: How Did the Case Become Famous? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-overview.webp' | relative_url }}" alt="Overview image for How Did the Case Become Famous? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8-overview.webp' | relative_url }}" alt="Overview image for How Did the Case Become Famous?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Media</span>
@@ -3401,7 +3401,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8-mcdonald-corroborati-50a2e6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mc-donald-sighting/' | relative_url }}" title="Did Corroboration Get Too Neat? | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Open page: Did Corroboration Get Too Neat? | How Did the Case Become Famous? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_mcdonald_corroborati_50a2e6-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Corroboration Get Too Neat? | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_mcdonald_corroborati_50a2e6-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Corroboration Get Too Neat?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mc Donald Sighting</span>
@@ -3421,7 +3421,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8-conroe-courier-first-f52e45" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'first-coverage/' | relative_url }}" title="How Local Reporting Launched the Story | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Open page: How Local Reporting Launched the Story | How Did the Case Become Famous? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_conroe_courier_first_f52e45-Illustration-1.webp' | relative_url }}" alt="Overview image for How Local Reporting Launched the Story | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_conroe_courier_first_f52e45-Illustration-1.webp' | relative_url }}" alt="Overview image for How Local Reporting Launched the Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">First Coverage</span>
@@ -3441,7 +3441,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8-unsolved-mysteries-i-ad594e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'tv-injury-frame/' | relative_url }}" title="How Television Made Illness the Hook | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Open page: How Television Made Illness the Hook | How Did the Case Become Famous? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_unsolved_mysteries_i_ad594e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Television Made Illness the Hook | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_unsolved_mysteries_i_ad594e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Television Made Illness the Hook" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">TV Injury Frame</span>
@@ -3461,7 +3461,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8-tabloid-ufo-attack-s-3db3f2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'tabloid-phase/' | relative_url }}" title="When the Case Became a UFO Attack | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Open page: When the Case Became a UFO Attack | How Did the Case Become Famous? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_tabloid_ufo_attack_s_3db3f2-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Case Became a UFO Attack | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_tabloid_ufo_attack_s_3db3f2-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Case Became a UFO Attack" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Tabloid Phase</span>
@@ -3481,7 +3481,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8-helicopters-military-9b403e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopter-motif/' | relative_url }}" title="Why the Helicopters Changed Everything | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Open page: Why the Helicopters Changed Everything | How Did the Case Become Famous? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_helicopters_military_9b403e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Helicopters Changed Everything | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_helicopters_military_9b403e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Helicopters Changed Everything" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopter Motif</span>
@@ -3501,7 +3501,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-media-public-memory-09c7b8-lawsuit-media-engine-28f454" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lawsuit-hook/' | relative_url }}" title="Why the Lawsuit Kept the Story Alive | How Did the Case Become Famous? | What Really Happened Near Dayton?" aria-label="Open page: Why the Lawsuit Kept the Story Alive | How Did the Case Become Famous? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Lawsuit Kept the Story Alive | Cash Landrum UFO Inc Db 9 D45 Media Public Memory" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_media_public_memory_09c7b8_lawsuit_media_engine_28f454-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Lawsuit Kept the Story Alive" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lawsuit Hook</span>
@@ -3523,7 +3523,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-records/' | relative_url }}" title="Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Open page: Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9-overview.webp' | relative_url }}" alt="Overview image for Why Is the Paper Trail So Important? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9-overview.webp' | relative_url }}" alt="Overview image for Why Is the Paper Trail So Important?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Missing Records</span>
@@ -3545,7 +3545,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9-houston-radar-gap-f8779a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'radar-gap/' | relative_url }}" title="Could So Many Helicopters Miss Houston Radar? | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Open page: Could So Many Helicopters Miss Houston Radar? | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_houston_radar_gap_f8779a-Illustration-1.webp' | relative_url }}" alt="Overview image for Could So Many Helicopters Miss Houston Radar? | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_houston_radar_gap_f8779a-Illustration-1.webp' | relative_url }}" alt="Overview image for Could So Many Helicopters Miss Houston Radar?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Radar Gap</span>
@@ -3565,7 +3565,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9-bergstrom-claims-int-299c0c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bergstrom-13b253/' | relative_url }}" title="Inside the Bergstrom Claims Interview | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Open page: Inside the Bergstrom Claims Interview | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_bergstrom_claims_int_299c0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Inside the Bergstrom Claims Interview | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_bergstrom_claims_int_299c0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Inside the Bergstrom Claims Interview" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bergstrom</span>
@@ -3585,7 +3585,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9-blue-book-closure-ga-628505" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-gap-f85ab0/' | relative_url }}" title="What Happened After Blue Book Was Gone | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Open page: What Happened After Blue Book Was Gone | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_blue_book_closure_ga_628505-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happened After Blue Book Was Gone | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_blue_book_closure_ga_628505-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happened After Blue Book Was Gone" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blue Book Gap</span>
@@ -3605,7 +3605,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9-sarran-army-inquiry-96922f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sarran-inquiry-12ac45/' | relative_url }}" title="What the Army Inquiry Could Not Prove | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Open page: What the Army Inquiry Could Not Prove | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_sarran_army_inquiry_96922f-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Army Inquiry Could Not Prove | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_sarran_army_inquiry_96922f-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Army Inquiry Could Not Prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sarran Inquiry</span>
@@ -3625,7 +3625,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9-location-uncertainty-5fc1a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'location-gap/' | relative_url }}" title="Why the Exact Road Location Still Matters | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Open page: Why the Exact Road Location Still Matters | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_location_uncertainty_5fc1a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Exact Road Location Still Matters | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_location_uncertainty_5fc1a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Exact Road Location Still Matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Location Gap</span>
@@ -3645,7 +3645,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-missing-military-rec-72adb9-missing-helicopter-f-87ebcd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-logs/' | relative_url }}" title="Why the Missing Flight Logs Mattered Most | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?" aria-label="Open page: Why the Missing Flight Logs Mattered Most | Why Is the Paper Trail So Important? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_missing_helicopter_f_87ebcd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Missing Flight Logs Mattered Most | Cash Landrum UFO Inc Db 9 D45 Missing Military Rec" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_missing_military_rec_72adb9_missing_helicopter_f_87ebcd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Missing Flight Logs Mattered Most" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Flight Logs</span>
@@ -3667,7 +3667,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mufon-files/' | relative_url }}" title="What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Open page: What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-overview.webp' | relative_url }}" alt="Overview image for What Did UFO Investigators Preserve? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2-overview.webp' | relative_url }}" alt="Overview image for What Did UFO Investigators Preserve?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">MUFON Files</span>
@@ -3689,7 +3689,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2-project-visit-engine-f8a369" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'project-visit/' | relative_url }}" title="Did Project VISIT Clarify or Complicate the Case? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Open page: Did Project VISIT Clarify or Complicate the Case? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_project_visit_engine_f8a369-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Project VISIT Clarify or Complicate the Case? | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_project_visit_engine_f8a369-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Project VISIT Clarify or Complicate the Case?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Project VISIT</span>
@@ -3709,7 +3709,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2-medical-summaries-mi-46b4a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'medical-gaps/' | relative_url }}" title="How Missing Medical Records Changed the Debate | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Open page: How Missing Medical Records Changed the Debate | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_medical_summaries_mi_46b4a9-Illustration-1.webp' | relative_url }}" alt="Overview image for How Missing Medical Records Changed the Debate | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_medical_summaries_mi_46b4a9-Illustration-1.webp' | relative_url }}" alt="Overview image for How Missing Medical Records Changed the Debate" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Medical Gaps</span>
@@ -3729,7 +3729,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2-schuessler-mufon-cas-538a46" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mufon-file/' | relative_url }}" title="What the First MUFON File Really Preserved | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Open page: What the First MUFON File Really Preserved | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_schuessler_mufon_cas_538a46-Illustration-1.webp' | relative_url }}" alt="Overview image for What the First MUFON File Really Preserved | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_schuessler_mufon_cas_538a46-Illustration-1.webp' | relative_url }}" alt="Overview image for What the First MUFON File Really Preserved" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">MUFON File</span>
@@ -3749,7 +3749,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2-private-helicopter-l-f83adc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopter-leads/' | relative_url }}" title="When Helicopter Leads Became the Hardest Clue | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Open page: When Helicopter Leads Became the Hardest Clue | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-1.webp' | relative_url }}" alt="Overview image for When Helicopter Leads Became the Hardest Clue | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_private_helicopter_l_f83adc-Illustration-1.webp' | relative_url }}" alt="Overview image for When Helicopter Leads Became the Hardest Clue" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopter Leads</span>
@@ -3769,7 +3769,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2-ufo-group-record-dis-b2b770" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'record-disputes/' | relative_url }}" title="Who Controlled the Cash Landrum Record? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Open page: Who Controlled the Cash Landrum Record? | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_ufo_group_record_dis_b2b770-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Controlled the Cash Landrum Record? | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_ufo_group_record_dis_b2b770-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Controlled the Cash Landrum Record?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Record Disputes</span>
@@ -3789,7 +3789,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-mufon-records-privat-dd2db2-bergstrom-transcript-488be0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bergstrom-e09cc0/' | relative_url }}" title="Why the Bergstrom Transcript Still Matters | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?" aria-label="Open page: Why the Bergstrom Transcript Still Matters | What Did UFO Investigators Preserve? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Bergstrom Transcript Still Matters | Cash Landrum UFO Inc Db 9 D45 Mufon Records Privat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_mufon_records_privat_dd2db2_bergstrom_transcript_488be0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Bergstrom Transcript Still Matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bergstrom</span>
@@ -3811,7 +3811,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'radiation/' | relative_url }}" title="Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Open page: Were These Really Radiation Burns? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289-overview.webp' | relative_url }}" alt="Overview image for Were These Really Radiation Burns? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289-overview.webp' | relative_url }}" alt="Overview image for Were These Really Radiation Burns?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Radiation</span>
@@ -3833,7 +3833,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289-nonionising-exposure-c05bf9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'microwave-theory/' | relative_url }}" title="Could Non Ionising Exposure Fit Better? | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Open page: Could Non Ionising Exposure Fit Better? | Were These Really Radiation Burns? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_nonionising_exposure_c05bf9-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Non Ionising Exposure Fit Better? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_nonionising_exposure_c05bf9-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Non Ionising Exposure Fit Better?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Microwave Theory</span>
@@ -3853,7 +3853,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289-vomiting-timing-37f5f9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vomiting-timing/' | relative_url }}" title="Did the Sickness Start Too Soon? | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Open page: Did the Sickness Start Too Soon? | Were These Really Radiation Burns? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_vomiting_timing_37f5f9-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Sickness Start Too Soon? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_vomiting_timing_37f5f9-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Sickness Start Too Soon?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vomiting Timing</span>
@@ -3873,7 +3873,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289-missing-blood-counts-70458d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blood-counts/' | relative_url }}" title="The Medical Marker That Should Have Mattered | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Open page: The Medical Marker That Should Have Mattered | Were These Really Radiation Burns? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_missing_blood_counts_70458d-Illustration-1.webp' | relative_url }}" alt="Overview image for The Medical Marker That Should Have Mattered | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_missing_blood_counts_70458d-Illustration-1.webp' | relative_url }}" alt="Overview image for The Medical Marker That Should Have Mattered" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blood Counts</span>
@@ -3893,7 +3893,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289-skin-burn-claims-48bb7f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'skin-claims/' | relative_url }}" title="Were the Burns Really Radiation Burns? | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Open page: Were the Burns Really Radiation Burns? | Were These Really Radiation Burns? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Burns Really Radiation Burns? | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_skin_burn_claims_48bb7f-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Burns Really Radiation Burns?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Skin Claims</span>
@@ -3913,7 +3913,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289-mixed-field-framing-cd0ab7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mixed-field/' | relative_url }}" title="Why Later Analysts Broadened the Exposure Theory | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Open page: Why Later Analysts Broadened the Exposure Theory | Were These Really Radiation Burns? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_mixed_field_framing_cd0ab7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Later Analysts Broadened the Exposure Theory | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_mixed_field_framing_cd0ab7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Later Analysts Broadened the Exposure Theory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mixed Field</span>
@@ -3933,7 +3933,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-radiation-claims-alt-f78289-roadside-radiation-s-3dedca" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'road-survey/' | relative_url }}" title="Why the Roadside Survey Did Not Settle It | Were These Really Radiation Burns? | What Really Happened Near Dayton?" aria-label="Open page: Why the Roadside Survey Did Not Settle It | Were These Really Radiation Burns? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_roadside_radiation_s_3dedca-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Roadside Survey Did Not Settle It | Cash Landrum UFO Inc Db 9 D45 Radiation Claims Alt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_radiation_claims_alt_f78289_roadside_radiation_s_3dedca-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Roadside Survey Did Not Settle It" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Road Survey</span>
@@ -3955,7 +3955,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'the-object/' | relative_url }}" title="What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Open page: What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622-overview.webp' | relative_url }}" alt="Overview image for What Could the Diamond Shaped Object Have Been? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622-overview.webp' | relative_url }}" alt="Overview image for What Could the Diamond Shaped Object Have Been?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">The Object</span>
@@ -3977,7 +3977,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622-secret-craft-vtol-ff5888" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'secret-craft/' | relative_url }}" title="Could it have been a secret aircraft? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Open page: Could it have been a secret aircraft? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_secret_craft_vtol_ff5888-Illustration-1.webp' | relative_url }}" alt="Overview image for Could it have been a secret aircraft? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_secret_craft_vtol_ff5888-Illustration-1.webp' | relative_url }}" alt="Overview image for Could it have been a secret aircraft?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Secret Craft</span>
@@ -3997,7 +3997,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622-glare-shape-percepti-23ca5a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'glare-shape/' | relative_url }}" title="Did glare turn light into a diamond? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Open page: Did glare turn light into a diamond? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_glare_shape_percepti_23ca5a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did glare turn light into a diamond? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_glare_shape_percepti_23ca5a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did glare turn light into a diamond?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Glare Shape</span>
@@ -4017,7 +4017,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622-helicopter-escort-pr-2ef9e1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'escort-problem/' | relative_url }}" title="Did helicopters explain or deepen the mystery? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Open page: Did helicopters explain or deepen the mystery? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_helicopter_escort_pr_2ef9e1-Illustration-1.webp' | relative_url }}" alt="Overview image for Did helicopters explain or deepen the mystery? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_helicopter_escort_pr_2ef9e1-Illustration-1.webp' | relative_url }}" alt="Overview image for Did helicopters explain or deepen the mystery?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Escort Problem</span>
@@ -4037,7 +4037,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622-size-distance-uncert-f1e2d9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'size-claims/' | relative_url }}" title="How big was the diamond object? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Open page: How big was the diamond object? | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_size_distance_uncert_f1e2d9-Illustration-1.webp' | relative_url }}" alt="Overview image for How big was the diamond object? | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_size_distance_uncert_f1e2d9-Illustration-1.webp' | relative_url }}" alt="Overview image for How big was the diamond object?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Size Claims</span>
@@ -4057,7 +4057,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622-project-pluto-mismat-0cfd34" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pluto-rumor/' | relative_url }}" title="Why Project Pluto is a poor fit | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Open page: Why Project Pluto is a poor fit | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_project_pluto_mismat_0cfd34-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Project Pluto is a poor fit | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_project_pluto_mismat_0cfd34-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Project Pluto is a poor fit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pluto Rumor</span>
@@ -4077,7 +4077,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-diamond-object-expla-7bd622-downward-flame-clue-c54a8f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'downward-fire/' | relative_url }}" title="Why the flame matters more than the shape | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?" aria-label="Open page: Why the flame matters more than the shape | What Could the Diamond Shaped Object Have Been? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_downward_flame_clue_c54a8f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the flame matters more than the shape | Cash Landrum UFO Inc Db 9 D45 Diamond Object Expla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_diamond_object_expla_7bd622_downward_flame_clue_c54a8f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the flame matters more than the shape" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Downward Fire</span>
@@ -4099,7 +4099,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'timeline/' | relative_url }}" title="How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Open page: How Did the Night Unfold? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-overview.webp' | relative_url }}" alt="Overview image for How Did the Night Unfold? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0-overview.webp' | relative_url }}" alt="Overview image for How Did the Night Unfold?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Timeline</span>
@@ -4121,7 +4121,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0-nine-pm-time-window-29a8fd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'time-window/' | relative_url }}" title="Can the 9 p.m. Timeline Fit? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Open page: Can the 9 p.m. Timeline Fit? | How Did the Night Unfold? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_nine_pm_time_window_29a8fd-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the 9 p.m. Timeline Fit? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_nine_pm_time_window_29a8fd-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the 9 p.m. Timeline Fit?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Time Window</span>
@@ -4141,7 +4141,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0-mcdonald-timing-mism-aec97d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mc-donald/' | relative_url }}" title="Did Another Sighting Fit the Same Night? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Open page: Did Another Sighting Fit the Same Night? | How Did the Night Unfold? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_mcdonald_timing_mism_aec97d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Another Sighting Fit the Same Night? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_mcdonald_timing_mism_aec97d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Another Sighting Fit the Same Night?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mc Donald</span>
@@ -4161,7 +4161,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0-dayton-after-drive-3b88ff" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dayton-drive/' | relative_url }}" title="What Happened After They Drove On? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Open page: What Happened After They Drove On? | How Did the Night Unfold? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_dayton_after_drive_3b88ff-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happened After They Drove On? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_dayton_after_drive_3b88ff-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happened After They Drove On?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Dayton Drive</span>
@@ -4181,7 +4181,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0-fm1485-location-disp-5cdb3b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'fm-1485/' | relative_url }}" title="Where Did the Roadside Stop Happen? | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Open page: Where Did the Roadside Stop Happen? | How Did the Night Unfold? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_fm1485_location_disp_5cdb3b-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Roadside Stop Happen? | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_fm1485_location_disp_5cdb3b-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Roadside Stop Happen?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">FM 1485</span>
@@ -4201,7 +4201,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0-bingo-truck-stop-tim-4a6ae4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bingo-route/' | relative_url }}" title="Why the Night Began With Bingo | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Open page: Why the Night Began With Bingo | How Did the Night Unfold? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_bingo_truck_stop_tim_4a6ae4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Night Began With Bingo | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_bingo_truck_stop_tim_4a6ae4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Night Began With Bingo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bingo Route</span>
@@ -4221,7 +4221,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-december-1980-timeli-4476b0-timeline-record-gap-ea5da2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'record-gap/' | relative_url }}" title="Why the Timeline Still Has Gaps | How Did the Night Unfold? | What Really Happened Near Dayton?" aria-label="Open page: Why the Timeline Still Has Gaps | How Did the Night Unfold? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_timeline_record_gap_ea5da2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Timeline Still Has Gaps | Cash Landrum UFO Inc Db 9 D45 December 1980 Timeli" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_december_1980_timeli_4476b0_timeline_record_gap_ea5da2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Timeline Still Has Gaps" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Record Gap</span>
@@ -4243,7 +4243,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vickie-landrum/' | relative_url }}" title="What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Open page: What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007-overview.webp' | relative_url }}" alt="Overview image for What Did Vickie Landrum Say She Saw? | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007-overview.webp' | relative_url }}" alt="Overview image for What Did Vickie Landrum Say She Saw?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vickie Landrum</span>
@@ -4265,7 +4265,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007-dashboard-handprints-2a2625" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dashboard/' | relative_url }}" title="Did Heat Really Mark the Dashboard? | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Open page: Did Heat Really Mark the Dashboard? | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Heat Really Mark the Dashboard? | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_dashboard_handprints_2a2625-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Heat Really Mark the Dashboard?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Dashboard</span>
@@ -4285,7 +4285,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007-diamond-object-descr-fc20e7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'shape-shift/' | relative_url }}" title="How the Object Became a Diamond | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Open page: How the Object Became a Diamond | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-1.webp' | relative_url }}" alt="Overview image for How the Object Became a Diamond | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_diamond_object_descr_fc20e7-Illustration-1.webp' | relative_url }}" alt="Overview image for How the Object Became a Diamond" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Shape Shift</span>
@@ -4305,7 +4305,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007-vickie-injury-claims-bfb688" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'injuries-97a55f/' | relative_url }}" title="What Vickie Said Happened to Her Body | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Open page: What Vickie Said Happened to Her Body | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_injury_claims_bfb688-Illustration-1.webp' | relative_url }}" alt="Overview image for What Vickie Said Happened to Her Body | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_injury_claims_bfb688-Illustration-1.webp' | relative_url }}" alt="Overview image for What Vickie Said Happened to Her Body" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Injuries</span>
@@ -4325,7 +4325,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007-helicopters-governme-e34ad9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'helicopters-4aac34/' | relative_url }}" title="Why the Helicopters Pointed to Government Blame | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Open page: Why the Helicopters Pointed to Government Blame | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_helicopters_governme_e34ad9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Helicopters Pointed to Government Blame | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_helicopters_governme_e34ad9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Helicopters Pointed to Government Blame" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Helicopters</span>
@@ -4345,7 +4345,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007-vickie-jesus-comment-c51e99" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'jesus-comment/' | relative_url }}" title="Why Vickie Thought the World Might End | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Open page: Why Vickie Thought the World Might End | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_jesus_comment_c51e99-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vickie Thought the World Might End | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_jesus_comment_c51e99-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vickie Thought the World Might End" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Jesus Comment</span>
@@ -4365,7 +4365,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-vickie-landrum-accou-231007-vickie-stop-car-colb-a40938" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'stop-moment/' | relative_url }}" title="Why Vickie Told Betty Cash to Stop | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?" aria-label="Open page: Why Vickie Told Betty Cash to Stop | What Did Vickie Landrum Say She Saw? | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_stop_car_colb_a40938-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vickie Told Betty Cash to Stop | Cash Landrum UFO Inc Db 9 D45 Vickie Landrum Accou" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_vickie_stop_car_colb_a40938-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vickie Told Betty Cash to Stop" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Stop Moment</span>
@@ -4387,7 +4387,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'walker-report/' | relative_url }}" title="Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Open page: Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa-overview.webp' | relative_url }}" alt="Overview image for Why the Walker Helicopter Report Matters | Cash Landrum UFO Inc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa-overview.webp' | relative_url }}" alt="Overview image for Why the Walker Helicopter Report Matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Walker Report</span>
@@ -4409,7 +4409,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa-sarran-credibility-l-f9ddde" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sarran-finding/' | relative_url }}" title="Credible Witnesses, Missing Military Records | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Open page: Credible Witnesses, Missing Military Records | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_sarran_credibility_l_f9ddde-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible Witnesses, Missing Military Records | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_sarran_credibility_l_f9ddde-Illustration-1.webp' | relative_url }}" alt="Overview image for Credible Witnesses, Missing Military Records" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sarran Finding</span>
@@ -4429,7 +4429,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa-chinook-type-identif-8cf7cc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'chinook-type/' | relative_url }}" title="Were the Walkers Really Seeing Chinooks? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Open page: Were the Walkers Really Seeing Chinooks? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_chinook_type_identif_8cf7cc-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Walkers Really Seeing Chinooks? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_chinook_type_identif_8cf7cc-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Walkers Really Seeing Chinooks?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Chinook Type</span>
@@ -4449,7 +4449,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa-walker-partial-corro-16933b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'partial-proof/' | relative_url }}" title="What Walker's Report Actually Proves | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Open page: What Walker's Report Actually Proves | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Walker&#x27;s Report Actually Proves | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_partial_corro_16933b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Walker's Report Actually Proves" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Partial Proof</span>
@@ -4469,7 +4469,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa-walker-route-timing-3ce6dc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'route-timing/' | relative_url }}" title="Where Did the Walkers See the Helicopters? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Open page: Where Did the Walkers See the Helicopters? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_route_timing_3ce6dc-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Walkers See the Helicopters? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_route_timing_3ce6dc-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Walkers See the Helicopters?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Route Timing</span>
@@ -4489,7 +4489,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa-walker-searchlight-b-c17165" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'searchlights/' | relative_url }}" title="Why Did Walker Think Something Had Crashed? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Open page: Why Did Walker Think Something Had Crashed? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Walker Think Something Had Crashed? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_walker_searchlight_b_c17165-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Walker Think Something Had Crashed?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Searchlights</span>
@@ -4509,7 +4509,7 @@ site_image_description: A dark rural Texas road with a stopped car, three witnes
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-cash-landrum-ufo-inc-db9d45-lamar-walker-helicop-fa90aa-helicopter-count-dis-c9284f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'count-dispute/' | relative_url }}" title="Why Do the Helicopter Counts Differ? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?" aria-label="Open page: Why Do the Helicopter Counts Differ? | Why the Walker Helicopter Report Matters | What Really Happened Near Dayton?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_helicopter_count_dis_c9284f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Do the Helicopter Counts Differ? | Cash Landrum UFO Inc Db 9 D45 Lamar Walker Helicop" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/cash_landrum_ufo_inc_db9d45_lamar_walker_helicop_fa90aa_helicopter_count_dis_c9284f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Do the Helicopter Counts Differ?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Count Dispute</span>
