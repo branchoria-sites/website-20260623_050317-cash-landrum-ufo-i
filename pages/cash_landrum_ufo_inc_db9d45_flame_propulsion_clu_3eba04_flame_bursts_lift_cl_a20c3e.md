@@ -272,6 +272,7 @@ next_link:
   short_title: Night Glare
   heading_title: Could Glare Turn Light Into Fire?
 date: '2026-06-23 04:12:20 '
+last_modified_at: '2026-06-23 04:12:20 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_flame_bursts_lift_cl_a20c3e-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_flame_bursts_lift_cl_a20c3e-Illustration-1.webp

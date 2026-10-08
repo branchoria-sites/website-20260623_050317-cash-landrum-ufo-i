@@ -440,6 +440,7 @@ next_link:
   short_title: Injury Cases
   heading_title: Why Injury Claims Change a UFO Case
 date: '2026-06-23 02:58:07 '
+last_modified_at: '2026-06-23 02:58:07 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-overview-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9-overview.webp

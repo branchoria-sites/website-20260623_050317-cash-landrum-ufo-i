@@ -272,6 +272,7 @@ next_link:
   short_title: July Session
   heading_title: What Did the July Hypnosis Add?
 date: '2026-06-23 03:12:20 '
+last_modified_at: '2026-06-23 03:12:20 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_fuel_smell_theory_ed7597-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_fuel_smell_theory_ed7597-Illustration-1.webp

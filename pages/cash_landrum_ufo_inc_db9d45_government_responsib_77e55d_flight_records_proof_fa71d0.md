@@ -272,6 +272,7 @@ next_link:
   short_title: Markings
   heading_title: When Military Markings Are Not Enough
 date: '2026-06-23 04:17:56 '
+last_modified_at: '2026-06-23 04:17:56 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_flight_records_proof_fa71d0-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_government_responsib_77e55d_flight_records_proof_fa71d0-Illustration-1.webp

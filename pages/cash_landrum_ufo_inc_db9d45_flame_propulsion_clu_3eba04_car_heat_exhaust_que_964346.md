@@ -266,6 +266,7 @@ next_link:
   short_title: Lift Clue
   heading_title: Did the Flames Make the Object Rise?
 date: '2026-06-23 04:12:17 '
+last_modified_at: '2026-06-23 04:12:17 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_car_heat_exhaust_que_964346-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_flame_propulsion_clu_3eba04_car_heat_exhaust_que_964346-Illustration-1.webp

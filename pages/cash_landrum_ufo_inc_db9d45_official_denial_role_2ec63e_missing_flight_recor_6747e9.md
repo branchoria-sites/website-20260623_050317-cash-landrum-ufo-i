@@ -272,6 +272,7 @@ next_link:
   short_title: Unanswered Night
   heading_title: Why Denial Did Not End the Mystery
 date: '2026-06-23 04:49:35 '
+last_modified_at: '2026-06-23 04:49:35 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_missing_flight_recor_6747e9-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_missing_flight_recor_6747e9-Illustration-1.webp

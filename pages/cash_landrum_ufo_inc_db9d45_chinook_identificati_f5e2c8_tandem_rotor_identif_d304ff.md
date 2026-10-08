@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 14:05:14'
+last_modified_at: '2026-06-22 14:05:14'
 parent_title: How Reliable Was the Chinook Identification?
 parent_permalink: /chinooks/
 parent_nav_short_title: Chinooks

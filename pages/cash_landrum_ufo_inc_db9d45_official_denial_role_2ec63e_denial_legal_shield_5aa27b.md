@@ -272,6 +272,7 @@ next_link:
   short_title: Missing Records
   heading_title: Where Were the Flight Records?
 date: '2026-06-23 03:40:05 '
+last_modified_at: '2026-06-23 03:40:05 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_legal_shield_5aa27b-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_official_denial_role_2ec63e_denial_legal_shield_5aa27b-Illustration-1.webp

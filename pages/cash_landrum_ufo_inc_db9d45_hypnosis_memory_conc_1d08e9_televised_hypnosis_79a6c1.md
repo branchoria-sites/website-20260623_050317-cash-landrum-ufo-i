@@ -266,6 +266,7 @@ prev_link:
   short_title: Sprinkle
   heading_title: Was Sprinkle a Neutral Memory Interviewer?
 date: '2026-06-23 03:25:18 '
+last_modified_at: '2026-06-23 03:25:18 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_televised_hypnosis_79a6c1-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_televised_hypnosis_79a6c1-Illustration-1.webp

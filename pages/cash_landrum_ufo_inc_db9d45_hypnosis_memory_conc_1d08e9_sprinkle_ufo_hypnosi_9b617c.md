@@ -272,6 +272,7 @@ next_link:
   short_title: TV Hypnosis
   heading_title: When Television Locked In the Memory
 date: '2026-06-23 04:31:33 '
+last_modified_at: '2026-06-23 04:31:33 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_hypnosis_memory_conc_1d08e9_sprinkle_ufo_hypnosi_9b617c-Illustration-1.webp

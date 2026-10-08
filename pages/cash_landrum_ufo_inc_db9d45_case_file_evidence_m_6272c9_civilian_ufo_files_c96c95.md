@@ -266,6 +266,7 @@ next_link:
   short_title: Hospital Records
   heading_title: The Medical File Before the Myth
 date: '2026-06-23 03:19:45 '
+last_modified_at: '2026-06-23 03:19:45 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_civilian_ufo_files_c96c95-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_case_file_evidence_m_6272c9_civilian_ufo_files_c96c95-Illustration-1.webp

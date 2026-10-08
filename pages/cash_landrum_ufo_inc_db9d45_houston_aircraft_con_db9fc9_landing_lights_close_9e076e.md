@@ -272,6 +272,7 @@ next_link:
   short_title: Night Illusions
   heading_title: How a Light Can Move Without Moving
 date: '2026-06-23 04:29:42 '
+last_modified_at: '2026-06-23 04:29:42 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_landing_lights_close_9e076e-Illustration-1-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9_landing_lights_close_9e076e-Illustration-1.webp

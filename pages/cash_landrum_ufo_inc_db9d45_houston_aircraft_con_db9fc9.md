@@ -434,6 +434,7 @@ next_link:
   short_title: Army Inquiry
   heading_title: What Did the Army Investigation Find?
 date: '2026-06-23 02:56:37 '
+last_modified_at: '2026-06-23 02:56:37 '
 header:
   og_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-overview-social.jpg
   preview_image: /assets/images/cash_landrum_ufo_inc_db9d45_houston_aircraft_con_db9fc9-overview.webp

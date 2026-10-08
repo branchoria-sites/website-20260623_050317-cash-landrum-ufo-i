@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 11:57:33'
+last_modified_at: '2026-06-22 11:57:33'
 parent_title: How Should Colby's Account Be Weighed?
 parent_permalink: /colby/
 parent_nav_short_title: Colby
